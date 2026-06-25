@@ -1,0 +1,32 @@
+{
+  "id": "neujahr",
+  "name": "Neujahr (Beschneidung des Herrn)",
+  "season": "weihnachten",
+  "color": "white",
+  "rank": "fest",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 2,21",
+      "stable": true,
+      "text": "Und da acht Tage um waren, daß das Kind beschnitten würde, da ward sein Name genannt Jesus, welcher genannt war von dem Engel, ehe denn er in Mutterleibe empfangen ward.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Gal 3,23-29",
+      "text": "Ehe denn aber der Glaube kam, wurden wir unter dem Gesetz verwahrt und verschlossen auf den Glauben, der da sollte offenbart werden. Also ist das Gesetz unser Zuchtmeister gewesen auf Christum, daß wir durch den Glauben gerecht würden. Nun aber der Glaube gekommen ist, sind wir nicht mehr unter dem Zuchtmeister. Denn ihr seid alle Gottes Kinder durch den Glauben an Christum Jesum. Denn wieviel euer auf Christum getauft sind, die haben Christum angezogen. Hier ist kein Jude noch Grieche, hier ist kein Knecht noch Freier, hier ist kein Mann noch Weib; denn ihr seid allzumal einer in Christo Jesu. Seid ihr aber Christi, so seid ihr ja Abrahams Same und nach der Verheißung Erben.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 8",
+      "text": "Ein Psalm Davids, vorzusingen, auf der Gittith. HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen, du, den man lobt im Himmel! Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, daß du vertilgest den Feind und den Rachgierigen. Wenn ich sehe die Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast: was ist der Mensch, daß du seiner gedenkst, und des Menschenkind, daß du sich seiner annimmst? Du hast ihn wenig niedriger gemacht denn Gott, und mit Ehre und Schmuck hast du ihn gekrönt. Du hast ihn zum Herrn gemacht über deiner Hände Werk; alles hast du unter seine Füße getan: Schafe und Ochsen allzumal, dazu auch die wilden Tiere, die Vögel unter dem Himmel und die Fische im Meer und was im Meer geht. HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

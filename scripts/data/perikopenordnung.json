@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "source": "Historische Eisenacher Perikopenordnung (1896)",
+    "note": "PRÜFPFLICHT: Alle Referenzen gegen eine primäre Quelle (z. B. historische Agende der SELK oder ELKiD) verifizieren, bevor Inhalte publiziert werden.",
+    "scope": "Advent–Epiphanias (MVP-Segment)",
+    "cycle": "Einjährig (keine Jahreszyklus-Variante)"
+  },
+  "days": [
+    {
+      "id": "advent-1",
+      "name": "1. Sonntag im Advent",
+      "season": "advent",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 21,1-9",   "stable": true },
+        "epistle": { "ref": "Röm 13,11-14" },
+        "psalm":   { "ref": "Ps 24" }
+      }
+    },
+    {
+      "id": "advent-2",
+      "name": "2. Sonntag im Advent",
+      "season": "advent",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 21,25-36",  "stable": true },
+        "epistle": { "ref": "Röm 15,4-13" },
+        "psalm":   { "ref": "Ps 80" }
+      }
+    },
+    {
+      "id": "advent-3",
+      "name": "3. Sonntag im Advent",
+      "season": "advent",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 11,2-10",  "stable": true },
+        "epistle": { "ref": "1Kor 4,1-5" },
+        "psalm":   { "ref": "Ps 85" }
+      }
+    },
+    {
+      "id": "advent-4",
+      "name": "4. Sonntag im Advent",
+      "season": "advent",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 1,19-28",   "stable": true },
+        "epistle": { "ref": "Phil 4,4-7" },
+        "psalm":   { "ref": "Ps 19" }
+      }
+    },
+    {
+      "id": "christfest-1",
+      "name": "Christfest (1. Weihnachtstag)",
+      "season": "weihnachten",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Lk 2,1-14",     "stable": true },
+        "epistle": { "ref": "Tit 2,11-14" },
+        "psalm":   { "ref": "Ps 2" }
+      }
+    },
+    {
+      "id": "christfest-2",
+      "name": "2. Weihnachtstag (Stephanus)",
+      "season": "weihnachten",
+      "color": "red",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Lk 2,15-20",    "stable": true },
+        "epistle": { "ref": "Apg 6,8-14; 7,54-60" },
+        "psalm":   { "ref": "Ps 13" }
+      }
+    },
+    {
+      "id": "sonntag-nach-weihnachten",
+      "name": "Sonntag nach Weihnachten",
+      "season": "weihnachten",
+      "color": "white",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 2,33-40",    "stable": true },
+        "epistle": { "ref": "Gal 4,4-7" },
+        "psalm":   { "ref": "Ps 111" }
+      }
+    },
+    {
+      "id": "neujahr",
+      "name": "Neujahr (Beschneidung des Herrn)",
+      "season": "weihnachten",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Lk 2,21",       "stable": true },
+        "epistle": { "ref": "Gal 3,23-29" },
+        "psalm":   { "ref": "Ps 8" }
+      }
+    },
+    {
+      "id": "epiphanias",
+      "name": "Epiphanias",
+      "season": "epiphanias",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Matt 2,1-12",   "stable": true },
+        "epistle": { "ref": "Eph 3,1-12" },
+        "psalm":   { "ref": "Ps 72" }
+      }
+    },
+    {
+      "id": "epiphanias-1",
+      "name": "1. Sonntag nach Epiphanias",
+      "season": "epiphanias",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 2,41-52",    "stable": true },
+        "epistle": { "ref": "Röm 12,1-5" },
+        "psalm":   { "ref": "Ps 84" }
+      }
+    },
+    {
+      "id": "epiphanias-2",
+      "name": "2. Sonntag nach Epiphanias",
+      "season": "epiphanias",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 2,1-11",    "stable": true },
+        "epistle": { "ref": "Röm 12,6-16" },
+        "psalm":   { "ref": "Ps 36" }
+      }
+    },
+    {
+      "id": "epiphanias-3",
+      "name": "3. Sonntag nach Epiphanias",
+      "season": "epiphanias",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 8,1-13",   "stable": true },
+        "epistle": { "ref": "Röm 12,17-21" },
+        "psalm":   { "ref": "Ps 107" }
+      }
+    }
+  ]
+}

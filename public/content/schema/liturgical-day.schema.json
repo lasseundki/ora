@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Liturgischer Tag",
+  "type": "object",
+  "required": ["id", "name", "season", "color", "rank", "readings", "lang"],
+  "properties": {
+    "id": { "type": "string", "description": "z. B. advent-2" },
+    "name": { "type": "string" },
+    "season": { "enum": ["advent","weihnachten","epiphanias","vorfasten","passion","ostern","pfingsten","trinitatis"] },
+    "color": { "enum": ["violet","white","green","red","black"] },
+    "rank": { "enum": ["fest","sonntag","wochentag"] },
+    "readings": {
+      "type": "object",
+      "required": ["gospel"],
+      "properties": {
+        "gospel":  { "$ref": "#/$defs/reading" },
+        "epistle": { "$ref": "#/$defs/reading" },
+        "ot":      { "$ref": "#/$defs/reading" },
+        "psalm":   { "$ref": "#/$defs/reading" }
+      }
+    },
+    "devotion": { "$ref": "#/$defs/sourced" },
+    "hymn": {
+      "allOf": [{ "$ref": "#/$defs/provenance" }],
+      "type": "object",
+      "properties": {
+        "title":   { "type": "string" },
+        "author":  { "type": "string" },
+        "stanzas": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "collect": { "$ref": "#/$defs/sourced" },
+    "catechism_segment": {
+      "type": "object",
+      "properties": {
+        "part": { "type": "string" },
+        "text": { "type": "string" }
+      }
+    },
+    "lang": { "type": "string", "minLength": 2, "maxLength": 5 }
+  },
+  "$defs": {
+    "reading": {
+      "type": "object",
+      "required": ["ref"],
+      "properties": {
+        "ref":        { "type": "string" },
+        "text":       { "type": "string" },
+        "stable":     { "type": "boolean" },
+        "cycle_year": { "type": "integer" }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source", "public_domain"],
+      "properties": {
+        "author":       { "type": "string" },
+        "source":       { "type": "string" },
+        "year":         { "type": "integer" },
+        "license":      { "type": "string" },
+        "public_domain": { "type": "boolean" },
+        "cycle_year":   { "type": "integer" }
+      }
+    },
+    "sourced": {
+      "type": "object",
+      "required": ["text", "source", "public_domain"],
+      "properties": {
+        "text":          { "type": "string" },
+        "author":        { "type": "string" },
+        "source":        { "type": "string" },
+        "year":          { "type": "integer" },
+        "license":       { "type": "string" },
+        "public_domain": { "type": "boolean" },
+        "cycle_year":    { "type": "integer" }
+      }
+    }
+  }
+}

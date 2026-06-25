@@ -1,0 +1,32 @@
+{
+  "id": "christfest-1",
+  "name": "Christfest (1. Weihnachtstag)",
+  "season": "weihnachten",
+  "color": "white",
+  "rank": "fest",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 2,1-14",
+      "stable": true,
+      "text": "Es begab sich aber zu der Zeit, daß ein Gebot von dem Kaiser Augustus ausging, daß alle Welt geschätzt würde. Und diese Schätzung war die allererste und geschah zu der Zeit, da Cyrenius Landpfleger von Syrien war. Und jedermann ging, daß er sich schätzen ließe, ein jeglicher in seine Stadt. Da machte sich auch auf Joseph aus Galiläa, aus der Stadt Nazareth, in das jüdische Land zur Stadt Davids, die da heißt Bethlehem, darum daß er von dem Hause und Geschlechte Davids war, auf daß er sich schätzen ließe mit Maria, seinem vertrauten Weibe, die ward schwanger. Und als sie daselbst waren, kam die Zeit, da sie gebären sollte. Und sie gebar ihren ersten Sohn und wickelte ihn in Windeln und legte ihn in eine Krippe; denn sie hatten sonst keinen Raum in der Herberge. Und es waren Hirten in derselben Gegend auf dem Felde bei den Hürden, die hüteten des Nachts ihre Herde. Und siehe, des HERRN Engel trat zu ihnen, und die Klarheit des HERRN leuchtete um sie; und sie fürchteten sich sehr. Und der Engel sprach zu ihnen: Fürchtet euch nicht! siehe, ich verkündige euch große Freude, die allem Volk widerfahren wird; denn euch ist heute der Heiland geboren, welcher ist Christus, der HERR, in der Stadt Davids. Und das habt zum Zeichen: ihr werdet finden das Kind in Windeln gewickelt und in einer Krippe liegen. Und alsbald war da bei dem Engel die Menge der himmlischen Heerscharen, die lobten Gott und sprachen:",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Tit 2,11-14",
+      "text": "Denn es ist erschienen die heilsame Gnade Gottes allen Menschen und züchtigt uns, daß wir sollen verleugnen das ungöttliche Wesen und die weltlichen Lüste, und züchtig, gerecht und gottselig leben in dieser Welt und warten auf die selige Hoffnung und Erscheinung der Herrlichkeit des großen Gottes und unsers Heilandes, Jesu Christi, der sich selbst für uns gegeben hat, auf daß er uns erlöste von aller Ungerechtigkeit und reinigte sich selbst ein Volk zum Eigentum, das fleißig wäre zu guten Werken.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 2",
+      "text": "Warum toben die Heiden, und die Völker reden so vergeblich? Die Könige der Erde lehnen sich auf, und die Herren ratschlagen miteinander wider den HERRN und seinen Gesalbten: \"Lasset uns zerreißen ihre Bande und von uns werfen ihre Seile!\" Aber der im Himmel wohnt, lacht ihrer, und der HERR spottet ihrer. Er wird einst mit ihnen reden in seinem Zorn, und mit seinem Grimm wird er sie schrecken. \"Aber ich habe meinen König eingesetzt auf meinem heiligen Berg Zion.\" Ich will von der Weisheit predigen, daß der HERR zu mir gesagt hat: \"Du bist mein Sohn, heute habe ich dich gezeuget: heische von mir, so will ich dir Heiden zum Erbe geben und der Welt Enden zum Eigentum. Du sollst sie mit einem eisernen Zepter zerschlagen; wie Töpfe sollst du sie zerschmeißen.\" So lasset euch nun weisen, ihr Könige, und lasset euch züchtigen, ihr Richter auf Erden! Dient dem HERRN mit Furcht und freut euch mit Zittern! Küßt den Sohn, daß er nicht zürne und ihr umkommt auf dem Wege; denn sein Zorn wird bald entbrennen. Aber wohl allen, die auf ihn trauen!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

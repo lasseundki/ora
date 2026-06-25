@@ -1,0 +1,32 @@
+{
+  "id": "christfest-2",
+  "name": "2. Weihnachtstag (Stephanus)",
+  "season": "weihnachten",
+  "color": "red",
+  "rank": "fest",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 2,15-20",
+      "stable": true,
+      "text": "Und da die Engel von ihnen gen Himmel fuhren, sprachen die Hirten untereinander: Laßt uns nun gehen gen Bethlehem und die Geschichte sehen, die da geschehen ist, die uns der HERR kundgetan hat. Und sie kamen eilend und fanden beide, Maria und Joseph, dazu das Kind in der Krippe liegen. Da sie es aber gesehen hatten, breiteten sie das Wort aus, welches zu ihnen von diesem Kinde gesagt war. Und alle, vor die es kam, wunderten sich der Rede, die ihnen die Hirten gesagt hatten. Maria aber behielt alle diese Worte und bewegte sie in ihrem Herzen. Und die Hirten kehrten wieder um, priesen und lobten Gott um alles, was sie gehört und gesehen hatten, wie denn zu ihnen gesagt war.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Apg 6,8-14; 7,54-60",
+      "text": "Stephanus aber, voll Glaubens und Kräfte, tat Wunder und große Zeichen unter dem Volk. Da standen etliche auf von der Schule, die da heißt der Libertiner und der Kyrener und der Alexanderer, und derer, die aus Zilizien und Asien waren, und befragten sich mit Stephanus. Und sie vermochten nicht, zu widerstehen der Weisheit und dem Geiste, aus welchem er redete. Da richteten sie zu etliche Männer, die sprachen: Wir haben ihn gehört Lästerworte reden wider Mose und wider Gott. Und sie bewegten das Volk und die Ältesten und die Schriftgelehrten und traten herzu und rissen ihn hin und führten ihn vor den Rat und stellten falsche Zeugen dar, die sprachen: Dieser Mensch hört nicht auf, zu reden Lästerworte wider diese heilige Stätte und das Gesetz. Denn wir haben ihn hören sagen: Jesus von Nazareth wird diese Stätte zerstören und ändern die Sitten, die uns Mose gegeben hat.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 13",
+      "text": "Ein Psalm Davids, vorzusingen. HERR, wie lange willst du mein so gar vergessen? Wie lange verbirgst du dein Antlitz vor mir? Wie lange soll ich sorgen in meiner Seele und mich ängsten in meinem Herzen täglich? Wie lange soll sich mein Feind über mich erheben? Schaue doch und erhöre mich, HERR, mein Gott! Erleuchte meine Augen, daß ich nicht dem Tode entschlafe, daß nicht mein Feind rühme, er sei mein mächtig geworden, und meine Widersacher sich nicht freuen, daß ich niederlage. Ich hoffe aber darauf, daß du so gnädig bist; mein Herz freut sich, daß du so gerne hilfst. Ich will dem HERRN singen, daß er so wohl an mir tut.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sonntag-nach-weihnachten",
+  "name": "Sonntag nach Weihnachten",
+  "season": "weihnachten",
+  "color": "white",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 2,33-40",
+      "stable": true,
+      "text": "Und sein Vater und seine Mutter wunderten sich des, das von ihm geredet ward. Und Simeon segnete sie und sprach zu Maria, seiner Mutter: Siehe, dieser wird gesetzt zu einem Fall und Auferstehen vieler in Israel und zu einem Zeichen, dem widersprochen wird (und es wird ein Schwert durch deine Seele dringen), auf daß vieler Herzen Gedanken offenbar werden. Und es war eine Prophetin, Hanna, eine Tochter Phanuels, vom Geschlecht Asser; die war wohl betagt und hatte gelebt sieben Jahre mit ihrem Manne nach ihrer Jungfrauschaft und war nun eine Witwe bei vierundachtzig Jahren; die kam nimmer vom Tempel, diente Gott mit Fasten und Beten Tag und Nacht. Die trat auch hinzu zu derselben Stunde und pries den HERRN und redete von ihm zu allen, die da auf die Erlösung zu Jerusalem warteten. Und da sie alles vollendet hatten nach dem Gesetz des HERRN, kehrten sie wieder nach Galiläa zu ihrer Stadt Nazareth. Aber das Kind wuchs und ward stark im Geist, voller Weisheit, und Gottes Gnade war bei ihm.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Gal 4,4-7",
+      "text": "Da aber die Zeit erfüllet ward, sandte Gott seinen Sohn, geboren von einem Weibe und unter das Gesetz getan, auf daß er die, so unter dem Gesetz waren, erlöste, daß wir die Kindschaft empfingen. Weil ihr denn Kinder seid, hat Gott gesandt den Geist seines Sohnes in eure Herzen, der schreit: Abba, lieber Vater! Also ist nun hier kein Knecht mehr, sondern eitel Kinder; sind's aber Kinder, so sind's auch Erben Gottes durch Christum.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 111",
+      "text": "Halleluja! Ich danke dem HERRN von ganzem Herzen im Rat der Frommen und in der Gemeinde. Groß sind die Werke des HERRN; wer ihrer achtet, der hat eitel Lust daran. Was er ordnet, das ist löblich und herrlich; und seine Gerechtigkeit bleibt ewiglich. Er hat ein Gedächtnis gestiftet seiner Wunder, der gnädige und barmherzige HERR. Er gibt Speise denen, die ihn fürchten; er gedenkt ewiglich an seinen Bund. Er läßt verkündigen seine gewaltigen Taten seinem Volk, daß er ihnen gebe das Erbe der Heiden. Die Werke seiner Hände sind Wahrheit und Recht; alle seine Gebote sind rechtschaffen. Sie werden erhalten immer und ewiglich und geschehen treulich und redlich. Er sendet eine Erlösung seinem Volk; er verheizt, daß sein Bund ewiglich bleiben soll. Heilig und hehr ist sein Name. Die Furcht des HERRN ist der Weisheit Anfang. Das ist eine feine Klugheit, wer darnach tut, des Lob bleibt ewiglich.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

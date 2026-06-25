@@ -1,0 +1,32 @@
+{
+  "id": "advent-3",
+  "name": "3. Sonntag im Advent",
+  "season": "advent",
+  "color": "violet",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 11,2-10",
+      "stable": true,
+      "text": "Da aber Johannes im Gefängnis die Werke Christi hörte, sandte er seiner Jünger zwei und ließ ihm sagen: Bist du, der da kommen soll, oder sollen wir eines anderen warten? Jesus antwortete und sprach zu ihnen: Gehet hin und saget Johannes wieder, was ihr sehet und höret: die Blinden sehen und die Lahmen gehen, die Aussätzigen werden rein und die Tauben hören, die Toten stehen auf und den Armen wird das Evangelium gepredigt; und selig ist, der sich nicht an mir ärgert. Da die hingingen, fing Jesus an, zu reden zu dem Volk von Johannes: Was seid ihr hinausgegangen in die Wüste zu sehen? Wolltet ihr ein Rohr sehen, das der Wind hin und her bewegt? Oder was seid ihr hinausgegangen zu sehen? Wolltet ihr einen Menschen in weichen Kleidern sehen? Siehe, die da weiche Kleider tragen, sind in der Könige Häusern. Oder was seid ihr hinausgegangen zu sehen? Wolltet ihr einen Propheten sehen? Ja, ich sage euch, der auch mehr ist denn ein Prophet. Denn dieser ist's, von dem geschrieben steht: \"Siehe, ich sende meinen Engel vor dir her, der deinen Weg vor dir bereiten soll.\"",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Kor 4,1-5",
+      "text": "Dafür halte uns jedermann: für Christi Diener und Haushalter über Gottes Geheimnisse. Nun sucht man nicht mehr an den Haushaltern, denn daß sie treu erfunden werden. Mir aber ist's ein Geringes, daß ich von euch gerichtet werde oder von einem menschlichen Tage; auch richte ich mich selbst nicht. Denn ich bin mir nichts bewußt, aber darin bin ich nicht gerechtfertigt; der HERR ist's aber, der mich richtet. Darum richtet nicht vor der Zeit, bis der HERR komme, welcher auch wird ans Licht bringen, was im Finstern verborgen ist, und den Rat der Herzen offenbaren; alsdann wird einem jeglichen von Gott Lob widerfahren.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 85",
+      "text": "Ein Psalm der Kinder Korah, vorzusingen. HERR, der du bist vormals gnädig gewesen deinem Lande und hast die Gefangenen Jakobs erlöst; der du die Missetat vormals vergeben hast deinem Volk und alle ihre Sünde bedeckt (sela); der du vormals hast allen deinen Zorn aufgehoben und dich gewendet von dem Grimm deines Zorns: tröste uns, Gott, unser Heiland, und laß ab von deiner Ungnade über uns! Willst du denn ewiglich über uns zürnen und deinen Zorn gehen lassen für und für? Willst du uns denn nicht wieder erquicken, daß sich dein Volk über dich freuen möge? HERR, erzeige uns deine Gnade und hilf uns! Ach, daß ich hören sollte, was Gott der HERR redet; daß er Frieden zusagte seinem Volk und seinen Heiligen, auf daß sie nicht auf eine Torheit geraten! Doch ist ja seine Hilfe nahe denen, die ihn fürchten, daß in unserm Lande Ehre wohne; daß Güte und Treue einander begegnen, Gerechtigkeit und Friede sich küssen; daß Treue auf der Erde wachse und Gerechtigkeit vom Himmel schaue; daß uns auch der HERR Gutes tue und unser Land sein Gewächs gebe; daß Gerechtigkeit weiter vor ihm bleibe und im Schwange gehe.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

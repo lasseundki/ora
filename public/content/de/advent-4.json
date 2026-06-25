@@ -1,0 +1,32 @@
+{
+  "id": "advent-4",
+  "name": "4. Sonntag im Advent",
+  "season": "advent",
+  "color": "violet",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Joh 1,19-28",
+      "stable": true,
+      "text": "Und dies ist das Zeugnis des Johannes, da die Juden sandten von Jerusalem Priester und Leviten, daß sie ihn fragten: Wer bist du? Und er bekannte und leugnete nicht; und er bekannte: Ich bin nicht Christus. Und sie fragten ihn: Was denn? Bist du Elia? Er sprach: Ich bin's nicht. Bist du der Prophet? Und er antwortete: Nein! Da sprachen sie zu ihm: Was bist du denn? Daß wir Antwort geben denen, die uns gesandt haben. Was sagst du von dir selbst? Er sprach: Ich bin eine Stimme eines Predigers in der Wüste: Richtet den Weg des HERRN! wie der Prophet Jesaja gesagt hat. Und die gesandt waren, die waren von den Pharisäern. Und sie fragten ihn und sprachen zu ihm: Warum taufst du denn, so du nicht Christus bist noch Elia noch der Prophet? Johannes antwortete ihnen und sprach: Ich taufe mit Wasser; aber er ist mitten unter euch getreten, den ihr nicht kennt. Der ist's, der nach mir kommen wird, welcher vor mir gewesen ist, des ich nicht wert bin, daß ich seine Schuhriemen auflöse. Dies geschah zu Bethabara jenseit des Jordans, wo Johannes taufte.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Phil 4,4-7",
+      "text": "Freuet euch in dem HERRN allewege! Und abermals sage ich: Freuet euch! Eure Lindigkeit lasset kund sein allen Menschen! der HERR ist nahe! Sorget nichts! sondern in allen Dingen lasset eure Bitten im Gebet und Flehen mit Danksagung vor Gott kund werden. Und der Friede Gottes, welcher höher ist denn alle Vernunft, bewahre eure Herzen und Sinne in Christo Jesu!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 19",
+      "text": "Ein Psalm Davids, vorzusingen. Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk. Ein Tag sagt's dem andern, und eine Nacht tut's kund der andern. Es ist keine Sprache noch Rede, da man nicht ihre Stimme höre.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}
