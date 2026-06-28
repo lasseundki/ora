@@ -1,0 +1,32 @@
+{
+  "id": "aschermittwoch",
+  "name": "Aschermittwoch",
+  "season": "passion",
+  "color": "violet",
+  "rank": "fest",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 6,16-21",
+      "stable": true,
+      "text": "Wenn ihr fastet, sollt ihr nicht sauer sehen wie die Heuchler; denn sie verstellen ihr Angesicht, auf daß sie vor den Leuten scheinen mit ihrem Fasten. Wahrlich ich sage euch: Sie haben ihren Lohn dahin. Wenn du aber fastest, so salbe dein Haupt und wasche dein Angesicht, auf daß du nicht scheinest vor den Leuten mit deinem Fasten, sondern vor deinem Vater, welcher verborgen ist; und dein Vater, der in das Verborgene sieht, wird dir's vergelten öffentlich. Ihr sollt euch nicht Schätze sammeln auf Erden, da sie die Motten und der Rost fressen und da die Diebe nachgraben und stehlen. Sammelt euch aber Schätze im Himmel, da sie weder Motten noch Rost fressen und da die Diebe nicht nachgraben noch stehlen. Denn wo euer Schatz ist, da ist auch euer Herz.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "2Kor 6,1-10",
+      "text": "Wir ermahnen aber euch als Mithelfer, daß ihr nicht vergeblich die Gnade Gottes empfanget. Denn er spricht: \"Ich habe dich in der angenehmen Zeit erhört und habe dir am Tage des Heils geholfen.\" Sehet, jetzt ist die angenehme Zeit, jetzt ist der Tag des Heils! Und wir geben niemand irgend ein Ärgernis, auf daß unser Amt nicht verlästert werde; sondern in allen Dingen beweisen wir uns als die Diener Gottes: in großer Geduld, in Trübsalen, in Nöten, in Ängsten, in Schlägen, in Gefängnissen, in Aufruhren, in Arbeit, in Wachen, in Fasten, in Keuschheit, in Erkenntnis, in Langmut, in Freundlichkeit, in dem heiligen Geist, in ungefärbter Liebe, in dem Wort der Wahrheit, in der Kraft Gottes, durch Waffen der Gerechtigkeit zur Rechten und zur Linken, durch Ehre und Schande, durch böse Gerüchte und gute Gerüchte: als die Verführer, und doch wahrhaftig; als die Unbekannten, und doch bekannt; als die Sterbenden, und siehe, wir leben; als die Gezüchtigten, und doch nicht ertötet; als die Traurigen, aber allezeit fröhlich; als die Armen, aber die doch viele reich machen; als die nichts innehaben, und doch alles haben.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 51",
+      "text": "Ein Psalm Davids, vorzusingen; da der Prophet Nathan zu ihm kam, als er war zu Bath-Seba eingegangen. Gott, sei mir gnädig nach deiner Güte und tilge meine Sünden nach deiner großen Barmherzigkeit. Wasche mich wohl von meiner Missetat und reinige mich von meiner Sünde. Denn ich erkenne meine Missetat, und meine Sünde ist immer vor mir. An dir allein habe ich gesündigt und übel vor dir getan, auf daß du recht behaltest in deinen Worten und rein bleibest, wenn du gerichtet wirst. Siehe, ich bin in sündlichem Wesen geboren, und meine Mutter hat mich in Sünden empfangen. Siehe, du hast Lust zur Wahrheit, die im Verborgenen liegt; du lässest mich wissen die heimliche Weisheit. Entsündige mich mit Isop, daß ich rein werde; wasche mich, daß ich schneeweiß werde. Laß mich hören Freude und Wonne, daß die Gebeine fröhlich werden, die du zerschlagen hast. Verbirg dein Antlitz von meinen Sünden und tilge alle meine Missetaten. Schaffe in mir, Gott, ein reines Herz und gib mir einen neuen, gewissen Geist. Verwirf mich nicht von deinem Angesicht und nimm deinen heiligen Geist nicht von mir. Tröste mich wieder mit deiner Hilfe, und mit einem freudigen Geist rüste mich aus. Ich will die Übertreter deine Wege lehren, daß sich die Sünder zu dir bekehren. Errette mich von den Blutschulden, Gott, der du mein Gott und Heiland bist, daß meine Zunge deine Gerechtigkeit rühme. HERR, tue meine Lippen auf, daß mein Mund deinen Ruhm verkündige. Denn du hast nicht Lust zum Opfer, ich wollte dir's sonst wohl geben, und Brandopfer gefallen dir nicht. Die Opfer, die Gott gefallen, sind ein geängsteter Geist; ein geängstet und zerschlagen Herz wirst du, Gott, nicht verachten. Tue wohl an Zion nach deiner Gnade; baue die Mauern zu Jerusalem. Dann werden dir gefallen die Opfer der Gerechtigkeit, die Brandopfer und ganzen Opfer; dann wird man Farren auf deinem Altar opfern.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

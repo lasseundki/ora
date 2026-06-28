@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-1",
+  "name": "1. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 16,19-31",
+      "stable": true,
+      "text": "Es war aber ein reicher Mann, der kleidete sich mit Purpur und köstlicher Leinwand und lebte alle Tage herrlich und in Freuden. Es war aber ein armer Mann mit Namen Lazarus, der lag vor seiner Tür voller Schwären und begehrte sich zu sättigen von den Brosamen, die von des Reichen Tische fielen; doch kamen die Hunde und leckten ihm seine Schwären. Es begab sich aber, daß der Arme starb und ward getragen von den Engeln in Abrahams Schoß. Der Reiche aber starb auch und ward begraben. Als er nun in der Hölle und in der Qual war, hob er seine Augen auf und sah Abraham von ferne und Lazarus in seinem Schoß. Und er rief und sprach: Vater Abraham, erbarme dich mein und sende Lazarus, daß er die Spitze seines Fingers ins Wasser tauche und kühle meine Zunge; denn ich leide Pein in dieser Flamme. Abraham aber sprach: Gedenke, Sohn, daß du dein Gutes empfangen hast in deinem Leben, und Lazarus dagegen hat Böses empfangen; nun aber wird er getröstet, und du wirst gepeinigt. Und über das alles ist zwischen uns und euch eine große Kluft befestigt, daß die wollten von hinnen hinabfahren zu euch, könnten nicht, und auch nicht von dannen zu uns herüberfahren. Da sprach er: So bitte ich dich, Vater, daß du ihn sendest in meines Vaters Haus; denn ich habe noch fünf Brüder, daß er ihnen bezeuge, auf daß sie nicht auch kommen an diesen Ort der Qual. Abraham sprach zu ihm: Sie haben Mose und die Propheten; laß sie dieselben hören. Er aber sprach: Nein, Vater Abraham! sondern wenn einer von den Toten zu ihnen ginge, so würden sie Buße tun. Er sprach zu ihm: Hören sie Mose und die Propheten nicht, so werden sie auch nicht glauben, wenn jemand von den Toten aufstünde.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Joh 4,16-21",
+      "text": "Und wir haben erkannt und geglaubt die Liebe, die Gott zu uns hat. Gott ist die Liebe; und wer in der Liebe bleibt, der bleibt in Gott und Gott in ihm. Darin ist die Liebe völlig bei uns, daß wir eine Freudigkeit haben am Tage des Gerichts; denn gleichwie er ist, so sind auch wir in dieser Welt. Furcht ist nicht in der Liebe, sondern die völlige Liebe treibt die Furcht aus; denn die Furcht hat Pein. Wer sich aber fürchtet, der ist nicht völlig in der Liebe. Lasset uns ihn lieben; denn er hat uns zuerst geliebt. So jemand spricht: \"Ich liebe Gott\", und haßt seinen Bruder, der ist ein Lügner. Denn wer seinen Bruder nicht liebt, den er sieht, wie kann er Gott lieben, den er nicht sieht? Und dies Gebot haben wir von ihm, daß, wer Gott liebt, daß der auch seinen Bruder liebe.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 32",
+      "text": "Eine Unterweisung Davids. Wohl dem, dem die Übertretungen vergeben sind, dem die Sünde bedeckt ist! Wohl dem Menschen, dem der HERR die Missetat nicht zurechnet, in des Geist kein Falsch ist! Denn da ich's wollte verschweigen, verschmachteten meine Gebeine durch mein täglich Heulen. Denn deine Hand war Tag und Nacht schwer auf mir, daß mein Saft vertrocknete, wie es im Sommer dürre wird. (Sela.) Darum bekannte ich dir meine Sünde und verhehlte meine Missetat nicht. Ich sprach: Ich will dem HERRN meine Übertretungen bekennen. Da vergabst du mir die Missetat meiner Sünde. (Sela.) Um deswillen werden die Heiligen zu dir beten zur rechten Zeit; darum, wenn große Wasserfluten kommen, werden sie nicht an dieselben gelangen. Du bist mein Schirm; du wirst mich vor Angst behüten, daß ich errettet gar fröhlich rühmen kann. (Sela.) \"Ich will dich unterweisen und dir den Weg zeigen, den du wandeln sollst; ich will dich mit meinen Augen leiten.\" Seid nicht wie Rosse und Maultiere, die nicht verständig sind, welchen man Zaum und Gebiß muß ins Maul legen, wenn sie nicht zu dir wollen. Der Gottlose hat viel Plage; wer aber auf den HERRN hofft, den wird die Güte umfangen. Freuet euch des HERRN und seid fröhlich, ihr Gerechten, und rühmet, alle ihr Frommen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

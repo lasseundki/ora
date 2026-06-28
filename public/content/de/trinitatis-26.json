@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-26",
+  "name": "26. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 25,31-46",
+      "stable": true,
+      "text": "Wenn aber des Menschen Sohn kommen wird in seiner Herrlichkeit und alle heiligen Engel mit ihm, dann wird er sitzen auf dem Stuhl seiner Herrlichkeit, und werden vor ihm alle Völker versammelt werden. Und er wird sie voneinander scheiden, gleich als ein Hirte die Schafe von den Böcken scheidet, und wird die Schafe zu seiner Rechten stellen und die Böcke zu seiner Linken. Da wird dann der König sagen zu denen zu seiner Rechten: Kommt her, ihr Gesegneten meines Vaters ererbt das Reich, das euch bereitet ist von Anbeginn der Welt! Denn ich bin hungrig gewesen, und ihr habt mich gespeist. Ich bin durstig gewesen, und ihr habt mich getränkt. Ich bin Gast gewesen, und ihr habt mich beherbergt. Ich bin nackt gewesen und ihr habt mich bekleidet. Ich bin krank gewesen, und ihr habt mich besucht. Ich bin gefangen gewesen, und ihr seid zu mir gekommen. Dann werden ihm die Gerechten antworten und sagen: Wann haben wir dich hungrig gesehen und haben dich gespeist? oder durstig und haben dich getränkt? Wann haben wir dich als einen Gast gesehen und beherbergt? oder nackt und dich bekleidet? Wann haben wir dich krank oder gefangen gesehen und sind zu dir gekommen? Und der König wird antworten und sagen zu ihnen: Wahrlich ich sage euch: Was ihr getan habt einem unter diesen meinen geringsten Brüdern, das habt ihr mir getan. Dann wird er auch sagen zu denen zur Linken: Gehet hin von mir, ihr Verfluchten, in das ewige Feuer, das bereitet ist dem Teufel und seinen Engeln! Ich bin hungrig gewesen, und ihr habt mich nicht gespeist. Ich bin durstig gewesen, und ihr habt mich nicht getränkt. Ich bin ein Gast gewesen, und ihr habt mich nicht beherbergt. Ich bin nackt gewesen, und ihr habt mich nicht bekleidet. Ich bin krank und gefangen gewesen, und ihr habt mich nicht besucht. Da werden sie ihm antworten und sagen: HERR, wann haben wir dich gesehen hungrig oder durstig oder als einen Gast oder nackt oder krank oder gefangen und haben dir nicht gedient? Dann wird er ihnen antworten und sagen: Wahrlich ich sage euch: Was ihr nicht getan habt einem unter diesen Geringsten, das habt ihr mir auch nicht getan. Und sie werden in die ewige Pein gehen, aber die Gerechten in das ewige Leben.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "2Petr 3,3-14",
+      "text": "Und wisset aufs erste, daß in den letzten Tagen kommen werden Spötter, die nach ihren eigenen Lüsten wandeln und sagen: Wo ist die Verheißung seiner Zukunft? denn nachdem die Väter entschlafen sind, bleibt es alles, wie es von Anfang der Kreatur gewesen ist. Aber aus Mutwillen wollen sie nicht wissen, daß der Himmel vorzeiten auch war, dazu die Erde aus Wasser, und im Wasser bestanden durch Gottes Wort; dennoch ward zu der Zeit die Welt durch die dieselben mit der Sintflut verderbt. Also auch der Himmel, der jetztund ist, und die Erde werden durch sein Wort gespart, daß sie zum Feuer behalten werden auf den Tag des Gerichts und der Verdammnis der gottlosen Menschen. Eins aber sei euch unverhalten, ihr Lieben, daß ein Tag vor dem HERRN ist wie tausend Jahre, und tausend Jahre wie ein Tag. Der HERR verzieht nicht die Verheißung, wie es etliche für einen Verzug achten; sondern er hat Geduld mit uns und will nicht, daß jemand verloren werde, sondern daß sich jedermann zur Buße kehre. Es wird aber des HERRN Tag kommen wie ein Dieb in der Nacht, an welchem die Himmel zergehen werden mit großem Krachen; die Elemente aber werden vor Hitze schmelzen, und die Erde und die Werke, die darauf sind, werden verbrennen. So nun das alles soll zergehen, wie sollt ihr denn geschickt sein mit heiligem Wandel und gottseligem Wesen, daß ihr wartet und eilet zu der Zukunft des Tages des HERRN, an welchem die Himmel vom Feuer zergehen und die Elemente vor Hitze zerschmelzen werden! Wir aber warten eines neuen Himmels und einer neuen Erde nach seiner Verheißung, in welchen Gerechtigkeit wohnt. Darum, meine Lieben, dieweil ihr darauf warten sollt, so tut Fleiß, daß ihr vor ihm unbefleckt und unsträflich im Frieden erfunden werdet;",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 98",
+      "text": "Ein Psalm. Singet dem HERRN ein neues Lied; denn er tut Wunder. Er siegt mit seiner Rechten und mit seinem heiligen Arm. Der HERR läßt sein Heil verkündigen; vor den Völkern läßt er seine Gerechtigkeit offenbaren. Er gedenkt an seine Gnade und Wahrheit dem Hause Israel; aller Welt Enden sehen das Heil unsers Gottes. Jauchzet dem HERRN, alle Welt; singet, rühmet und lobet! Lobet den HERRN mit Harfen, mit Harfen und Psalmen! Mit Drommeten und Posaunen jauchzet vor dem HERRN, dem König! Das Meer brause und was darinnen ist, der Erdboden und die darauf wohnen. Die Wasserströme frohlocken, und alle Berge seien fröhlich vor dem HERRN; denn er kommt das Erdreich zu richten. Er wird den Erdboden richten mit Gerechtigkeit und die Völker mit Recht.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "reminiscere",
+  "name": "Reminiscere",
+  "season": "passion",
+  "color": "violet",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 15,21-28",
+      "stable": true,
+      "text": "Und Jesus ging aus von dannen und entwich in die Gegend von Tyrus und Sidon. Und siehe, ein kanaanäisches Weib kam aus derselben Gegend und schrie ihm nach und sprach: Ach HERR, du Sohn Davids, erbarme dich mein! Meine Tochter wird vom Teufel übel geplagt. Und er antwortete ihr kein Wort. Da traten zu ihm seine Jünger, baten ihn und sprachen: Laß sie doch von dir, denn sie schreit uns nach. Er antwortete aber und sprach: Ich bin nicht gesandt denn nur zu den verlorenen Schafen von dem Hause Israel. Sie kam aber und fiel vor ihm nieder und sprach: HERR, hilf mir! Aber er antwortete und sprach: Es ist nicht fein, daß man den Kindern ihr Brot nehme und werfe es vor die Hunde. Sie sprach: Ja, HERR; aber doch essen die Hündlein von den Brosamlein, die von ihrer Herren Tisch fallen. Da antwortete Jesus und sprach zu ihr: O Weib, dein Glaube ist groß! Dir geschehe, wie du willst. Und ihre Tochter ward gesund zu derselben Stunde.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Thess 4,1-7",
+      "text": "Weiter, liebe Brüder, bitten wir euch und ermahnen in dem HERRN Jesus (nach dem ihr von uns empfangen habt, wie ihr solltet wandeln und Gott gefallen), daß ihr immer völliger werdet. Denn ihr wisset, welche Gebote wir euch gegeben haben durch den HERRN Jesus. Denn das ist der Wille Gottes, eure Heiligung, und daß ihr meidet die Hurerei und ein jeglicher unter euch wisse sein Gefäß zu behalten in Heiligung und Ehren. nicht in der Brunst der Lust wie die Heiden, die von Gott nichts wissen; und daß niemand zu weit greife und übervorteile seinen Bruder im Handel; denn der HERR ist der Rächer über das alles, wie wir euch zuvor gesagt und bezeugt haben. Denn Gott hat uns nicht berufen zur Unreinigkeit, sondern zur Heiligung.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 25",
+      "text": "Ein Psalm Davids. Nach dir, HERR, verlangt mich. Mein Gott, ich hoffe auf dich; laß mich nicht zu Schanden werden, daß sich meine Feinde nicht freuen über mich. Denn keiner wird zu Schanden, der dein harret; aber zu Schanden müssen sie werden, die leichtfertigen Verächter. HERR, zeige mir deine Wege und lehre mich deine Steige; leite mich in deiner Wahrheit und lehre mich! Denn du bist der Gott, der mir hilft; täglich harre ich dein. Gedenke, HERR, an deine Barmherzigkeit und an deine Güte, die von der Welt her gewesen ist. Gedenke nicht der Sünden meiner Jugend und meiner Übertretungen; gedenke aber mein nach deiner Barmherzigkeit um deiner Güte willen! Der HERR ist gut und fromm; darum unterweist er die Sünder auf dem Wege. Er leitet die Elenden recht und lehrt die Elenden seinen Weg. Die Wege des HERRN sind eitel Güte und Wahrheit denen, die seinen Bund und seine Zeugnisse halten. Um deines Namens willen, HERR, sei gnädig meiner Missetat, die da groß ist. Wer ist der, der den HERRN fürchtet? Er wird ihn unterweisen den besten Weg. Seine Seele wird im Guten wohnen, und sein Same wird das Land besitzen. Das Geheimnis des HERRN ist unter denen, die ihn fürchten; und seinen Bund läßt er sie wissen. Meine Augen sehen stets zu dem HERRN; denn er wird meinen Fuß aus dem Netze ziehen. Wende dich zu mir und sei mir gnädig; denn ich bin einsam und elend. Die Angst meines Herzens ist groß; führe mich aus meinen Nöten! Siehe an meinen Jammer und mein Elend und vergib mir alle meine Sünden! Siehe, daß meiner Feinde so viel sind und hassen mich aus Frevel. Bewahre meine Seele und errette mich, laß mich nicht zu Schanden werden; denn ich traue auf dich. Schlecht und Recht, das behüte mich; denn ich harre dein. Gott, erlöse Israel aus aller seiner Not!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

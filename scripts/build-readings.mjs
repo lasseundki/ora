@@ -82,8 +82,14 @@ function extractVerses(index, parsed) {
   const limit = fullChapter ? 200 : toVerse // ganzes Kapitel: bis kein Vers mehr vorhanden
   for (let v = fromVerse; v <= limit; v++) {
     const key = `${osisBook}.${chapter}.${v}`
-    if (index[key]) verses.push(index[key])
-    else break // Kapitelende (Vers nicht vorhanden)
+    if (index[key]) {
+      verses.push(index[key])
+    } else if (verses.length === 0 && fullChapter) {
+      // Manche Psalmen beginnen erst bei Vers 2 (kein Vers 1 im OSIS)
+      continue
+    } else {
+      break // Kapitelende
+    }
   }
   return verses.length ? verses.join(' ') : null
 }

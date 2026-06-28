@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-11",
+  "name": "11. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 18,9-14",
+      "stable": true,
+      "text": "Er sagte aber zu etlichen, die sich selbst vermaßen, daß sie fromm wären, und verachteten die andern, ein solch Gleichnis: Es gingen zwei Menschen hinauf in den Tempel, zu beten, einer ein Pharisäer, der andere ein Zöllner. Der Pharisäer stand und betete bei sich selbst also: Ich danke dir, Gott, daß ich nicht bin wie die anderen Leute, Räuber, Ungerechte, Ehebrecher, oder auch wie dieser Zöllner. Ich faste zweimal in der Woche und gebe den Zehnten von allem, was ich habe. Und der Zöllner stand von ferne, wollte auch seine Augen nicht aufheben gen Himmel, sondern schlug an seine Brust und sprach: Gott, sei mir Sünder gnädig! Ich sage euch: Dieser ging hinab gerechtfertigt in sein Haus vor jenem. Denn wer sich selbst erhöht, der wird erniedrigt werden; und wer sich selbst erniedrigt, der wird erhöht werden.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Kor 15,1-10",
+      "text": "Ich erinnere euch aber, liebe Brüder, des Evangeliums, das ich euch verkündigt habe, welches ihr auch angenommen habt, in welchem ihr auch stehet, durch welches ihr auch selig werdet: welchergestalt ich es euch verkündigt habe, so ihr's behalten habt; es wäre denn, daß ihr umsonst geglaubt hättet. Denn ich habe euch zuvörderst gegeben, was ich empfangen habe: daß Christus gestorben sei für unsre Sünden nach der Schrift, und daß er begraben sei, und daß er auferstanden sei am dritten Tage nach der Schrift, und daß er gesehen worden ist von Kephas, darnach von den Zwölfen. Darnach ist er gesehen worden von mehr denn fünfhundert Brüdern auf einmal, deren noch viele leben, etliche aber sind entschlafen. Darnach ist er gesehen worden von Jakobus, darnach von allen Aposteln. Am letzten ist er auch von mir, einer unzeitigen Geburt gesehen worden. Denn ich bin der geringste unter den Aposteln, der ich nicht wert bin, daß ich ein Apostel heiße, darum daß ich die Gemeinde Gottes verfolgt habe. Aber von Gottes Gnade bin ich, was ich bin. Und seine Gnade an mir ist nicht vergeblich gewesen, sondern ich habe vielmehr gearbeitet denn sie alle; nicht aber ich, sondern Gottes Gnade, die mit mir ist.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 32",
+      "text": "Eine Unterweisung Davids. Wohl dem, dem die Übertretungen vergeben sind, dem die Sünde bedeckt ist! Wohl dem Menschen, dem der HERR die Missetat nicht zurechnet, in des Geist kein Falsch ist! Denn da ich's wollte verschweigen, verschmachteten meine Gebeine durch mein täglich Heulen. Denn deine Hand war Tag und Nacht schwer auf mir, daß mein Saft vertrocknete, wie es im Sommer dürre wird. (Sela.) Darum bekannte ich dir meine Sünde und verhehlte meine Missetat nicht. Ich sprach: Ich will dem HERRN meine Übertretungen bekennen. Da vergabst du mir die Missetat meiner Sünde. (Sela.) Um deswillen werden die Heiligen zu dir beten zur rechten Zeit; darum, wenn große Wasserfluten kommen, werden sie nicht an dieselben gelangen. Du bist mein Schirm; du wirst mich vor Angst behüten, daß ich errettet gar fröhlich rühmen kann. (Sela.) \"Ich will dich unterweisen und dir den Weg zeigen, den du wandeln sollst; ich will dich mit meinen Augen leiten.\" Seid nicht wie Rosse und Maultiere, die nicht verständig sind, welchen man Zaum und Gebiß muß ins Maul legen, wenn sie nicht zu dir wollen. Der Gottlose hat viel Plage; wer aber auf den HERRN hofft, den wird die Güte umfangen. Freuet euch des HERRN und seid fröhlich, ihr Gerechten, und rühmet, alle ihr Frommen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

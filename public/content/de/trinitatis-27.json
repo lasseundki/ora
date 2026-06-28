@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-27",
+  "name": "27. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 25,1-13",
+      "stable": true,
+      "text": "Dann wird das Himmelreich gleich sein zehn Jungfrauen, die ihre Lampen nahmen und gingen aus, dem Bräutigam entgegen. Aber fünf unter ihnen waren töricht, und fünf waren klug. Die törichten nahmen Öl in ihren Lampen; aber sie nahmen nicht Öl mit sich. Die klugen aber nahmen Öl in ihren Gefäßen samt ihren Lampen. Da nun der Bräutigam verzog, wurden sie alle schläfrig und schliefen ein. Zur Mitternacht aber ward ein Geschrei: Siehe, der Bräutigam kommt; geht aus ihm entgegen! Da standen diese Jungfrauen alle auf und schmückten ihre Lampen. Die törichten aber sprachen zu den klugen: Gebt uns von eurem Öl, denn unsere Lampen verlöschen. Da antworteten die klugen und sprachen: Nicht also, auf daß nicht uns und euch gebreche; geht aber hin zu den Krämern und kauft für euch selbst. Und da sie hingingen, zu kaufen, kam der Bräutigam; und die bereit waren, gingen mit ihm hinein zur Hochzeit, und die Tür ward verschlossen. Zuletzt kamen auch die anderen Jungfrauen und sprachen: Herr, Herr, tu uns auf! Er antwortete aber und sprach: Wahrlich ich sage euch: Ich kenne euch nicht. Darum wachet; denn ihr wisset weder Tag noch Stunde, in welcher des Menschen Sohn kommen wird.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Thess 5,1-11",
+      "text": "Von den Zeiten aber und Stunden, liebe Brüder, ist nicht not euch zu schreiben; denn ihr selbst wisset gewiß, daß der Tag des HERRN wird kommen wie ein Dieb in der Nacht. Denn sie werden sagen: Es ist Friede, es hat keine Gefahr, so wird sie das Verderben schnell überfallen, gleichwie der Schmerz ein schwangeres Weib, und werden nicht entfliehen. Ihr aber, liebe Brüder, seid nicht in der Finsternis, daß euch der Tag wie ein Dieb ergreife. Ihr seid allzumal Kinder des Lichtes und Kinder des Tages; wir sind nicht von der Nacht noch von der Finsternis. So lasset uns nun nicht schlafen wie die andern, sondern lasset uns wachen und nüchtern sein. Denn die da schlafen, die schlafen des Nachts, und die da trunken sind, die sind des Nachts trunken; wir aber, die wir des Tages sind, sollen nüchtern sein, angetan mit dem Panzer des Glaubens und der Liebe und mit dem Helm der Hoffnung zur Seligkeit. Denn Gott hat uns nicht gesetzt zum Zorn, sondern die Seligkeit zu besitzen durch unsern HERRN Jesus Christus, der für uns alle gestorben ist, auf daß, wir wachen oder schlafen, wir zugleich mit ihm leben sollen. Darum ermahnet euch untereinander und bauet einer den andern, wie ihr denn tut.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 90",
+      "text": "Ein Gebet Mose's, des Mannes Gottes. HERR, Gott, du bist unsre Zuflucht für und für. Ehe denn die Berge wurden und die Erde und die Welt geschaffen wurden, bist du, Gott, von Ewigkeit zu Ewigkeit, der du die Menschen lässest sterben und sprichst: Kommt wieder, Menschenkinder! Denn tausend Jahre sind vor dir wie der Tag, der gestern vergangen ist, und wie eine Nachtwache. Du lässest sie dahinfahren wie einen Strom; sie sind wie ein Schlaf, gleichwie ein Gras, das doch bald welk wird, das da frühe blüht und bald welk wird und des Abends abgehauen wird und verdorrt. Das macht dein Zorn, daß wir so vergehen, und dein Grimm, daß wir so plötzlich dahinmüssen. Denn unsere Missetaten stellst du vor dich, unsre unerkannte Sünde ins Licht vor deinem Angesicht. Darum fahren alle unsere Tage dahin durch deinen Zorn; wir bringen unsre Jahre zu wie ein Geschwätz. Unser Leben währet siebzig Jahre, und wenn's hoch kommt, so sind's achtzig Jahre, und wenn's köstlich gewesen ist, so ist es Mühe und Arbeit gewesen; denn es fährt schnell dahin, als flögen wir davon. Wer glaubt aber, daß du so sehr zürnest, und wer fürchtet sich vor solchem deinem Grimm? Lehre uns bedenken, daß wir sterben müssen, auf daß wir klug werden. HERR, kehre doch wieder zu uns und sei deinen Knechten gnädig! Fülle uns früh mit deiner Gnade, so wollen wir rühmen und fröhlich sein unser Leben lang. Erfreue uns nun wieder, nachdem du uns so lange plagest, nachdem wir so lange Unglück leiden. Zeige deinen Knechten deine Werke und deine Ehre ihren Kindern. Und der HERR, unser Gott, sei uns freundlich und fördere das Werk unsrer Hände bei uns; ja, das Werk unsrer Hände wolle er fördern!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

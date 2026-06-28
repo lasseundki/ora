@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-8",
+  "name": "8. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 7,15-23",
+      "stable": true,
+      "text": "Seht euch vor vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber sind sie reißende Wölfe. An ihren Früchten sollt ihr sie erkennen. Kann man auch Trauben lesen von den Dornen oder Feigen von den Disteln? Also ein jeglicher guter Baum bringt gute Früchte; aber ein fauler Baum bringt arge Früchte. Ein guter Baum kann nicht arge Früchte bringen, und ein fauler Baum kann nicht gute Früchte bringen. Ein jeglicher Baum, der nicht gute Früchte bringt, wird abgehauen und ins Feuer geworfen. Darum an ihren Früchten sollt ihr sie erkennen. Es werden nicht alle, die zu mir sagen: HERR, HERR! ins Himmelreich kommen, sondern die den Willen tun meines Vaters im Himmel. Es werden viele zu mir sagen an jenem Tage: HERR, HERR! haben wir nicht in deinem Namen geweissagt, haben wir nicht in deinem Namen Teufel ausgetrieben, und haben wir nicht in deinem Namen viele Taten getan? Dann werde ich ihnen bekennen: Ich habe euch noch nie erkannt; weichet alle von mir, ihr Übeltäter!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Röm 8,12-17",
+      "text": "So sind wir nun, liebe Brüder, Schuldner nicht dem Fleisch, daß wir nach dem Fleisch leben. Denn wo ihr nach dem Fleisch lebet, so werdet ihr sterben müssen; wo ihr aber durch den Geist des Fleisches Geschäfte tötet, so werdet ihr leben. Denn welche der Geist Gottes treibt, die sind Gottes Kinder. Denn ihr habt nicht einen knechtischen Geist empfangen, daß ihr euch abermals fürchten müßtet; sondern ihr habt einen kindlichen Geist empfangen, durch welchen wir rufen: Abba, lieber Vater! Derselbe Geist gibt Zeugnis unserem Geist, daß wir Kinder Gottes sind. Sind wir denn Kinder, so sind wir auch Erben, nämlich Gottes Erben und Miterben Christi, so wir anders mit leiden, auf daß wir auch mit zur Herrlichkeit erhoben werden.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 86",
+      "text": "Ein Gebet Davids. HERR, neige deine Ohren und erhöre mich; denn ich bin elend und arm. Bewahre meine Seele; denn ich bin heilig. Hilf du, mein Gott, deinem Knechte, der sich verläßt auf dich. HERR, sei mir gnädig; denn ich rufe täglich zu dir! Erfreue die Seele deines Knechtes; denn nach dir, HERR, verlangt mich. Denn du, HERR, bist gut und gnädig, von großer Güte allen, die dich anrufen. Vernimm, HERR, mein Gebet und merke auf die Stimme meines Flehens. In der Not rufe ich dich an; du wollest mich erhören. HERR, dir ist keiner gleich unter den Göttern, und ist niemand, der tun kann wie du. Alle Heiden die du gemacht hast, werden kommen und vor dir anbeten, HERR, und deinen Namen ehren, daß du so groß bist und Wunder tust und allein Gott bist. Weise mir, HERR, deinen Weg, daß ich wandle in deiner Wahrheit; erhalte mein Herz bei dem einen, daß ich deinen Namen fürchte. Ich danke dir, HERR, mein Gott, von ganzem Herzen und ehre deinen Namen ewiglich. Denn deine Güte ist groß über mich; du hast meine Seele errettet aus der tiefen Hölle. Gott, es setzen sich die Stolzen wider mich, und der Haufe der Gewalttätigen steht mir nach meiner Seele, und haben dich nicht vor Augen. (Sela.) Du aber, HERR, Gott, bist barmherzig und gnädig, geduldig und von großer Güte und Treue. Wende dich zu mir, sei mir gnädig; stärke deinen Knecht mit deiner Kraft und hilf dem Sohn deiner Magd! Tu ein Zeichen an mir, daß mir's wohl gehe, daß es sehen, die mich hassen, und sich schämen müssen, daß du mir beistehst, HERR, und tröstest mich.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

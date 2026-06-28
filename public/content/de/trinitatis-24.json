@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-24",
+  "name": "24. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 9,18-26",
+      "stable": true,
+      "text": "Da er solches mit ihnen redete, siehe, da kam der Obersten einer und fiel vor ihm nieder und sprach: HERR, meine Tochter ist jetzt gestorben; aber komm und lege deine Hand auf sie, so wird sie lebendig. Und Jesus stand auf und folgte ihm nach und seine Jünger. Und siehe, ein Weib, das zwölf Jahre den Blutgang gehabt, trat von hinten zu ihm und rührte seines Kleides Saum an. Denn sie sprach bei sich selbst: Möchte ich nur sein Kleid anrühren, so würde ich gesund. Da wandte sich Jesus um und sah sie und sprach: Sei getrost, meine Tochter; dein Glaube hat dir geholfen. Und das Weib ward gesund zu derselben Stunde. Und als er in des Obersten Haus kam und sah die Pfeifer und das Getümmel des Volks, sprach er zu ihnen: Weichet! denn das Mägdlein ist nicht tot, sondern es schläft. Und sie verlachten ihn. Als aber das Volk hinausgetrieben war, ging er hinein und ergriff es bei der Hand; da stand das Mädglein auf. Und dies Gerücht erscholl in dasselbe ganze Land.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Kol 1,9-14",
+      "text": "Derhalben auch wir von dem Tage an, da wir's gehört haben, hören wir nicht auf, für euch zu beten und zu bitten, daß ihr erfüllt werdet mit Erkenntnis seines Willens in allerlei geistlicher Weisheit und Verständnis, daß ihr wandelt würdig dem HERRN zu allem Gefallen und fruchtbar seid in allen guten Werken und wachset in der Erkenntnis Gottes und gestärkt werdet mit aller Kraft nach seiner herrlichen Macht zu aller Geduld und Langmütigkeit mit Freuden, und danksaget dem Vater, der uns tüchtig gemacht hat zu dem Erbteil der Heiligen im Licht; welcher uns errettet hat von der Obrigkeit der Finsternis und hat uns versetzt in das Reich seines lieben Sohnes, an welchem wir haben die Erlösung durch sein Blut, die Vergebung der Sünden;",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 23",
+      "text": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln. Er weidet mich auf grüner Aue und führet mich zum frischen Wasser. Er erquicket meine Seele; er führet mich auf rechter Straße um seines Namens willen. Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich. Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein. Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

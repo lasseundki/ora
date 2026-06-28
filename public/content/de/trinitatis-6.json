@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-6",
+  "name": "6. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 5,20-26",
+      "stable": true,
+      "text": "Denn ich sage euch: Es sei denn eure Gerechtigkeit besser als der Schriftgelehrten und Pharisäer, so werdet ihr nicht in das Himmelreich kommen. Ihr habt gehört, daß zu den Alten gesagt ist: \"Du sollst nicht töten; wer aber tötet, der soll des Gerichts schuldig sein.\" Ich aber sage euch: Wer mit seinem Bruder zürnet, der ist des Gerichts schuldig; wer aber zu seinem Bruder sagt: Racha! der ist des Rats schuldig; wer aber sagt: Du Narr! der ist des höllischen Feuers schuldig. Darum, wenn du deine Gabe auf dem Altar opferst und wirst allda eingedenk, daß dein Bruder etwas wider dich habe, so laß allda vor dem Altar deine Gabe und gehe zuvor hin und versöhne dich mit deinem Bruder, und alsdann komm und opfere deine Gabe. Sei willfährig deinem Widersacher bald, dieweil du noch bei ihm auf dem Wege bist, auf daß dich der Widersacher nicht dermaleinst überantworte dem Richter, und der Richter überantworte dich dem Diener, und wirst in den Kerker geworfen. Ich sage dir wahrlich: Du wirst nicht von dannen herauskommen, bis du auch den letzten Heller bezahlest.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Röm 6,3-11",
+      "text": "Wisset ihr nicht, daß alle, die wir in Jesus Christus getauft sind, die sind in seinen Tod getauft? So sind wir ja mit ihm begraben durch die Taufe in den Tod, auf daß, gleichwie Christus ist auferweckt von den Toten durch die Herrlichkeit des Vaters, also sollen auch wir in einem neuen Leben wandeln. So wir aber samt ihm gepflanzt werden zu gleichem Tode, so werden wir auch seiner Auferstehung gleich sein, dieweil wir wissen, daß unser alter Mensch samt ihm gekreuzigt ist, auf daß der sündliche Leib aufhöre, daß wir hinfort der Sünde nicht mehr dienen. Denn wer gestorben ist, der ist gerechtfertigt von der Sünde. Sind wir aber mit Christo gestorben, so glauben wir, daß wir auch mit ihm leben werden, und wissen, daß Christus, von den Toten auferweckt, hinfort nicht stirbt; der Tod wird hinfort nicht mehr über ihn herrschen. Denn was er gestorben ist, das ist er der Sünde gestorben zu einem Mal; was er aber lebt, das lebt er Gott. Also auch ihr, haltet euch dafür, daß ihr der Sünde gestorben seid und lebt Gott in Christo Jesus, unserm HERRN.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 19",
+      "text": "Ein Psalm Davids, vorzusingen. Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk. Ein Tag sagt's dem andern, und eine Nacht tut's kund der andern. Es ist keine Sprache noch Rede, da man nicht ihre Stimme höre.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

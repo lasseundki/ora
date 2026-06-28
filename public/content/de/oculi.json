@@ -1,0 +1,32 @@
+{
+  "id": "oculi",
+  "name": "Oculi",
+  "season": "passion",
+  "color": "violet",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 11,14-28",
+      "stable": true,
+      "text": "Und er trieb einen Teufel aus, der war stumm. Und es geschah, da der Teufel ausfuhr, da redete der Stumme. Und das Volk verwunderte sich. Etliche aber unter ihnen sprachen: Er treibt die Teufel aus durch Beelzebub, den Obersten der Teufel. Die andern aber versuchten ihn und begehrten ein Zeichen von ihm vom Himmel. Er aber erkannte ihre Gedanken und sprach zu ihnen: Ein jeglich Reich, so es mit sich selbst uneins wird, das wird wüst; und ein Haus fällt über das andere. Ist denn der Satanas auch mit sich selbst uneins, wie will sein Reich bestehen? dieweil ihr sagt, ich treibe die Teufel aus durch Beelzebub. So aber ich die Teufel durch Beelzebub austreibe, durch wen treiben sie eure Kinder aus? Darum werden sie eure Richter sein. So ich aber durch Gottes Finger die Teufel austreibe, so kommt ja das Reich Gottes zu euch. Wenn ein starker Gewappneter seinen Palast bewahrt, so bleibt das seine mit Frieden. Wenn aber ein Stärkerer über ihn kommt und überwindet ihn, so nimmt er ihm seinen Harnisch, darauf er sich verließ, und teilt den Raub aus. Wer nicht mit mir ist, der ist wider mich; und wer nicht mit mir sammelt, der zerstreut. Wenn der unsaubere Geist von dem Menschen ausfährt, so durchwandelt er dürre Stätten, sucht Ruhe und findet sie nicht, so spricht er: Ich will wieder umkehren in mein Haus, daraus ich gegangen bin. Und wenn er kommt, so findet er's gekehrt und geschmückt. Dann geht er hin und nimmt sieben Geister zu sich, die ärger sind denn er selbst; und wenn sie hineinkommen, wohnen sie da, und es wird hernach mit demselben Menschen ärger denn zuvor. Und es begab sich, da er solches redete, erhob ein Weib im Volk die Stimme und sprach zu ihm: Selig ist der Leib, der dich getragen hat, und die Brüste, die du gesogen hast. Er aber sprach: Ja, selig sind, die das Wort Gottes hören und bewahren.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Eph 5,1-9",
+      "text": "So seid nun Gottes Nachfolger als die lieben Kinder und wandelt in der Liebe, gleichwie Christus uns hat geliebt und sich selbst dargegeben für uns als Gabe und Opfer, Gott zu einem süßen Geruch. Hurerei aber und alle Unreinigkeit oder Geiz lasset nicht von euch gesagt werden, wie den Heiligen zusteht, auch nicht schandbare Worte und Narrenteidinge oder Scherze, welche euch nicht ziemen, sondern vielmehr Danksagung. Denn das sollt ihr wissen, daß kein Hurer oder Unreiner oder Geiziger, welcher ist ein Götzendiener, Erbe hat in dem Reich Christi und Gottes. Lasset euch niemand verführen mit vergeblichen Worten; denn um dieser Dinge willen kommt der Zorn Gottes über die Kinder des Unglaubens. Darum seid nicht ihr Mitgenossen. Denn ihr waret weiland Finsternis; nun aber seid ihr ein Licht in dem HERRN. Wandelt wie die Kinder des Lichts, die Frucht des Geistes ist allerlei Gütigkeit und Gerechtigkeit und Wahrheit,",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 84",
+      "text": "Ein Psalm der Kinder Korah, auf der Gittith, vorzusingen. Wie lieblich sind deine Wohnungen, HERR Zebaoth! Meine Seele verlangt und sehnt sich nach den Vorhöfen des HERRN; mein Leib und Seele freuen sich in dem lebendigen Gott. Denn der Vogel hat ein Haus gefunden und die Schwalbe ihr Nest, da sie Junge hecken: deine Altäre, HERR Zebaoth, mein König und Gott. Wohl denen, die in deinem Hause wohnen; die loben dich immerdar. (Sela.) Wohl den Menschen, die dich für ihre Stärke halten und von Herzen dir nachwandeln, die durch das Jammertal gehen und machen daselbst Brunnen; und die Lehrer werden mit viel Segen geschmückt. Sie erhalten einen Sieg nach dem andern, daß man sehen muß, der rechte Gott sei zu Zion. HERR, Gott Zebaoth, erhöre mein Gebet; vernimm's, Gott Jakobs! (Sela.) Gott, unser Schild, schaue doch; siehe an das Antlitz deines Gesalbten! Denn ein Tag in deinen Vorhöfen ist besser denn sonst tausend; ich will lieber der Tür hüten in meines Gottes Hause denn wohnen in der Gottlosen Hütten. Denn Gott der HERR ist Sonne und Schild; der HERR gibt Gnade und Ehre: er wird kein Gutes mangeln lassen den Frommen. HERR Zebaoth, wohl dem Menschen, der sich auf dich verläßt!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

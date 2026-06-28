@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-10",
+  "name": "10. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 19,41-48",
+      "stable": true,
+      "text": "Und als er nahe hinzukam, sah er die Stadt an und weinte über sie und sprach: Wenn doch auch du erkenntest zu dieser deiner Zeit, was zu deinem Frieden dient! Aber nun ist's vor deinen Augen verborgen. Denn es wird die Zeit über dich kommen, daß deine Feinde werden um dich und deine Kinder mit dir eine Wagenburg schlagen, dich belagern und an allen Orten ängsten; und werden dich schleifen und keinen Stein auf dem andern lassen, darum daß du nicht erkannt hast die Zeit, darin du heimgesucht bist. Und er ging in den Tempel und fing an auszutreiben, die darin verkauften und kauften, und er sprach zu ihnen: Es steht geschrieben: \"Mein Haus ist ein Bethaus\"; ihr aber habt's gemacht zur Mördergrube. Und er lehrte täglich im Tempel. Aber die Hohenpriester und Schriftgelehrten und die Vornehmsten im Volk trachteten ihm nach, wie sie ihn umbrächten; und fanden nicht, wie sie ihm tun sollten, denn das Volk hing ihm an und hörte ihn.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Kor 12,1-11",
+      "text": "Von den geistlichen Gaben aber will ich euch, liebe Brüder, nicht verhalten. Ihr wisset, daß ihr Heiden seid gewesen und hingegangen zu den stummen Götzen, wie ihr geführt wurdet. Darum tue ich euch kund, daß niemand Jesum verflucht, der durch den Geist Gottes redet; und niemand kann Jesum einen HERRN heißen außer durch den heiligen Geist. Es sind mancherlei Gaben; aber es ist ein Geist. Und es sind mancherlei Ämter; aber es ist ein HERR. Und es sind mancherlei Kräfte; aber es ist ein Gott, der da wirket alles in allem. In einem jeglichen erzeigen sich die Gaben des Geistes zum allgemeinen Nutzen. Einem wird gegeben durch den Geist, zu reden von der Weisheit; dem andern wird gegeben, zu reden von der Erkenntnis nach demselben Geist; einem andern der Glaube in demselben Geist; einem andern die Gabe, gesund zu machen in demselben Geist; einem andern, Wunder zu tun; einem andern Weissagung; einem andern, Geister zu unterscheiden; einem andern mancherlei Sprachen; einem andern, die Sprachen auszulegen. Dies aber alles wirkt derselbe eine Geist und teilt einem jeglichen seines zu, nach dem er will.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 48",
+      "text": "Ein Psalmlied der Kinder Korah. Groß ist der HERR und hochberühmt in der Stadt unsers Gottes, auf seinem heiligen Berge. Schön ragt empor der Berg Zion, des sich das ganze Land tröstet; an der Seite gegen Mitternacht liegt die Stadt des großen Königs. Gott ist in ihren Palästen bekannt, daß er der Schutz sei. Denn siehe, Könige waren versammelt und sind miteinander vorübergezogen. Sie haben sich verwundert, da sie solches sahen; sie haben sich entsetzt und sind davon gestürzt. Zittern ist sie daselbst angekommen, Angst wie eine Gebärerin. Du zerbrichst die Schiffe im Meer durch den Ostwind. Wie wir gehört haben, so sehen wir's an der Stadt des HERRN Zebaoth, an der Stadt unsers Gottes; Gott erhält sie ewiglich. (Sela.) Gott, wir gedenken deiner Güte in deinem Tempel. Gott, wie dein Name, so ist auch dein Ruhm bis an der Welt Enden; deine Rechte ist voll Gerechtigkeit. Es freue sich der Berg Zion, und die Töchter Juda's seien fröhlich um deiner Gerichte willen. Machet euch um Zion und umfanget sie, zählet ihre Türme; achtet mit Fleiß auf ihre Mauern, durchwandelt ihre Paläste, auf daß ihr davon verkündiget den Nachkommen, daß dieser Gott sei unser Gott immer und ewiglich. Er führt uns wie die Jugend.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

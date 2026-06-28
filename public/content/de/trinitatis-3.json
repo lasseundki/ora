@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-3",
+  "name": "3. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 15,1-10",
+      "stable": true,
+      "text": "Es nahten aber zu ihm allerlei Zöllner und Sünder, daß sie ihn hörten. Und die Pharisäer und Schriftgelehrten murrten und sprachen: Dieser nimmt die Sünder an und isset mit ihnen. Er sagte aber zu ihnen dies Gleichnis und sprach: Welcher Mensch ist unter euch, der hundert Schafe hat und, so er der eines verliert, der nicht lasse die neunundneunzig in der Wüste und hingehe nach dem verlorenen, bis daß er's finde? Und wenn er's gefunden hat, so legt er's auf seine Achseln mit Freuden. Und wenn er heimkommt, ruft er seine Freunde und Nachbarn und spricht zu ihnen: Freuet euch mit mir; denn ich habe mein Schaf gefunden, das verloren war. Ich sage euch: Also wird auch Freude im Himmel sein über einen Sünder, der Buße tut, vor neunundneunzig Gerechten, die der Buße nicht bedürfen. Oder welches Weib ist, die zehn Groschen hat, so sie der einen verliert, die nicht ein Licht anzünde und kehre das Haus und suche mit Fleiß, bis daß sie ihn finde? Und wenn sie ihn gefunden hat, ruft sie ihre Freundinnen und Nachbarinnen und spricht: Freuet euch mit mir; denn ich habe meinen Groschen gefunden, den ich verloren hatte. Also auch, sage ich euch, wird Freude sein vor den Engeln Gottes über einen Sünder, der Buße tut.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Petr 5,6-11",
+      "text": "So demütiget euch nun unter die gewaltige Hand Gottes, daß er euch erhöhe zu seiner Zeit. Alle Sorge werfet auf ihn; denn er sorgt für euch. Seid nüchtern und wachet; denn euer Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, welchen er verschlinge. Dem widerstehet, fest im Glauben, und wisset, daß ebendieselben Leiden über eure Brüder in der Welt gehen. Der Gott aber aller Gnade, der uns berufen hat zu seiner ewigen Herrlichkeit in Christo Jesu, der wird euch, die ihr eine kleine Zeit leidet, vollbereiten, stärken, kräftigen, gründen. Ihm sei Ehre und Macht von Ewigkeit zu Ewigkeit! Amen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 103",
+      "text": "Ein Psalm Davids. Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen Namen! Lobe den HERRN, meine Seele, und vergiß nicht, was er dir Gutes getan hat: der dir alle deine Sünden vergibt und heilet alle deine Gebrechen, der dein Leben vom Verderben erlöst, der dich krönt mit Gnade und Barmherzigkeit, der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler. Der HERR schafft Gerechtigkeit und Gericht allen, die Unrecht leiden. Er hat seine Wege Mose wissen lassen, die Kinder Israel sein Tun. Barmherzig und gnädig ist der HERR, geduldig und von großer Güte. Er wird nicht immer hadern noch ewiglich Zorn halten. Er handelt nicht mit uns nach unsern Sünden und vergilt uns nicht nach unsrer Missetat. Denn so hoch der Himmel über der Erde ist, läßt er seine Gnade walten über die, so ihn fürchten. So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein. Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten. Denn er kennt, was für ein Gemächte wir sind; er gedenkt daran, daß wir Staub sind. Ein Mensch ist in seinem Leben wie Gras, er blüht wie eine Blume auf dem Feld; wenn der Wind darüber geht, so ist sie nimmer da, und ihre Stätte kennt sie nicht mehr. Die Gnade aber des HERRN währet von Ewigkeit zu Ewigkeit über die, so ihn fürchten, und seine Gerechtigkeit auf Kindeskind bei denen, die seinen Bund halten und gedenken an seine Gebote, daß sie darnach tun. Der HERR hat seinen Stuhl im Himmel bereitet, und sein Reich herrscht über alles. Lobet den HERRN, ihr seine Engel, ihr starken Helden, die ihr seine Befehle ausrichtet, daß man höre auf die Stimme seines Wortes! Lobet den HERRN, alle seine Heerscharen, seine Diener, die ihr seinen Willen tut! Lobet den HERRN, alle seine Werke, an allen Orten seiner Herrschaft! Lobe den HERRN, meine Seele!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

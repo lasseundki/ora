@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-5",
+  "name": "5. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 5,1-11",
+      "stable": true,
+      "text": "Es begab sich aber, da sich das Volk zu ihm drängte, zu hören das Wort Gottes, daß er stand am See Genezareth und sah zwei Schiffe am See stehen, die Fischer aber waren ausgetreten und wuschen ihre Netze. Da trat er in der Schiffe eines, welches Simons war, und bat ihn, daß er's ein wenig vom Lande führte. Und er setzte sich und lehrte das Volk aus dem Schiff. Und als er hatte aufgehört zu reden, sprach er zu Simon: Fahre auf die Höhe und werfet eure Netze aus, daß ihr einen Zug tut. Und Simon antwortete und sprach zu ihm: Meister, wir haben die ganze Nacht gearbeitet und nichts gefangen, aber auf dein Wort will ich das Netz auswerfen. Und da sie das taten, beschlossen sie eine große Menge Fische, und ihr Netz zerriß. Und sie winkten ihren Gesellen, die im andern Schiff waren, daß sie kämen und hülfen ihnen ziehen. Und sie kamen und füllten beide Schiffe voll, also daß sie sanken. Da das Simon Petrus sah, fiel er Jesu zu den Knieen und sprach: HERR, gehe von mir hinaus! ich bin ein sündiger Mensch. Denn es war ihn ein Schrecken angekommen, ihn und alle, die mit ihm waren, über diesen Fischzug, den sie miteinander getan hatten; desgleichen auch Jakobus und Johannes, die Söhne des Zebedäus, Simons Gesellen. Und Jesus sprach zu Simon: Fürchte dich nicht; denn von nun an wirst du Menschen fangen. Und sie führten die Schiffe zu Lande und verließen alles und folgten ihm nach.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Petr 3,8-15",
+      "text": "Endlich aber seid allesamt gleichgesinnt, mitleidig, brüderlich, barmherzig, freundlich. Vergeltet nicht Böses mit Bösem oder Scheltwort mit Scheltwort, sondern dagegen segnet, und wisset, daß ihr dazu berufen seid, daß ihr den Segen erbet. Denn wer leben will und gute Tage sehen, der schweige seine Zunge, daß sie nichts Böses rede, und seine Lippen, daß sie nicht trügen. Er wende sich vom Bösen und tue Gutes; er suche Frieden und jage ihm nach. Denn die Augen des HERRN merken auf die Gerechten und seine Ohren auf ihr Gebet; das Angesicht aber des HERRN steht wider die, die Böses tun. Und wer ist, der euch schaden könnte, so ihr dem Gutem nachkommt? Und ob ihr auch leidet um Gerechtigkeit willen, so seid ihr doch selig. Fürchtet euch aber vor ihrem Trotzen nicht und erschrecket nicht; heiligt aber Gott den HERRN in euren Herzen. Seid allezeit bereit zur Verantwortung jedermann, der Grund fordert der Hoffnung, die in euch ist,",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 16",
+      "text": "Ein gülden Kleinod Davids. Bewahre mich Gott; denn ich traue auf dich. Ich habe gesagt zu dem HERRN: Du bist ja der HERR; ich weiß von keinem Gute außer dir. An den Heiligen, so auf Erden sind, und den Herrlichen, an denen hab ich all mein Gefallen. Aber jene, die einem andern nacheilen, werden groß Herzeleid haben. Ich will ihre Trankopfer mit Blut nicht opfern noch ihren Namen in meinem Munde führen. Der HERR aber ist mein Gut und mein Teil; du erhältst mein Erbteil. Das Los ist mir gefallen aufs Liebliche; mir ist ein schön Erbteil geworden. Ich lobe den HERRN, der mir geraten hat; auch züchtigen mich meine Nieren des Nachts. Ich habe den HERRN allezeit vor Augen; denn er ist mir zur Rechten, so werde ich fest bleiben. Darum freut sich mein Herz, und meine Ehre ist fröhlich; auch mein Fleisch wird sicher liegen. Denn du wirst meine Seele nicht dem Tode lassen und nicht zugeben, daß dein Heiliger verwese. Du tust mir kund den Weg zum Leben; vor dir ist Freude die Fülle und liebliches Wesen zu deiner Rechten ewiglich.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

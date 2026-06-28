@@ -1,0 +1,32 @@
+{
+  "id": "gruendonnerstag",
+  "name": "Gründonnerstag",
+  "season": "passion",
+  "color": "white",
+  "rank": "fest",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 22,7-20",
+      "stable": true,
+      "text": "Es kam nun der Tag der süßen Brote, an welchem man mußte opfern das Osterlamm. Und er sandte Petrus und Johannes und sprach: Gehet hin, bereitet uns das Osterlamm, auf daß wir's essen. Sie aber sprachen zu ihm: Wo willst du, daß wir's bereiten? Er sprach zu ihnen: Siehe, wenn ihr hineinkommt in die Stadt, wird euch ein Mensch begegnen, der trägt einen Wasserkrug; folget ihm nach in das Haus, da er hineingeht, und saget zu dem Hausherrn: Der Meister läßt dir sagen: Wo ist die Herberge, darin ich das Osterlamm essen möge mit meinen Jüngern? Und er wird euch einen großen Saal zeigen, der mit Polstern versehen ist; daselbst bereitet es. Sie gingen hin und fanden, wie er ihnen gesagt hatte, und bereiteten das Osterlamm. Und da die Stunde kam, setzte er sich nieder und die zwölf Apostel mit ihm. Und er sprach zu ihnen: Mich hat herzlich verlangt, dies Osterlamm mit euch zu essen, ehe denn ich leide. Denn ich sage euch, daß ich hinfort nicht mehr davon essen werde, bis daß es erfüllet werde im Reich Gottes. Und er nahm den Kelch, dankte und sprach: Nehmet ihn und teilet ihn unter euch; denn ich sage euch: Ich werde nicht trinken von dem Gewächs des Weinstocks, bis das Reich Gottes komme. Und er nahm das Brot, dankte und brach's und gab's ihnen und sprach: Das ist mein Leib, der für euch gegeben wird; das tut zu meinem Gedächtnis. Desgleichen auch den Kelch, nach dem Abendmahl, und sprach: Das ist der Kelch, das neue Testament in meinem Blut, das für euch vergossen wird.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Kor 11,20-32",
+      "text": "Wenn ihr nun zusammenkommt, so hält man da nicht des HERRN Abendmahl. Denn so man das Abendmahl halten soll, nimmt ein jeglicher sein eigenes vorhin, und einer ist hungrig, der andere ist trunken. Habt ihr aber nicht Häuser, da ihr essen und trinken könnt? Oder verachtet ihr die Gemeinde Gottes und beschämet die, so da nichts haben? Was soll ich euch sagen? Soll ich euch loben? Hierin lobe ich euch nicht. Ich habe es von dem HERRN empfangen, das ich euch gegeben habe. Denn der HERR Jesus in der Nacht, da er verraten ward, nahm das Brot, dankte und brach's und sprach: Nehmet, esset, das ist mein Leib, der für euch gebrochen wird; solches tut zu meinem Gedächtnis. Desgleichen auch den Kelch nach dem Abendmahl und sprach: Dieser Kelch ist das neue Testament in meinem Blut; solches tut, so oft ihr's trinket, zu meinem Gedächtnis. Denn so oft ihr von diesem Brot esset und von diesem Kelch trinket, sollt ihr des HERRN Tod verkündigen, bis daß er kommt.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 116",
+      "text": "Das ist mir lieb, daß der HERR meine Stimme und mein Flehen hört. Denn er neigte sein Ohr zu mir; darum will ich mein Leben lang ihn anrufen. Stricke des Todes hatten mich umfangen, und Ängste der Hölle hatten mich getroffen; ich kam in Jammer und Not. Aber ich rief an den Namen des HERRN: O HERR, errette mein Seele! Der HERR ist gnädig und gerecht, und unser Gott ist barmherzig. Der HERR behütet die Einfältigen; wenn ich unterliege, so hilft er mir. Sei nun wieder zufrieden, meine Seele; denn der HERR tut dir Gutes. Denn du hast meine Seele aus dem Tode gerissen, meine Augen von den Tränen, meinen Fuß vom Gleiten. Ich werde wandeln vor dem HERRN im Lande der Lebendigen. Ich glaube, darum rede ich; ich werde aber sehr geplagt. Ich sprach in meinem Zagen: Alle Menschen sind Lügner. Wie soll ich dem HERRN vergelten alle seine Wohltat, die er an mir tut? Ich will den Kelch des Heils nehmen und des HERRN Namen predigen. Ich will mein Gelübde dem HERRN bezahlen vor allem seinem Volk. Der Tod seiner Heiligen ist wertgehalten vor dem HERRN. O HERR, ich bin dein Knecht; ich bin dein Knecht, deiner Magd Sohn. Du hast meine Bande zerrissen. Dir will ich Dank opfern und des HERRN Namen predigen. Ich will meine Gelübde dem HERRN bezahlen vor allem seinem Volk, in den Höfen am Hause des HERRN, in dir Jerusalem. Halleluja!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

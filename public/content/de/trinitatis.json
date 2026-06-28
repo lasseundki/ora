@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis",
+  "name": "Trinitatis",
+  "season": "trinitatis",
+  "color": "white",
+  "rank": "fest",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Joh 3,1-15",
+      "stable": true,
+      "text": "Es war aber ein Mensch unter den Pharisäern mit Namen Nikodemus, ein Oberster unter den Juden. Der kam zu Jesu bei der Nacht und sprach zu ihm: Meister, wir wissen, daß du bist ein Lehrer von Gott gekommen; denn niemand kann die Zeichen tun, die du tust, es sei denn Gott mit ihm. Jesus antwortete und sprach zu ihm: Wahrlich, wahrlich, ich sage dir: Es sei denn, daß jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen. Nikodemus spricht zu ihm: Wie kann ein Mensch geboren werden wenn er alt ist? Kann er auch wiederum in seiner Mutter Leib gehen und geboren werden? Jesus antwortete: Wahrlich, wahrlich ich sage dir: Es sei denn daß jemand geboren werde aus Wasser und Geist, so kann er nicht in das Reich Gottes kommen. Was vom Fleisch geboren wird, das ist Fleisch; und was vom Geist geboren wird, das ist Geist. Laß dich's nicht wundern, daß ich dir gesagt habe: Ihr müsset von neuem geboren werden. Der Wind bläst, wo er will, und du hörst sein Sausen wohl; aber du weißt nicht, woher er kommt und wohin er fährt. Also ist ein jeglicher, der aus dem Geist geboren ist. Nikodemus antwortete und sprach zu ihm: Wie mag solches zugehen? Jesus antwortete und sprach zu ihm: Bist du ein Meister in Israel und weißt das nicht? Wahrlich, wahrlich ich sage dir: Wir reden, was wir wissen, und zeugen, was wir gesehen haben; und ihr nehmt unser Zeugnis nicht an. Glaubet ihr nicht, wenn ich euch von irdischen Dingen sage, wie würdet ihr glauben, wenn ich euch von himmlischen Dingen sagen würde? Und niemand fährt gen Himmel, denn der vom Himmel herniedergekommen ist, nämlich des Menschen Sohn, der im Himmel ist. Und wie Mose in der Wüste eine Schlange erhöht hat, also muß des Menschen Sohn erhöht werden, auf das alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Röm 11,33-36",
+      "text": "O welch eine Tiefe des Reichtums, beides, der Weisheit und Erkenntnis Gottes! Wie gar unbegreiflich sind sein Gerichte und unerforschlich seine Wege! Denn wer hat des HERRN Sinn erkannt, oder wer ist sein Ratgeber gewesen? Oder wer hat ihm etwas zuvor gegeben, daß ihm werde wiedervergolten? Denn von ihm und durch ihn und zu ihm sind alle Dinge. Ihm sei Ehre in Ewigkeit! Amen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 8",
+      "text": "Ein Psalm Davids, vorzusingen, auf der Gittith. HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen, du, den man lobt im Himmel! Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, daß du vertilgest den Feind und den Rachgierigen. Wenn ich sehe die Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast: was ist der Mensch, daß du seiner gedenkst, und des Menschenkind, daß du sich seiner annimmst? Du hast ihn wenig niedriger gemacht denn Gott, und mit Ehre und Schmuck hast du ihn gekrönt. Du hast ihn zum Herrn gemacht über deiner Hände Werk; alles hast du unter seine Füße getan: Schafe und Ochsen allzumal, dazu auch die wilden Tiere, die Vögel unter dem Himmel und die Fische im Meer und was im Meer geht. HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

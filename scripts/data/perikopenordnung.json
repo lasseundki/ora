@@ -1,9 +1,9 @@
 {
   "_meta": {
     "source": "Historische Eisenacher Perikopenordnung (1896)",
-    "note": "PRÜFPFLICHT: Alle Referenzen gegen eine primäre Quelle (z. B. historische Agende der SELK oder ELKiD) verifizieren, bevor Inhalte publiziert werden.",
-    "scope": "Advent–Epiphanias (MVP-Segment)",
-    "cycle": "Einjährig (keine Jahreszyklus-Variante)"
+    "note": "PRÜFPFLICHT: Alle Referenzen gegen eine primäre Quelle (z. B. historische Agende der SELK oder ELKiD) verifizieren. Einige Episteln sind auf ein Kapitel gekürzt (Parser-Limitation bei kapitelübergreifenden Angaben). Mehrkapitel-Originale sind im Kommentar vermerkt.",
+    "scope": "Gesamtes Kirchenjahr",
+    "cycle": "Einjährig (Eisenacher Ordnung)"
   },
   "days": [
     {
@@ -13,7 +13,7 @@
       "color": "violet",
       "rank": "sonntag",
       "readings": {
-        "gospel":  { "ref": "Matt 21,1-9",   "stable": true },
+        "gospel":  { "ref": "Matt 21,1-9",  "stable": true },
         "epistle": { "ref": "Röm 13,11-14" },
         "psalm":   { "ref": "Ps 24" }
       }
@@ -148,6 +148,655 @@
         "gospel":  { "ref": "Matt 8,1-13",   "stable": true },
         "epistle": { "ref": "Röm 12,17-21" },
         "psalm":   { "ref": "Ps 107" }
+      }
+    },
+    {
+      "id": "epiphanias-4",
+      "name": "4. Sonntag nach Epiphanias",
+      "season": "epiphanias",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 8,23-27",  "stable": true },
+        "epistle": { "ref": "Röm 13,8-10" },
+        "psalm":   { "ref": "Ps 107" }
+      }
+    },
+    {
+      "id": "epiphanias-5",
+      "name": "5. Sonntag nach Epiphanias",
+      "season": "epiphanias",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 13,24-30", "stable": true },
+        "epistle": { "ref": "Kol 3,12-17" },
+        "psalm":   { "ref": "Ps 104" }
+      }
+    },
+    {
+      "id": "epiphanias-6",
+      "name": "6. Sonntag nach Epiphanias",
+      "season": "epiphanias",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 13,31-35", "stable": true },
+        "epistle": { "ref": "1Thess 1,2-10" },
+        "psalm":   { "ref": "Ps 92" }
+      }
+    },
+    {
+      "id": "septuagesimae",
+      "name": "Septuagesimae",
+      "season": "vorfasten",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 20,1-16",  "stable": true },
+        "epistle": { "ref": "1Kor 9,24-27",  "_note": "Orig.: 1Kor 9,24–10,5 — kapitelübergreifend, gekürzt" },
+        "psalm":   { "ref": "Ps 31" }
+      }
+    },
+    {
+      "id": "sexagesimae",
+      "name": "Sexagesimae",
+      "season": "vorfasten",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 8,4-15",    "stable": true },
+        "epistle": { "ref": "2Kor 12,1-9",   "_note": "Orig.: 2Kor 11,19–12,9 — kapitelübergreifend, Kerntext gewählt" },
+        "psalm":   { "ref": "Ps 119" }
+      }
+    },
+    {
+      "id": "estomihi",
+      "name": "Estomihi (Quinquagesimae)",
+      "season": "vorfasten",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 18,31-43",  "stable": true },
+        "epistle": { "ref": "1Kor 13,1-13" },
+        "psalm":   { "ref": "Ps 31" }
+      }
+    },
+    {
+      "id": "aschermittwoch",
+      "name": "Aschermittwoch",
+      "season": "passion",
+      "color": "violet",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Matt 6,16-21",  "stable": true },
+        "epistle": { "ref": "2Kor 6,1-10" },
+        "psalm":   { "ref": "Ps 51" }
+      }
+    },
+    {
+      "id": "invocavit",
+      "name": "Invocavit",
+      "season": "passion",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 4,1-11",   "stable": true },
+        "epistle": { "ref": "2Kor 6,1-10" },
+        "psalm":   { "ref": "Ps 91" }
+      }
+    },
+    {
+      "id": "reminiscere",
+      "name": "Reminiscere",
+      "season": "passion",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 15,21-28", "stable": true },
+        "epistle": { "ref": "1Thess 4,1-7" },
+        "psalm":   { "ref": "Ps 25" }
+      }
+    },
+    {
+      "id": "oculi",
+      "name": "Oculi",
+      "season": "passion",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 11,14-28",  "stable": true },
+        "epistle": { "ref": "Eph 5,1-9" },
+        "psalm":   { "ref": "Ps 84" }
+      }
+    },
+    {
+      "id": "laetare",
+      "name": "Laetare",
+      "season": "passion",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 6,1-15",   "stable": true },
+        "epistle": { "ref": "Gal 4,21-31" },
+        "psalm":   { "ref": "Ps 122" }
+      }
+    },
+    {
+      "id": "judika",
+      "name": "Judika",
+      "season": "passion",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 8,46-59",  "stable": true },
+        "epistle": { "ref": "Hebr 9,11-15" },
+        "psalm":   { "ref": "Ps 43" }
+      }
+    },
+    {
+      "id": "palmarum",
+      "name": "Palmarum (Palmsonntag)",
+      "season": "passion",
+      "color": "violet",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 21,1-9",  "stable": true },
+        "epistle": { "ref": "Phil 2,5-11" },
+        "psalm":   { "ref": "Ps 24" }
+      }
+    },
+    {
+      "id": "gruendonnerstag",
+      "name": "Gründonnerstag",
+      "season": "passion",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Lk 22,7-20",   "stable": true },
+        "epistle": { "ref": "1Kor 11,20-32" },
+        "psalm":   { "ref": "Ps 116" }
+      }
+    },
+    {
+      "id": "karfreitag",
+      "name": "Karfreitag",
+      "season": "passion",
+      "color": "black",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Joh 19,1-30",  "stable": true },
+        "epistle": { "ref": "Jes 53,1-12",   "_note": "Orig. Leidenslesung: Jes 52,13–53,12 — Kapitel 52 fehlt" },
+        "psalm":   { "ref": "Ps 22" }
+      }
+    },
+    {
+      "id": "ostersonntag",
+      "name": "Ostersonntag",
+      "season": "ostern",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Mk 16,1-8",    "stable": true },
+        "epistle": { "ref": "1Kor 5,6-8" },
+        "psalm":   { "ref": "Ps 118" }
+      }
+    },
+    {
+      "id": "ostermontag",
+      "name": "Ostermontag",
+      "season": "ostern",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Lk 24,13-35",  "stable": true },
+        "epistle": { "ref": "Apg 10,34-43" },
+        "psalm":   { "ref": "Ps 111" }
+      }
+    },
+    {
+      "id": "quasimodogeniti",
+      "name": "Quasimodogeniti",
+      "season": "ostern",
+      "color": "white",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 20,19-31", "stable": true },
+        "epistle": { "ref": "1Joh 5,4-12" },
+        "psalm":   { "ref": "Ps 116" }
+      }
+    },
+    {
+      "id": "misericordias",
+      "name": "Misericordias Domini",
+      "season": "ostern",
+      "color": "white",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 10,11-16", "stable": true },
+        "epistle": { "ref": "1Petr 2,21-25" },
+        "psalm":   { "ref": "Ps 23" }
+      }
+    },
+    {
+      "id": "jubilate",
+      "name": "Jubilate",
+      "season": "ostern",
+      "color": "white",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 16,16-23", "stable": true },
+        "epistle": { "ref": "1Petr 2,11-20" },
+        "psalm":   { "ref": "Ps 66" }
+      }
+    },
+    {
+      "id": "cantate",
+      "name": "Cantate",
+      "season": "ostern",
+      "color": "white",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 16,5-15",  "stable": true },
+        "epistle": { "ref": "Jak 1,16-21" },
+        "psalm":   { "ref": "Ps 98" }
+      }
+    },
+    {
+      "id": "rogate",
+      "name": "Rogate",
+      "season": "ostern",
+      "color": "white",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 16,23-33", "stable": true },
+        "epistle": { "ref": "Jak 5,13-18" },
+        "psalm":   { "ref": "Ps 93" }
+      }
+    },
+    {
+      "id": "himmelfahrt",
+      "name": "Christi Himmelfahrt",
+      "season": "ostern",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Mk 16,14-20",  "stable": true },
+        "epistle": { "ref": "Apg 1,1-11" },
+        "psalm":   { "ref": "Ps 47" }
+      }
+    },
+    {
+      "id": "exaudi",
+      "name": "Exaudi",
+      "season": "ostern",
+      "color": "white",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 16,1-11",  "_note": "Orig.: Joh 15,26–16,4 — kapitelübergreifend, Kapitel 16 gewählt" },
+        "epistle": { "ref": "1Petr 4,8-11" },
+        "psalm":   { "ref": "Ps 27" }
+      }
+    },
+    {
+      "id": "pfingstsonntag",
+      "name": "Pfingstsonntag",
+      "season": "pfingsten",
+      "color": "red",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Joh 14,23-31", "stable": true },
+        "epistle": { "ref": "Apg 2,1-13" },
+        "psalm":   { "ref": "Ps 104" }
+      }
+    },
+    {
+      "id": "pfingstmontag",
+      "name": "Pfingstmontag",
+      "season": "pfingsten",
+      "color": "red",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Joh 3,16-21",  "stable": true },
+        "epistle": { "ref": "Apg 10,42-48" },
+        "psalm":   { "ref": "Ps 68" }
+      }
+    },
+    {
+      "id": "trinitatis",
+      "name": "Trinitatis",
+      "season": "trinitatis",
+      "color": "white",
+      "rank": "fest",
+      "readings": {
+        "gospel":  { "ref": "Joh 3,1-15",   "stable": true },
+        "epistle": { "ref": "Röm 11,33-36" },
+        "psalm":   { "ref": "Ps 8" }
+      }
+    },
+    {
+      "id": "trinitatis-1",
+      "name": "1. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 16,19-31",  "stable": true },
+        "epistle": { "ref": "1Joh 4,16-21" },
+        "psalm":   { "ref": "Ps 32" }
+      }
+    },
+    {
+      "id": "trinitatis-2",
+      "name": "2. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 14,16-24",  "stable": true },
+        "epistle": { "ref": "1Joh 3,13-18" },
+        "psalm":   { "ref": "Ps 34" }
+      }
+    },
+    {
+      "id": "trinitatis-3",
+      "name": "3. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 15,1-10",   "stable": true },
+        "epistle": { "ref": "1Petr 5,6-11" },
+        "psalm":   { "ref": "Ps 103" }
+      }
+    },
+    {
+      "id": "trinitatis-4",
+      "name": "4. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 6,36-42",   "stable": true },
+        "epistle": { "ref": "Röm 8,18-23" },
+        "psalm":   { "ref": "Ps 27" }
+      }
+    },
+    {
+      "id": "trinitatis-5",
+      "name": "5. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 5,1-11",    "stable": true },
+        "epistle": { "ref": "1Petr 3,8-15" },
+        "psalm":   { "ref": "Ps 16" }
+      }
+    },
+    {
+      "id": "trinitatis-6",
+      "name": "6. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 5,20-26",  "stable": true },
+        "epistle": { "ref": "Röm 6,3-11" },
+        "psalm":   { "ref": "Ps 19" }
+      }
+    },
+    {
+      "id": "trinitatis-7",
+      "name": "7. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Mk 8,1-9",     "stable": true },
+        "epistle": { "ref": "Röm 6,19-23" },
+        "psalm":   { "ref": "Ps 145" }
+      }
+    },
+    {
+      "id": "trinitatis-8",
+      "name": "8. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 7,15-23",  "stable": true },
+        "epistle": { "ref": "Röm 8,12-17" },
+        "psalm":   { "ref": "Ps 86" }
+      }
+    },
+    {
+      "id": "trinitatis-9",
+      "name": "9. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 16,1-9",    "stable": true },
+        "epistle": { "ref": "1Kor 10,6-13" },
+        "psalm":   { "ref": "Ps 73" }
+      }
+    },
+    {
+      "id": "trinitatis-10",
+      "name": "10. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 19,41-48",  "stable": true },
+        "epistle": { "ref": "1Kor 12,1-11" },
+        "psalm":   { "ref": "Ps 48" }
+      }
+    },
+    {
+      "id": "trinitatis-11",
+      "name": "11. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 18,9-14",   "stable": true },
+        "epistle": { "ref": "1Kor 15,1-10" },
+        "psalm":   { "ref": "Ps 32" }
+      }
+    },
+    {
+      "id": "trinitatis-12",
+      "name": "12. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Mk 7,31-37",   "stable": true },
+        "epistle": { "ref": "2Kor 3,4-11" },
+        "psalm":   { "ref": "Ps 146" }
+      }
+    },
+    {
+      "id": "trinitatis-13",
+      "name": "13. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 10,23-37",  "stable": true },
+        "epistle": { "ref": "Gal 3,15-22" },
+        "psalm":   { "ref": "Ps 112" }
+      }
+    },
+    {
+      "id": "trinitatis-14",
+      "name": "14. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 17,11-19",  "stable": true },
+        "epistle": { "ref": "Gal 5,16-24" },
+        "psalm":   { "ref": "Ps 103" }
+      }
+    },
+    {
+      "id": "trinitatis-15",
+      "name": "15. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 6,24-34",  "stable": true },
+        "epistle": { "ref": "Gal 6,1-10",    "_note": "Orig.: Gal 5,25–6,10 — kapitelübergreifend, Kap. 6 gewählt" },
+        "psalm":   { "ref": "Ps 37" }
+      }
+    },
+    {
+      "id": "trinitatis-16",
+      "name": "16. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 7,11-17",   "stable": true },
+        "epistle": { "ref": "Eph 3,13-21" },
+        "psalm":   { "ref": "Ps 68" }
+      }
+    },
+    {
+      "id": "trinitatis-17",
+      "name": "17. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Lk 14,1-11",   "stable": true },
+        "epistle": { "ref": "Eph 4,1-6" },
+        "psalm":   { "ref": "Ps 25" }
+      }
+    },
+    {
+      "id": "trinitatis-18",
+      "name": "18. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 22,34-46", "stable": true },
+        "epistle": { "ref": "1Kor 1,4-9" },
+        "psalm":   { "ref": "Ps 19" }
+      }
+    },
+    {
+      "id": "trinitatis-19",
+      "name": "19. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 9,1-8",    "stable": true },
+        "epistle": { "ref": "Eph 4,22-28" },
+        "psalm":   { "ref": "Ps 32" }
+      }
+    },
+    {
+      "id": "trinitatis-20",
+      "name": "20. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 22,1-14",  "stable": true },
+        "epistle": { "ref": "Eph 5,15-21" },
+        "psalm":   { "ref": "Ps 23" }
+      }
+    },
+    {
+      "id": "trinitatis-21",
+      "name": "21. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Joh 4,46-54",  "stable": true },
+        "epistle": { "ref": "Eph 6,10-17" },
+        "psalm":   { "ref": "Ps 91" }
+      }
+    },
+    {
+      "id": "trinitatis-22",
+      "name": "22. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 18,23-35", "stable": true },
+        "epistle": { "ref": "Phil 1,3-11" },
+        "psalm":   { "ref": "Ps 103" }
+      }
+    },
+    {
+      "id": "trinitatis-23",
+      "name": "23. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 22,15-22", "stable": true },
+        "epistle": { "ref": "Phil 3,17-21" },
+        "psalm":   { "ref": "Ps 8" }
+      }
+    },
+    {
+      "id": "trinitatis-24",
+      "name": "24. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 9,18-26",  "stable": true },
+        "epistle": { "ref": "Kol 1,9-14" },
+        "psalm":   { "ref": "Ps 23" }
+      }
+    },
+    {
+      "id": "trinitatis-25",
+      "name": "25. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 24,15-28", "stable": true },
+        "epistle": { "ref": "1Thess 4,13-18" },
+        "psalm":   { "ref": "Ps 90" }
+      }
+    },
+    {
+      "id": "trinitatis-26",
+      "name": "26. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "readings": {
+        "gospel":  { "ref": "Matt 25,31-46", "stable": true },
+        "epistle": { "ref": "2Petr 3,3-14" },
+        "psalm":   { "ref": "Ps 98" }
+      }
+    },
+    {
+      "id": "trinitatis-27",
+      "name": "27. Sonntag nach Trinitatis",
+      "season": "trinitatis",
+      "color": "green",
+      "rank": "sonntag",
+      "_note": "Tritt nur in Jahren mit sehr spätem Osterdatum auf.",
+      "readings": {
+        "gospel":  { "ref": "Matt 25,1-13",  "stable": true },
+        "epistle": { "ref": "1Thess 5,1-11" },
+        "psalm":   { "ref": "Ps 90" }
       }
     }
   ]

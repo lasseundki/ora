@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-2",
+  "name": "2. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 14,16-24",
+      "stable": true,
+      "text": "Er aber sprach zu ihm: Es war ein Mensch, der machte ein großes Abendmahl und lud viele dazu. Und sandte seinen Knecht aus zur Stunde des Abendmahls, zu sagen den Geladenen: Kommt, denn es ist alles bereit! Und sie fingen an, alle nacheinander, sich zu entschuldigen. Der erste sprach zu ihm: Ich habe einen Acker gekauft und muß hinausgehen und ihn besehen; ich bitte dich, entschuldige mich. Und der andere sprach: Ich habe fünf Joch Ochsen gekauft, und ich gehe jetzt hin, sie zu besehen; ich bitte dich, entschuldige mich. Und der dritte sprach: Ich habe ein Weib genommen, darum kann ich nicht kommen. Und der Knecht kam und sagte das seinem Herrn wieder. Da ward der Hausherr zornig und sprach zu seinem Knechte: Gehe aus schnell auf die Straßen und Gassen der Stadt und führe die Armen und Krüppel und Lahmen und Blinden herein. Und der Knecht sprach: Herr, es ist geschehen, was du befohlen hast; es ist aber noch Raum da. Und der Herr sprach zu dem Knechte: Gehe aus auf die Landstraßen und an die Zäune und nötige sie hereinzukommen, auf das mein Haus voll werde. Ich sage euch aber, daß der Männer keiner, die geladen waren mein Abendmahl schmecken wird.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Joh 3,13-18",
+      "text": "Verwundert euch nicht, meine Brüder, wenn euch die Welt haßt. Wir wissen, daß wir aus dem Tode in das Leben gekommen sind; denn wir lieben die Brüder. Wer den Bruder nicht liebt, der bleibt im Tode. Wer seinen Bruder haßt, der ist ein Totschläger; und ihr wisset, daß ein Totschläger hat nicht das ewige Leben bei ihm bleibend. Daran haben wir erkannt die Liebe, daß er sein Leben für uns gelassen hat; und wir sollen auch das Leben für die Brüder lassen. Wenn aber jemand dieser Welt Güter hat und sieht seinen Bruder darben und schließt sein Herz vor ihm zu, wie bleibt die Liebe Gottes bei ihm? Meine Kindlein, laßt uns nicht lieben mit Worten noch mit der Zunge, sondern mit der Tat und mit der Wahrheit.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 34",
+      "text": "Ein Psalm Davids, da er seine Gebärde verstellte vor Abimelech, als der ihn von sich trieb und er wegging. Ich will den HERRN loben allezeit; sein Lob soll immerdar in meinem Munde sein. Meine Seele soll sich rühmen des HERRN, daß es die Elenden hören und sich freuen. Preiset mit mir den HERRN und laßt uns miteinander seinen Namen erhöhen. Da ich den HERRN suchte, antwortete er mir und errettete mich aus aller meiner Furcht. Welche auf ihn sehen, die werden erquickt, und ihr Angesicht wird nicht zu Schanden. Da dieser Elende rief, hörte der HERR und half ihm aus allen seinen Nöten. Der Engel des HERRN lagert sich um die her, so ihn fürchten, und hilft ihnen aus. Schmecket und sehet, wie freundlich der HERR ist. Wohl dem, der auf ihn traut! Fürchtet den HERRN, ihr seine Heiligen! denn die ihn fürchten, haben keinen Mangel. Reiche müssen darben und hungern; aber die den HERRN suchen, haben keinen Mangel an irgend einem Gut. Kommt her, Kinder, höret mir zu; ich will euch die Furcht des HERRN lehren: Wer ist, der Leben begehrt und gerne gute Tage hätte? Behüte deine Zunge vor Bösem und deine Lippen, daß sie nicht Trug reden. Laß vom Bösen und tue Gutes; suche Frieden und jage ihm nach. Die Augen des HERRN merken auf die Gerechten und seine Ohren auf ihr Schreien; das Antlitz aber des HERRN steht gegen die, so Böses tun, daß er ihr Gedächtnis ausrotte von der Erde. Wenn die Gerechten schreien, so hört der HERR und errettet sie aus all ihrer Not. Der HERR ist nahe bei denen, die zerbrochnes Herzens sind, und hilft denen, die ein zerschlagen Gemüt haben. Der Gerechte muß viel Leiden; aber der HERR hilft ihm aus dem allem. Er bewahrt ihm alle seine Gebeine, daß deren nicht eins zerbrochen wird. Den Gottlosen wird das Unglück töten; und die den Gerechten hassen, werden Schuld haben. Der HERR erlöst die Seele seiner Knechte; und alle, die auf ihn trauen, werden keine Schuld haben.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

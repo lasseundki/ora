@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-9",
+  "name": "9. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 16,1-9",
+      "stable": true,
+      "text": "Er aber sprach zu seinen Jüngern: Es war ein reicher Mann, der hatte einen Haushalter; der ward von ihm berüchtigt, als hätte er ihm seine Güter umgebracht. Und er forderte ihn und sprach zu ihm: Wie höre ich das von dir? Tu Rechnung von deinem Haushalten; denn du kannst hinfort nicht Haushalter sein! Der Haushalter sprach bei sich selbst: Was soll ich tun? Mein Herr nimmt das Amt von mir; graben kann ich nicht, so schäme ich mich zu betteln. Ich weiß wohl, was ich tun will, wenn ich nun von dem Amt gesetzt werde, daß sie mich in ihre Häuser nehmen. Und er rief zu sich alle Schuldner seines Herrn und sprach zu dem ersten: Wie viel bist du meinem Herrn schuldig? Er sprach: Hundert Tonnen Öl. Und er sprach zu ihm: Nimm deinen Brief, setze dich und schreib flugs fünfzig. Darnach sprach er zu dem andern: Du aber, wie viel bist du schuldig? Er sprach: Hundert Malter Weizen. Und er sprach zu ihm: Nimm deinen Brief und schreib achtzig. Und der HERR lobte den ungerechten Haushalter, daß er klüglich gehandelt hatte; denn die Kinder dieser Welt sind klüger als die Kinder des Lichtes in ihrem Geschlecht. Und ich sage euch auch: Machet euch Freunde mit dem ungerechten Mammon, auf daß, wenn ihr nun darbet, sie euch aufnehmen in die ewigen Hütten.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Kor 10,6-13",
+      "text": "Das ist aber uns zum Vorbilde geschehen, daß wir nicht uns gelüsten lassen des Bösen, gleichwie jene gelüstet hat. Werdet auch nicht Abgöttische, gleichwie jener etliche wurden, wie geschrieben steht: \"Das Volk setzte sich nieder, zu essen und zu trinken, und stand auf, zu spielen.\" Auch lasset uns nicht Hurerei treiben, wie etliche unter jenen Hurerei trieben, und fielen auf einen Tag dreiundzwanzigtausend. Lasset uns aber auch Christum nicht versuchen, wie etliche von jenen ihn versuchten und wurden von Schlangen umgebracht. Murrt auch nicht, gleichwie jener etliche murrten und wurden umgebracht durch den Verderber. Solches alles widerfuhr jenen zum Vorbilde; es ist aber geschrieben uns zur Warnung, auf welche das Ende der Welt gekommen ist. Darum, wer sich läßt dünken, er stehe, mag wohl zusehen, daß er nicht falle. Es hat euch noch keine denn menschliche Versuchung betreten; aber Gott ist getreu, der euch nicht läßt versuchen über euer Vermögen, sondern macht, daß die Versuchung so ein Ende gewinne, daß ihr's könnet ertragen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 73",
+      "text": "Ein Psalm Asaphs. Israel hat dennoch Gott zum Trost, wer nur reines Herzens ist. Ich aber hätte schier gestrauchelt mit meinen Füßen; mein Tritt wäre beinahe geglitten. Denn es verdroß mich der Ruhmredigen, da ich sah, daß es den Gottlosen so wohl ging. Denn sie sind in keiner Gefahr des Todes, sondern stehen fest wie ein Palast. Sie sind nicht in Unglück wie andere Leute und werden nicht wie andere Menschen geplagt. Darum muß ihr Trotzen köstlich Ding sein, und ihr Frevel muß wohl getan heißen. Ihre Person brüstet sich wie ein fetter Wanst; sie tun, was sie nur gedenken. Sie achten alles für nichts und reden übel davon und reden und lästern hoch her. Was sie reden, daß muß vom Himmel herab geredet sein; was sie sagen, das muß gelten auf Erden. Darum fällt ihnen ihr Pöbel zu und laufen ihnen zu mit Haufen wie Wasser und sprechen: \"Was sollte Gott nach jenen fragen? Was sollte der Höchste ihrer achten?\" Siehe, das sind die Gottlosen; die sind glücklich in der Welt und werden reich. Soll es denn umsonst sein, daß mein Herz unsträflich lebt und ich meine Hände in Unschuld wasche, ich bin geplagt täglich, und meine Strafe ist alle Morgen da? Ich hätte auch schier so gesagt wie sie; aber siehe, damit hätte ich verdammt alle meine Kinder, die je gewesen sind. Ich dachte ihm nach, daß ich's begreifen möchte; aber es war mir zu schwer, bis daß ich ging in das Heiligtum Gottes und merkte auf ihr Ende. Ja, du setzest sie aufs Schlüpfrige und stürzest sie zu Boden. Wie werden sie so plötzlich zunichte! Sie gehen unter und nehmen ein Ende mit Schrecken. Wie ein Traum, wenn einer erwacht, so machst du, HERR, ihr Bild in der Stadt verschmäht. Da es mir wehe tat im Herzen und mich stach in meine Nieren, da war ich ein Narr und wußte nichts; ich war wie ein Tier vor dir. Dennoch bleibe ich stets an dir; denn du hältst mich bei meiner rechten Hand, du leitest mich nach deinem Rat und nimmst mich endlich in Ehren an. Wenn ich nur dich habe, so frage ich nichts nach Himmel und Erde. Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil. Denn siehe, die von dir weichen, werden umkommen; du bringest um, alle die von dir abfallen. Aber das ist meine Freude, daß ich mich zu Gott halte und meine Zuversicht setzte auf den Herrn HERRN, daß ich verkündige all dein Tun.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

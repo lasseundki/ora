@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-18",
+  "name": "18. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 22,34-46",
+      "stable": true,
+      "text": "Da aber die Pharisäer hörten, wie er den Sadduzäern das Maul gestopft hatte, versammelten sie sich. Und einer unter ihnen, ein Schriftgelehrter, versuchte ihn und sprach: Meister, welches ist das vornehmste Gebot im Gesetz? Jesus aber sprach zu ihm: \"Du sollst lieben Gott, deinen HERRN, von ganzem Herzen, von ganzer Seele und von ganzem Gemüte.\" Dies ist das vornehmste und größte Gebot. Das andere aber ist ihm gleich: \"Du sollst deinen Nächsten lieben wie dich selbst.\" In diesen zwei Geboten hängt das ganze Gesetz und die Propheten. Da nun die Pharisäer beieinander waren, fragte sie Jesus und sprach: Wie dünkt euch um Christus? wes Sohn ist er? Sie sprachen: Davids. Er sprach zu ihnen: Wie nennt ihn denn David im Geist einen Herrn, da er sagt: \"Der HERR hat gesagt zu meinem Herrn: Setze dich zu meiner Rechten, bis daß ich lege deine Feinde zum Schemel deiner Füße\"? So nun David ihn einen HERRN nennt, wie ist er denn sein Sohn? Und niemand konnte ihm ein Wort antworten, und wagte auch niemand von dem Tage an hinfort, ihn zu fragen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Kor 1,4-9",
+      "text": "Ich danke meinem Gott allezeit eurethalben für die Gnade Gottes, die euch gegeben ist in Christo Jesu, daß ihr seid durch ihn an allen Stücken reich gemacht, an aller Lehre und in aller Erkenntnis; wie denn die Predigt von Christus in euch kräftig geworden ist, also daß ihr keinen Mangel habt an irgend einer Gabe und wartet nur auf die Offenbarung unsers HERRN Jesu Christi, welcher auch wird euch fest erhalten bis ans Ende, daß ihr unsträflich seid auf den Tag unsers HERRN Jesu Christi. Denn Gott ist treu, durch welchen ihr berufen seid zur Gemeinschaft seines Sohnes Jesu Christi, unsers HERRN.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 19",
+      "text": "Ein Psalm Davids, vorzusingen. Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk. Ein Tag sagt's dem andern, und eine Nacht tut's kund der andern. Es ist keine Sprache noch Rede, da man nicht ihre Stimme höre.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

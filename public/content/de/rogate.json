@@ -1,0 +1,32 @@
+{
+  "id": "rogate",
+  "name": "Rogate",
+  "season": "ostern",
+  "color": "white",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Joh 16,23-33",
+      "stable": true,
+      "text": "Und an dem Tage werdet ihr mich nichts fragen. Wahrlich, wahrlich ich sage euch: So ihr den Vater etwas bitten werdet in meinem Namen, so wird er's euch geben. Bisher habt ihr nichts gebeten in meinem Namen. Bittet, so werdet ihr nehmen, daß eure Freude vollkommen sei. Solches habe ich zu euch durch Sprichwörter geredet. Es kommt aber die Zeit, daß ich nicht mehr durch Sprichwörter mit euch reden werde, sondern euch frei heraus verkündigen von meinem Vater. An dem Tage werdet ihr bitten in meinem Namen. Und ich sage euch nicht, daß ich den Vater für euch bitten will; denn er selbst, der Vater, hat euch lieb, darum daß ihr mich liebet und glaubet, daß ich von Gott ausgegangen bin. Ich bin vom Vater ausgegangen und gekommen in die Welt; wiederum verlasse ich die Welt und gehe zum Vater. Sprechen zu ihm seine Jünger: Siehe, nun redest du frei heraus und sagst kein Sprichwort. Nun wissen wir, daß du alle Dinge weißt und bedarfst nicht, daß dich jemand frage; darum glauben wir, daß du von Gott ausgegangen bist. Jesus antwortete ihnen: Jetzt glaubet ihr? Siehe, es kommt die Stunde und ist schon gekommen, daß ihr zerstreut werdet, ein jeglicher in das Seine, und mich allein lasset. Aber ich bin nicht allein, denn der Vater ist bei mir. Solches habe ich mit euch geredet, daß ihr in mir Frieden habet. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Jak 5,13-18",
+      "text": "Leidet jemand unter euch, der bete; ist jemand gutes Muts, der singe Psalmen. ist jemand krank, der rufe zu sich die Ältesten von der Gemeinde, daß sie über ihm beten und salben ihn mit Öl in dem Namen des HERRN. Und das Gebet des Glaubens wird dem Kranken helfen, und der HERR wird ihn aufrichten; und so er hat Sünden getan, werden sie ihm vergeben sein. Bekenne einer dem andern seine Sünden und betet füreinander, daß ihr gesund werdet. Des Gerechten Gebet vermag viel, wenn es ernstlich ist. Elia war ein Mensch gleich wie wir; und er betete ein Gebet, daß es nicht regnen sollte, und es regnete nicht auf Erden drei Jahre und sechs Monate. Und er betete abermals, und der Himmel gab den Regen, und die Erde brachte ihre Frucht.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 93",
+      "text": "Der HERR ist König und herrlich geschmückt; der HERR ist geschmückt und hat ein Reich angefangen, soweit die Welt ist, und zugerichtet, daß es bleiben soll. Von Anbeginn steht dein Stuhl fest; du bist ewig. HERR, die Wasserströme erheben sich, die Wasserströme erheben ihr Brausen, die Wasserströme heben empor die Wellen. Die Wasserwogen im Meer sind groß und brausen mächtig; der HERR aber ist noch größer in der Höhe. Dein Wort ist eine rechte Lehre. Heiligkeit ist die Zierde deines Hauses, o HERR, ewiglich.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

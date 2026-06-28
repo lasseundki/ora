@@ -1,0 +1,32 @@
+{
+  "id": "palmarum",
+  "name": "Palmarum (Palmsonntag)",
+  "season": "passion",
+  "color": "violet",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Matt 21,1-9",
+      "stable": true,
+      "text": "Da sie nun nahe an Jerusalem kamen, gen Bethphage an den Ölberg, sandte Jesus seiner Jünger zwei und sprach zu ihnen: Gehet hin in den Flecken, der vor euch liegt, und alsbald werdet ihr eine Eselin finden angebunden und ihr Füllen bei ihr; löset sie auf und führet sie zu mir! Und so euch jemand etwas wird sagen, so sprecht: Der HERR bedarf ihrer; sobald wird er sie euch lassen. Das geschah aber alles, auf daß erfüllt würde, was gesagt ist durch den Propheten, der da spricht: \"Saget der Tochter Zion: Siehe, dein König kommt zu dir sanftmütig und reitet auf einem Esel und auf einem Füllen der lastbaren Eselin.\" Die Jünger gingen hin und taten, wie ihnen Jesus befohlen hatte, und brachten die Eselin und das Füllen und legten ihre Kleider darauf und setzten ihn darauf. Aber viel Volks breitete die Kleider auf den Weg; die andern hieben Zweige von den Bäumen und streuten sie auf den Weg. Das Volk aber, das vorging und nachfolgte, schrie und sprach: Hosianna dem Sohn Davids! Gelobt sei, der da kommt in dem Namen des HERRN! Hosianna in der Höhe!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Phil 2,5-11",
+      "text": "Ein jeglicher sei gesinnt, wie Jesus Christus auch war: welcher, ob er wohl in göttlicher Gestalt war, hielt er's nicht für einen Raub, Gott gleich sein, sondern entäußerte sich selbst und nahm Knechtsgestalt an, ward gleich wie ein andrer Mensch und an Gebärden als ein Mensch erfunden; er erniedrigte sich selbst und ward gehorsam bis zum Tode, ja zum Tode am Kreuz. Darum hat ihn auch Gott erhöht und hat ihm einen Namen gegeben, der über alle Namen ist, daß in dem Namen Jesu sich beugen aller derer Kniee, die im Himmel und auf Erden und unter der Erde sind, und alle Zungen bekennen sollen, daß Jesus Christus der HERR sei, zur Ehre Gottes, des Vaters.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 24",
+      "text": "Ein Psalm Davids. Die Erde ist des HERRN und was darinnen ist, der Erdboden und was darauf wohnt. Denn er hat ihn an die Meere gegründet und an den Wassern bereitet. Wer wird auf des HERRN Berg gehen, und wer wird stehen an seiner heiligen Stätte? Der unschuldige Hände hat und reines Herzens ist; der nicht Lust hat zu loser Lehre und schwört nicht fälschlich: der wird den Segen vom HERRN empfangen und Gerechtigkeit von dem Gott seines Heils. Das ist das Geschlecht, das nach ihm fragt, das da sucht dein Antlitz, Gott Jakobs. (Sela.) Machet die Tore weit und die Türen in der Welt hoch, daß der König der Ehren einziehe! Wer ist derselbe König der Ehren? Es ist der HERR, stark und mächtig, der HERR, mächtig im Streit. Machet die Tore weit und die Türen in der Welt hoch, daß der König der Ehren einziehe! Wer ist derselbe König der Ehren? Es ist der HERR Zebaoth; er ist der König der Ehren. (Sela.)",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

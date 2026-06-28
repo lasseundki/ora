@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-4",
+  "name": "4. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 6,36-42",
+      "stable": true,
+      "text": "Darum seid barmherzig, wie auch euer Vater barmherzig ist. Richtet nicht, so werdet ihr auch nicht gerichtet. Verdammet nicht, so werdet ihr nicht verdammt. Vergebet, so wird euch vergeben. Gebt, so wird euch gegeben. Ein voll, gedrückt, gerüttelt und überfließend Maß wird man in euren Schoß geben; denn eben mit dem Maß, mit dem ihr messet, wird man euch wieder messen. Und er sagte ihnen ein Gleichnis: Kann auch ein Blinder einem Blinden den Weg weisen? Werden sie nicht alle beide in die Grube fallen? Der Jünger ist nicht über seinen Meister; wenn der Jünger ist wie sein Meister, so ist er vollkommen. Was siehst du aber einen Splitter in deines Bruders Auge, und des Balkens in deinem Auge wirst du nicht gewahr? Oder wie kannst du sagen zu deinem Bruder: Halt stille, Bruder, ich will den Splitter aus deinem Auge ziehen, und du siehst selbst nicht den Balken in deinem Auge? Du Heuchler, zieh zuvor den Balken aus deinem Auge und siehe dann zu, daß du den Splitter aus deines Bruders Auge ziehest!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Röm 8,18-23",
+      "text": "Denn ich halte es dafür, daß dieser Zeit Leiden der Herrlichkeit nicht wert sei, die an uns soll offenbart werden. Denn das ängstliche Harren der Kreatur wartet auf die Offenbarung der Kinder Gottes. Sintemal die Kreatur unterworfen ist der Eitelkeit ohne ihren Willen, sondern um deswillen, der sie unterworfen hat, auf Hoffnung. Denn auch die Kreatur wird frei werden vom Dienst des vergänglichen Wesens zu der herrlichen Freiheit der Kinder Gottes. Denn wir wissen, daß alle Kreatur sehnt sich mit uns und ängstet sich noch immerdar. Nicht allein aber sie, sondern auch wir selbst, die wir haben des Geistes Erstlinge, sehnen uns auch bei uns selbst nach der Kindschaft und warten auf unsers Leibes Erlösung.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 27",
+      "text": "Ein Psalm Davids. Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten! Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen! So die Bösen, meine Widersacher und Feinde, an mich wollen, meine Fleisch zu fressen, müssen sie anlaufen und fallen. Wenn sich schon ein Heer wider mich legt, so fürchtet sich dennoch mein Herz nicht; wenn sich Krieg wider mich erhebt, so verlasse ich mich auf ihn. Eins bitte ich vom HERRN, das hätte ich gerne: daß ich im Hause des HERRN bleiben möge mein Leben lang, zu schauen die schönen Gottesdienste des HERRN und seinen Tempel zu betrachten. Denn er deckt mich in seiner Hütte zur bösen Zeit, er verbirgt mich heimlich in seinem Gezelt und erhöht mich auf einem Felsen, und wird nun erhöhen mein Haupt über meine Feinde, die um mich sind; so will ich in seiner Hütte Lob opfern, ich will singen und lobsagen dem HERRN. HERR, höre meine Stimme, wenn ich rufe; sei mir gnädig und erhöre mich! Mein Herz hält dir vor dein Wort: \"Ihr sollt mein Antlitz suchen.\" Darum suche ich auch, HERR, dein Antlitz. Verbirg dein Antlitz nicht vor mir und verstoße nicht im Zorn deinen Knecht; denn du bist meine Hilfe. Laß mich nicht und tue nicht von mir die Hand ab, Gott, mein Heil! Denn mein Vater und meine Mutter verlassen mich; aber der HERR nimmt mich auf. HERR, weise mir deinen Weg und leite mich auf richtiger Bahn um meiner Feinde willen. Gib mich nicht in den Willen meiner Feinde; denn es stehen falsche Zeugen gegen mich und tun mir Unrecht ohne Scheu. Ich glaube aber doch, daß ich sehen werde das Gute des HERRN im Lande der Lebendigen. Harre des HERRN! Sei getrost und unverzagt und harre des HERRN!",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

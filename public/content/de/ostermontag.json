@@ -1,0 +1,32 @@
+{
+  "id": "ostermontag",
+  "name": "Ostermontag",
+  "season": "ostern",
+  "color": "white",
+  "rank": "fest",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Lk 24,13-35",
+      "stable": true,
+      "text": "Und siehe, zwei aus ihnen gingen an demselben Tage in einen Flecken, der war von Jerusalem sechzig Feld Wegs weit; des Name heißt Emmaus. Und sie redeten miteinander von allen diesen Geschichten. Und es geschah, da sie so redeten und befragten sich miteinander, nahte sich Jesus zu ihnen und wandelte mit ihnen. Aber ihre Augen wurden gehalten, daß sie ihn nicht kannten. Er sprach aber zu ihnen: Was sind das für Reden, die ihr zwischen euch handelt unterwegs, und seid traurig? Da antwortete einer mit Namen Kleophas und sprach zu ihm: Bist du allein unter den Fremdlingen zu Jerusalem, der nicht wisse, was in diesen Tagen darin geschehen ist? Und er sprach zu ihnen: Welches? Sie aber sprachen zu ihm: Das von Jesus von Nazareth, welcher war ein Prophet mächtig von Taten und Worten vor Gott und allem Volk; wie ihn unsre Hohenpriester und Obersten überantwortet haben zur Verdammnis des Todes und gekreuzigt. Wir aber hofften, er sollte Israel erlösen. Und über das alles ist heute der dritte Tag, daß solches geschehen ist. Auch haben uns erschreckt etliche Weiber der Unsern; die sind früh bei dem Grabe gewesen, haben seinen Leib nicht gefunden, kommen und sagen, sie haben ein Gesicht der Engel gesehen, welche sagen, er lebe. Und etliche unter uns gingen hin zum Grabe und fanden's also, wie die Weiber sagten; aber ihn sahen sie nicht. Und er sprach zu ihnen: O ihr Toren und träges Herzens, zu glauben alle dem, was die Propheten geredet haben! Mußte nicht Christus solches leiden und zu seiner Herrlichkeit eingehen? Und fing an von Mose und allen Propheten und legte ihnen alle Schriften aus, die von ihm gesagt waren. Und sie kamen nahe zum Flecken, da sie hineingingen; und er stellte sich, als wollte er weiter gehen. Und sie nötigten ihn und sprachen: Bleibe bei uns; denn es will Abend werden, und der Tag hat sich geneigt. Und er ging hinein, bei ihnen zu bleiben. Und es geschah, da er mit ihnen zu Tische saß, nahm er das Brot, dankte, brach's und gab's ihnen. Da wurden ihre Augen geöffnet, und sie erkannten ihn. Und er verschwand vor ihnen. Und sie sprachen untereinander: Brannte nicht unser Herz in uns, da er mit uns redete auf dem Wege, als er uns die Schrift öffnete? Und sie standen auf zu derselben Stunde, kehrten wieder gen Jerusalem und fanden die Elf versammelt und die bei ihnen waren, welche sprachen: Der HERR ist wahrhaftig auferstanden und Simon erschienen. Und sie erzählten ihnen, was auf dem Wege geschehen war und wie er von ihnen erkannt wäre an dem, da er das Brot brach.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Apg 10,34-43",
+      "text": "Petrus aber tat seinen Mund auf und sprach: Nun erfahr ich mit der Wahrheit, daß Gott die Person nicht ansieht; sondern in allerlei Volk, wer ihn fürchtet und recht tut, der ist ihm angenehm. Ihr wißt wohl von der Predigt, die Gott zu den Kindern Israel gesandt hat, und daß er hat den Frieden verkündigen lassen durch Jesum Christum (welcher ist ein HERR über alles), die durchs ganze jüdische Land geschehen ist und angegangen in Galiläa nach der Taufe, die Johannes predigte: wie Gott diesen Jesus von Nazareth gesalbt hat mit dem heiligen Geist und Kraft; der umhergezogen ist und hat wohlgetan und gesund gemacht alle, die vom Teufel überwältigt waren; denn Gott war mit ihm. Und wir sind Zeugen alles des, das er getan hat im jüdischen Lande und zu Jerusalem. Den haben sie getötet und an ein Holz gehängt. Den hat Gott auferweckt am dritten Tage und ihn lassen offenbar werden, nicht allem Volk, sondern uns, den vorerwählten Zeugen von Gott, die wir mit ihm gegessen und getrunken haben, nachdem er auferstanden war von den Toten. Und hat uns geboten, zu predigen dem Volk und zu zeugen, daß er ist verordnet von Gott zum Richter der Lebendigen und der Toten. Von diesem zeugen alle Propheten, daß durch seinen Namen alle, die an ihn glauben, Vergebung der Sünden empfangen sollen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 111",
+      "text": "Halleluja! Ich danke dem HERRN von ganzem Herzen im Rat der Frommen und in der Gemeinde. Groß sind die Werke des HERRN; wer ihrer achtet, der hat eitel Lust daran. Was er ordnet, das ist löblich und herrlich; und seine Gerechtigkeit bleibt ewiglich. Er hat ein Gedächtnis gestiftet seiner Wunder, der gnädige und barmherzige HERR. Er gibt Speise denen, die ihn fürchten; er gedenkt ewiglich an seinen Bund. Er läßt verkündigen seine gewaltigen Taten seinem Volk, daß er ihnen gebe das Erbe der Heiden. Die Werke seiner Hände sind Wahrheit und Recht; alle seine Gebote sind rechtschaffen. Sie werden erhalten immer und ewiglich und geschehen treulich und redlich. Er sendet eine Erlösung seinem Volk; er verheizt, daß sein Bund ewiglich bleiben soll. Heilig und hehr ist sein Name. Die Furcht des HERRN ist der Weisheit Anfang. Das ist eine feine Klugheit, wer darnach tut, des Lob bleibt ewiglich.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

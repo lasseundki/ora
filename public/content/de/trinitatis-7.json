@@ -1,0 +1,32 @@
+{
+  "id": "trinitatis-7",
+  "name": "7. Sonntag nach Trinitatis",
+  "season": "trinitatis",
+  "color": "green",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Mk 8,1-9",
+      "stable": true,
+      "text": "Zu der Zeit, da viel Volks da war, und hatten nichts zu essen, rief Jesus seine Jünger zu sich und sprach zu ihnen: Mich jammert des Volks; denn sie haben nun drei Tage bei mir beharrt und haben nichts zu essen; und wenn ich sie ungegessen von mir heim ließe gehen, würden sie auf dem Wege verschmachten; denn etliche sind von ferne gekommen. Seine Jünger antworteten ihm: Woher nehmen wir Brot hier in der Wüste, daß wir sie sättigen? Und er fragte sie: Wieviel habt ihr Brote? Sie sprachen: Sieben. Und er gebot dem Volk, daß sie sich auf der Erde lagerten. Und er nahm die sieben Brote und dankte und brach sie und gab sie seinen Jüngern, daß sie dieselben vorlegten; und sie legten dem Volk vor. Und hatten ein wenig Fischlein; und er dankte und hieß die auch vortragen. Sie aßen aber und wurden satt; und hoben die übrigen Brocken auf, sieben Körbe. Und ihrer waren bei viertausend, die da gegessen hatten; und er ließ sie von sich.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "Röm 6,19-23",
+      "text": "Ich muß menschlich davon reden um der Schwachheit willen eures Fleisches. Gleichwie ihr eure Glieder begeben habet zum Dienst der Unreinigkeit und von einer Ungerechtigkeit zur andern, also begebet auch nun eure Glieder zum Dienst der Gerechtigkeit, daß sie heilig werden. Denn da ihr der Sünde Knechte wart, da wart ihr frei von der Gerechtigkeit. Was hattet ihr nun zu der Zeit für Frucht? Welcher ihr euch jetzt schämet; denn ihr Ende ist der Tod. Nun ihr aber seid von der Sünde frei und Gottes Knechte geworden, habt ihr eure Frucht, daß ihr heilig werdet, das Ende aber ist das ewige Leben. Denn der Tod ist der Sünde Sold; aber die Gabe Gottes ist das ewige Leben in Christo Jesu, unserm HERRN.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 145",
+      "text": "Ein Lob Davids. Ich will dich erheben, mein Gott, du König, und deinen Namen loben immer und ewiglich. Ich will dich täglich loben und deinen Namen rühmen immer und ewiglich. Der HERR ist groß und sehr löblich, und seine Größe ist unausforschlich. Kindeskinder werden deine Werke preisen und von deiner Gewalt sagen. Ich will reden von deiner herrlichen, schönen Pracht und von deinen Wundern, daß man soll sagen von deinen herrlichen Taten und daß man erzähle deine Herrlichkeit; daß man preise deine große Güte und deine Gerechtigkeit rühme. Gnädig und barmherzig ist der HERR, geduldig und von großer Güte. Der HERR ist allen gütig und erbarmt sich aller seiner Werke. Es sollen dir danken, HERR, alle deine Werke und deine Heiligen dich loben und die Ehre deines Königreiches rühmen und von deiner Gewalt reden, daß den Menschenkindern deine Gewalt kund werde und die herrliche Pracht deines Königreichs. Dein Reich ist ein ewiges Reich, und deine Herrschaft währet für und für. Der HERR erhält alle, die da fallen, und richtet auf alle, die niedergeschlagen sind. Aller Augen warten auf dich, und du gibst ihnen ihre Speise zu seiner Zeit. Du tust deine Hand auf und erfüllst alles, was lebt, mit Wohlgefallen. Der HERR ist gerecht in allen seinen Wegen und heilig in allen seinen Werken. Der HERR ist nahe allen, die ihn anrufen, allen, die ihn mit Ernst anrufen. Er tut, was die Gottesfürchtigen begehren, und hört ihr Schreien und hilft ihnen. Der HERR behütet alle, die ihn lieben, und wird vertilgen alle Gottlosen. Mein Mund soll des HERRN Lob sagen, und alles Fleisch lobe seinen heiligen Namen immer und ewiglich.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}

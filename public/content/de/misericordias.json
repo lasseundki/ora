@@ -1,0 +1,32 @@
+{
+  "id": "misericordias",
+  "name": "Misericordias Domini",
+  "season": "ostern",
+  "color": "white",
+  "rank": "sonntag",
+  "lang": "de",
+  "readings": {
+    "gospel": {
+      "ref": "Joh 10,11-16",
+      "stable": true,
+      "text": "Ich bin der gute Hirte. Der gute Hirte läßt sein Leben für seine Schafe. Der Mietling aber, der nicht Hirte ist, des die Schafe nicht eigen sind, sieht den Wolf kommen und verläßt die Schafe und flieht; und der Wolf erhascht und zerstreut die Schafe. Der Mietling aber flieht; denn er ist ein Mietling und achtet der Schafe nicht. Ich bin der gute Hirte und erkenne die Meinen und bin bekannt den Meinen, wie mich mein Vater kennt und ich kenne den Vater. Und ich lasse mein Leben für die Schafe. Und ich habe noch andere Schafe, die sind nicht aus diesem Stalle; und dieselben muß ich herführen, und sie werden meine Stimme hören, und wird eine Herde und ein Hirte werden.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "epistle": {
+      "ref": "1Petr 2,21-25",
+      "text": "Denn dazu seid ihr berufen; sintemal auch Christus gelitten hat für uns und uns ein Vorbild gelassen, daß ihr sollt nachfolgen seinen Fußtapfen; welcher keine Sünde getan hat, ist auch kein Betrug in seinem Munde erfunden; welcher nicht wiederschalt, da er gescholten ward, nicht drohte, da er litt, er stellte es aber dem anheim, der da recht richtet; welcher unsre Sünden selbst hinaufgetragen hat an seinem Leibe auf das Holz, auf daß wir, der Sünde abgestorben, der Gerechtigkeit leben; durch welches Wunden ihr seid heil geworden. Denn ihr waret wie die irrenden Schafe; aber ihr seid nun bekehrt zu dem Hirten und Bischof eurer Seelen.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    },
+    "psalm": {
+      "ref": "Ps 23",
+      "text": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln. Er weidet mich auf grüner Aue und führet mich zum frischen Wasser. Er erquicket meine Seele; er führet mich auf rechter Straße um seines Namens willen. Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich. Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein. Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar.",
+      "source": "Lutherbibel 1912",
+      "license": "public-domain",
+      "public_domain": true
+    }
+  }
+}
