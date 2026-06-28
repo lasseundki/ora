@@ -28,5 +28,32 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "Das heilige Abendmahl",
+    "text": "»Was ist das Sakrament des Altars?« Es ist der wahre Leib und Blut unsers Herrn Jesu Christi, unter dem Brot und Wein uns Christen zu essen und zu trinken von Christus selbst eingesetzt. — »Was nützt solch Essen und Trinken?« Das zeigen uns diese Worte: »für euch gegeben« und »vergossen zur Vergebung der Sünden«; nämlich daß uns im Sakrament Vergebung der Sünden, Leben und Seligkeit durch solche Worte gegeben wird; denn wo Vergebung der Sünden ist, da ist auch Leben und Seligkeit.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Herr Jesu Christe, du hast um unserer Sünden willen gelitten und bist gestorben: Gib uns ein bußfertiges Herz, daß wir täglich Abstand nehmen von allem, was dich betrübt, und in der Kraft deines Leidens dem ewigen Leben entgegengehen. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Jesus Christus, unser Heiland, der von uns den Zorn Gottes wandt",
+    "author": "Martin Luther",
+    "year": 1524,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Enchiridion, 1524",
+    "stanzas": [
+      "Jesus Christus, unser Heiland,\nder von uns den Zorn Gottes wandt,\ndurch das bitter Leiden sein\nhalf er uns aus der Höllen Pein.",
+      "Daß wir nimmer des vergessen,\ngab er uns sein Leib zu essen,\nverborgen im Brot so klein,\nund zu trinken sein Blut im Wein."
+    ]
   }
 }

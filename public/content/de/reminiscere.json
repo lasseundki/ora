@@ -28,5 +28,32 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "3. Bitte",
+    "text": "»Dein Wille geschehe wie im Himmel also auch auf Erden.« Was ist das? Der gute, gnädige Wille Gottes geschieht wohl ohne unser Gebet; aber wir bitten in diesem Gebet, daß er auch bei uns geschehe. Wie geschieht das? Wenn Gott allen bösen Rat und Willen bricht und hindert, die uns nicht lassen wollen das heilige Wort Gottes ehren und das Reich Gottes kommen lassen.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Herr Jesu Christe, du hast um unserer Sünden willen gelitten und bist gestorben: Gib uns ein bußfertiges Herz, daß wir täglich Abstand nehmen von allem, was dich betrübt, und in der Kraft deines Leidens dem ewigen Leben entgegengehen. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Herzliebster Jesu, was hast du verbrochen",
+    "author": "Johann Heermann",
+    "year": 1630,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Devoti Musica Cordis, 1630",
+    "stanzas": [
+      "Herzliebster Jesu, was hast du verbrochen,\ndaß man ein solch hart Urteil hat gesprochen?\nWas ist die Schuld, in was für Mißetaten\nbist du geraten?",
+      "Du wirst gegeißelt und mit Dorn gekrönet,\nins Angesicht geschlagen und verhöhnet,\ndu wirst mit Essig und mit Gall getränket,\nans Kreuz gehenket."
+    ]
   }
 }

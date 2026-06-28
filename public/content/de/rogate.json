@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "2. Bitte",
+    "text": "»Dein Reich komme.« Was ist das? Das Reich Gottes kommt wohl von sich selbst ohne unser Gebet; aber wir bitten in diesem Gebet, daß es auch zu uns komme. Wie geschieht das? Wenn der himmlische Vater uns seinen Heiligen Geist gibt, daß wir seinem heiligen Wort glauben und göttlich leben hier zeitlich und dort ewiglich.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Allmächtiger Gott, du hast deinen Sohn von den Toten auferweckt und uns dadurch Hoffnung auf das ewige Leben geschenkt: Gib uns Glauben, der den Tod überwindet, damit wir dereinst mit allen Gläubigen auferstehen zur Herrlichkeit. Durch denselben, deinen Sohn, Jesus Christus, unsern auferstandenen Herrn. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Christ lag in Todesbanden",
+    "author": "Martin Luther",
+    "year": 1524,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Enchiridion, 1524",
+    "stanzas": [
+      "Christ lag in Todesbanden,\nfür unsre Sünd gegeben,\nder ist wieder erstanden\nund hat uns Licht gebracht;\ndes wir sollen fröhlich sein,\nGott loben und dankbar sein\nund singen Hallelujah,\nHallelujah!"
+    ]
   }
 }

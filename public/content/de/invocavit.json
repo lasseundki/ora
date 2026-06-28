@@ -28,5 +28,32 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "6. Bitte",
+    "text": "»Und führe uns nicht in Versuchung.« Was ist das? Gott versucht zwar niemand; aber wir bitten in diesem Gebet, daß Gott uns behüte und erhalte, damit uns der Teufel, die Welt und unser Fleisch nicht betrüge noch verführe in Mißglauben, Verzweiflung und andere große Schande und Laster; und ob wir damit angefochten würden, daß wir doch endlich gewinnen und den Sieg behalten.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Herr Jesu Christe, du hast um unserer Sünden willen gelitten und bist gestorben: Gib uns ein bußfertiges Herz, daß wir täglich Abstand nehmen von allem, was dich betrübt, und in der Kraft deines Leidens dem ewigen Leben entgegengehen. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Herzliebster Jesu, was hast du verbrochen",
+    "author": "Johann Heermann",
+    "year": 1630,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Devoti Musica Cordis, 1630",
+    "stanzas": [
+      "Herzliebster Jesu, was hast du verbrochen,\ndaß man ein solch hart Urteil hat gesprochen?\nWas ist die Schuld, in was für Mißetaten\nbist du geraten?",
+      "Du wirst gegeißelt und mit Dorn gekrönet,\nins Angesicht geschlagen und verhöhnet,\ndu wirst mit Essig und mit Gall getränket,\nans Kreuz gehenket."
+    ]
   }
 }

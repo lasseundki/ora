@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "7. Bitte",
+    "text": "»Sondern erlöse uns von dem Übel.« Was ist das? Wir bitten in diesem Gebet als in der Summe, daß uns unser Vater im Himmel von allerlei Übel, das Leib und Seele, Gut und Ehre anfechtet, erlöse und am letzten Ende, wenn unser Stündlein kommt, ein seliges Ende beschere und mit Gnaden von diesem Jammertal zu sich nehme.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Nun danket alle Gott",
+    "author": "Martin Rinkart",
+    "year": 1636,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Jesu Herz-Büchlein, 1636",
+    "stanzas": [
+      "Nun danket alle Gott\nmit Herzen, Mund und Händen,\nder große Dinge tut\nan uns und allen Enden,\nder uns von Mutterleib\nund Kindesbeinen an\nungezählet viel Guts\nerzeiget hat und noch."
+    ]
   }
 }

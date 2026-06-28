@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "5. Bitte",
+    "text": "»Und vergib uns unsere Schuld, wie wir vergeben unsern Schuldigern.« Was ist das? Wir bitten in diesem Gebet, daß unser Vater im Himmel nicht ansehe unsere Sünden und um derselben willen solche Bitten nicht versage; denn wir sind nicht würdig, darum wir bitten, noch haben wir es verdient; sondern er wolle es uns geben aus Gnaden, wiewohl wir täglich viel sündigen und wohl eitel Strafe verdienten. So wollen auch wir herzlich vergeben und gerne Gutes tun denen, die uns wider uns sündigen.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Wer nur den lieben Gott läßt walten",
+    "author": "Georg Neumark",
+    "year": 1641,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Fortgepflanzter musikalisch-poetischer Lustwald, 1657",
+    "stanzas": [
+      "Wer nur den lieben Gott läßt walten\nund hoffet auf ihn allezeit,\nden wird er wunderbar erhalten\nin aller Not und Traurigkeit.\nWer Gott, dem Allerhöchsten, traut,\nder hat auf keinen Sand gebaut."
+    ]
   }
 }

@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "1. Bitte",
+    "text": "»Geheiligt werde dein Name.« Was ist das? Gottes Name wird wohl an sich selbst heilig gehalten; aber wir bitten in diesem Gebet, daß er auch bei uns heilig werde. Wie geschieht das? Wenn das Wort Gottes lauter und rein gelehrt wird und wir auch heilig als die Kinder Gottes danach leben.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Befiehl du deine Wege",
+    "author": "Paul Gerhardt",
+    "year": 1647,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Praxis Pietatis Melica, 1647",
+    "stanzas": [
+      "Befiehl du deine Wege\nund was dein Herze kränkt\nder allertreusten Pflege\ndes, der den Himmel lenkt.\nDer Wolken, Luft und Winden\ngibt Wege, Lauf und Bahn,\nder wird auch Wege finden,\nda dein Fuß gehen kann."
+    ]
   }
 }

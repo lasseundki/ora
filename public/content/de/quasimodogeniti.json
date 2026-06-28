@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "Die Heilige Taufe",
+    "text": "»Was ist die Taufe?« Die Taufe ist nicht allein schlecht Wasser, sondern sie ist das Wasser in Gottes Gebot gefaßt und mit Gottes Wort verbunden. — »Was nützt, gibt und schaffet die Taufe?« Sie wirket Vergebung der Sünden, erlöset vom Tode und Teufel und gibt die ewige Seligkeit allen, die es glauben, wie die Worte und Verheißung Gottes lauten: Wer da glaubet und getauft wird, der wird selig werden; wer aber nicht glaubet, der wird verdammt werden.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Allmächtiger Gott, du hast deinen Sohn von den Toten auferweckt und uns dadurch Hoffnung auf das ewige Leben geschenkt: Gib uns Glauben, der den Tod überwindet, damit wir dereinst mit allen Gläubigen auferstehen zur Herrlichkeit. Durch denselben, deinen Sohn, Jesus Christus, unsern auferstandenen Herrn. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Christ lag in Todesbanden",
+    "author": "Martin Luther",
+    "year": 1524,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Enchiridion, 1524",
+    "stanzas": [
+      "Christ lag in Todesbanden,\nfür unsre Sünd gegeben,\nder ist wieder erstanden\nund hat uns Licht gebracht;\ndes wir sollen fröhlich sein,\nGott loben und dankbar sein\nund singen Hallelujah,\nHallelujah!"
+    ]
   }
 }

@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "1. Artikel: Von der Schöpfung",
+    "text": "»Ich glaube an Gott, den Vater, allmächtigen, Schöpfer Himmels und der Erde.« Was ist das? Ich glaube, daß mich Gott geschaffen hat samt allen Kreaturen, mir Leib und Seele, Augen, Ohren und alle Glieder, Vernunft und alle Sinne gegeben hat und noch erhält; dazu Kleider und Schuh, Essen und Trinken, Haus und Hof, Weib und Kind, Äcker, Tiere und alle Güter, mit aller Notdurft und Nahrung des Leibes und Lebens reichlich und täglich versorgt, wider alle Fährlichkeit beschirmt und vor allem Übel behütet und bewahrt; und das alles aus lauter väterlicher, göttlicher Güte und Barmherzigkeit, ohn all mein Verdienst und Würdigkeit. Des sollt ich ihm danken und loben, dienen und gehorsam sein. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Rühre unsere Herzen, o Herr, damit wir dir die Wege bereiten und deinem kommenden Sohn im Glauben begegnen mögen. Der da kommt im Namen des HERRN — Hosianna in der Höhe! Durch denselben, deinen Sohn, Jesus Christus, unsern Herrn, der mit dir und dem Heiligen Geist lebt und regiert in Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Macht hoch die Tür",
+    "author": "Georg Weissel",
+    "year": 1635,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Preußisches Fest-Lied-Buch, 1642",
+    "stanzas": [
+      "Macht hoch die Tür, die Tor macht weit;\nes kommt der Herr der Herrlichkeit,\nein König aller Königreich,\nein Heiland aller Welt zugleich,\nder Heil und Leben mit sich bringt;\nderhalben jauchzt, mit Freuden singt:\nGelobet sei mein Gott,\nmein Schöpfer reich von Rat."
+    ]
   }
 }

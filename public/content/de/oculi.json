@@ -28,5 +28,32 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "2. Artikel: Von der Erlösung",
+    "text": "»Und an Jesum Christum, seinen eingeborenen Sohn, unsern Herrn …« Was ist das? Ich glaube, daß Jesus Christus, wahrhaftiger Gott, vom Vater in Ewigkeit geboren, und auch wahrhaftiger Mensch, von der Jungfrau Maria geboren, sei mein Herr, der mich verlorenen und verdammten Menschen erlöset hat, erworben, gewonnen von allen Sünden, vom Tode und von der Gewalt des Teufels, nicht mit Gold oder Silber, sondern mit seinem heiligen, teuren Blute und mit seinem unschuldigen Leiden und Sterben; auf daß ich sein eigen sei und in seinem Reich unter ihm lebe und ihm diene in ewiger Gerechtigkeit, Unschuld und Seligkeit, gleichwie er ist auferstanden vom Tode, lebet und herrschet in Ewigkeit. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Herr Jesu Christe, du hast um unserer Sünden willen gelitten und bist gestorben: Gib uns ein bußfertiges Herz, daß wir täglich Abstand nehmen von allem, was dich betrübt, und in der Kraft deines Leidens dem ewigen Leben entgegengehen. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Herzliebster Jesu, was hast du verbrochen",
+    "author": "Johann Heermann",
+    "year": 1630,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Devoti Musica Cordis, 1630",
+    "stanzas": [
+      "Herzliebster Jesu, was hast du verbrochen,\ndaß man ein solch hart Urteil hat gesprochen?\nWas ist die Schuld, in was für Mißetaten\nbist du geraten?",
+      "Du wirst gegeißelt und mit Dorn gekrönet,\nins Angesicht geschlagen und verhöhnet,\ndu wirst mit Essig und mit Gall getränket,\nans Kreuz gehenket."
+    ]
   }
 }

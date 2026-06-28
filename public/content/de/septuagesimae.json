@@ -29,5 +29,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "1. Gebot",
+    "text": "»Du sollst keine andern Götter haben neben mir.« Was ist das? Wir sollen Gott über alle Dinge fürchten, lieben und vertrauen.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Barmherziger Gott, der du uns täglich rufst, in deinem Dienst zu wandeln: Stärke uns durch dein Wort, damit wir in der Kraft des Glaubens ausharren und das Ziel der ewigen Seligkeit erlangen. Durch Jesus Christus, deinen Sohn, unsern Herrn. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Ach Gott, vom Himmel sieh darein",
+    "author": "Martin Luther",
+    "year": 1524,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Enchiridion, 1524",
+    "stanzas": [
+      "Ach Gott, vom Himmel sieh darein\nund laß dich des erbarmen;\nwie wenig sind der Heilgen dein,\nverlassen sind wir Armen.\nDein Wort man nicht läßt haben wahr,\nder Glaub ist auch verloschen gar\nbei allen Menschenkindern."
+    ]
   }
 }

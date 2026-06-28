@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "1. Bitte",
+    "text": "»Geheiligt werde dein Name.« Was ist das? Gottes Name wird wohl an sich selbst heilig gehalten; aber wir bitten in diesem Gebet, daß er auch bei uns heilig werde. Wie geschieht das? Wenn das Wort Gottes lauter und rein gelehrt wird und wir auch heilig als die Kinder Gottes danach leben.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Rühre unsere Herzen, o Herr, damit wir dir die Wege bereiten und deinem kommenden Sohn im Glauben begegnen mögen. Der da kommt im Namen des HERRN — Hosianna in der Höhe! Durch denselben, deinen Sohn, Jesus Christus, unsern Herrn, der mit dir und dem Heiligen Geist lebt und regiert in Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Macht hoch die Tür",
+    "author": "Georg Weissel",
+    "year": 1635,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Preußisches Fest-Lied-Buch, 1642",
+    "stanzas": [
+      "Macht hoch die Tür, die Tor macht weit;\nes kommt der Herr der Herrlichkeit,\nein König aller Königreich,\nein Heiland aller Welt zugleich,\nder Heil und Leben mit sich bringt;\nderhalben jauchzt, mit Freuden singt:\nGelobet sei mein Gott,\nmein Schöpfer reich von Rat."
+    ]
   }
 }

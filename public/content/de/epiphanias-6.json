@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "1. Artikel: Von der Schöpfung",
+    "text": "»Ich glaube an Gott, den Vater, allmächtigen, Schöpfer Himmels und der Erde.« Was ist das? Ich glaube, daß mich Gott geschaffen hat samt allen Kreaturen, mir Leib und Seele, Augen, Ohren und alle Glieder, Vernunft und alle Sinne gegeben hat und noch erhält; dazu Kleider und Schuh, Essen und Trinken, Haus und Hof, Weib und Kind, Äcker, Tiere und alle Güter, mit aller Notdurft und Nahrung des Leibes und Lebens reichlich und täglich versorgt, wider alle Fährlichkeit beschirmt und vor allem Übel behütet und bewahrt; und das alles aus lauter väterlicher, göttlicher Güte und Barmherzigkeit, ohn all mein Verdienst und Würdigkeit. Des sollt ich ihm danken und loben, dienen und gehorsam sein. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Herr, unser Gott, der du durch einen Stern die Weisen gerufen hast, deinen Sohn anzubeten: Erleuchte auch uns durch das Licht deines Wortes, damit wir ihn als König aller Könige erkennen und ihm allein dienen, der da lebt und regiert mit dir und dem Heiligen Geist in Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Wie schön leuchtet der Morgenstern",
+    "author": "Philipp Nicolai",
+    "year": 1599,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Freudenspiegel des ewigen Lebens, 1599",
+    "stanzas": [
+      "Wie schön leuchtet der Morgenstern\nvoll Gnad und Wahrheit von dem Herrn,\ndie süße Wurzel Isai!\nDu Sohn Davids aus Jakobs Stamm,\nmein König und mein Bräutigam,\nhast mir mein Herz besessen.\nLieblich, freundlich, schön und herrlich,\ngroß und ehrlich, reich von Gaben,\nhoch und sehr prächtig erhaben."
+    ]
   }
 }

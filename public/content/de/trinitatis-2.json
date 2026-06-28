@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "2. Bitte",
+    "text": "»Dein Reich komme.« Was ist das? Das Reich Gottes kommt wohl von sich selbst ohne unser Gebet; aber wir bitten in diesem Gebet, daß es auch zu uns komme. Wie geschieht das? Wenn der himmlische Vater uns seinen Heiligen Geist gibt, daß wir seinem heiligen Wort glauben und göttlich leben hier zeitlich und dort ewiglich.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Befiehl du deine Wege",
+    "author": "Paul Gerhardt",
+    "year": 1647,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Praxis Pietatis Melica, 1647",
+    "stanzas": [
+      "Befiehl du deine Wege\nund was dein Herze kränkt\nder allertreusten Pflege\ndes, der den Himmel lenkt.\nDer Wolken, Luft und Winden\ngibt Wege, Lauf und Bahn,\nder wird auch Wege finden,\nda dein Fuß gehen kann."
+    ]
   }
 }

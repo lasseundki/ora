@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "2. Bitte",
+    "text": "»Dein Reich komme.« Was ist das? Das Reich Gottes kommt wohl von sich selbst ohne unser Gebet; aber wir bitten in diesem Gebet, daß es auch zu uns komme. Wie geschieht das? Wenn der himmlische Vater uns seinen Heiligen Geist gibt, daß wir seinem heiligen Wort glauben und göttlich leben hier zeitlich und dort ewiglich.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Rühre unsere Herzen, o Herr, damit wir dir die Wege bereiten und deinem kommenden Sohn im Glauben begegnen mögen. Der da kommt im Namen des HERRN — Hosianna in der Höhe! Durch denselben, deinen Sohn, Jesus Christus, unsern Herrn, der mit dir und dem Heiligen Geist lebt und regiert in Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Wie soll ich dich empfangen",
+    "author": "Paul Gerhardt",
+    "year": 1653,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Praxis Pietatis Melica, 1653",
+    "stanzas": [
+      "Wie soll ich dich empfangen\nund wie begegn ich dir?\nO aller Welt Verlangen,\no meiner Seele Zier!\nO Jesu, Jesu, setze\nmir selbst die Fackel bei,\ndamit, was dich ergötze,\nmir kund und wissend sei."
+    ]
   }
 }

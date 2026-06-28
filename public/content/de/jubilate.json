@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "3. Artikel: Von der Heiligung",
+    "text": "»Ich glaube an den Heiligen Geist; eine heilige christliche Kirche …« Was ist das? Ich glaube, daß ich nicht aus eigener Vernunft noch Kraft an Jesum Christum, meinen Herrn, glauben oder zu ihm kommen kann; sondern der Heilige Geist hat mich durch das Evangelium berufen, mit seinen Gaben erleuchtet, im rechten Glauben geheiligt und erhalten; gleichwie er die ganze Christenheit auf Erden beruft, sammelt, erleuchtet, heiligt und bei Jesu Christo erhält im rechten, einigen Glauben; in welcher Christenheit er mir und allen Gläubigen täglich alle Sünden reichlich vergibt und am jüngsten Tage mich und alle Toten auferwecken wird und mir samt allen Gläubigen in Christo ein ewiges Leben geben wird. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Allmächtiger Gott, du hast deinen Sohn von den Toten auferweckt und uns dadurch Hoffnung auf das ewige Leben geschenkt: Gib uns Glauben, der den Tod überwindet, damit wir dereinst mit allen Gläubigen auferstehen zur Herrlichkeit. Durch denselben, deinen Sohn, Jesus Christus, unsern auferstandenen Herrn. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Christ lag in Todesbanden",
+    "author": "Martin Luther",
+    "year": 1524,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Enchiridion, 1524",
+    "stanzas": [
+      "Christ lag in Todesbanden,\nfür unsre Sünd gegeben,\nder ist wieder erstanden\nund hat uns Licht gebracht;\ndes wir sollen fröhlich sein,\nGott loben und dankbar sein\nund singen Hallelujah,\nHallelujah!"
+    ]
   }
 }

@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "Die Beichte",
+    "text": "»Was ist die Beichte?« Die Beichte begreift zwei Stücke in sich: Eins, daß man die Sünden bekenne; das andere, daß man die Absolution oder Vergebung vom Beichtvater empfange als von Gott selbst. — »Was soll man von der Absolution halten?« Man soll nicht zweifeln, sondern gewiß glauben, daß damit die Sünde vergeben sei vor Gott im Himmel, weil sie durch das Wort Gottes und das Gebot Gottes aufgerichtet ist.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Wer nur den lieben Gott läßt walten",
+    "author": "Georg Neumark",
+    "year": 1641,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Fortgepflanzter musikalisch-poetischer Lustwald, 1657",
+    "stanzas": [
+      "Wer nur den lieben Gott läßt walten\nund hoffet auf ihn allezeit,\nden wird er wunderbar erhalten\nin aller Not und Traurigkeit.\nWer Gott, dem Allerhöchsten, traut,\nder hat auf keinen Sand gebaut."
+    ]
   }
 }

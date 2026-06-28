@@ -28,5 +28,32 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "1. Artikel: Von der Schöpfung",
+    "text": "»Ich glaube an Gott, den Vater, allmächtigen, Schöpfer Himmels und der Erde.« Was ist das? Ich glaube, daß mich Gott geschaffen hat samt allen Kreaturen, mir Leib und Seele, Augen, Ohren und alle Glieder, Vernunft und alle Sinne gegeben hat und noch erhält; dazu Kleider und Schuh, Essen und Trinken, Haus und Hof, Weib und Kind, Äcker, Tiere und alle Güter, mit aller Notdurft und Nahrung des Leibes und Lebens reichlich und täglich versorgt, wider alle Fährlichkeit beschirmt und vor allem Übel behütet und bewahrt; und das alles aus lauter väterlicher, göttlicher Güte und Barmherzigkeit, ohn all mein Verdienst und Würdigkeit. Des sollt ich ihm danken und loben, dienen und gehorsam sein. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Allmächtiger Gott, du hast deinen eingeborenen Sohn gesandt, unser Fleisch anzunehmen und als ein Licht in unsere Dunkelheit zu leuchten: Gib, daß wir ihn im Glauben erkennen und ihm in Ewigkeit nachfolgen, der da lebt und regiert mit dir und dem Heiligen Geist, ein Gott, von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Vom Himmel hoch, da komm ich her",
+    "author": "Martin Luther",
+    "year": 1535,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Klug'sches Gesangbuch, 1535",
+    "stanzas": [
+      "Vom Himmel hoch, da komm ich her,\nich bring euch gute neue Mär,\nder guten Mär bring ich so viel,\ndavon ich singen und sagen will.",
+      "Euch ist ein Kindlein heut geborn\nvon einer Jungfrau auserkorn,\nein Kindelein so zart und fein,\ndas soll eu’r Freud und Wonne sein."
+    ]
   }
 }

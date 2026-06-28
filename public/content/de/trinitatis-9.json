@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "4. Bitte",
+    "text": "»Unser täglich Brot gib uns heute.« Was ist das? Gott gibt tägliches Brot wohl ohne unser Gebet auch den bösen Menschen; aber wir bitten in diesem Gebet, daß er uns erkennen lasse, daß er es uns gibt, und wir unser täglich Brot mit Danksagung empfangen. Was heißt täglich Brot? Alles, was zur Notdurft und Nahrung unsers Leibes gehört: Essen, Trinken, Kleider, Schuh, Haus, Hof, Äcker, Vieh, Geld, Gut, fromme Eheleute, fromme Kinder, frommes Gesinde, fromme und treue Oberherren, gute Regierung, gutes Wetter, Friede, Gesundheit, Zucht, Ehre, gute Freunde, getreue Nachbarn und desgleichen.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Wer nur den lieben Gott läßt walten",
+    "author": "Georg Neumark",
+    "year": 1641,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Fortgepflanzter musikalisch-poetischer Lustwald, 1657",
+    "stanzas": [
+      "Wer nur den lieben Gott läßt walten\nund hoffet auf ihn allezeit,\nden wird er wunderbar erhalten\nin aller Not und Traurigkeit.\nWer Gott, dem Allerhöchsten, traut,\nder hat auf keinen Sand gebaut."
+    ]
   }
 }

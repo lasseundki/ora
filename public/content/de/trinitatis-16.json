@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "2. Artikel: Von der Erlösung",
+    "text": "»Und an Jesum Christum, seinen eingeborenen Sohn, unsern Herrn …« Was ist das? Ich glaube, daß Jesus Christus, wahrhaftiger Gott, vom Vater in Ewigkeit geboren, und auch wahrhaftiger Mensch, von der Jungfrau Maria geboren, sei mein Herr, der mich verlorenen und verdammten Menschen erlöset hat, erworben, gewonnen von allen Sünden, vom Tode und von der Gewalt des Teufels, nicht mit Gold oder Silber, sondern mit seinem heiligen, teuren Blute und mit seinem unschuldigen Leiden und Sterben; auf daß ich sein eigen sei und in seinem Reich unter ihm lebe und ihm diene in ewiger Gerechtigkeit, Unschuld und Seligkeit, gleichwie er ist auferstanden vom Tode, lebet und herrschet in Ewigkeit. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Nun danket alle Gott",
+    "author": "Martin Rinkart",
+    "year": 1636,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Jesu Herz-Büchlein, 1636",
+    "stanzas": [
+      "Nun danket alle Gott\nmit Herzen, Mund und Händen,\nder große Dinge tut\nan uns und allen Enden,\nder uns von Mutterleib\nund Kindesbeinen an\nungezählet viel Guts\nerzeiget hat und noch."
+    ]
   }
 }

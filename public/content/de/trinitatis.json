@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "1. Artikel: Von der Schöpfung",
+    "text": "»Ich glaube an Gott, den Vater, allmächtigen, Schöpfer Himmels und der Erde.« Was ist das? Ich glaube, daß mich Gott geschaffen hat samt allen Kreaturen, mir Leib und Seele, Augen, Ohren und alle Glieder, Vernunft und alle Sinne gegeben hat und noch erhält; dazu Kleider und Schuh, Essen und Trinken, Haus und Hof, Weib und Kind, Äcker, Tiere und alle Güter, mit aller Notdurft und Nahrung des Leibes und Lebens reichlich und täglich versorgt, wider alle Fährlichkeit beschirmt und vor allem Übel behütet und bewahrt; und das alles aus lauter väterlicher, göttlicher Güte und Barmherzigkeit, ohn all mein Verdienst und Würdigkeit. Des sollt ich ihm danken und loben, dienen und gehorsam sein. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Heiliger, dreieiniger Gott, Vater, Sohn und Heiliger Geist: Gib, daß wir in deiner Gnade wandeln, dein Wort in uns wohnen lassen und dereinst das Angesicht schauen dürfen, dem allein Ehre, Lob und Anbetung gebührt von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Allein Gott in der Höh sei Ehr",
+    "author": "Nikolaus Decius",
+    "year": 1525,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Rostock, 1525",
+    "stanzas": [
+      "Allein Gott in der Höh sei Ehr\nund Dank für seine Gnade,\ndarum daß nun und nimmermehr\nuns rühren kann kein Schade;\nein Wohlgefalln Gott an uns hat,\nnum ist groß Fried ohn Unterlaß,\nall Fehde hat ein Ende."
+    ]
   }
 }

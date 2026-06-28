@@ -28,5 +28,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "2. Artikel: Von der Erlösung",
+    "text": "»Und an Jesum Christum, seinen eingeborenen Sohn, unsern Herrn …« Was ist das? Ich glaube, daß Jesus Christus, wahrhaftiger Gott, vom Vater in Ewigkeit geboren, und auch wahrhaftiger Mensch, von der Jungfrau Maria geboren, sei mein Herr, der mich verlorenen und verdammten Menschen erlöset hat, erworben, gewonnen von allen Sünden, vom Tode und von der Gewalt des Teufels, nicht mit Gold oder Silber, sondern mit seinem heiligen, teuren Blute und mit seinem unschuldigen Leiden und Sterben; auf daß ich sein eigen sei und in seinem Reich unter ihm lebe und ihm diene in ewiger Gerechtigkeit, Unschuld und Seligkeit, gleichwie er ist auferstanden vom Tode, lebet und herrschet in Ewigkeit. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "Allmächtiger Gott, du hast deinen eingeborenen Sohn gesandt, unser Fleisch anzunehmen und als ein Licht in unsere Dunkelheit zu leuchten: Gib, daß wir ihn im Glauben erkennen und ihm in Ewigkeit nachfolgen, der da lebt und regiert mit dir und dem Heiligen Geist, ein Gott, von Ewigkeit zu Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "Gelobet seist du, Jesu Christ",
+    "author": "Martin Luther",
+    "year": 1524,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Enchiridion, 1524",
+    "stanzas": [
+      "Gelobet seist du, Jesu Christ,\ndaß du Mensch geboren bist\nvon einer Jungfrau, das ist wahr;\ndes freuet sich der Engel Schar.\nKyrieleison."
+    ]
   }
 }

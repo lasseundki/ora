@@ -29,5 +29,31 @@
       "license": "public-domain",
       "public_domain": true
     }
+  },
+  "catechism_segment": {
+    "part": "2. Artikel: Von der Erlösung",
+    "text": "»Und an Jesum Christum, seinen eingeborenen Sohn, unsern Herrn …« Was ist das? Ich glaube, daß Jesus Christus, wahrhaftiger Gott, vom Vater in Ewigkeit geboren, und auch wahrhaftiger Mensch, von der Jungfrau Maria geboren, sei mein Herr, der mich verlorenen und verdammten Menschen erlöset hat, erworben, gewonnen von allen Sünden, vom Tode und von der Gewalt des Teufels, nicht mit Gold oder Silber, sondern mit seinem heiligen, teuren Blute und mit seinem unschuldigen Leiden und Sterben; auf daß ich sein eigen sei und in seinem Reich unter ihm lebe und ihm diene in ewiger Gerechtigkeit, Unschuld und Seligkeit, gleichwie er ist auferstanden vom Tode, lebet und herrschet in Ewigkeit. Das ist gewißlich wahr.",
+    "author": "Martin Luther",
+    "source": "Der Kleine Katechismus",
+    "year": 1529,
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "collect": {
+    "text": "O Herr Jesu Christe, Sohn des lebendigen Gottes, der du am Kreuz gestorben bist für unsere Sünden: Laß dein Leiden uns täglich vor Augen stehen, damit wir einsehen, wie teuer wir erkauft sind, und dir allein gehören in Zeit und Ewigkeit. Amen.",
+    "author": "Lutherische Agendetradition",
+    "license": "public-domain",
+    "public_domain": true
+  },
+  "hymn": {
+    "title": "O Haupt voll Blut und Wunden",
+    "author": "Paul Gerhardt",
+    "year": 1647,
+    "license": "public-domain",
+    "public_domain": true,
+    "source": "Praxis Pietatis Melica, 1647",
+    "stanzas": [
+      "O Haupt voll Blut und Wunden,\nvoll Schmerz und voller Hohn,\no Haupt, zu Spott gebunden\nmit einer Dornenkron,\no Haupt, sonst schön gezieret\nmit höchster Ehr und Zier,\njetzt aber hoch schimpfieret:\ngegrüßet seist du mir!"
+    ]
   }
 }
