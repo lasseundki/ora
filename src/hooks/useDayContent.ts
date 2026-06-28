@@ -13,7 +13,7 @@ export function useDayContent(contentId: string): State {
   useEffect(() => {
     setState({ status: 'loading' })
     let cancelled = false
-    fetch(`/content/de/${contentId}.json`)
+    fetch(`${import.meta.env.BASE_URL}content/de/${contentId}.json`)
       .then(r => {
         if (r.status === 404) return null
         if (!r.ok) throw new Error(`HTTP ${r.status}`)
