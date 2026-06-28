@@ -5,11 +5,11 @@ type Mode = 'login' | 'register'
 
 export function LoginPage() {
   const { signInWithEmail, registerWithEmail } = useAuth()
-  const [mode, setMode]       = useState<Mode>('login')
-  const [email, setEmail]     = useState('')
+  const [mode, setMode]         = useState<Mode>('login')
+  const [email, setEmail]       = useState('')
   const [password, setPassword] = useState('')
-  const [error, setError]     = useState<string | null>(null)
-  const [busy, setBusy]       = useState(false)
+  const [error, setError]       = useState<string | null>(null)
+  const [busy, setBusy]         = useState(false)
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
@@ -26,16 +26,18 @@ export function LoginPage() {
   }
 
   return (
-    <div className="min-h-screen bg-violet-50 flex items-center justify-center p-4">
-      <div className="w-full max-w-sm">
+    <div className="min-h-screen bg-[#f8f4ee] flex items-center justify-center p-6">
+      <div className="w-full max-w-xs">
 
-        {/* Logo / Wortmarke */}
-        <div className="text-center mb-10">
-          <h1 className="text-4xl font-bold tracking-tight text-violet-800">Ora</h1>
-          <p className="text-sm text-gray-500 mt-1">Tägliche lutherische Andacht</p>
+        {/* Wortmarke */}
+        <div className="text-center mb-12">
+          <h1 className="font-serif text-5xl text-stone-800 tracking-wide">Ora</h1>
+          <p className="text-[10px] font-bold uppercase tracking-[0.3em] text-stone-400 mt-2">
+            Tägliche Andacht
+          </p>
         </div>
 
-        {/* E-Mail-Login */}
+        {/* Formular */}
         <form onSubmit={handleSubmit} className="space-y-3">
           <input
             type="email"
@@ -43,7 +45,7 @@ export function LoginPage() {
             placeholder="E-Mail"
             value={email}
             onChange={e => setEmail(e.target.value)}
-            className="w-full border border-gray-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-violet-400 bg-white"
+            className="w-full border border-stone-300 rounded px-4 py-3 font-serif text-base bg-white/70 focus:outline-none focus:border-stone-500 text-stone-800 placeholder:text-stone-400"
           />
           <input
             type="password"
@@ -51,27 +53,30 @@ export function LoginPage() {
             placeholder="Passwort"
             value={password}
             onChange={e => setPassword(e.target.value)}
-            className="w-full border border-gray-300 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-violet-400 bg-white"
+            className="w-full border border-stone-300 rounded px-4 py-3 font-serif text-base bg-white/70 focus:outline-none focus:border-stone-500 text-stone-800 placeholder:text-stone-400"
           />
-          {error && <p className="text-red-600 text-xs">{error}</p>}
+          {error && (
+            <p className="font-serif text-red-700 text-sm italic">{error}</p>
+          )}
           <button
             type="submit"
             disabled={busy}
-            className="w-full bg-violet-700 hover:bg-violet-800 text-white rounded-lg px-4 py-3 text-sm font-medium transition-colors disabled:opacity-50"
+            className="w-full bg-stone-800 hover:bg-stone-700 text-[#f8f4ee] font-serif text-base rounded px-4 py-3 transition-colors disabled:opacity-50 mt-1"
           >
             {busy ? '…' : mode === 'login' ? 'Anmelden' : 'Registrieren'}
           </button>
         </form>
 
-        <p className="text-center text-xs text-gray-500 mt-4">
+        <p className="font-serif text-center text-sm text-stone-400 mt-5 italic">
           {mode === 'login' ? 'Noch kein Konto?' : 'Bereits registriert?'}{' '}
           <button
             onClick={() => { setMode(m => m === 'login' ? 'register' : 'login'); setError(null) }}
-            className="text-violet-700 underline"
+            className="text-stone-600 underline decoration-stone-300"
           >
             {mode === 'login' ? 'Registrieren' : 'Anmelden'}
           </button>
         </p>
+
       </div>
     </div>
   )

@@ -2,29 +2,30 @@ import type { LiturgicalDay } from '../church-year'
 import type { DayContent } from '../types/content'
 import { getColors, SEASON_NAMES } from './colors'
 
-// --- kleine Hilfs-Komponenten ---
-
-function Section({ title, accent, border, children }: {
-  title: string; accent: string; border: string; children: React.ReactNode
-}) {
+function Rubric({ label, accent }: { label: string; accent: string }) {
   return (
-    <section className={`border-t pt-5 pb-2 ${border}`}>
-      <h2 className={`text-xs font-semibold uppercase tracking-widest mb-3 ${accent}`}>{title}</h2>
-      {children}
-    </section>
+    <h2 className={`text-[10px] font-bold uppercase tracking-[0.25em] mb-3 ${accent}`}>
+      {label}
+    </h2>
+  )
+}
+
+function Ornament({ color }: { color: string }) {
+  return (
+    <div className={`text-center my-6 ${color} select-none`} aria-hidden="true">
+      ✦
+    </div>
   )
 }
 
 function ProvenanceNote({ block }: { block: { author?: string; source?: string; year?: number } }) {
   const parts = [block.author, block.year ? String(block.year) : null].filter(Boolean)
   return parts.length || block.source ? (
-    <p className="text-xs text-gray-400 mt-2 italic">
+    <p className="text-xs text-stone-400 mt-3 font-serif italic">
       {parts.join(', ')}{block.source ? ` — ${block.source}` : ''}
     </p>
   ) : null
 }
-
-// --- Hauptkomponente ---
 
 interface Props {
   day: LiturgicalDay
@@ -37,32 +38,34 @@ interface Props {
 }
 
 const DOW = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag']
+const MONTHS = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']
 
 export function DayView({ day, content, loading, date, onPrev, onNext, onLogout }: Props) {
   const c = getColors(day.color)
-  const dateLabel = `${DOW[date.getDay()]}, ${date.toLocaleDateString('de-DE', { day: 'numeric', month: 'long', year: 'numeric' })}`
+  const dateLabel = `${DOW[date.getDay()]}, ${date.getDate()}. ${MONTHS[date.getMonth()]} ${date.getFullYear()}`
 
   return (
-    <div className={`min-h-screen ${c.page}`}>
-      {/* Liturgische Farbstreifen */}
-      <div className={`h-2 w-full ${c.strip}`} />
+    <div className="min-h-screen bg-[#f8f4ee]">
 
-      <div className="max-w-2xl mx-auto px-4 py-6">
+      {/* Liturgischer Farbstreifen */}
+      <div className={`h-1 w-full ${c.strip}`} />
+
+      <div className="max-w-xl mx-auto px-6 py-8">
 
         {/* Navigation */}
-        <div className="flex items-center justify-between mb-6">
+        <nav className="flex items-center justify-between mb-10">
           <button
             onClick={onPrev}
-            className="p-2 rounded-lg hover:bg-black/5 transition-colors text-gray-500"
+            className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg"
             aria-label="Vorheriger Tag"
           >
             ←
           </button>
-          <span className="text-sm text-gray-500">{dateLabel}</span>
-          <div className="flex items-center gap-1">
+          <span className="font-serif text-[13px] text-stone-500 tracking-wide">{dateLabel}</span>
+          <div className="flex items-center gap-2">
             <button
               onClick={onNext}
-              className="p-2 rounded-lg hover:bg-black/5 transition-colors text-gray-500"
+              className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg"
               aria-label="Nächster Tag"
             >
               →
@@ -70,7 +73,7 @@ export function DayView({ day, content, loading, date, onPrev, onNext, onLogout 
             {onLogout && (
               <button
                 onClick={onLogout}
-                className="p-2 rounded-lg hover:bg-black/5 transition-colors text-gray-400 text-xs ml-1"
+                className="text-stone-300 hover:text-stone-500 transition-colors text-xs ml-1"
                 aria-label="Abmelden"
                 title="Abmelden"
               >
@@ -78,115 +81,148 @@ export function DayView({ day, content, loading, date, onPrev, onNext, onLogout 
               </button>
             )}
           </div>
-        </div>
+        </nav>
 
-        {/* Saison-Badge + Tagesname */}
-        <header className="mb-8">
-          <span className={`inline-block text-xs font-medium px-2 py-1 rounded-full mb-3 ${c.badge}`}>
+        {/* Saisonbezeichnung + Tagesname */}
+        <header className="mb-10">
+          <p className={`text-[10px] font-bold uppercase tracking-[0.3em] mb-3 ${c.accent}`}>
             {SEASON_NAMES[day.season] ?? day.season}
-          </span>
-          <h1 className={`text-2xl font-semibold leading-tight ${c.accent}`}>
+          </p>
+          <h1 className="font-serif text-3xl leading-snug text-stone-800">
             {day.name}
           </h1>
-          {!day.isFeastDay && (
-            <p className="text-sm text-gray-500 mt-1">{day.governingSunday}</p>
+          {!day.isFeastDay && day.governingSunday && (
+            <p className="font-serif text-sm text-stone-400 mt-1 italic">{day.governingSunday}</p>
           )}
         </header>
 
         {loading && (
-          <p className="text-gray-400 text-sm animate-pulse">Wird geladen …</p>
+          <p className="font-serif text-stone-400 text-base italic animate-pulse">Wird geladen …</p>
         )}
 
         {!loading && !content && (
-          <div className={`rounded-lg border p-4 ${c.sectionBorder}`}>
-            <p className="text-sm text-gray-500">
-              Für diesen Tag ist noch kein Inhalt verfügbar.
+          <div className="border border-stone-200 rounded px-5 py-4">
+            <p className="font-serif text-stone-500 text-base italic">
+              Für diesen Tag ist noch kein Inhalt hinterlegt.
             </p>
           </div>
         )}
 
         {content && (
-          <div className="space-y-1">
+          <article>
+
             {/* Eröffnung */}
-            <Section title="Eröffnung" accent={c.accent} border={c.sectionBorder}>
-              <p className="leading-relaxed text-gray-700 italic">
+            <section>
+              <Rubric label="Eröffnung" accent={c.accent} />
+              <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">
                 Im Namen des Vaters und des Sohnes und des Heiligen Geistes. Amen.
               </p>
-            </Section>
+            </section>
 
             {/* Evangelium */}
             {content.readings.gospel && (
-              <Section title={`Evangelium · ${content.readings.gospel.ref}`} accent={c.accent} border={c.sectionBorder}>
-                {content.readings.gospel.text
-                  ? <p className="leading-relaxed text-gray-800 text-[15px]">{content.readings.gospel.text}</p>
-                  : <p className="text-gray-400 italic text-sm">Text noch nicht verfügbar.</p>}
-              </Section>
+              <>
+                <Ornament color={c.divider} />
+                <section>
+                  <Rubric label={`Evangelium  ·  ${content.readings.gospel.ref}`} accent={c.accent} />
+                  {content.readings.gospel.text
+                    ? <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.readings.gospel.text}</p>
+                    : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
+                </section>
+              </>
             )}
 
             {/* Epistel */}
             {content.readings.epistle && (
-              <Section title={`Epistel · ${content.readings.epistle.ref}`} accent={c.accent} border={c.sectionBorder}>
-                {content.readings.epistle.text
-                  ? <p className="leading-relaxed text-gray-800 text-[15px]">{content.readings.epistle.text}</p>
-                  : <p className="text-gray-400 italic text-sm">Text noch nicht verfügbar.</p>}
-              </Section>
+              <>
+                <Ornament color={c.divider} />
+                <section>
+                  <Rubric label={`Epistel  ·  ${content.readings.epistle.ref}`} accent={c.accent} />
+                  {content.readings.epistle.text
+                    ? <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.readings.epistle.text}</p>
+                    : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
+                </section>
+              </>
             )}
 
             {/* Psalm */}
             {content.readings.psalm && (
-              <Section title={`Psalm · ${content.readings.psalm.ref}`} accent={c.accent} border={c.sectionBorder}>
-                {content.readings.psalm.text
-                  ? <p className="leading-relaxed text-gray-700 text-[15px] italic">{content.readings.psalm.text}</p>
-                  : <p className="text-gray-400 italic text-sm">Text noch nicht verfügbar.</p>}
-              </Section>
+              <>
+                <Ornament color={c.divider} />
+                <section>
+                  <Rubric label={`Psalm  ·  ${content.readings.psalm.ref}`} accent={c.accent} />
+                  {content.readings.psalm.text
+                    ? <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">{content.readings.psalm.text}</p>
+                    : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
+                </section>
+              </>
             )}
 
             {/* Andacht */}
             {content.devotion && (
-              <Section title="Andacht" accent={c.accent} border={c.sectionBorder}>
-                <p className="leading-relaxed text-gray-800 text-[15px]">{content.devotion.text}</p>
-                <ProvenanceNote block={content.devotion} />
-              </Section>
+              <>
+                <Ornament color={c.divider} />
+                <section>
+                  <Rubric label="Andacht" accent={c.accent} />
+                  <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.devotion.text}</p>
+                  <ProvenanceNote block={content.devotion} />
+                </section>
+              </>
             )}
 
             {/* Lied */}
             {content.hymn && (
-              <Section title={`Lied · ${content.hymn.title}`} accent={c.accent} border={c.sectionBorder}>
-                {(content.hymn.stanzas ?? []).map((stanza, i) => (
-                  <p key={i} className="leading-relaxed text-gray-700 text-[15px] whitespace-pre-line mb-3 last:mb-0">
-                    {stanza}
-                  </p>
-                ))}
-                <ProvenanceNote block={content.hymn} />
-              </Section>
+              <>
+                <Ornament color={c.divider} />
+                <section>
+                  <Rubric label={`Lied  ·  ${content.hymn.title}`} accent={c.accent} />
+                  {(content.hymn.stanzas ?? []).map((stanza, i) => (
+                    <p key={i} className="font-serif text-[17px] leading-[1.85] text-stone-700 whitespace-pre-line mb-4 last:mb-0">
+                      {stanza}
+                    </p>
+                  ))}
+                  <ProvenanceNote block={content.hymn} />
+                </section>
+              </>
             )}
 
             {/* Kollekte */}
             {content.collect && (
-              <Section title="Kollekte" accent={c.accent} border={c.sectionBorder}>
-                <p className="leading-relaxed text-gray-700 text-[15px] italic">{content.collect.text}</p>
-              </Section>
+              <>
+                <Ornament color={c.divider} />
+                <section>
+                  <Rubric label="Kollekte" accent={c.accent} />
+                  <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">{content.collect.text}</p>
+                </section>
+              </>
             )}
 
             {/* Katechismus */}
             {content.catechism_segment && (
-              <Section title={`Katechismus · ${content.catechism_segment.part}`} accent={c.accent} border={c.sectionBorder}>
-                <p className="leading-relaxed text-gray-800 text-[15px]">{content.catechism_segment.text}</p>
-              </Section>
+              <>
+                <Ornament color={c.divider} />
+                <section>
+                  <Rubric label={`Katechismus  ·  ${content.catechism_segment.part}`} accent={c.accent} />
+                  <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.catechism_segment.text}</p>
+                </section>
+              </>
             )}
 
             {/* Segen */}
-            <Section title="Segen" accent={c.accent} border={c.sectionBorder}>
-              <p className="leading-relaxed text-gray-700 italic">
+            <Ornament color={c.divider} />
+            <section>
+              <Rubric label="Segen" accent={c.accent} />
+              <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">
                 Der Herr segne dich und behüte dich; der Herr lasse sein Angesicht leuchten über dir und sei dir gnädig; der Herr erhebe sein Angesicht über dich und gebe dir Frieden. Amen.
               </p>
-            </Section>
+            </section>
 
-            {/* Bibeltext-Quellenangabe */}
-            <p className="text-xs text-gray-300 pt-4 pb-2">
+            {/* Quellenangabe */}
+            <p className="font-serif text-xs text-stone-300 mt-10 mb-4 italic">
               Bibeltext: Lutherbibel 1912 (gemeinfrei)
             </p>
-          </div>
+
+          </article>
         )}
       </div>
     </div>
