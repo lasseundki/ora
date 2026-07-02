@@ -1,7 +1,11 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useCallback, useRef } from 'react'
+import { doc, setDoc } from 'firebase/firestore'
+import { db } from './lib/firebase'
 import { liturgicalDay } from './church-year'
 import { useDayContent } from './hooks/useDayContent'
 import { useStreak } from './hooks/useStreak'
+import { useActivity } from './hooks/useActivity'
+import { useFontSize } from './hooks/useFontSize'
 import { DayView } from './components/DayView'
 import { NotesPage } from './components/NotesPage'
 import { ProfilePage } from './components/ProfilePage'
@@ -11,6 +15,14 @@ import { useAuth } from './contexts/AuthContext'
 type Tab = 'andacht' | 'notizen' | 'profil'
 
 const addDays = (d: Date, n: number) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n)
+const todayIso = () => new Date().toISOString().slice(0, 10)
+
+function countToLevel(count: number): number {
+  if (count === 0) return 0
+  if (count < 3)  return 1
+  if (count < 6)  return 2
+  return 3
+}
 
 function AppInner() {
   const { user, loading } = useAuth()
@@ -20,6 +32,20 @@ function AppInner() {
   const day          = useMemo(() => liturgicalDay(date), [date])
   const contentState = useDayContent(day?.contentId ?? '')
   const streak       = useStreak(user)
+  const activity     = useActivity(user)
+  const { size: fontSize, update: setFontSize } = useFontSize()
+
+  // Track the highest level written this session to avoid downgrading
+  const writtenLevel = useRef(0)
+
+  const handleEngagement = useCallback(async (count: number) => {
+    if (!user) return
+    const newLevel = countToLevel(count)
+    if (newLevel <= writtenLevel.current) return
+    writtenLevel.current = newLevel
+    const ref = doc(db, 'users', user.uid, 'activity', todayIso())
+    await setDoc(ref, { level: newLevel, engagedSections: count }, { merge: true })
+  }, [user])
 
   if (loading) {
     return (
@@ -39,7 +65,6 @@ function AppInner() {
 
   return (
     <div className="flex flex-col min-h-screen bg-[#f8f4ee]">
-      {/* Page content */}
       <div className="flex-1 pb-16">
         {tab === 'andacht' && (
           <DayView
@@ -47,15 +72,23 @@ function AppInner() {
             content={contentState.status === 'ok' ? contentState.data : null}
             loading={contentState.status === 'loading'}
             date={date}
+            fontSize={fontSize}
             onPrev={() => setDate(d => addDays(d, -1))}
             onNext={() => setDate(d => addDays(d, 1))}
+            onEngagement={handleEngagement}
           />
         )}
         {tab === 'notizen' && <NotesPage day={day} />}
-        {tab === 'profil'  && <ProfilePage streak={streak} />}
+        {tab === 'profil'  && (
+          <ProfilePage
+            streak={streak}
+            activity={activity}
+            fontSize={fontSize}
+            onFontSize={setFontSize}
+          />
+        )}
       </div>
 
-      {/* Tab bar */}
       <nav className="fixed bottom-0 inset-x-0 bg-[#f8f4ee] border-t border-stone-200">
         <div className="max-w-xl mx-auto flex">
           {([
