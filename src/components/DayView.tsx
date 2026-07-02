@@ -1,7 +1,23 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import type { LiturgicalDay } from '../church-year'
 import type { DayContent } from '../types/content'
+import type { DayMode } from '../App'
 import { getColors, SEASON_NAMES } from './colors'
+
+// Luther, Kleiner Katechismus (1529) — gemeinfrei
+const MORGENGEBET =
+  'Ich danke dir, mein himmlischer Vater, durch Jesum Christum, deinen lieben Sohn, ' +
+  'daß du mich diese Nacht vor allem Schaden und Gefahr behütet hast, und bitte dich, ' +
+  'du wollest mich diesen Tag auch behüten vor Sünden und allem Übel, daß dir all mein ' +
+  'Tun und Leben gefalle. Denn ich befehle mich, meinen Leib und Seele und alles, in ' +
+  'deine Hände. Dein heiliger Engel sei mit mir, daß der böse Feind keine Macht an mir finde. Amen.'
+
+const ABENDGEBET =
+  'Ich danke dir, mein himmlischer Vater, durch Jesum Christum, deinen lieben Sohn, ' +
+  'daß du mich diesen Tag gnädiglich behütet hast, und bitte dich, du wollest mir vergeben ' +
+  'alle meine Sünde, wo ich Unrecht getan habe, und mich diese Nacht gnädiglich behüten. ' +
+  'Denn ich befehle mich, meinen Leib und Seele und alles, in deine Hände. Dein heiliger ' +
+  'Engel sei mit mir, daß der böse Feind keine Macht an mir finde. Amen.'
 
 function Rubric({ label, accent }: { label: string; accent: string }) {
   return (
@@ -13,9 +29,7 @@ function Rubric({ label, accent }: { label: string; accent: string }) {
 
 function Ornament({ color }: { color: string }) {
   return (
-    <div className={`text-center my-6 ${color} select-none`} aria-hidden="true">
-      ✦
-    </div>
+    <div className={`text-center my-6 ${color} select-none`} aria-hidden="true">✦</div>
   )
 }
 
@@ -68,9 +82,7 @@ function CollapsibleSection({
           onClick={() => setOpen(o => !o)}
           aria-expanded={open}
         >
-          <h2 className={`text-[10px] font-bold uppercase tracking-[0.25em] ${accent}`}>
-            {label}
-          </h2>
+          <h2 className={`text-[10px] font-bold uppercase tracking-[0.25em] ${accent}`}>{label}</h2>
           <span className={`text-stone-300 group-hover:text-stone-500 text-xs transition-transform duration-200 select-none ${open ? '' : '-rotate-90'}`}>
             ∨
           </span>
@@ -87,15 +99,17 @@ interface Props {
   loading: boolean
   date: Date
   fontSize: number
+  mode: DayMode
   onPrev: () => void
   onNext: () => void
+  onToggleMode: () => void
   onEngagement: (count: number) => void
 }
 
 const DOW    = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag']
 const MONTHS = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']
 
-export function DayView({ day, content, loading, date, fontSize, onPrev, onNext, onEngagement }: Props) {
+export function DayView({ day, content, loading, date, fontSize, mode, onPrev, onNext, onToggleMode, onEngagement }: Props) {
   const c = getColors(day.color)
   const dateLabel = `${DOW[date.getDay()]}, ${date.getDate()}. ${MONTHS[date.getMonth()]} ${date.getFullYear()}`
   const [engagedCount, setEngagedCount] = useState(0)
@@ -108,14 +122,12 @@ export function DayView({ day, content, loading, date, fontSize, onPrev, onNext,
     })
   }, [onEngagement])
 
-  // Reset count when navigating to a different day
   useEffect(() => { setEngagedCount(0) }, [day.contentId])
 
   const body = { fontSize, lineHeight: 1.85 }
 
   return (
     <div className="min-h-screen bg-[#f8f4ee]">
-
       <div className={`h-1 w-full ${c.strip}`} />
 
       <div className="max-w-xl mx-auto px-6 py-8">
@@ -123,11 +135,24 @@ export function DayView({ day, content, loading, date, fontSize, onPrev, onNext,
         {/* Navigation */}
         <nav className="flex items-center justify-between mb-10">
           <button onClick={onPrev} className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg" aria-label="Vorheriger Tag">←</button>
-          <span className="font-serif text-[13px] text-stone-500 tracking-wide">{dateLabel}</span>
+
+          <div className="flex flex-col items-center gap-1">
+            <span className="font-serif text-[13px] text-stone-500 tracking-wide">{dateLabel}</span>
+            {/* Morgen/Abend-Toggle */}
+            <button
+              onClick={onToggleMode}
+              className="flex items-center gap-1.5 font-serif text-[11px] text-stone-400 hover:text-stone-600 transition-colors"
+              title="Morgen- oder Abendandacht wechseln"
+            >
+              <span>{mode === 'morgen' ? '☀' : '☽'}</span>
+              <span>{mode === 'morgen' ? 'Morgenandacht' : 'Abendandacht'}</span>
+            </button>
+          </div>
+
           <button onClick={onNext} className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg" aria-label="Nächster Tag">→</button>
         </nav>
 
-        {/* Saisonbezeichnung + Tagesname */}
+        {/* Header */}
         <header className="mb-10">
           <p className={`text-[10px] font-bold uppercase tracking-[0.3em] mb-3 ${c.accent}`}>
             {SEASON_NAMES[day.season] ?? day.season}
@@ -151,6 +176,7 @@ export function DayView({ day, content, loading, date, fontSize, onPrev, onNext,
         {content && (
           <article>
 
+            {/* Eröffnung */}
             <section>
               <Rubric label="Eröffnung" accent={c.accent} />
               <p className="font-serif text-stone-700 italic" style={body}>
@@ -158,6 +184,15 @@ export function DayView({ day, content, loading, date, fontSize, onPrev, onNext,
               </p>
             </section>
 
+            {/* Morgengebet — nur im Morgenmodus, vor den Lesungen */}
+            {mode === 'morgen' && (
+              <CollapsibleSection label="Morgengebet" accent={c.accent} dividerColor={c.divider} defaultOpen onEngaged={handleEngaged}>
+                <p className="font-serif text-stone-700 italic" style={body}>{MORGENGEBET}</p>
+                <p className="text-xs text-stone-400 mt-3 font-serif italic">Luther, Kleiner Katechismus (1529)</p>
+              </CollapsibleSection>
+            )}
+
+            {/* Lesungen */}
             {content.readings.gospel && (
               <CollapsibleSection label={`Evangelium  ·  ${content.readings.gospel.ref}`} accent={c.accent} dividerColor={c.divider} defaultOpen onEngaged={handleEngaged}>
                 {content.readings.gospel.text
@@ -210,6 +245,15 @@ export function DayView({ day, content, loading, date, fontSize, onPrev, onNext,
               </CollapsibleSection>
             )}
 
+            {/* Abendgebet — nur im Abendmodus, vor dem Segen */}
+            {mode === 'abend' && (
+              <CollapsibleSection label="Abendgebet" accent={c.accent} dividerColor={c.divider} defaultOpen onEngaged={handleEngaged}>
+                <p className="font-serif text-stone-700 italic" style={body}>{ABENDGEBET}</p>
+                <p className="text-xs text-stone-400 mt-3 font-serif italic">Luther, Kleiner Katechismus (1529)</p>
+              </CollapsibleSection>
+            )}
+
+            {/* Segen — immer */}
             <Ornament color={c.divider} />
             <section>
               <Rubric label="Segen" accent={c.accent} />

@@ -12,10 +12,12 @@ import { ProfilePage } from './components/ProfilePage'
 import { LoginPage } from './components/LoginPage'
 import { useAuth } from './contexts/AuthContext'
 
+export type DayMode = 'morgen' | 'abend'
+
 type Tab = 'andacht' | 'notizen' | 'profil'
 
-const addDays = (d: Date, n: number) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n)
-const todayIso = () => new Date().toISOString().slice(0, 10)
+const addDays   = (d: Date, n: number) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n)
+const todayIso  = () => new Date().toISOString().slice(0, 10)
 
 function countToLevel(count: number): number {
   if (count === 0) return 0
@@ -24,10 +26,17 @@ function countToLevel(count: number): number {
   return 3
 }
 
+function detectMode(): DayMode {
+  const stored = localStorage.getItem('ora-mode') as DayMode | null
+  if (stored === 'morgen' || stored === 'abend') return stored
+  return new Date().getHours() < 12 ? 'morgen' : 'abend'
+}
+
 function AppInner() {
   const { user, loading } = useAuth()
   const [date, setDate] = useState(() => new Date())
-  const [tab, setTab] = useState<Tab>('andacht')
+  const [tab, setTab]   = useState<Tab>('andacht')
+  const [mode, setMode] = useState<DayMode>(detectMode)
 
   const day          = useMemo(() => liturgicalDay(date), [date])
   const contentState = useDayContent(day?.contentId ?? '')
@@ -35,7 +44,6 @@ function AppInner() {
   const activity     = useActivity(user)
   const { size: fontSize, update: setFontSize } = useFontSize()
 
-  // Track the highest level written this session to avoid downgrading
   const writtenLevel = useRef(0)
 
   const handleEngagement = useCallback(async (count: number) => {
@@ -46,6 +54,12 @@ function AppInner() {
     const ref = doc(db, 'users', user.uid, 'activity', todayIso())
     await setDoc(ref, { level: newLevel, engagedSections: count }, { merge: true })
   }, [user])
+
+  function toggleMode() {
+    const next: DayMode = mode === 'morgen' ? 'abend' : 'morgen'
+    setMode(next)
+    localStorage.setItem('ora-mode', next)
+  }
 
   if (loading) {
     return (
@@ -73,8 +87,10 @@ function AppInner() {
             loading={contentState.status === 'loading'}
             date={date}
             fontSize={fontSize}
+            mode={mode}
             onPrev={() => setDate(d => addDays(d, -1))}
             onNext={() => setDate(d => addDays(d, 1))}
+            onToggleMode={toggleMode}
             onEngagement={handleEngagement}
           />
         )}
