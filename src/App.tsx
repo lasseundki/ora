@@ -12,7 +12,7 @@ import { ProfilePage } from './components/ProfilePage'
 import { LoginPage } from './components/LoginPage'
 import { useAuth } from './contexts/AuthContext'
 
-export type DayMode = 'morgen' | 'abend'
+export type DayMode = 'morgen' | 'tag' | 'abend'
 
 type Tab = 'andacht' | 'notizen' | 'profil'
 
@@ -28,8 +28,11 @@ function countToLevel(count: number): number {
 
 function detectMode(): DayMode {
   const stored = localStorage.getItem('ora-mode') as DayMode | null
-  if (stored === 'morgen' || stored === 'abend') return stored
-  return new Date().getHours() < 12 ? 'morgen' : 'abend'
+  if (stored === 'morgen' || stored === 'tag' || stored === 'abend') return stored
+  const h = new Date().getHours()
+  if (h < 11) return 'morgen'
+  if (h < 18) return 'tag'
+  return 'abend'
 }
 
 function AppInner() {
@@ -56,7 +59,8 @@ function AppInner() {
   }, [user])
 
   function toggleMode() {
-    const next: DayMode = mode === 'morgen' ? 'abend' : 'morgen'
+    const cycle: Record<DayMode, DayMode> = { morgen: 'tag', tag: 'abend', abend: 'morgen' }
+    const next = cycle[mode]
     setMode(next)
     localStorage.setItem('ora-mode', next)
   }

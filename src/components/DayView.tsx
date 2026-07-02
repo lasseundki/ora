@@ -141,15 +141,15 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
   // Build ordered list of sections from available content + mode
   const sections: SectionMeta[] = useMemo(() => {
     const s: SectionMeta[] = []
-    if (mode === 'morgen')              s.push({ id: 'morgengebet', label: 'Morgengebet' })
-    if (content?.readings.gospel)      s.push({ id: 'gospel',      label: `Evangelium  ·  ${content.readings.gospel.ref}` })
-    if (content?.readings.epistle)     s.push({ id: 'epistle',     label: `Epistel  ·  ${content.readings.epistle.ref}` })
-    if (content?.readings.psalm)       s.push({ id: 'psalm',       label: `Psalm  ·  ${content.readings.psalm.ref}` })
-    if (content?.devotion)             s.push({ id: 'devotion',    label: 'Andacht' })
-    if (content?.hymn)                 s.push({ id: 'hymn',        label: `Lied  ·  ${content.hymn.title}` })
-    if (content?.collect)              s.push({ id: 'collect',     label: 'Kollekte' })
-    if (content?.catechism_segment)    s.push({ id: 'catechism',   label: `Katechismus  ·  ${content.catechism_segment.part}` })
-    if (mode === 'abend')              s.push({ id: 'abendgebet',  label: 'Abendgebet' })
+    if (mode === 'morgen')             s.push({ id: 'morgengebet', label: 'Morgengebet' })
+    if (content?.readings.gospel)     s.push({ id: 'gospel',      label: `Evangelium  ·  ${content.readings.gospel.ref}` })
+    if (content?.readings.epistle)    s.push({ id: 'epistle',     label: `Epistel  ·  ${content.readings.epistle.ref}` })
+    if (content?.readings.psalm)      s.push({ id: 'psalm',       label: `Psalm  ·  ${content.readings.psalm.ref}` })
+    if (content?.devotion)            s.push({ id: 'devotion',    label: 'Andacht' })
+    if (content?.hymn)                s.push({ id: 'hymn',        label: `Lied  ·  ${content.hymn.title}` })
+    if (content?.collect)             s.push({ id: 'collect',     label: 'Kollekte' })
+    if (content?.catechism_segment)   s.push({ id: 'catechism',   label: `Katechismus  ·  ${content.catechism_segment.part}` })
+    if (mode === 'abend')             s.push({ id: 'abendgebet',  label: 'Abendgebet' })
     return s
   }, [mode, content])
 
@@ -257,9 +257,10 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
             <button
               onClick={onToggleMode}
               className="flex items-center gap-1.5 font-serif text-[11px] text-stone-400 hover:text-stone-600 transition-colors"
+              title="Modus wechseln: Morgen → Tag → Abend"
             >
-              <span>{mode === 'morgen' ? '☀' : '☽'}</span>
-              <span>{mode === 'morgen' ? 'Morgenandacht' : 'Abendandacht'}</span>
+              <span>{mode === 'morgen' ? '☀' : mode === 'tag' ? '○' : '☽'}</span>
+              <span>{mode === 'morgen' ? 'Morgenandacht' : mode === 'tag' ? 'Tagesandacht' : 'Abendandacht'}</span>
             </button>
           </div>
           <button onClick={onNext} className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg" aria-label="Nächster Tag">→</button>
