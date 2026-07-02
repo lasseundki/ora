@@ -26,10 +26,12 @@ export function useStreak(user: User | null): StreakData {
     async function tick() {
       const snap = await getDoc(ref)
       const now = today()
+      const activityRef = doc(db, 'users', user.uid, 'activity', now)
 
       if (!snap.exists()) {
         const init = { current: 1, longest: 1, lastDate: now }
         await setDoc(ref, { ...init, updatedAt: serverTimestamp() })
+        await setDoc(activityRef, { level: 1 }, { merge: true })
         setStreak(init)
         return
       }
@@ -44,6 +46,7 @@ export function useStreak(user: User | null): StreakData {
       const newLongest = Math.max(newCurrent, data.longest ?? 0)
       const updated = { current: newCurrent, longest: newLongest, lastDate: now }
       await setDoc(ref, { ...updated, updatedAt: serverTimestamp() })
+      await setDoc(activityRef, { level: 1 }, { merge: true })
       setStreak(updated)
     }
 

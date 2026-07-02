@@ -8,10 +8,12 @@ interface Props {
   day: LiturgicalDay
 }
 
+const todayIso = () => new Date().toISOString().slice(0, 10)
+
 export function NotesPage({ day }: Props) {
   const { user } = useAuth()
-  const [text, setText]     = useState('')
-  const [saved, setSaved]   = useState(false)
+  const [text, setText]       = useState('')
+  const [saved, setSaved]     = useState(false)
   const [loading, setLoading] = useState(true)
 
   const docRef = user
@@ -29,8 +31,10 @@ export function NotesPage({ day }: Props) {
   }, [day.contentId, user?.uid])
 
   async function save() {
-    if (!docRef) return
+    if (!docRef || !user) return
     await setDoc(docRef, { text, updatedAt: serverTimestamp() })
+    const actRef = doc(db, 'users', user.uid, 'activity', todayIso())
+    await setDoc(actRef, { level: 3 }, { merge: true })
     setSaved(true)
     setTimeout(() => setSaved(false), 2000)
   }

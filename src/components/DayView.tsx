@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import type { LiturgicalDay } from '../church-year'
 import type { DayContent } from '../types/content'
 import { getColors, SEASON_NAMES } from './colors'
@@ -27,6 +28,38 @@ function ProvenanceNote({ block }: { block: { author?: string; source?: string; 
   ) : null
 }
 
+function CollapsibleSection({
+  label, accent, dividerColor, defaultOpen = false, children,
+}: {
+  label: string
+  accent: string
+  dividerColor: string
+  defaultOpen?: boolean
+  children: React.ReactNode
+}) {
+  const [open, setOpen] = useState(defaultOpen)
+  return (
+    <>
+      <Ornament color={dividerColor} />
+      <section>
+        <button
+          className="w-full flex items-center justify-between mb-3 group text-left"
+          onClick={() => setOpen(o => !o)}
+          aria-expanded={open}
+        >
+          <h2 className={`text-[10px] font-bold uppercase tracking-[0.25em] ${accent}`}>
+            {label}
+          </h2>
+          <span className={`text-stone-300 group-hover:text-stone-500 text-xs transition-transform duration-200 select-none ${open ? '' : 'rotate-[-90deg]'}`}>
+            ∨
+          </span>
+        </button>
+        {open && children}
+      </section>
+    </>
+  )
+}
+
 interface Props {
   day: LiturgicalDay
   content: DayContent | null
@@ -34,20 +67,18 @@ interface Props {
   date: Date
   onPrev: () => void
   onNext: () => void
-  onLogout?: () => void
 }
 
-const DOW = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag']
+const DOW    = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag']
 const MONTHS = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']
 
-export function DayView({ day, content, loading, date, onPrev, onNext, onLogout }: Props) {
+export function DayView({ day, content, loading, date, onPrev, onNext }: Props) {
   const c = getColors(day.color)
   const dateLabel = `${DOW[date.getDay()]}, ${date.getDate()}. ${MONTHS[date.getMonth()]} ${date.getFullYear()}`
 
   return (
     <div className="min-h-screen bg-[#f8f4ee]">
 
-      {/* Liturgischer Farbstreifen */}
       <div className={`h-1 w-full ${c.strip}`} />
 
       <div className="max-w-xl mx-auto px-6 py-8">
@@ -62,25 +93,13 @@ export function DayView({ day, content, loading, date, onPrev, onNext, onLogout 
             ←
           </button>
           <span className="font-serif text-[13px] text-stone-500 tracking-wide">{dateLabel}</span>
-          <div className="flex items-center gap-2">
-            <button
-              onClick={onNext}
-              className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg"
-              aria-label="Nächster Tag"
-            >
-              →
-            </button>
-            {onLogout && (
-              <button
-                onClick={onLogout}
-                className="text-stone-300 hover:text-stone-500 transition-colors text-xs ml-1"
-                aria-label="Abmelden"
-                title="Abmelden"
-              >
-                ⏏
-              </button>
-            )}
-          </div>
+          <button
+            onClick={onNext}
+            className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg"
+            aria-label="Nächster Tag"
+          >
+            →
+          </button>
         </nav>
 
         {/* Saisonbezeichnung + Tagesname */}
@@ -111,7 +130,7 @@ export function DayView({ day, content, loading, date, onPrev, onNext, onLogout 
         {content && (
           <article>
 
-            {/* Eröffnung */}
+            {/* Eröffnung — immer sichtbar, kurz */}
             <section>
               <Rubric label="Eröffnung" accent={c.accent} />
               <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">
@@ -119,96 +138,97 @@ export function DayView({ day, content, loading, date, onPrev, onNext, onLogout 
               </p>
             </section>
 
-            {/* Evangelium */}
+            {/* Evangelium — standardmäßig offen */}
             {content.readings.gospel && (
-              <>
-                <Ornament color={c.divider} />
-                <section>
-                  <Rubric label={`Evangelium  ·  ${content.readings.gospel.ref}`} accent={c.accent} />
-                  {content.readings.gospel.text
-                    ? <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.readings.gospel.text}</p>
-                    : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
-                </section>
-              </>
+              <CollapsibleSection
+                label={`Evangelium  ·  ${content.readings.gospel.ref}`}
+                accent={c.accent}
+                dividerColor={c.divider}
+                defaultOpen
+              >
+                {content.readings.gospel.text
+                  ? <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.readings.gospel.text}</p>
+                  : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
+              </CollapsibleSection>
             )}
 
-            {/* Epistel */}
+            {/* Epistel — zugeklappt */}
             {content.readings.epistle && (
-              <>
-                <Ornament color={c.divider} />
-                <section>
-                  <Rubric label={`Epistel  ·  ${content.readings.epistle.ref}`} accent={c.accent} />
-                  {content.readings.epistle.text
-                    ? <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.readings.epistle.text}</p>
-                    : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
-                </section>
-              </>
+              <CollapsibleSection
+                label={`Epistel  ·  ${content.readings.epistle.ref}`}
+                accent={c.accent}
+                dividerColor={c.divider}
+              >
+                {content.readings.epistle.text
+                  ? <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.readings.epistle.text}</p>
+                  : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
+              </CollapsibleSection>
             )}
 
-            {/* Psalm */}
+            {/* Psalm — zugeklappt */}
             {content.readings.psalm && (
-              <>
-                <Ornament color={c.divider} />
-                <section>
-                  <Rubric label={`Psalm  ·  ${content.readings.psalm.ref}`} accent={c.accent} />
-                  {content.readings.psalm.text
-                    ? <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">{content.readings.psalm.text}</p>
-                    : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
-                </section>
-              </>
+              <CollapsibleSection
+                label={`Psalm  ·  ${content.readings.psalm.ref}`}
+                accent={c.accent}
+                dividerColor={c.divider}
+              >
+                {content.readings.psalm.text
+                  ? <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">{content.readings.psalm.text}</p>
+                  : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>}
+              </CollapsibleSection>
             )}
 
-            {/* Andacht */}
+            {/* Andacht — zugeklappt */}
             {content.devotion && (
-              <>
-                <Ornament color={c.divider} />
-                <section>
-                  <Rubric label="Andacht" accent={c.accent} />
-                  <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.devotion.text}</p>
-                  <ProvenanceNote block={content.devotion} />
-                </section>
-              </>
+              <CollapsibleSection
+                label="Andacht"
+                accent={c.accent}
+                dividerColor={c.divider}
+              >
+                <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.devotion.text}</p>
+                <ProvenanceNote block={content.devotion} />
+              </CollapsibleSection>
             )}
 
-            {/* Lied */}
+            {/* Lied — zugeklappt */}
             {content.hymn && (
-              <>
-                <Ornament color={c.divider} />
-                <section>
-                  <Rubric label={`Lied  ·  ${content.hymn.title}`} accent={c.accent} />
-                  {(content.hymn.stanzas ?? []).map((stanza, i) => (
-                    <p key={i} className="font-serif text-[17px] leading-[1.85] text-stone-700 whitespace-pre-line mb-4 last:mb-0">
-                      {stanza}
-                    </p>
-                  ))}
-                  <ProvenanceNote block={content.hymn} />
-                </section>
-              </>
+              <CollapsibleSection
+                label={`Lied  ·  ${content.hymn.title}`}
+                accent={c.accent}
+                dividerColor={c.divider}
+              >
+                {(content.hymn.stanzas ?? []).map((stanza, i) => (
+                  <p key={i} className="font-serif text-[17px] leading-[1.85] text-stone-700 whitespace-pre-line mb-4 last:mb-0">
+                    {stanza}
+                  </p>
+                ))}
+                <ProvenanceNote block={content.hymn} />
+              </CollapsibleSection>
             )}
 
-            {/* Kollekte */}
+            {/* Kollekte — zugeklappt */}
             {content.collect && (
-              <>
-                <Ornament color={c.divider} />
-                <section>
-                  <Rubric label="Kollekte" accent={c.accent} />
-                  <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">{content.collect.text}</p>
-                </section>
-              </>
+              <CollapsibleSection
+                label="Kollekte"
+                accent={c.accent}
+                dividerColor={c.divider}
+              >
+                <p className="font-serif text-[17px] leading-[1.85] text-stone-700 italic">{content.collect.text}</p>
+              </CollapsibleSection>
             )}
 
-            {/* Katechismus */}
+            {/* Katechismus — zugeklappt */}
             {content.catechism_segment && (
-              <>
-                <Ornament color={c.divider} />
-                <section>
-                  <Rubric label={`Katechismus  ·  ${content.catechism_segment.part}`} accent={c.accent} />
-                  <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.catechism_segment.text}</p>
-                </section>
-              </>
+              <CollapsibleSection
+                label={`Katechismus  ·  ${content.catechism_segment.part}`}
+                accent={c.accent}
+                dividerColor={c.divider}
+              >
+                <p className="font-serif text-[17px] leading-[1.85] text-stone-800">{content.catechism_segment.text}</p>
+              </CollapsibleSection>
             )}
 
-            {/* Segen */}
+            {/* Segen — immer sichtbar */}
             <Ornament color={c.divider} />
             <section>
               <Rubric label="Segen" accent={c.accent} />
@@ -217,7 +237,6 @@ export function DayView({ day, content, loading, date, onPrev, onNext, onLogout 
               </p>
             </section>
 
-            {/* Quellenangabe */}
             <p className="font-serif text-xs text-stone-300 mt-10 mb-4 italic">
               Bibeltext: Lutherbibel 1912 (gemeinfrei)
             </p>

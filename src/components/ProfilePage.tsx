@@ -1,4 +1,6 @@
 import { useAuth } from '../contexts/AuthContext'
+import { useActivity } from '../hooks/useActivity'
+import { YearGrid } from './YearGrid'
 import type { StreakData } from '../hooks/useStreak'
 
 interface Props {
@@ -7,6 +9,7 @@ interface Props {
 
 export function ProfilePage({ streak }: Props) {
   const { user, logout } = useAuth()
+  const activity = useActivity(user)
 
   return (
     <div className="min-h-screen bg-[#f8f4ee]">
@@ -23,9 +26,9 @@ export function ProfilePage({ streak }: Props) {
         {/* Streak */}
         <section className="bg-white/60 border border-stone-200 rounded-lg px-6 py-5 mb-5">
           <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-stone-400 mb-3">
-            Lesezeichen
+            Serie
           </p>
-          <div className="flex gap-8">
+          <div className="flex gap-8 mb-1">
             <div className="text-center">
               <p className="font-serif text-4xl text-stone-800">{streak.current}</p>
               <p className="font-serif text-xs text-stone-400 mt-1">Tage in Folge</p>
@@ -35,12 +38,17 @@ export function ProfilePage({ streak }: Props) {
               <p className="font-serif text-xs text-stone-400 mt-1">Längste Serie</p>
             </div>
           </div>
-          <p className="font-serif text-xs text-stone-300 mt-4 italic">
-            Wird täglich beim Öffnen der App gezählt.
-          </p>
         </section>
 
-        {/* Kontodaten */}
+        {/* Jahresraster */}
+        <section className="bg-white/60 border border-stone-200 rounded-lg px-6 py-5 mb-5 overflow-x-auto">
+          <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-stone-400 mb-4">
+            Jahresübersicht
+          </p>
+          <YearGrid activity={activity} />
+        </section>
+
+        {/* Konto */}
         <section className="bg-white/60 border border-stone-200 rounded-lg px-6 py-5 mb-5">
           <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-stone-400 mb-3">
             Konto
@@ -48,7 +56,6 @@ export function ProfilePage({ streak }: Props) {
           <p className="font-serif text-sm text-stone-600">{user?.email}</p>
         </section>
 
-        {/* Abmelden */}
         <button
           onClick={logout}
           className="font-serif text-sm text-stone-400 hover:text-stone-700 transition-colors underline decoration-stone-200"
