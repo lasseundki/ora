@@ -7,6 +7,7 @@ import { useStreak } from './hooks/useStreak'
 import { useActivity } from './hooks/useActivity'
 import { useFontSize } from './hooks/useFontSize'
 import { DayView } from './components/DayView'
+import { WeekView } from './components/WeekView'
 import { NotesPage } from './components/NotesPage'
 import { ProfilePage } from './components/ProfilePage'
 import { LoginPage } from './components/LoginPage'
@@ -14,7 +15,7 @@ import { useAuth } from './contexts/AuthContext'
 
 export type DayMode = 'morgen' | 'tag' | 'abend'
 
-type Tab = 'andacht' | 'notizen' | 'profil'
+type Tab = 'andacht' | 'woche' | 'notizen' | 'profil'
 
 const addDays   = (d: Date, n: number) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n)
 const todayIso  = () => new Date().toISOString().slice(0, 10)
@@ -98,6 +99,12 @@ function AppInner() {
             onEngagement={handleEngagement}
           />
         )}
+        {tab === 'woche'   && (
+          <WeekView
+            today={date}
+            onSelectDay={d => { setDate(d); setTab('andacht') }}
+          />
+        )}
         {tab === 'notizen' && <NotesPage day={day} />}
         {tab === 'profil'  && (
           <ProfilePage
@@ -113,6 +120,7 @@ function AppInner() {
         <div className="max-w-xl mx-auto flex">
           {([
             { id: 'andacht', label: 'Andacht' },
+            { id: 'woche',   label: 'Woche'   },
             { id: 'notizen', label: 'Notizen' },
             { id: 'profil',  label: 'Profil'  },
           ] as { id: Tab; label: string }[]).map(({ id, label }) => (
