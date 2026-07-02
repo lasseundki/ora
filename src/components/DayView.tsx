@@ -3,6 +3,7 @@ import type { LiturgicalDay } from '../church-year'
 import type { DayContent } from '../types/content'
 import type { DayMode } from '../App'
 import { getColors, SEASON_NAMES } from './colors'
+import { AnnotatableText } from './AnnotatableText'
 
 // Luther, Kleiner Katechismus (1529) — gemeinfrei
 const MORGENGEBET =
@@ -197,6 +198,7 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
 
   function renderContent(id: string) {
     if (!content) return null
+    const dayId = day.contentId
     switch (id) {
       case 'morgengebet': return (
         <>
@@ -205,13 +207,13 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
         </>
       )
       case 'gospel': return content.readings.gospel?.text
-        ? <p className="font-serif text-stone-800" style={body}>{content.readings.gospel.text}</p>
+        ? <AnnotatableText text={content.readings.gospel.text} dayId={dayId} sectionId="gospel" className="font-serif text-stone-800" style={body} />
         : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>
       case 'epistle': return content.readings.epistle?.text
-        ? <p className="font-serif text-stone-800" style={body}>{content.readings.epistle.text}</p>
+        ? <AnnotatableText text={content.readings.epistle.text} dayId={dayId} sectionId="epistle" className="font-serif text-stone-800" style={body} />
         : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>
       case 'psalm': return content.readings.psalm?.text
-        ? <p className="font-serif text-stone-700 italic" style={body}>{content.readings.psalm.text}</p>
+        ? <AnnotatableText text={content.readings.psalm.text} dayId={dayId} sectionId="psalm" className="font-serif text-stone-700 italic" style={body} />
         : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>
       case 'devotion': return (
         <>
@@ -231,7 +233,7 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
         <p className="font-serif text-stone-700 italic" style={body}>{content.collect!.text}</p>
       )
       case 'catechism': return (
-        <p className="font-serif text-stone-800" style={body}>{content.catechism_segment!.text}</p>
+        <AnnotatableText text={content.catechism_segment!.text} dayId={dayId} sectionId="catechism" className="font-serif text-stone-800" style={body} />
       )
       case 'abendgebet': return (
         <>
