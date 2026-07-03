@@ -3,6 +3,21 @@ import { useAuth } from '../contexts/AuthContext'
 
 type Mode = 'login' | 'register'
 
+function friendlyError(err: unknown): string {
+  const code = (err as { code?: string })?.code ?? ''
+  if (code.includes('wrong-password') || code.includes('invalid-credential') || code.includes('user-not-found'))
+    return 'E-Mail-Adresse oder Passwort ist falsch.'
+  if (code.includes('email-already-in-use'))
+    return 'Diese E-Mail-Adresse ist bereits registriert.'
+  if (code.includes('weak-password'))
+    return 'Das Passwort muss mindestens 6 Zeichen haben.'
+  if (code.includes('invalid-email'))
+    return 'Bitte eine gültige E-Mail-Adresse eingeben.'
+  if (code.includes('too-many-requests'))
+    return 'Zu viele Versuche. Bitte warte einen Moment.'
+  return 'Anmelden fehlgeschlagen. Bitte erneut versuchen.'
+}
+
 export function LoginPage() {
   const { signInWithEmail, registerWithEmail } = useAuth()
   const [mode, setMode]         = useState<Mode>('login')
@@ -19,7 +34,7 @@ export function LoginPage() {
       if (mode === 'login') await signInWithEmail(email, password)
       else                  await registerWithEmail(email, password)
     } catch (err: unknown) {
-      setError(err instanceof Error ? err.message : 'Unbekannter Fehler')
+      setError(friendlyError(err))
     } finally {
       setBusy(false)
     }

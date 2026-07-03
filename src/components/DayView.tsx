@@ -126,7 +126,6 @@ interface Props {
   fontSize: number
   mode: DayMode
   onPrev: () => void
-  onNext: () => void
   onToggleMode: () => void
   onEngagement: (count: number) => void
 }
@@ -134,9 +133,11 @@ interface Props {
 const DOW    = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag']
 const MONTHS = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']
 
-export function DayView({ day, content, loading, date, fontSize, mode, onPrev, onNext, onToggleMode, onEngagement }: Props) {
+export function DayView({ day, content, loading, date, fontSize, mode, onPrev, onToggleMode, onEngagement }: Props) {
   const c = getColors(day.color)
   const dateLabel = `${DOW[date.getDay()]}, ${date.getDate()}. ${MONTHS[date.getMonth()]} ${date.getFullYear()}`
+  const todayIso  = new Date().toISOString().slice(0, 10)
+  const isToday   = day.date === todayIso
   const body = { fontSize, lineHeight: 1.85 }
 
   // Build ordered list of sections from available content + mode
@@ -251,21 +252,17 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
 
       <div className="max-w-xl mx-auto px-6 py-8">
 
-        {/* Navigation */}
-        <nav className="flex items-center justify-between mb-10">
-          <button onClick={onPrev} className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg" aria-label="Vorheriger Tag">←</button>
-          <div className="flex flex-col items-center gap-1">
-            <span className="font-serif text-[13px] text-stone-500 tracking-wide">{dateLabel}</span>
-            <button
-              onClick={onToggleMode}
-              className="flex items-center gap-1.5 font-serif text-[11px] text-stone-400 hover:text-stone-600 transition-colors"
-              title="Modus wechseln: Morgen → Tag → Abend"
-            >
-              <span>{mode === 'morgen' ? '☀' : mode === 'tag' ? '○' : '☽'}</span>
-              <span>{mode === 'morgen' ? 'Morgenandacht' : mode === 'tag' ? 'Tagesandacht' : 'Abendandacht'}</span>
-            </button>
-          </div>
-          <button onClick={onNext} className="text-stone-400 hover:text-stone-700 transition-colors px-1 py-1 text-lg" aria-label="Nächster Tag">→</button>
+        {/* Navigation — nur Datum und Modus */}
+        <nav className="flex flex-col items-center gap-1 mb-10">
+          <span className="font-serif text-[14px] text-stone-600 tracking-wide">{dateLabel}</span>
+          <button
+            onClick={onToggleMode}
+            className="flex items-center gap-1.5 font-serif text-[11px] text-stone-400 hover:text-stone-600 transition-colors"
+            title="Modus wechseln: Morgen → Tag → Abend"
+          >
+            <span>{mode === 'morgen' ? '☀' : mode === 'tag' ? '○' : '☽'}</span>
+            <span>{mode === 'morgen' ? 'Morgenandacht' : mode === 'tag' ? 'Tagesandacht' : 'Abendandacht'}</span>
+          </button>
         </nav>
 
         {/* Header */}
@@ -342,9 +339,17 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
               </p>
             </section>
 
-            <p className="font-serif text-xs text-stone-300 mt-10 mb-4 italic">
+            <p className="font-serif text-xs text-stone-300 mt-10 mb-3 italic">
               Bibeltext: Lutherbibel 1912 (gemeinfrei)
             </p>
+
+            {/* Vorheriger Tag — unauffällig, nur wenn nicht bereits weit zurück */}
+            <button
+              onClick={onPrev}
+              className="font-serif text-[11px] text-stone-300 hover:text-stone-500 transition-colors mb-4"
+            >
+              ← Vorheriger Tag
+            </button>
 
           </article>
         )}

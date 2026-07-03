@@ -22,12 +22,12 @@ function weekDates(anchor: Date): Date[] {
 }
 
 interface Props {
-  today: Date
   onSelectDay: (date: Date) => void
 }
 
-export function WeekView({ today, onSelectDay }: Props) {
+export function WeekView({ onSelectDay }: Props) {
   const [weekOffset, setWeekOffset] = useState(0)
+  const today    = new Date()
   const todayIso = isoDate(today)
 
   const anchor = useMemo(() => {

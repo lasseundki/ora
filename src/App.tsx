@@ -94,14 +94,12 @@ function AppInner() {
             fontSize={fontSize}
             mode={mode}
             onPrev={() => setDate(d => addDays(d, -1))}
-            onNext={() => setDate(d => addDays(d, 1))}
             onToggleMode={toggleMode}
             onEngagement={handleEngagement}
           />
         )}
         {tab === 'woche'   && (
           <WeekView
-            today={date}
             onSelectDay={d => { setDate(d); setTab('andacht') }}
           />
         )}
