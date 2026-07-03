@@ -11,14 +11,15 @@ import { WeekView } from './components/WeekView'
 import { NotesPage } from './components/NotesPage'
 import { ProfilePage } from './components/ProfilePage'
 import { LoginPage } from './components/LoginPage'
+import { OnboardingScreen } from './components/OnboardingScreen'
 import { useAuth } from './contexts/AuthContext'
 
 export type DayMode = 'morgen' | 'tag' | 'abend'
 
 type Tab = 'andacht' | 'woche' | 'notizen' | 'profil'
 
-const addDays   = (d: Date, n: number) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n)
-const todayIso  = () => new Date().toISOString().slice(0, 10)
+const addDays  = (d: Date, n: number) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n)
+const todayIso = () => new Date().toISOString().slice(0, 10)
 
 function countToLevel(count: number): number {
   if (count === 0) return 0
@@ -38,15 +39,18 @@ function detectMode(): DayMode {
 
 function AppInner() {
   const { user, loading } = useAuth()
-  const [date, setDate] = useState(() => new Date())
-  const [tab, setTab]   = useState<Tab>('andacht')
-  const [mode, setMode] = useState<DayMode>(detectMode)
+  const [date, setDate]       = useState(() => new Date())
+  const [tab, setTab]         = useState<Tab>('andacht')
+  const [mode, setMode]       = useState<DayMode>(detectMode)
+  const [onboarded, setOnboarded] = useState(() => !!localStorage.getItem('ora-onboarded'))
 
   const day          = useMemo(() => liturgicalDay(date), [date])
   const contentState = useDayContent(day?.contentId ?? '')
-  const streak       = useStreak(user)
   const activity     = useActivity(user)
   const { size: fontSize, update: setFontSize } = useFontSize()
+
+  // Streak weiterhin aktiv (schreibt tägliche Activity), aber nicht mehr angezeigt
+  useStreak(user)
 
   const writtenLevel = useRef(0)
 
@@ -76,6 +80,8 @@ function AppInner() {
 
   if (!user) return <LoginPage />
 
+  if (!onboarded) return <OnboardingScreen onDone={() => setOnboarded(true)} />
+
   if (!day) return (
     <div className="min-h-screen bg-[#f8f4ee] flex items-center justify-center">
       <p className="font-serif text-stone-500 p-8">Kirchenjahr-Berechnung fehlgeschlagen.</p>
@@ -98,15 +104,12 @@ function AppInner() {
             onEngagement={handleEngagement}
           />
         )}
-        {tab === 'woche'   && (
-          <WeekView
-            onSelectDay={d => { setDate(d); setTab('andacht') }}
-          />
+        {tab === 'woche' && (
+          <WeekView onSelectDay={d => { setDate(d); setTab('andacht') }} />
         )}
         {tab === 'notizen' && <NotesPage day={day} />}
         {tab === 'profil'  && (
           <ProfilePage
-            streak={streak}
             activity={activity}
             fontSize={fontSize}
             onFontSize={setFontSize}

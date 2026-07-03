@@ -1,11 +1,10 @@
+import { useState, useEffect } from 'react'
 import { useAuth } from '../contexts/AuthContext'
 import { YearGrid } from './YearGrid'
-import type { StreakData } from '../hooks/useStreak'
 import type { ActivityMap } from '../hooks/useActivity'
 import type { FontSize } from '../hooks/useFontSize'
 
 interface Props {
-  streak: StreakData
   activity: ActivityMap
   fontSize: FontSize
   onFontSize: (s: FontSize) => void
@@ -13,8 +12,27 @@ interface Props {
 
 const FONT_LABELS: Record<number, string> = { 15: 'Klein', 17: 'Normal', 20: 'Groß' }
 
-export function ProfilePage({ streak, activity, fontSize, onFontSize }: Props) {
+export function ProfilePage({ activity, fontSize, onFontSize }: Props) {
   const { user, logout } = useAuth()
+  const [installPrompt, setInstallPrompt] = useState<Event | null>(null)
+  const [installed, setInstalled] = useState(false)
+
+  useEffect(() => {
+    const handler = (e: Event) => { e.preventDefault(); setInstallPrompt(e) }
+    window.addEventListener('beforeinstallprompt', handler)
+    window.addEventListener('appinstalled', () => setInstalled(true))
+    return () => window.removeEventListener('beforeinstallprompt', handler)
+  }, [])
+
+  async function installApp() {
+    if (!installPrompt) return
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    await (installPrompt as any).prompt()
+    setInstallPrompt(null)
+  }
+
+  const isIos = /iphone|ipad|ipod/i.test(navigator.userAgent)
+  const isInStandaloneMode = window.matchMedia('(display-mode: standalone)').matches
 
   return (
     <div className="min-h-screen bg-[#f8f4ee]">
@@ -26,22 +44,7 @@ export function ProfilePage({ streak, activity, fontSize, onFontSize }: Props) {
           {user?.displayName ?? user?.email ?? 'Mein Konto'}
         </h1>
 
-        {/* Serie */}
-        <section className="bg-white/60 border border-stone-200 rounded-lg px-6 py-5 mb-5">
-          <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-stone-400 mb-3">Serie</p>
-          <div className="flex gap-8">
-            <div className="text-center">
-              <p className="font-serif text-4xl text-stone-800">{streak.current}</p>
-              <p className="font-serif text-xs text-stone-400 mt-1">Tage in Folge</p>
-            </div>
-            <div className="text-center">
-              <p className="font-serif text-4xl text-stone-500">{streak.longest}</p>
-              <p className="font-serif text-xs text-stone-400 mt-1">Längste Serie</p>
-            </div>
-          </div>
-        </section>
-
-        {/* Jahresraster */}
+        {/* Jahresraster — nur Heatmap, keine Streak-Zahlen */}
         <section className="bg-white/60 border border-stone-200 rounded-lg px-6 py-5 mb-5 overflow-x-auto">
           <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-stone-400 mb-4">Jahresübersicht</p>
           <YearGrid activity={activity} />
@@ -67,6 +70,27 @@ export function ProfilePage({ streak, activity, fontSize, onFontSize }: Props) {
             ))}
           </div>
         </section>
+
+        {/* App installieren */}
+        {!isInStandaloneMode && !installed && (
+          <section className="bg-white/60 border border-stone-200 rounded-lg px-6 py-5 mb-5">
+            <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-stone-400 mb-3">App installieren</p>
+            {installPrompt ? (
+              <button
+                onClick={installApp}
+                className="font-serif text-sm text-stone-700 underline decoration-stone-300"
+              >
+                Zum Startbildschirm hinzufügen
+              </button>
+            ) : isIos ? (
+              <p className="font-serif text-sm text-stone-500 italic leading-relaxed">
+                Tippe auf das Teilen-Symbol{' '}
+                <span className="not-italic">⎦</span> und wähle
+                „Zum Home-Bildschirm".
+              </p>
+            ) : null}
+          </section>
+        )}
 
         {/* Konto */}
         <section className="bg-white/60 border border-stone-200 rounded-lg px-6 py-5 mb-5">
