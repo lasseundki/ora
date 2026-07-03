@@ -1,4 +1,5 @@
 import { useState, useMemo, useCallback, useRef } from 'react'
+import { useRegisterSW } from 'virtual:pwa-register/react'
 import { doc, setDoc } from 'firebase/firestore'
 import { db } from './lib/firebase'
 import { liturgicalDay } from './church-year'
@@ -35,6 +36,22 @@ function detectMode(): DayMode {
   if (h < 11) return 'morgen'
   if (h < 18) return 'tag'
   return 'abend'
+}
+
+function UpdateBanner() {
+  const { needRefresh: [needRefresh], updateServiceWorker } = useRegisterSW()
+  if (!needRefresh) return null
+  return (
+    <div className="fixed top-0 inset-x-0 z-50 bg-stone-800 text-[#f8f4ee] px-4 py-2.5 flex items-center justify-between gap-4 shadow-lg">
+      <p className="font-serif text-sm">Neue Version verfügbar</p>
+      <button
+        onClick={() => updateServiceWorker(true)}
+        className="font-serif text-sm underline decoration-stone-400 whitespace-nowrap"
+      >
+        Jetzt aktualisieren
+      </button>
+    </div>
+  )
 }
 
 function AppInner() {
@@ -145,5 +162,10 @@ function AppInner() {
 }
 
 export default function App() {
-  return <AppInner />
+  return (
+    <>
+      <UpdateBanner />
+      <AppInner />
+    </>
+  )
 }
