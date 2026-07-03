@@ -9,6 +9,56 @@
     "gospel": {
       "ref": "Lk 8,4-15",
       "stable": true,
+      "verses": [
+        {
+          "num": 4,
+          "text": "Da nun viel Volks beieinander war und sie aus den Städten zu ihm eilten, sprach er durch ein Gleichnis:"
+        },
+        {
+          "num": 5,
+          "text": "Es ging ein Säemann aus, zu säen seinen Samen. Und indem er säte, fiel etliches an den Weg und ward zertreten und die Vögel unter dem Himmel fraßen's auf."
+        },
+        {
+          "num": 6,
+          "text": "Und etliches fiel auf den Fels; und da es aufging, verdorrte es, darum daß es nicht Saft hatte."
+        },
+        {
+          "num": 7,
+          "text": "Und etliches fiel mitten unter die Dornen; und die Dornen gingen mit auf und erstickten's."
+        },
+        {
+          "num": 8,
+          "text": "Und etliches fiel auf ein gutes Land; und es ging auf und trug hundertfältige Frucht. Da er das sagte, rief er: Wer Ohren hat, zu hören, der höre!"
+        },
+        {
+          "num": 9,
+          "text": "Es fragten ihn aber seine Jünger und sprachen, was dies Gleichnis wäre?"
+        },
+        {
+          "num": 10,
+          "text": "Er aber sprach: Euch ist es gegeben, zu wissen das Geheimnis des Reiches Gottes; den andern aber in Gleichnissen, daß sie es nicht sehen, ob sie es schon sehen, und nicht verstehen, ob sie es schon hören."
+        },
+        {
+          "num": 11,
+          "text": "Das ist aber das Gleichnis: Der Same ist das Wort Gottes."
+        },
+        {
+          "num": 12,
+          "text": "Die aber an dem Wege sind, das sind, die es hören; darnach kommt der Teufel und nimmt das Wort von ihrem Herzen, auf daß sie nicht glauben und selig werden."
+        },
+        {
+          "num": 13,
+          "text": "Die aber auf dem Fels sind die: wenn sie es hören, nehmen sie das Wort mit Freuden an; und die haben nicht Wurzel; eine Zeitlang glauben sie, und zur Zeit der Anfechtung fallen sie ab."
+        },
+        {
+          "num": 14,
+          "text": "Das aber unter die Dornen fiel, sind die, so es hören und gehen hin unter den Sorgen, Reichtum und Wollust dieses Lebens und ersticken und bringen keine Frucht."
+        },
+        {
+          "num": 15,
+          "text": "Das aber auf dem guten Land sind, die das Wort hören und behalten in einem feinen, guten Herzen und bringen Frucht in Geduld."
+        }
+      ],
       "text": "Da nun viel Volks beieinander war und sie aus den Städten zu ihm eilten, sprach er durch ein Gleichnis: Es ging ein Säemann aus, zu säen seinen Samen. Und indem er säte, fiel etliches an den Weg und ward zertreten und die Vögel unter dem Himmel fraßen's auf. Und etliches fiel auf den Fels; und da es aufging, verdorrte es, darum daß es nicht Saft hatte. Und etliches fiel mitten unter die Dornen; und die Dornen gingen mit auf und erstickten's. Und etliches fiel auf ein gutes Land; und es ging auf und trug hundertfältige Frucht. Da er das sagte, rief er: Wer Ohren hat, zu hören, der höre! Es fragten ihn aber seine Jünger und sprachen, was dies Gleichnis wäre? Er aber sprach: Euch ist es gegeben, zu wissen das Geheimnis des Reiches Gottes; den andern aber in Gleichnissen, daß sie es nicht sehen, ob sie es schon sehen, und nicht verstehen, ob sie es schon hören. Das ist aber das Gleichnis: Der Same ist das Wort Gottes. Die aber an dem Wege sind, das sind, die es hören; darnach kommt der Teufel und nimmt das Wort von ihrem Herzen, auf daß sie nicht glauben und selig werden. Die aber auf dem Fels sind die: wenn sie es hören, nehmen sie das Wort mit Freuden an; und die haben nicht Wurzel; eine Zeitlang glauben sie, und zur Zeit der Anfechtung fallen sie ab. Das aber unter die Dornen fiel, sind die, so es hören und gehen hin unter den Sorgen, Reichtum und Wollust dieses Lebens und ersticken und bringen keine Frucht. Das aber auf dem guten Land sind, die das Wort hören und behalten in einem feinen, guten Herzen und bringen Frucht in Geduld.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -17,6 +67,44 @@
     "epistle": {
       "ref": "2Kor 12,1-9",
       "_note": "Orig.: 2Kor 11,19–12,9 — kapitelübergreifend, Kerntext gewählt",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Es ist mir ja das Rühmen nichts nütze; doch will ich kommen auf die Gesichte und Offenbarung des HERRN."
+        },
+        {
+          "num": 2,
+          "text": "Ich kenne einen Menschen in Christo; vor vierzehn Jahren (ist er in dem Leibe gewesen, so weiß ich's nicht; oder ist er außer dem Leibe gewesen, so weiß ich's nicht; Gott weiß es) ward derselbe entzückt bis in den dritten Himmel."
+        },
+        {
+          "num": 3,
+          "text": "Und ich kenne denselben Menschen (ob er im Leibe oder außer dem Leibe gewesen ist, weiß ich nicht; Gott weiß es);"
+        },
+        {
+          "num": 4,
+          "text": "der ward entzückt in das Paradies und hörte unaussprechliche Worte, welche kein Mensch sagen kann."
+        },
+        {
+          "num": 5,
+          "text": "Für denselben will ich mich rühmen; für mich selbst aber will ich mich nichts rühmen, nur meiner Schwachheit."
+        },
+        {
+          "num": 6,
+          "text": "Und so ich mich rühmen wollte, täte ich daran nicht töricht; denn ich wollte die Wahrheit sagen. Ich enthalte mich aber dessen, auf daß nicht jemand mich höher achte, als er an mir sieht oder von mir hört."
+        },
+        {
+          "num": 7,
+          "text": "Und auf daß ich mich nicht der hohen Offenbarung überhebe, ist mir gegeben ein Pfahl ins Fleisch, nämlich des Satans Engel, der mich mit Fäusten schlage, auf daß ich mich nicht überhebe."
+        },
+        {
+          "num": 8,
+          "text": "Dafür ich dreimal zum HERRN gefleht habe, daß er von mir wiche."
+        },
+        {
+          "num": 9,
+          "text": "Und er hat zu mir gesagt: Laß dir an meiner Gnade genügen; denn meine Kraft ist in den Schwachen mächtig. Darum will ich mich am allerliebsten rühmen meiner Schwachheit, auf daß die Kraft Christi bei mir wohne."
+        }
+      ],
       "text": "Es ist mir ja das Rühmen nichts nütze; doch will ich kommen auf die Gesichte und Offenbarung des HERRN. Ich kenne einen Menschen in Christo; vor vierzehn Jahren (ist er in dem Leibe gewesen, so weiß ich's nicht; oder ist er außer dem Leibe gewesen, so weiß ich's nicht; Gott weiß es) ward derselbe entzückt bis in den dritten Himmel. Und ich kenne denselben Menschen (ob er im Leibe oder außer dem Leibe gewesen ist, weiß ich nicht; Gott weiß es); der ward entzückt in das Paradies und hörte unaussprechliche Worte, welche kein Mensch sagen kann. Für denselben will ich mich rühmen; für mich selbst aber will ich mich nichts rühmen, nur meiner Schwachheit. Und so ich mich rühmen wollte, täte ich daran nicht töricht; denn ich wollte die Wahrheit sagen. Ich enthalte mich aber dessen, auf daß nicht jemand mich höher achte, als er an mir sieht oder von mir hört. Und auf daß ich mich nicht der hohen Offenbarung überhebe, ist mir gegeben ein Pfahl ins Fleisch, nämlich des Satans Engel, der mich mit Fäusten schlage, auf daß ich mich nicht überhebe. Dafür ich dreimal zum HERRN gefleht habe, daß er von mir wiche. Und er hat zu mir gesagt: Laß dir an meiner Gnade genügen; denn meine Kraft ist in den Schwachen mächtig. Darum will ich mich am allerliebsten rühmen meiner Schwachheit, auf daß die Kraft Christi bei mir wohne.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -24,6 +112,712 @@
     },
     "psalm": {
       "ref": "Ps 119",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Wohl denen, die ohne Tadel leben, die im Gesetz des HERRN wandeln!"
+        },
+        {
+          "num": 2,
+          "text": "Wohl denen, die seine Zeugnisse halten, die ihn von ganzem Herzen suchen!"
+        },
+        {
+          "num": 3,
+          "text": "Denn welche auf seinen Wegen wandeln, die tun kein Übel."
+        },
+        {
+          "num": 4,
+          "text": "Du hast geboten, fleißig zu halten deine Befehle."
+        },
+        {
+          "num": 5,
+          "text": "Oh daß mein Leben deine Rechte mit ganzem Ernst hielte!"
+        },
+        {
+          "num": 6,
+          "text": "Wenn ich schaue allein auf deine Gebote, so werde ich nicht zu Schanden."
+        },
+        {
+          "num": 7,
+          "text": "Ich danke dir von Herzen, daß du mich lehrst die Rechte deiner Gerechtigkeit."
+        },
+        {
+          "num": 8,
+          "text": "Deine Rechte will ich halten; verlaß mich nimmermehr."
+        },
+        {
+          "num": 9,
+          "text": "Wie wird ein Jüngling seinen Weg unsträflich gehen? Wenn er sich hält nach deinen Worten."
+        },
+        {
+          "num": 10,
+          "text": "Ich suche dich von ganzem Herzen; laß mich nicht abirren von deinen Geboten."
+        },
+        {
+          "num": 11,
+          "text": "Ich behalte dein Wort in meinem Herzen, auf daß ich nicht wieder dich sündige."
+        },
+        {
+          "num": 12,
+          "text": "Gelobt seist du, HERR! Lehre mich deine Rechte!"
+        },
+        {
+          "num": 13,
+          "text": "Ich will mit meinen Lippen erzählen alle Rechte deines Mundes."
+        },
+        {
+          "num": 14,
+          "text": "Ich freue mich des Weges deiner Zeugnisse wie über allerlei Reichtum."
+        },
+        {
+          "num": 15,
+          "text": "Ich rede von dem, was du befohlen hast, und schaue auf deine Wege."
+        },
+        {
+          "num": 16,
+          "text": "Ich habe Lust zu deinen Rechten und vergesse deiner Worte nicht."
+        },
+        {
+          "num": 17,
+          "text": "Tue wohl deinem Knecht, daß ich lebe und dein Wort halte."
+        },
+        {
+          "num": 18,
+          "text": "Öffne mir die Augen, daß ich sehe die Wunder an deinem Gesetz."
+        },
+        {
+          "num": 19,
+          "text": "Ich bin ein Gast auf Erden; verbirg deine Gebote nicht vor mir."
+        },
+        {
+          "num": 20,
+          "text": "Meine Seele ist zermalmt vor Verlangen nach deinen Rechten allezeit."
+        },
+        {
+          "num": 21,
+          "text": "Du schiltst die Stolzen; verflucht sind, die von deinen Geboten abirren."
+        },
+        {
+          "num": 22,
+          "text": "Wende von mir Schmach und Verachtung; denn ich halte deine Zeugnisse."
+        },
+        {
+          "num": 23,
+          "text": "Es sitzen auch die Fürsten und reden wider mich; aber dein Knecht redet von deinen Rechten."
+        },
+        {
+          "num": 24,
+          "text": "Ich habe Lust zu deinen Zeugnissen; die sind meine Ratsleute."
+        },
+        {
+          "num": 25,
+          "text": "Meine Seele liegt im Staube; erquicke mich nach deinem Wort."
+        },
+        {
+          "num": 26,
+          "text": "Ich erzähle meine Wege, und du erhörst mich; lehre mich deine Rechte."
+        },
+        {
+          "num": 27,
+          "text": "Unterweise mich den Weg deiner Befehle, so will ich reden von deinen Wundern."
+        },
+        {
+          "num": 28,
+          "text": "Ich gräme mich, daß mir das Herz verschmachtet; stärke mich nach deinem Wort."
+        },
+        {
+          "num": 29,
+          "text": "Wende von mir den falschen Weg und gönne mir dein Gesetz."
+        },
+        {
+          "num": 30,
+          "text": "Ich habe den Weg der Wahrheit erwählt; deine Rechte habe ich vor mich gestellt."
+        },
+        {
+          "num": 31,
+          "text": "Ich hange an deinen Zeugnissen; HERR, laß mich nicht zu Schanden werden!"
+        },
+        {
+          "num": 32,
+          "text": "Wenn du mein Herz tröstest, so laufe ich den Weg deiner Gebote."
+        },
+        {
+          "num": 33,
+          "text": "Zeige mir, HERR, den Weg deiner Rechte, daß ich sie bewahre bis ans Ende."
+        },
+        {
+          "num": 34,
+          "text": "Unterweise mich, daß ich bewahre dein Gesetz und halte es von ganzem Herzen."
+        },
+        {
+          "num": 35,
+          "text": "Führe mich auf dem Steige deiner Gebote; denn ich habe Lust dazu."
+        },
+        {
+          "num": 36,
+          "text": "Neige mein Herz zu deinen Zeugnissen, und nicht zum Geiz."
+        },
+        {
+          "num": 37,
+          "text": "Wende meine Augen ab, daß sie nicht sehen nach unnützer Lehre; sondern erquicke mich auf deinem Wege."
+        },
+        {
+          "num": 38,
+          "text": "Laß deinen Knecht dein Gebot fest für dein Wort halten, daß ich mich nicht fürchte."
+        },
+        {
+          "num": 39,
+          "text": "Wende von mir die Schmach, die ich scheue; denn deine Rechte sind lieblich."
+        },
+        {
+          "num": 40,
+          "text": "Siehe, ich begehre deiner Befehle; erquicke mich mit deiner Gerechtigkeit."
+        },
+        {
+          "num": 41,
+          "text": "HERR, laß mir deine Gnade widerfahren, deine Hilfe nach deinem Wort,"
+        },
+        {
+          "num": 42,
+          "text": "daß ich antworten möge meinem Lästerer; denn ich verlasse mich auf dein Wort."
+        },
+        {
+          "num": 43,
+          "text": "Und nimm ja nicht von meinem Munde das Wort der Wahrheit; denn ich hoffe auf deine Rechte."
+        },
+        {
+          "num": 44,
+          "text": "Ich will dein Gesetz halten allewege, immer und ewiglich."
+        },
+        {
+          "num": 45,
+          "text": "Und ich wandle fröhlich; denn ich suche deine Befehle."
+        },
+        {
+          "num": 46,
+          "text": "Ich rede von deinen Zeugnissen vor Königen und schäme mich nicht"
+        },
+        {
+          "num": 47,
+          "text": "und habe Lust an deinen Geboten, und sie sind mir lieb,"
+        },
+        {
+          "num": 48,
+          "text": "und hebe meine Hände auf zu deinen Geboten, die mir lieb sind, und rede von deinen Rechten."
+        },
+        {
+          "num": 49,
+          "text": "Gedenke deinem Knechte an dein Wort, auf welches du mich lässest hoffen."
+        },
+        {
+          "num": 50,
+          "text": "Das ist mein Trost in meinem Elend; denn dein Wort erquickt mich."
+        },
+        {
+          "num": 51,
+          "text": "Die Stolzen haben ihren Spott an mir; dennoch weiche ich nicht von deinem Gesetz."
+        },
+        {
+          "num": 52,
+          "text": "HERR, wenn ich gedenke, wie du von der Welt her gerichtet hast, so werde ich getröstet."
+        },
+        {
+          "num": 53,
+          "text": "Ich bin entbrannt über die Gottlosen, die dein Gesetz verlassen."
+        },
+        {
+          "num": 54,
+          "text": "Deine Rechte sind mein Lied in dem Hause meiner Wallfahrt."
+        },
+        {
+          "num": 55,
+          "text": "HERR, ich gedenke des Nachts an deinen Namen und halte dein Gesetz."
+        },
+        {
+          "num": 56,
+          "text": "Das ist mein Schatz, daß ich deine Befehle halte."
+        },
+        {
+          "num": 57,
+          "text": "Ich habe gesagt: \"HERR, das soll mein Erbe sein, daß ich deine Worte halte.\""
+        },
+        {
+          "num": 58,
+          "text": "Ich flehe vor deinem Angesicht von ganzem Herzen; sei mir gnädig nach deinem Wort."
+        },
+        {
+          "num": 59,
+          "text": "Ich betrachte meine Wege und kehre meine Füße zu deinen Zeugnissen."
+        },
+        {
+          "num": 60,
+          "text": "Ich eile und säume mich nicht, zu halten deine Gebote."
+        },
+        {
+          "num": 61,
+          "text": "Der Gottlosen Rotte beraubt mich; aber ich vergesse deines Gesetzes nicht."
+        },
+        {
+          "num": 62,
+          "text": "Zur Mitternacht stehe ich auf, dir zu danken für die Rechte deiner Gerechtigkeit."
+        },
+        {
+          "num": 63,
+          "text": "Ich halte mich zu denen, die dich fürchten und deine Befehle halten."
+        },
+        {
+          "num": 64,
+          "text": "HERR, die Erde ist voll deiner Güte; lehre mich deine Rechte."
+        },
+        {
+          "num": 65,
+          "text": "Du tust Gutes deinem Knechte, HERR, nach deinem Wort."
+        },
+        {
+          "num": 66,
+          "text": "Lehre mich heilsame Sitten und Erkenntnis; den ich glaube deinen Geboten."
+        },
+        {
+          "num": 67,
+          "text": "Ehe ich gedemütigt ward, irrte ich; nun aber halte ich dein Wort."
+        },
+        {
+          "num": 68,
+          "text": "Du bist gütig und freundlich; lehre mich deine Rechte."
+        },
+        {
+          "num": 69,
+          "text": "Die Stolzen erdichten Lügen über mich; ich aber halte von ganzem Herzen deine Befehle."
+        },
+        {
+          "num": 70,
+          "text": "Ihr Herz ist dick wie Schmer; ich aber habe Lust an deinem Gesetz."
+        },
+        {
+          "num": 71,
+          "text": "Es ist mir lieb, daß du mich gedemütigt hast, daß ich deine Rechte lerne."
+        },
+        {
+          "num": 72,
+          "text": "Das Gesetz deines Mundes ist mir lieber denn viel tausend Stück Gold und Silber."
+        },
+        {
+          "num": 73,
+          "text": "Deine Hand hat mich gemacht und bereitet; unterweise mich, daß ich deine Gebote lerne."
+        },
+        {
+          "num": 74,
+          "text": "Die dich fürchten, sehen mich und freuen sich; denn ich hoffe auf dein Wort."
+        },
+        {
+          "num": 75,
+          "text": "HERR, ich weiß, daß deine Gerichte recht sind; du hast mich treulich gedemütigt."
+        },
+        {
+          "num": 76,
+          "text": "Deine Gnade müsse mein Trost sein, wie du deinem Knecht zugesagt hast."
+        },
+        {
+          "num": 77,
+          "text": "Laß mir deine Barmherzigkeit widerfahren, daß ich lebe; denn ich habe Lust zu deinem Gesetz."
+        },
+        {
+          "num": 78,
+          "text": "Ach daß die Stolzen müßten zu Schanden werden, die mich mit Lügen niederdrücken! ich aber rede von deinen Befehlen."
+        },
+        {
+          "num": 79,
+          "text": "Ach daß sich müßten zu mir halten, die dich fürchten und deine Zeugnisse kennen!"
+        },
+        {
+          "num": 80,
+          "text": "Mein Herz bleibe rechtschaffen in deinen Rechten, daß ich nicht zu Schanden werde."
+        },
+        {
+          "num": 81,
+          "text": "Meine Seele verlangt nach deinem Heil; ich hoffe auf dein Wort."
+        },
+        {
+          "num": 82,
+          "text": "Meine Augen sehnen sich nach deinem Wort und sagen: Wann tröstest du mich?"
+        },
+        {
+          "num": 83,
+          "text": "Denn ich bin wie ein Schlauch im Rauch; deiner Rechte vergesse ich nicht."
+        },
+        {
+          "num": 84,
+          "text": "Wie lange soll dein Knecht warten? Wann willst du Gericht halten über meine Verfolger?"
+        },
+        {
+          "num": 85,
+          "text": "Die Stolzen graben ihre Gruben, sie, die nicht sind nach deinem Gesetz."
+        },
+        {
+          "num": 86,
+          "text": "Deine Gebote sind eitel Wahrheit. Sie verfolgen mich mit Lügen; hilf mir."
+        },
+        {
+          "num": 87,
+          "text": "Sie haben mich schier umgebracht auf Erden; ich aber lasse deine Befehle nicht."
+        },
+        {
+          "num": 88,
+          "text": "Erquicke mich durch deine Gnade, daß ich halte die Zeugnisse deines Mundes."
+        },
+        {
+          "num": 89,
+          "text": "HERR, dein Wort bleibt ewiglich, soweit der Himmel ist;"
+        },
+        {
+          "num": 90,
+          "text": "deine Wahrheit währet für und für. Du hast die Erde zugerichtet, und sie bleibt stehen."
+        },
+        {
+          "num": 91,
+          "text": "Es bleibt täglich nach deinem Wort; denn es muß dir alles dienen."
+        },
+        {
+          "num": 92,
+          "text": "Wo dein Gesetz nicht mein Trost gewesen wäre, so wäre ich vergangen in meinem Elend."
+        },
+        {
+          "num": 93,
+          "text": "Ich will deine Befehle nimmermehr vergessen; denn du erqickest mich damit."
+        },
+        {
+          "num": 94,
+          "text": "Ich bin dein, hilf mir! denn ich suche deine Befehle."
+        },
+        {
+          "num": 95,
+          "text": "Die Gottlosen lauern auf mich, daß sie mich umbringen; ich aber merke auf deine Zeugnisse."
+        },
+        {
+          "num": 96,
+          "text": "Ich habe alles Dinges ein Ende gesehen; aber dein Gebot währet."
+        },
+        {
+          "num": 97,
+          "text": "Wie habe ich dein Gesetz so lieb! Täglich rede ich davon."
+        },
+        {
+          "num": 98,
+          "text": "Du machst mich mit deinem Gebot weiser, als meine Feinde sind; denn es ist ewiglich mein Schatz."
+        },
+        {
+          "num": 99,
+          "text": "Ich bin gelehrter denn alle meine Lehrer; denn deine Zeugnisse sind meine Rede."
+        },
+        {
+          "num": 100,
+          "text": "Ich bin klüger denn die Alten; denn ich halte deine Befehle."
+        },
+        {
+          "num": 101,
+          "text": "Ich wehre meinem Fuß alle bösen Wege, daß ich dein Wort halte."
+        },
+        {
+          "num": 102,
+          "text": "Ich weiche nicht von deinen Rechten; denn du lehrest mich."
+        },
+        {
+          "num": 103,
+          "text": "Dein Wort ist meinem Munde süßer denn Honig."
+        },
+        {
+          "num": 104,
+          "text": "Dein Wort macht mich klug; darum hasse ich alle falschen Wege."
+        },
+        {
+          "num": 105,
+          "text": "Dein Wort ist meine Fußes Leuchte und ein Licht auf meinem Wege."
+        },
+        {
+          "num": 106,
+          "text": "Ich schwöre und will's halten, daß ich die Rechte deiner Gerechtigkeit halten will."
+        },
+        {
+          "num": 107,
+          "text": "Ich bin sehr gedemütigt; HERR, erquicke mich nach deinem Wort!"
+        },
+        {
+          "num": 108,
+          "text": "Laß dir gefallen, HERR das willige Opfer meines Mundes und lehre mich deine Rechte."
+        },
+        {
+          "num": 109,
+          "text": "Ich trage meine Seele immer in meinen Händen, und ich vergesse deines Gesetzes nicht."
+        },
+        {
+          "num": 110,
+          "text": "Die Gottlosen legen mir Stricke; ich aber irre nicht von deinen Befehlen."
+        },
+        {
+          "num": 111,
+          "text": "Deine Zeugnisse sind mein ewiges Erbe; denn sie sind meines Herzens Wonne."
+        },
+        {
+          "num": 112,
+          "text": "Ich neige mein Herz, zu tun nach deinen Rechten immer und ewiglich."
+        },
+        {
+          "num": 113,
+          "text": "Ich hasse die Flattergeister und liebe dein Gesetz."
+        },
+        {
+          "num": 114,
+          "text": "Du bist mein Schirm und Schild; ich hoffe auf dein Wort."
+        },
+        {
+          "num": 115,
+          "text": "Weichet von mir, ihr Boshaften! Ich will halten die Gebote meines Gottes."
+        },
+        {
+          "num": 116,
+          "text": "Erhalte mich durch dein Wort, daß ich lebe; und laß mich nicht zu Schanden werden über meiner Hoffnung."
+        },
+        {
+          "num": 117,
+          "text": "Stärke mich, daß ich genese, so will ich stets meine Lust haben an deinen Rechten."
+        },
+        {
+          "num": 118,
+          "text": "Du zertrittst alle, die von deinen Rechten abirren; denn ihre Trügerei ist eitel Lüge."
+        },
+        {
+          "num": 119,
+          "text": "Du wirfst alle Gottlosen auf Erden weg wie Schlacken; darum liebe ich deine Zeugnisse."
+        },
+        {
+          "num": 120,
+          "text": "Ich fürchte mich vor dir, daß mir die Haut schaudert, und entsetze mich vor deinen Gerichten."
+        },
+        {
+          "num": 121,
+          "text": "Ich halte über Recht und Gerechtigkeit; übergib mich nicht denen, die mir wollen Gewalt tun."
+        },
+        {
+          "num": 122,
+          "text": "Vertritt du deinen Knecht und tröste ihn; mögen mir die Stolzen nicht Gewalt tun."
+        },
+        {
+          "num": 123,
+          "text": "Meine Augen sehnen sich nach deinem Heil und nach dem Wort deiner Gerechtigkeit."
+        },
+        {
+          "num": 124,
+          "text": "Handle mit deinem Knecht nach deiner Gnade und lehre mich deine Rechte."
+        },
+        {
+          "num": 125,
+          "text": "Ich bin dein Knecht; unterweise mich, daß ich erkenne deine Zeugnisse."
+        },
+        {
+          "num": 126,
+          "text": "Es ist Zeit, daß der HERR dazutue; sie haben dein Gesetz zerrissen."
+        },
+        {
+          "num": 127,
+          "text": "Darum liebe ich dein Gebot über Gold und über feines Gold."
+        },
+        {
+          "num": 128,
+          "text": "Darum halte ich stracks alle deine Befehle; ich hasse allen falschen Weg."
+        },
+        {
+          "num": 129,
+          "text": "Deine Zeugnisse sind wunderbar; darum hält sie meine Seele."
+        },
+        {
+          "num": 130,
+          "text": "Wenn dein Wort offenbar wird, so erfreut es und macht klug die Einfältigen."
+        },
+        {
+          "num": 131,
+          "text": "Ich sperre meinen Mund auf und lechze nach deinen Geboten; denn mich verlangt darnach."
+        },
+        {
+          "num": 132,
+          "text": "Wende dich zu mir und sei mir gnädig, wie du pflegst zu tun denen, die deinen Namen lieben."
+        },
+        {
+          "num": 133,
+          "text": "Laß meinen Gang gewiß sein in deinem Wort und laß kein Unrecht über mich herrschen."
+        },
+        {
+          "num": 134,
+          "text": "Erlöse mich von der Menschen Frevel, so will ich halten deine Befehle."
+        },
+        {
+          "num": 135,
+          "text": "Laß dein Antlitz leuchten über deinen Knecht und lehre mich deine Rechte."
+        },
+        {
+          "num": 136,
+          "text": "Meine Augen fließen mit Wasser, daß man dein Gesetz nicht hält."
+        },
+        {
+          "num": 137,
+          "text": "HERR, du bist gerecht, und dein Wort ist recht."
+        },
+        {
+          "num": 138,
+          "text": "Du hast die Zeugnisse deiner Gerechtigkeit und die Wahrheit hart geboten."
+        },
+        {
+          "num": 139,
+          "text": "Ich habe mich schier zu Tode geeifert, daß meine Gegner deiner Worte vergessen."
+        },
+        {
+          "num": 140,
+          "text": "Dein Wort ist wohl geläutert, und dein Knecht hat es lieb."
+        },
+        {
+          "num": 141,
+          "text": "Ich bin gering und verachtet; ich vergesse aber nicht deiner Befehle."
+        },
+        {
+          "num": 142,
+          "text": "Deine Gerechtigkeit ist eine ewige Gerechtigkeit, und dein Gesetz ist Wahrheit."
+        },
+        {
+          "num": 143,
+          "text": "Angst und Not haben mich getroffen; ich habe aber Lust an deinen Geboten."
+        },
+        {
+          "num": 144,
+          "text": "Die Gerechtigkeit deiner Zeugnisse ist ewig; unterweise mich, so lebe ich."
+        },
+        {
+          "num": 145,
+          "text": "Ich rufe von ganzem Herzen; erhöre mich, HERR, daß ich dein Rechte halte."
+        },
+        {
+          "num": 146,
+          "text": "Ich rufe zu dir; hilf mir, daß ich deine Zeugnisse halte."
+        },
+        {
+          "num": 147,
+          "text": "Ich komme in der Frühe und schreie; auf dein Wort hoffe ich."
+        },
+        {
+          "num": 148,
+          "text": "Ich wache auf, wenn's noch Nacht ist, zu sinnen über dein Wort."
+        },
+        {
+          "num": 149,
+          "text": "Höre meine Stimme nach deiner Gnade; HERR, erquicke mich nach deinen Rechten."
+        },
+        {
+          "num": 150,
+          "text": "Meine boshaften Verfolger nahen herzu und sind ferne von deinem Gesetz."
+        },
+        {
+          "num": 151,
+          "text": "HERR, du bist nahe, und deine Gebote sind eitel Wahrheit."
+        },
+        {
+          "num": 152,
+          "text": "Längst weiß ich, daß du deine Zeugnisse für ewig gegründet hast."
+        },
+        {
+          "num": 153,
+          "text": "Siehe mein Elend und errette mich; hilf mir aus, denn ich vergesse deines Gesetzes nicht."
+        },
+        {
+          "num": 154,
+          "text": "Führe meine Sache und erlöse mich; erquicke mich durch dein Wort."
+        },
+        {
+          "num": 155,
+          "text": "Das Heil ist ferne von den Gottlosen; denn sie achten deine Rechte nicht."
+        },
+        {
+          "num": 156,
+          "text": "HERR, deine Barmherzigkeit ist groß; erquicke mich nach deinen Rechten."
+        },
+        {
+          "num": 157,
+          "text": "Meiner Verfolger und Widersacher sind viele; ich weiche aber nicht von deinen Zeugnissen."
+        },
+        {
+          "num": 158,
+          "text": "Ich sehe die Verächter, und es tut mir wehe, daß sie dein Wort nicht halten."
+        },
+        {
+          "num": 159,
+          "text": "Siehe, ich liebe deine Befehle; HERR, erquicke mich nach deiner Gnade."
+        },
+        {
+          "num": 160,
+          "text": "Dein Wort ist nichts denn Wahrheit; alle Rechte deiner Gerechtigkeit währen ewiglich."
+        },
+        {
+          "num": 161,
+          "text": "Die Fürsten verfolgen mich ohne Ursache, und mein Herz fürchtet sich vor deinen Worten."
+        },
+        {
+          "num": 162,
+          "text": "Ich freue mich über dein Wort wie einer, der eine große Beute kriegt."
+        },
+        {
+          "num": 163,
+          "text": "Lügen bin ich gram und habe Greuel daran; aber dein Gesetz habe ich lieb."
+        },
+        {
+          "num": 164,
+          "text": "Ich lobe dich des Tages siebenmal um der Rechte willen deiner Gerechtigkeit."
+        },
+        {
+          "num": 165,
+          "text": "Großen Frieden haben, die dein Gesetz lieben; sie werden nicht straucheln."
+        },
+        {
+          "num": 166,
+          "text": "HERR, ich warte auf dein Heil und tue nach deinen Geboten."
+        },
+        {
+          "num": 167,
+          "text": "Meine Seele hält deine Zeugnisse und liebt sie sehr."
+        },
+        {
+          "num": 168,
+          "text": "Ich halte deine Befehle und deine Zeugnisse; denn alle meine Wege sind vor dir."
+        },
+        {
+          "num": 169,
+          "text": "HERR, laß meine Klage vor dich kommen; unterweise mich nach deinem Wort."
+        },
+        {
+          "num": 170,
+          "text": "Laß mein Flehen vor dich kommen; errette mich nach deinem Wort."
+        },
+        {
+          "num": 171,
+          "text": "Meine Lippen sollen loben, wenn du mich deine Rechte lehrest."
+        },
+        {
+          "num": 172,
+          "text": "Meine Zunge soll ihr Gespräch haben von deinem Wort; denn alle deine Gebote sind recht."
+        },
+        {
+          "num": 173,
+          "text": "Laß mir deine Hand beistehen; denn ich habe erwählt deine Befehle."
+        },
+        {
+          "num": 174,
+          "text": "HERR, mich verlangt nach deinem Heil, und ich habe Lust an deinem Gesetz."
+        },
+        {
+          "num": 175,
+          "text": "Laß meine Seele leben, daß sie dich lobe, und deine Rechte mir helfen."
+        },
+        {
+          "num": 176,
+          "text": "Ich bin ein verirrtes und verlorenes Schaf. Suche deinen Knecht; denn ich vergesse deiner Gebote nicht."
+        }
+      ],
       "text": "Wohl denen, die ohne Tadel leben, die im Gesetz des HERRN wandeln! Wohl denen, die seine Zeugnisse halten, die ihn von ganzem Herzen suchen! Denn welche auf seinen Wegen wandeln, die tun kein Übel. Du hast geboten, fleißig zu halten deine Befehle. Oh daß mein Leben deine Rechte mit ganzem Ernst hielte! Wenn ich schaue allein auf deine Gebote, so werde ich nicht zu Schanden. Ich danke dir von Herzen, daß du mich lehrst die Rechte deiner Gerechtigkeit. Deine Rechte will ich halten; verlaß mich nimmermehr. Wie wird ein Jüngling seinen Weg unsträflich gehen? Wenn er sich hält nach deinen Worten. Ich suche dich von ganzem Herzen; laß mich nicht abirren von deinen Geboten. Ich behalte dein Wort in meinem Herzen, auf daß ich nicht wieder dich sündige. Gelobt seist du, HERR! Lehre mich deine Rechte! Ich will mit meinen Lippen erzählen alle Rechte deines Mundes. Ich freue mich des Weges deiner Zeugnisse wie über allerlei Reichtum. Ich rede von dem, was du befohlen hast, und schaue auf deine Wege. Ich habe Lust zu deinen Rechten und vergesse deiner Worte nicht. Tue wohl deinem Knecht, daß ich lebe und dein Wort halte. Öffne mir die Augen, daß ich sehe die Wunder an deinem Gesetz. Ich bin ein Gast auf Erden; verbirg deine Gebote nicht vor mir. Meine Seele ist zermalmt vor Verlangen nach deinen Rechten allezeit. Du schiltst die Stolzen; verflucht sind, die von deinen Geboten abirren. Wende von mir Schmach und Verachtung; denn ich halte deine Zeugnisse. Es sitzen auch die Fürsten und reden wider mich; aber dein Knecht redet von deinen Rechten. Ich habe Lust zu deinen Zeugnissen; die sind meine Ratsleute. Meine Seele liegt im Staube; erquicke mich nach deinem Wort. Ich erzähle meine Wege, und du erhörst mich; lehre mich deine Rechte. Unterweise mich den Weg deiner Befehle, so will ich reden von deinen Wundern. Ich gräme mich, daß mir das Herz verschmachtet; stärke mich nach deinem Wort. Wende von mir den falschen Weg und gönne mir dein Gesetz. Ich habe den Weg der Wahrheit erwählt; deine Rechte habe ich vor mich gestellt. Ich hange an deinen Zeugnissen; HERR, laß mich nicht zu Schanden werden! Wenn du mein Herz tröstest, so laufe ich den Weg deiner Gebote. Zeige mir, HERR, den Weg deiner Rechte, daß ich sie bewahre bis ans Ende. Unterweise mich, daß ich bewahre dein Gesetz und halte es von ganzem Herzen. Führe mich auf dem Steige deiner Gebote; denn ich habe Lust dazu. Neige mein Herz zu deinen Zeugnissen, und nicht zum Geiz. Wende meine Augen ab, daß sie nicht sehen nach unnützer Lehre; sondern erquicke mich auf deinem Wege. Laß deinen Knecht dein Gebot fest für dein Wort halten, daß ich mich nicht fürchte. Wende von mir die Schmach, die ich scheue; denn deine Rechte sind lieblich. Siehe, ich begehre deiner Befehle; erquicke mich mit deiner Gerechtigkeit. HERR, laß mir deine Gnade widerfahren, deine Hilfe nach deinem Wort, daß ich antworten möge meinem Lästerer; denn ich verlasse mich auf dein Wort. Und nimm ja nicht von meinem Munde das Wort der Wahrheit; denn ich hoffe auf deine Rechte. Ich will dein Gesetz halten allewege, immer und ewiglich. Und ich wandle fröhlich; denn ich suche deine Befehle. Ich rede von deinen Zeugnissen vor Königen und schäme mich nicht und habe Lust an deinen Geboten, und sie sind mir lieb, und hebe meine Hände auf zu deinen Geboten, die mir lieb sind, und rede von deinen Rechten. Gedenke deinem Knechte an dein Wort, auf welches du mich lässest hoffen. Das ist mein Trost in meinem Elend; denn dein Wort erquickt mich. Die Stolzen haben ihren Spott an mir; dennoch weiche ich nicht von deinem Gesetz. HERR, wenn ich gedenke, wie du von der Welt her gerichtet hast, so werde ich getröstet. Ich bin entbrannt über die Gottlosen, die dein Gesetz verlassen. Deine Rechte sind mein Lied in dem Hause meiner Wallfahrt. HERR, ich gedenke des Nachts an deinen Namen und halte dein Gesetz. Das ist mein Schatz, daß ich deine Befehle halte. Ich habe gesagt: \"HERR, das soll mein Erbe sein, daß ich deine Worte halte.\" Ich flehe vor deinem Angesicht von ganzem Herzen; sei mir gnädig nach deinem Wort. Ich betrachte meine Wege und kehre meine Füße zu deinen Zeugnissen. Ich eile und säume mich nicht, zu halten deine Gebote. Der Gottlosen Rotte beraubt mich; aber ich vergesse deines Gesetzes nicht. Zur Mitternacht stehe ich auf, dir zu danken für die Rechte deiner Gerechtigkeit. Ich halte mich zu denen, die dich fürchten und deine Befehle halten. HERR, die Erde ist voll deiner Güte; lehre mich deine Rechte. Du tust Gutes deinem Knechte, HERR, nach deinem Wort. Lehre mich heilsame Sitten und Erkenntnis; den ich glaube deinen Geboten. Ehe ich gedemütigt ward, irrte ich; nun aber halte ich dein Wort. Du bist gütig und freundlich; lehre mich deine Rechte. Die Stolzen erdichten Lügen über mich; ich aber halte von ganzem Herzen deine Befehle. Ihr Herz ist dick wie Schmer; ich aber habe Lust an deinem Gesetz. Es ist mir lieb, daß du mich gedemütigt hast, daß ich deine Rechte lerne. Das Gesetz deines Mundes ist mir lieber denn viel tausend Stück Gold und Silber. Deine Hand hat mich gemacht und bereitet; unterweise mich, daß ich deine Gebote lerne. Die dich fürchten, sehen mich und freuen sich; denn ich hoffe auf dein Wort. HERR, ich weiß, daß deine Gerichte recht sind; du hast mich treulich gedemütigt. Deine Gnade müsse mein Trost sein, wie du deinem Knecht zugesagt hast. Laß mir deine Barmherzigkeit widerfahren, daß ich lebe; denn ich habe Lust zu deinem Gesetz. Ach daß die Stolzen müßten zu Schanden werden, die mich mit Lügen niederdrücken! ich aber rede von deinen Befehlen. Ach daß sich müßten zu mir halten, die dich fürchten und deine Zeugnisse kennen! Mein Herz bleibe rechtschaffen in deinen Rechten, daß ich nicht zu Schanden werde. Meine Seele verlangt nach deinem Heil; ich hoffe auf dein Wort. Meine Augen sehnen sich nach deinem Wort und sagen: Wann tröstest du mich? Denn ich bin wie ein Schlauch im Rauch; deiner Rechte vergesse ich nicht. Wie lange soll dein Knecht warten? Wann willst du Gericht halten über meine Verfolger? Die Stolzen graben ihre Gruben, sie, die nicht sind nach deinem Gesetz. Deine Gebote sind eitel Wahrheit. Sie verfolgen mich mit Lügen; hilf mir. Sie haben mich schier umgebracht auf Erden; ich aber lasse deine Befehle nicht. Erquicke mich durch deine Gnade, daß ich halte die Zeugnisse deines Mundes. HERR, dein Wort bleibt ewiglich, soweit der Himmel ist; deine Wahrheit währet für und für. Du hast die Erde zugerichtet, und sie bleibt stehen. Es bleibt täglich nach deinem Wort; denn es muß dir alles dienen. Wo dein Gesetz nicht mein Trost gewesen wäre, so wäre ich vergangen in meinem Elend. Ich will deine Befehle nimmermehr vergessen; denn du erqickest mich damit. Ich bin dein, hilf mir! denn ich suche deine Befehle. Die Gottlosen lauern auf mich, daß sie mich umbringen; ich aber merke auf deine Zeugnisse. Ich habe alles Dinges ein Ende gesehen; aber dein Gebot währet. Wie habe ich dein Gesetz so lieb! Täglich rede ich davon. Du machst mich mit deinem Gebot weiser, als meine Feinde sind; denn es ist ewiglich mein Schatz. Ich bin gelehrter denn alle meine Lehrer; denn deine Zeugnisse sind meine Rede. Ich bin klüger denn die Alten; denn ich halte deine Befehle. Ich wehre meinem Fuß alle bösen Wege, daß ich dein Wort halte. Ich weiche nicht von deinen Rechten; denn du lehrest mich. Dein Wort ist meinem Munde süßer denn Honig. Dein Wort macht mich klug; darum hasse ich alle falschen Wege. Dein Wort ist meine Fußes Leuchte und ein Licht auf meinem Wege. Ich schwöre und will's halten, daß ich die Rechte deiner Gerechtigkeit halten will. Ich bin sehr gedemütigt; HERR, erquicke mich nach deinem Wort! Laß dir gefallen, HERR das willige Opfer meines Mundes und lehre mich deine Rechte. Ich trage meine Seele immer in meinen Händen, und ich vergesse deines Gesetzes nicht. Die Gottlosen legen mir Stricke; ich aber irre nicht von deinen Befehlen. Deine Zeugnisse sind mein ewiges Erbe; denn sie sind meines Herzens Wonne. Ich neige mein Herz, zu tun nach deinen Rechten immer und ewiglich. Ich hasse die Flattergeister und liebe dein Gesetz. Du bist mein Schirm und Schild; ich hoffe auf dein Wort. Weichet von mir, ihr Boshaften! Ich will halten die Gebote meines Gottes. Erhalte mich durch dein Wort, daß ich lebe; und laß mich nicht zu Schanden werden über meiner Hoffnung. Stärke mich, daß ich genese, so will ich stets meine Lust haben an deinen Rechten. Du zertrittst alle, die von deinen Rechten abirren; denn ihre Trügerei ist eitel Lüge. Du wirfst alle Gottlosen auf Erden weg wie Schlacken; darum liebe ich deine Zeugnisse. Ich fürchte mich vor dir, daß mir die Haut schaudert, und entsetze mich vor deinen Gerichten. Ich halte über Recht und Gerechtigkeit; übergib mich nicht denen, die mir wollen Gewalt tun. Vertritt du deinen Knecht und tröste ihn; mögen mir die Stolzen nicht Gewalt tun. Meine Augen sehnen sich nach deinem Heil und nach dem Wort deiner Gerechtigkeit. Handle mit deinem Knecht nach deiner Gnade und lehre mich deine Rechte. Ich bin dein Knecht; unterweise mich, daß ich erkenne deine Zeugnisse. Es ist Zeit, daß der HERR dazutue; sie haben dein Gesetz zerrissen. Darum liebe ich dein Gebot über Gold und über feines Gold. Darum halte ich stracks alle deine Befehle; ich hasse allen falschen Weg. Deine Zeugnisse sind wunderbar; darum hält sie meine Seele. Wenn dein Wort offenbar wird, so erfreut es und macht klug die Einfältigen. Ich sperre meinen Mund auf und lechze nach deinen Geboten; denn mich verlangt darnach. Wende dich zu mir und sei mir gnädig, wie du pflegst zu tun denen, die deinen Namen lieben. Laß meinen Gang gewiß sein in deinem Wort und laß kein Unrecht über mich herrschen. Erlöse mich von der Menschen Frevel, so will ich halten deine Befehle. Laß dein Antlitz leuchten über deinen Knecht und lehre mich deine Rechte. Meine Augen fließen mit Wasser, daß man dein Gesetz nicht hält. HERR, du bist gerecht, und dein Wort ist recht. Du hast die Zeugnisse deiner Gerechtigkeit und die Wahrheit hart geboten. Ich habe mich schier zu Tode geeifert, daß meine Gegner deiner Worte vergessen. Dein Wort ist wohl geläutert, und dein Knecht hat es lieb. Ich bin gering und verachtet; ich vergesse aber nicht deiner Befehle. Deine Gerechtigkeit ist eine ewige Gerechtigkeit, und dein Gesetz ist Wahrheit. Angst und Not haben mich getroffen; ich habe aber Lust an deinen Geboten. Die Gerechtigkeit deiner Zeugnisse ist ewig; unterweise mich, so lebe ich. Ich rufe von ganzem Herzen; erhöre mich, HERR, daß ich dein Rechte halte. Ich rufe zu dir; hilf mir, daß ich deine Zeugnisse halte. Ich komme in der Frühe und schreie; auf dein Wort hoffe ich. Ich wache auf, wenn's noch Nacht ist, zu sinnen über dein Wort. Höre meine Stimme nach deiner Gnade; HERR, erquicke mich nach deinen Rechten. Meine boshaften Verfolger nahen herzu und sind ferne von deinem Gesetz. HERR, du bist nahe, und deine Gebote sind eitel Wahrheit. Längst weiß ich, daß du deine Zeugnisse für ewig gegründet hast. Siehe mein Elend und errette mich; hilf mir aus, denn ich vergesse deines Gesetzes nicht. Führe meine Sache und erlöse mich; erquicke mich durch dein Wort. Das Heil ist ferne von den Gottlosen; denn sie achten deine Rechte nicht. HERR, deine Barmherzigkeit ist groß; erquicke mich nach deinen Rechten. Meiner Verfolger und Widersacher sind viele; ich weiche aber nicht von deinen Zeugnissen. Ich sehe die Verächter, und es tut mir wehe, daß sie dein Wort nicht halten. Siehe, ich liebe deine Befehle; HERR, erquicke mich nach deiner Gnade. Dein Wort ist nichts denn Wahrheit; alle Rechte deiner Gerechtigkeit währen ewiglich. Die Fürsten verfolgen mich ohne Ursache, und mein Herz fürchtet sich vor deinen Worten. Ich freue mich über dein Wort wie einer, der eine große Beute kriegt. Lügen bin ich gram und habe Greuel daran; aber dein Gesetz habe ich lieb. Ich lobe dich des Tages siebenmal um der Rechte willen deiner Gerechtigkeit. Großen Frieden haben, die dein Gesetz lieben; sie werden nicht straucheln. HERR, ich warte auf dein Heil und tue nach deinen Geboten. Meine Seele hält deine Zeugnisse und liebt sie sehr. Ich halte deine Befehle und deine Zeugnisse; denn alle meine Wege sind vor dir. HERR, laß meine Klage vor dich kommen; unterweise mich nach deinem Wort. Laß mein Flehen vor dich kommen; errette mich nach deinem Wort. Meine Lippen sollen loben, wenn du mich deine Rechte lehrest. Meine Zunge soll ihr Gespräch haben von deinem Wort; denn alle deine Gebote sind recht. Laß mir deine Hand beistehen; denn ich habe erwählt deine Befehle. HERR, mich verlangt nach deinem Heil, und ich habe Lust an deinem Gesetz. Laß meine Seele leben, daß sie dich lobe, und deine Rechte mir helfen. Ich bin ein verirrtes und verlorenes Schaf. Suche deinen Knecht; denn ich vergesse deiner Gebote nicht.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

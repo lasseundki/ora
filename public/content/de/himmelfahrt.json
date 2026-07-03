@@ -9,6 +9,36 @@
     "gospel": {
       "ref": "Mk 16,14-20",
       "stable": true,
+      "verses": [
+        {
+          "num": 14,
+          "text": "Zuletzt, da die Elf zu Tische saßen, offenbarte er sich und schalt ihren Unglauben und ihres Herzens Härtigkeit, daß sie nicht geglaubt hatten denen, die ihn gesehen hatten auferstanden."
+        },
+        {
+          "num": 15,
+          "text": "Und er sprach zu ihnen: Gehet hin in alle Welt und prediget das Evangelium aller Kreatur."
+        },
+        {
+          "num": 16,
+          "text": "Wer da glaubet und getauft wird, der wird selig werden; wer aber nicht glaubt, der wird verdammt werden."
+        },
+        {
+          "num": 17,
+          "text": "Die Zeichen aber, die da folgen werden denen, die da glauben, sind die: in meinem Namen werden sie Teufel austreiben, mit neuen Zungen reden."
+        },
+        {
+          "num": 18,
+          "text": "Schlangen vertreiben; und so sie etwas Tödliches trinken, wird's ihnen nicht schaden; auf die Kranken werden sie die Hände legen, so wird es besser mit ihnen werden."
+        },
+        {
+          "num": 19,
+          "text": "Und der HERR, nachdem er mit ihnen geredet hatte, ward er aufgehoben gen Himmel und sitzt zur rechten Hand Gottes."
+        },
+        {
+          "num": 20,
+          "text": "Sie aber gingen aus und predigten an allen Orten; und der HERR wirkte mit ihnen und bekräftigte das Wort durch mitfolgende Zeichen."
+        }
+      ],
       "text": "Zuletzt, da die Elf zu Tische saßen, offenbarte er sich und schalt ihren Unglauben und ihres Herzens Härtigkeit, daß sie nicht geglaubt hatten denen, die ihn gesehen hatten auferstanden. Und er sprach zu ihnen: Gehet hin in alle Welt und prediget das Evangelium aller Kreatur. Wer da glaubet und getauft wird, der wird selig werden; wer aber nicht glaubt, der wird verdammt werden. Die Zeichen aber, die da folgen werden denen, die da glauben, sind die: in meinem Namen werden sie Teufel austreiben, mit neuen Zungen reden. Schlangen vertreiben; und so sie etwas Tödliches trinken, wird's ihnen nicht schaden; auf die Kranken werden sie die Hände legen, so wird es besser mit ihnen werden. Und der HERR, nachdem er mit ihnen geredet hatte, ward er aufgehoben gen Himmel und sitzt zur rechten Hand Gottes. Sie aber gingen aus und predigten an allen Orten; und der HERR wirkte mit ihnen und bekräftigte das Wort durch mitfolgende Zeichen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +46,52 @@
     },
     "epistle": {
       "ref": "Apg 1,1-11",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Die erste Rede habe ich getan, lieber Theophilus, von alle dem, das Jesus anfing, beides, zu tun und zu lehren,"
+        },
+        {
+          "num": 2,
+          "text": "bis an den Tag, da er aufgenommen ward, nachdem er den Aposteln, welche er hatte erwählt, durch den Heiligen Geist Befehl getan hatte,"
+        },
+        {
+          "num": 3,
+          "text": "welchen er sich nach seinem Leiden lebendig erzeigt hatte durch mancherlei Erweisungen, und ließ sich sehen unter ihnen vierzig Tage lang und redete mit ihnen vom Reich Gottes."
+        },
+        {
+          "num": 4,
+          "text": "Und als er sie versammelt hatte, befahl er ihnen, daß sie nicht von Jerusalem wichen, sondern warteten auf die Verheißung des Vaters, welche ihr habt gehört (sprach er) von mir;"
+        },
+        {
+          "num": 5,
+          "text": "denn Johannes hat mit Wasser getauft, ihr aber sollt mit dem Heiligen Geist getauft werden nicht lange nach diesen Tagen."
+        },
+        {
+          "num": 6,
+          "text": "Die aber, so zusammengekommen waren, fragten ihn und sprachen: HERR, wirst du auf diese Zeit wieder aufrichten das Reich Israel?"
+        },
+        {
+          "num": 7,
+          "text": "Er aber sprach zu ihnen: Es gebührt euch nicht, zu wissen Zeit oder Stunde, welche der Vater seiner Macht vorbehalten hat;"
+        },
+        {
+          "num": 8,
+          "text": "sondern ihr werdet die Kraft des Heiligen Geistes empfangen, welcher auf euch kommen wird, und werdet meine Zeugen sein zu Jerusalem und in ganz Judäa und Samarien und bis an das Ende der Erde."
+        },
+        {
+          "num": 9,
+          "text": "Und da er solches gesagt, ward er aufgehoben zusehends, und eine Wolke nahm ihn auf vor ihren Augen weg."
+        },
+        {
+          "num": 10,
+          "text": "Und als sie ihm nachsahen, wie er gen Himmel fuhr, siehe, da standen bei ihnen zwei Männer in weißen Kleidern,"
+        },
+        {
+          "num": 11,
+          "text": "welche auch sagten: Ihr Männer von Galiläa, was stehet ihr und sehet gen Himmel? Dieser Jesus, welcher von euch ist aufgenommen gen Himmel, wird kommen, wie ihr ihn gesehen habt gen Himmel fahren."
+        }
+      ],
       "text": "Die erste Rede habe ich getan, lieber Theophilus, von alle dem, das Jesus anfing, beides, zu tun und zu lehren, bis an den Tag, da er aufgenommen ward, nachdem er den Aposteln, welche er hatte erwählt, durch den Heiligen Geist Befehl getan hatte, welchen er sich nach seinem Leiden lebendig erzeigt hatte durch mancherlei Erweisungen, und ließ sich sehen unter ihnen vierzig Tage lang und redete mit ihnen vom Reich Gottes. Und als er sie versammelt hatte, befahl er ihnen, daß sie nicht von Jerusalem wichen, sondern warteten auf die Verheißung des Vaters, welche ihr habt gehört (sprach er) von mir; denn Johannes hat mit Wasser getauft, ihr aber sollt mit dem Heiligen Geist getauft werden nicht lange nach diesen Tagen. Die aber, so zusammengekommen waren, fragten ihn und sprachen: HERR, wirst du auf diese Zeit wieder aufrichten das Reich Israel? Er aber sprach zu ihnen: Es gebührt euch nicht, zu wissen Zeit oder Stunde, welche der Vater seiner Macht vorbehalten hat; sondern ihr werdet die Kraft des Heiligen Geistes empfangen, welcher auf euch kommen wird, und werdet meine Zeugen sein zu Jerusalem und in ganz Judäa und Samarien und bis an das Ende der Erde. Und da er solches gesagt, ward er aufgehoben zusehends, und eine Wolke nahm ihn auf vor ihren Augen weg. Und als sie ihm nachsahen, wie er gen Himmel fuhr, siehe, da standen bei ihnen zwei Männer in weißen Kleidern, welche auch sagten: Ihr Männer von Galiläa, was stehet ihr und sehet gen Himmel? Dieser Jesus, welcher von euch ist aufgenommen gen Himmel, wird kommen, wie ihr ihn gesehen habt gen Himmel fahren.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +99,48 @@
     },
     "psalm": {
       "ref": "Ps 47",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm der Kinder Korah, vorzusingen."
+        },
+        {
+          "num": 2,
+          "text": "Frohlocket mit Händen, alle Völker, und jauchzet Gott mit fröhlichem Schall!"
+        },
+        {
+          "num": 3,
+          "text": "Denn der HERR, der Allerhöchste, ist erschrecklich, ein großer König auf dem ganzen Erdboden."
+        },
+        {
+          "num": 4,
+          "text": "Er zwingt die Völker unter uns und die Leute unter unsre Füße."
+        },
+        {
+          "num": 5,
+          "text": "Er erwählt uns unser Erbteil, die Herrlichkeit Jakobs, den er liebt. (Sela.)"
+        },
+        {
+          "num": 6,
+          "text": "Gott fährt auf mit Jauchzen und der HERR mit heller Posaune."
+        },
+        {
+          "num": 7,
+          "text": "Lobsinget, lobsinget Gott; lobsinget, lobsinget unserm König!"
+        },
+        {
+          "num": 8,
+          "text": "Denn Gott ist König auf dem ganzen Erdboden; lobsinget ihm klüglich!"
+        },
+        {
+          "num": 9,
+          "text": "Gott ist König über die Heiden; Gott sitzt auf seinem heiligen Stuhl."
+        },
+        {
+          "num": 10,
+          "text": "Die Fürsten unter den Völkern sind versammelt zu einem Volk des Gottes Abrahams; denn Gottes sind die Schilde auf Erden, er hat sie erhöht."
+        }
+      ],
       "text": "Ein Psalm der Kinder Korah, vorzusingen. Frohlocket mit Händen, alle Völker, und jauchzet Gott mit fröhlichem Schall! Denn der HERR, der Allerhöchste, ist erschrecklich, ein großer König auf dem ganzen Erdboden. Er zwingt die Völker unter uns und die Leute unter unsre Füße. Er erwählt uns unser Erbteil, die Herrlichkeit Jakobs, den er liebt. (Sela.) Gott fährt auf mit Jauchzen und der HERR mit heller Posaune. Lobsinget, lobsinget Gott; lobsinget, lobsinget unserm König! Denn Gott ist König auf dem ganzen Erdboden; lobsinget ihm klüglich! Gott ist König über die Heiden; Gott sitzt auf seinem heiligen Stuhl. Die Fürsten unter den Völkern sind versammelt zu einem Volk des Gottes Abrahams; denn Gottes sind die Schilde auf Erden, er hat sie erhöht.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

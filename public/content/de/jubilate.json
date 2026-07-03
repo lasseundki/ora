@@ -9,6 +9,40 @@
     "gospel": {
       "ref": "Joh 16,16-23",
       "stable": true,
+      "verses": [
+        {
+          "num": 16,
+          "text": "Über ein kleines, so werdet ihr mich nicht sehen; und aber über ein kleines, so werdet ihr mich sehen, denn ich gehe zum Vater."
+        },
+        {
+          "num": 17,
+          "text": "Da sprachen etliche unter seinen Jüngern untereinander: Was ist das, was er sagt zu uns: Über ein kleines, so werdet ihr mich nicht sehen; und aber über ein kleines, so werdet ihr mich sehen, und: Ich gehe zum Vater?"
+        },
+        {
+          "num": 18,
+          "text": "Da sprachen sie: Was ist das, was er sagt: Über ein kleines? Wir wissen nicht, was er redet."
+        },
+        {
+          "num": 19,
+          "text": "Da merkte Jesus, daß sie ihn fragen wollten, und sprach zu ihnen: Davon fragt ihr untereinander, daß ich gesagt habe: Über ein kleines, so werdet ihr mich nicht sehen; und aber über ein kleines, so werdet ihr mich sehen."
+        },
+        {
+          "num": 20,
+          "text": "Wahrlich, wahrlich ich sage euch: Ihr werdet weinen und heulen, aber die Welt wird sich freuen; ihr werdet traurig sein; doch eure Traurigkeit soll in Freude verkehrt werden."
+        },
+        {
+          "num": 21,
+          "text": "Ein Weib, wenn sie gebiert, so hat sie Traurigkeit; denn ihre Stunde ist gekommen. Wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Angst um der Freude willen, daß der Mensch zur Welt geboren ist."
+        },
+        {
+          "num": 22,
+          "text": "Und ihr habt auch nun Traurigkeit; aber ich will euch wiedersehen, und euer Herz soll sich freuen, und eure Freude soll niemand von euch nehmen."
+        },
+        {
+          "num": 23,
+          "text": "Und an dem Tage werdet ihr mich nichts fragen. Wahrlich, wahrlich ich sage euch: So ihr den Vater etwas bitten werdet in meinem Namen, so wird er's euch geben."
+        }
+      ],
       "text": "Über ein kleines, so werdet ihr mich nicht sehen; und aber über ein kleines, so werdet ihr mich sehen, denn ich gehe zum Vater. Da sprachen etliche unter seinen Jüngern untereinander: Was ist das, was er sagt zu uns: Über ein kleines, so werdet ihr mich nicht sehen; und aber über ein kleines, so werdet ihr mich sehen, und: Ich gehe zum Vater? Da sprachen sie: Was ist das, was er sagt: Über ein kleines? Wir wissen nicht, was er redet. Da merkte Jesus, daß sie ihn fragen wollten, und sprach zu ihnen: Davon fragt ihr untereinander, daß ich gesagt habe: Über ein kleines, so werdet ihr mich nicht sehen; und aber über ein kleines, so werdet ihr mich sehen. Wahrlich, wahrlich ich sage euch: Ihr werdet weinen und heulen, aber die Welt wird sich freuen; ihr werdet traurig sein; doch eure Traurigkeit soll in Freude verkehrt werden. Ein Weib, wenn sie gebiert, so hat sie Traurigkeit; denn ihre Stunde ist gekommen. Wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Angst um der Freude willen, daß der Mensch zur Welt geboren ist. Und ihr habt auch nun Traurigkeit; aber ich will euch wiedersehen, und euer Herz soll sich freuen, und eure Freude soll niemand von euch nehmen. Und an dem Tage werdet ihr mich nichts fragen. Wahrlich, wahrlich ich sage euch: So ihr den Vater etwas bitten werdet in meinem Namen, so wird er's euch geben.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +50,48 @@
     },
     "epistle": {
       "ref": "1Petr 2,11-20",
+      "verses": [
+        {
+          "num": 11,
+          "text": "Liebe Brüder, ich ermahne euch als die Fremdlinge und Pilgrime: enthaltet euch von fleischlichen Lüsten, welche wider die Seele streiten,"
+        },
+        {
+          "num": 12,
+          "text": "und führet einen guten Wandel unter den Heiden, auf daß die, so von euch afterreden als von Übeltätern, eure guten Werke sehen und Gott preisen, wenn es nun an den Tag kommen wird."
+        },
+        {
+          "num": 13,
+          "text": "Seid untertan aller menschlichen Ordnung um des HERRN willen, es sei dem König, als dem Obersten,"
+        },
+        {
+          "num": 14,
+          "text": "oder den Hauptleuten, als die von ihm gesandt sind zur Rache über die Übeltäter und zu Lobe den Frommen."
+        },
+        {
+          "num": 15,
+          "text": "Denn das ist der Wille Gottes, daß ihr mit Wohltun verstopft die Unwissenheit der törichten Menschen,"
+        },
+        {
+          "num": 16,
+          "text": "als die Freien, und nicht, als hättet ihr die Freiheit zum Deckel der Bosheit, sondern als die Knechte Gottes."
+        },
+        {
+          "num": 17,
+          "text": "Tut Ehre jedermann, habt die Brüder lieb; fürchtet Gott, ehret den König!"
+        },
+        {
+          "num": 18,
+          "text": "Ihr Knechte, seid untertan mit aller Furcht den Herren, nicht allein den gütigen und gelinden, sondern auch den wunderlichen."
+        },
+        {
+          "num": 19,
+          "text": "Denn das ist Gnade, so jemand um des Gewissens willen zu Gott das Übel verträgt und leidet das Unrecht."
+        },
+        {
+          "num": 20,
+          "text": "Denn was ist das für ein Ruhm, so ihr um Missetat willen Streiche leidet? Aber wenn ihr um Wohltat willen leidet und erduldet, das ist Gnade bei Gott."
+        }
+      ],
       "text": "Liebe Brüder, ich ermahne euch als die Fremdlinge und Pilgrime: enthaltet euch von fleischlichen Lüsten, welche wider die Seele streiten, und führet einen guten Wandel unter den Heiden, auf daß die, so von euch afterreden als von Übeltätern, eure guten Werke sehen und Gott preisen, wenn es nun an den Tag kommen wird. Seid untertan aller menschlichen Ordnung um des HERRN willen, es sei dem König, als dem Obersten, oder den Hauptleuten, als die von ihm gesandt sind zur Rache über die Übeltäter und zu Lobe den Frommen. Denn das ist der Wille Gottes, daß ihr mit Wohltun verstopft die Unwissenheit der törichten Menschen, als die Freien, und nicht, als hättet ihr die Freiheit zum Deckel der Bosheit, sondern als die Knechte Gottes. Tut Ehre jedermann, habt die Brüder lieb; fürchtet Gott, ehret den König! Ihr Knechte, seid untertan mit aller Furcht den Herren, nicht allein den gütigen und gelinden, sondern auch den wunderlichen. Denn das ist Gnade, so jemand um des Gewissens willen zu Gott das Übel verträgt und leidet das Unrecht. Denn was ist das für ein Ruhm, so ihr um Missetat willen Streiche leidet? Aber wenn ihr um Wohltat willen leidet und erduldet, das ist Gnade bei Gott.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +99,88 @@
     },
     "psalm": {
       "ref": "Ps 66",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalmlied, vorzusingen. Jauchzet Gott, alle Lande!"
+        },
+        {
+          "num": 2,
+          "text": "Lobsinget zu Ehren seinem Namen; rühmet ihn herrlich!"
+        },
+        {
+          "num": 3,
+          "text": "Sprechet zu Gott: \"Wie wunderbar sind deine Werke! es wird deinen Feinden fehlen vor deiner großen Macht."
+        },
+        {
+          "num": 4,
+          "text": "Alles Land bete dich an und lobsinge dir, lobsinge deinem Namen.\" (Sela.)"
+        },
+        {
+          "num": 5,
+          "text": "Kommet her und sehet an die Werke Gottes, der so wunderbar ist in seinem Tun unter den Menschenkindern."
+        },
+        {
+          "num": 6,
+          "text": "Er verwandelt das Meer ins Trockene, daß man zu Fuß über das Wasser ging; dort freuten wir uns sein."
+        },
+        {
+          "num": 7,
+          "text": "Er herrscht mit seiner Gewalt ewiglich; seine Augen schauen auf die Völker. Die Abtrünnigen werden sich nicht erhöhen können. (Sela.)"
+        },
+        {
+          "num": 8,
+          "text": "Lobet, ihr Völker, unsern Gott; lasset seinen Ruhm weit erschallen,"
+        },
+        {
+          "num": 9,
+          "text": "der unsre Seelen im Leben erhält und läßt unsre Füße nicht gleiten."
+        },
+        {
+          "num": 10,
+          "text": "Denn, Gott, du hast uns versucht und geläutert wie das Silber geläutert wird;"
+        },
+        {
+          "num": 11,
+          "text": "du hast uns lassen in den Turm werfen; du hast auf unsere Lenden eine Last gelegt;"
+        },
+        {
+          "num": 12,
+          "text": "du hast Menschen lassen über unser Haupt fahren; wir sind in Feuer und Wasser gekommen: aber du hast uns ausgeführt und erquickt."
+        },
+        {
+          "num": 13,
+          "text": "Darum will ich mit Brandopfern gehen in dein Haus und dir meine Gelübde bezahlen,"
+        },
+        {
+          "num": 14,
+          "text": "wie ich meine Lippen habe aufgetan und mein Mund geredet hat in meiner Not."
+        },
+        {
+          "num": 15,
+          "text": "Ich will dir Brandopfer bringen von feisten Schafen samt dem Rauch von Widdern; ich will opfern Rinder mit Böcken. (Sela.)"
+        },
+        {
+          "num": 16,
+          "text": "Kommet her, höret zu alle, die ihr Gott fürchtet; ich will erzählen, was er an meiner Seele getan hat."
+        },
+        {
+          "num": 17,
+          "text": "Zu ihm rief ich mit meinem Munde, und pries ihn mit meiner Zunge."
+        },
+        {
+          "num": 18,
+          "text": "Wo ich Unrechtes vorhätte in meinem Herzen, so würde der HERR nicht hören;"
+        },
+        {
+          "num": 19,
+          "text": "aber Gott hat mich erhört und gemerkt auf mein Flehen."
+        },
+        {
+          "num": 20,
+          "text": "Gelobt sei Gott, der mein Gebet nicht verwirft noch seine Güte von mir wendet."
+        }
+      ],
       "text": "Ein Psalmlied, vorzusingen. Jauchzet Gott, alle Lande! Lobsinget zu Ehren seinem Namen; rühmet ihn herrlich! Sprechet zu Gott: \"Wie wunderbar sind deine Werke! es wird deinen Feinden fehlen vor deiner großen Macht. Alles Land bete dich an und lobsinge dir, lobsinge deinem Namen.\" (Sela.) Kommet her und sehet an die Werke Gottes, der so wunderbar ist in seinem Tun unter den Menschenkindern. Er verwandelt das Meer ins Trockene, daß man zu Fuß über das Wasser ging; dort freuten wir uns sein. Er herrscht mit seiner Gewalt ewiglich; seine Augen schauen auf die Völker. Die Abtrünnigen werden sich nicht erhöhen können. (Sela.) Lobet, ihr Völker, unsern Gott; lasset seinen Ruhm weit erschallen, der unsre Seelen im Leben erhält und läßt unsre Füße nicht gleiten. Denn, Gott, du hast uns versucht und geläutert wie das Silber geläutert wird; du hast uns lassen in den Turm werfen; du hast auf unsere Lenden eine Last gelegt; du hast Menschen lassen über unser Haupt fahren; wir sind in Feuer und Wasser gekommen: aber du hast uns ausgeführt und erquickt. Darum will ich mit Brandopfern gehen in dein Haus und dir meine Gelübde bezahlen, wie ich meine Lippen habe aufgetan und mein Mund geredet hat in meiner Not. Ich will dir Brandopfer bringen von feisten Schafen samt dem Rauch von Widdern; ich will opfern Rinder mit Böcken. (Sela.) Kommet her, höret zu alle, die ihr Gott fürchtet; ich will erzählen, was er an meiner Seele getan hat. Zu ihm rief ich mit meinem Munde, und pries ihn mit meiner Zunge. Wo ich Unrechtes vorhätte in meinem Herzen, so würde der HERR nicht hören; aber Gott hat mich erhört und gemerkt auf mein Flehen. Gelobt sei Gott, der mein Gebet nicht verwirft noch seine Güte von mir wendet.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

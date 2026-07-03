@@ -9,6 +9,44 @@
     "gospel": {
       "ref": "Lk 17,11-19",
       "stable": true,
+      "verses": [
+        {
+          "num": 11,
+          "text": "Und es begab sich, da er reiste gen Jerusalem, zog er mitten durch Samarien und Galiläa."
+        },
+        {
+          "num": 12,
+          "text": "Und als er in einen Markt kam, begegneten ihm zehn aussätzige Männer, die standen von ferne"
+        },
+        {
+          "num": 13,
+          "text": "und erhoben ihre Stimme und sprachen: Jesu, lieber Meister, erbarme dich unser!"
+        },
+        {
+          "num": 14,
+          "text": "Und da er sie sah, sprach er zu ihnen: Gehet hin und zeiget euch den Priestern! Und es geschah, da sie hingingen, wurden sie rein."
+        },
+        {
+          "num": 15,
+          "text": "Einer aber unter ihnen, da er sah, daß er geheilt war, kehrte um und pries Gott mit lauter Stimme"
+        },
+        {
+          "num": 16,
+          "text": "und fiel auf sein Angesicht zu seinen Füßen und dankte ihm. Und das war ein Samariter."
+        },
+        {
+          "num": 17,
+          "text": "Jesus aber antwortete und sprach: Sind ihrer nicht zehn rein geworden? Wo sind aber die neun?"
+        },
+        {
+          "num": 18,
+          "text": "Hat sich sonst keiner gefunden, der wieder umkehrte und gäbe Gott die Ehre, denn dieser Fremdling?"
+        },
+        {
+          "num": 19,
+          "text": "Und er sprach zu ihm: Stehe auf, gehe hin; dein Glaube hat dir geholfen."
+        }
+      ],
       "text": "Und es begab sich, da er reiste gen Jerusalem, zog er mitten durch Samarien und Galiläa. Und als er in einen Markt kam, begegneten ihm zehn aussätzige Männer, die standen von ferne und erhoben ihre Stimme und sprachen: Jesu, lieber Meister, erbarme dich unser! Und da er sie sah, sprach er zu ihnen: Gehet hin und zeiget euch den Priestern! Und es geschah, da sie hingingen, wurden sie rein. Einer aber unter ihnen, da er sah, daß er geheilt war, kehrte um und pries Gott mit lauter Stimme und fiel auf sein Angesicht zu seinen Füßen und dankte ihm. Und das war ein Samariter. Jesus aber antwortete und sprach: Sind ihrer nicht zehn rein geworden? Wo sind aber die neun? Hat sich sonst keiner gefunden, der wieder umkehrte und gäbe Gott die Ehre, denn dieser Fremdling? Und er sprach zu ihm: Stehe auf, gehe hin; dein Glaube hat dir geholfen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +54,44 @@
     },
     "epistle": {
       "ref": "Gal 5,16-24",
+      "verses": [
+        {
+          "num": 16,
+          "text": "Ich sage aber: Wandelt im Geist, so werdet ihr die Lüste des Fleisches nicht vollbringen."
+        },
+        {
+          "num": 17,
+          "text": "Denn das Fleisch gelüstet wider den Geist, und der Geist wider das Fleisch; dieselben sind widereinander, daß ihr nicht tut, was ihr wollt."
+        },
+        {
+          "num": 18,
+          "text": "Regiert euch aber der Geist, so seid ihr nicht unter dem Gesetz."
+        },
+        {
+          "num": 19,
+          "text": "Offenbar sind aber die Werke des Fleisches, als da sind: Ehebruch, Hurerei, Unreinigkeit, Unzucht,"
+        },
+        {
+          "num": 20,
+          "text": "Abgötterei, Zauberei, Feindschaft, Hader, Neid, Zorn, Zank, Zwietracht, Rotten, Haß, Mord,"
+        },
+        {
+          "num": 21,
+          "text": "Saufen, Fressen und dergleichen, von welchen ich euch zuvor gesagt und sage noch zuvor, daß, die solches tun, werden das Reich Gottes nicht erben."
+        },
+        {
+          "num": 22,
+          "text": "Die Frucht aber des Geistes ist Liebe, Freude, Friede, Geduld, Freundlichkeit, Gütigkeit, Glaube, Sanftmut, Keuschheit."
+        },
+        {
+          "num": 23,
+          "text": "Wider solche ist das Gesetz nicht."
+        },
+        {
+          "num": 24,
+          "text": "Welche aber Christo angehören, die kreuzigen ihr Fleisch samt den Lüsten und Begierden."
+        }
+      ],
       "text": "Ich sage aber: Wandelt im Geist, so werdet ihr die Lüste des Fleisches nicht vollbringen. Denn das Fleisch gelüstet wider den Geist, und der Geist wider das Fleisch; dieselben sind widereinander, daß ihr nicht tut, was ihr wollt. Regiert euch aber der Geist, so seid ihr nicht unter dem Gesetz. Offenbar sind aber die Werke des Fleisches, als da sind: Ehebruch, Hurerei, Unreinigkeit, Unzucht, Abgötterei, Zauberei, Feindschaft, Hader, Neid, Zorn, Zank, Zwietracht, Rotten, Haß, Mord, Saufen, Fressen und dergleichen, von welchen ich euch zuvor gesagt und sage noch zuvor, daß, die solches tun, werden das Reich Gottes nicht erben. Die Frucht aber des Geistes ist Liebe, Freude, Friede, Geduld, Freundlichkeit, Gütigkeit, Glaube, Sanftmut, Keuschheit. Wider solche ist das Gesetz nicht. Welche aber Christo angehören, die kreuzigen ihr Fleisch samt den Lüsten und Begierden.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +99,96 @@
     },
     "psalm": {
       "ref": "Ps 103",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Davids. Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen Namen!"
+        },
+        {
+          "num": 2,
+          "text": "Lobe den HERRN, meine Seele, und vergiß nicht, was er dir Gutes getan hat:"
+        },
+        {
+          "num": 3,
+          "text": "der dir alle deine Sünden vergibt und heilet alle deine Gebrechen,"
+        },
+        {
+          "num": 4,
+          "text": "der dein Leben vom Verderben erlöst, der dich krönt mit Gnade und Barmherzigkeit,"
+        },
+        {
+          "num": 5,
+          "text": "der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler."
+        },
+        {
+          "num": 6,
+          "text": "Der HERR schafft Gerechtigkeit und Gericht allen, die Unrecht leiden."
+        },
+        {
+          "num": 7,
+          "text": "Er hat seine Wege Mose wissen lassen, die Kinder Israel sein Tun."
+        },
+        {
+          "num": 8,
+          "text": "Barmherzig und gnädig ist der HERR, geduldig und von großer Güte."
+        },
+        {
+          "num": 9,
+          "text": "Er wird nicht immer hadern noch ewiglich Zorn halten."
+        },
+        {
+          "num": 10,
+          "text": "Er handelt nicht mit uns nach unsern Sünden und vergilt uns nicht nach unsrer Missetat."
+        },
+        {
+          "num": 11,
+          "text": "Denn so hoch der Himmel über der Erde ist, läßt er seine Gnade walten über die, so ihn fürchten."
+        },
+        {
+          "num": 12,
+          "text": "So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein."
+        },
+        {
+          "num": 13,
+          "text": "Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten."
+        },
+        {
+          "num": 14,
+          "text": "Denn er kennt, was für ein Gemächte wir sind; er gedenkt daran, daß wir Staub sind."
+        },
+        {
+          "num": 15,
+          "text": "Ein Mensch ist in seinem Leben wie Gras, er blüht wie eine Blume auf dem Feld;"
+        },
+        {
+          "num": 16,
+          "text": "wenn der Wind darüber geht, so ist sie nimmer da, und ihre Stätte kennt sie nicht mehr."
+        },
+        {
+          "num": 17,
+          "text": "Die Gnade aber des HERRN währet von Ewigkeit zu Ewigkeit über die, so ihn fürchten, und seine Gerechtigkeit auf Kindeskind"
+        },
+        {
+          "num": 18,
+          "text": "bei denen, die seinen Bund halten und gedenken an seine Gebote, daß sie darnach tun."
+        },
+        {
+          "num": 19,
+          "text": "Der HERR hat seinen Stuhl im Himmel bereitet, und sein Reich herrscht über alles."
+        },
+        {
+          "num": 20,
+          "text": "Lobet den HERRN, ihr seine Engel, ihr starken Helden, die ihr seine Befehle ausrichtet, daß man höre auf die Stimme seines Wortes!"
+        },
+        {
+          "num": 21,
+          "text": "Lobet den HERRN, alle seine Heerscharen, seine Diener, die ihr seinen Willen tut!"
+        },
+        {
+          "num": 22,
+          "text": "Lobet den HERRN, alle seine Werke, an allen Orten seiner Herrschaft! Lobe den HERRN, meine Seele!"
+        }
+      ],
       "text": "Ein Psalm Davids. Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen Namen! Lobe den HERRN, meine Seele, und vergiß nicht, was er dir Gutes getan hat: der dir alle deine Sünden vergibt und heilet alle deine Gebrechen, der dein Leben vom Verderben erlöst, der dich krönt mit Gnade und Barmherzigkeit, der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler. Der HERR schafft Gerechtigkeit und Gericht allen, die Unrecht leiden. Er hat seine Wege Mose wissen lassen, die Kinder Israel sein Tun. Barmherzig und gnädig ist der HERR, geduldig und von großer Güte. Er wird nicht immer hadern noch ewiglich Zorn halten. Er handelt nicht mit uns nach unsern Sünden und vergilt uns nicht nach unsrer Missetat. Denn so hoch der Himmel über der Erde ist, läßt er seine Gnade walten über die, so ihn fürchten. So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein. Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten. Denn er kennt, was für ein Gemächte wir sind; er gedenkt daran, daß wir Staub sind. Ein Mensch ist in seinem Leben wie Gras, er blüht wie eine Blume auf dem Feld; wenn der Wind darüber geht, so ist sie nimmer da, und ihre Stätte kennt sie nicht mehr. Die Gnade aber des HERRN währet von Ewigkeit zu Ewigkeit über die, so ihn fürchten, und seine Gerechtigkeit auf Kindeskind bei denen, die seinen Bund halten und gedenken an seine Gebote, daß sie darnach tun. Der HERR hat seinen Stuhl im Himmel bereitet, und sein Reich herrscht über alles. Lobet den HERRN, ihr seine Engel, ihr starken Helden, die ihr seine Befehle ausrichtet, daß man höre auf die Stimme seines Wortes! Lobet den HERRN, alle seine Heerscharen, seine Diener, die ihr seinen Willen tut! Lobet den HERRN, alle seine Werke, an allen Orten seiner Herrschaft! Lobe den HERRN, meine Seele!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

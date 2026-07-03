@@ -9,6 +9,36 @@
     "gospel": {
       "ref": "Mk 7,31-37",
       "stable": true,
+      "verses": [
+        {
+          "num": 31,
+          "text": "Und da er wieder ausging aus der Gegend von Tyrus und Sidon, kam er an das Galiläische Meer, mitten in das Gebiet der zehn Städte."
+        },
+        {
+          "num": 32,
+          "text": "Und sie brachten zu ihm einen Tauben, der stumm war, und sie baten ihn, daß er die Hand auf ihn legte."
+        },
+        {
+          "num": 33,
+          "text": "Und er nahm ihn von dem Volk besonders und legte ihm die Finger in die Ohren und spützte und rührte seine Zunge"
+        },
+        {
+          "num": 34,
+          "text": "und sah auf gen Himmel, seufzte und sprach zu ihm: Hephatha! das ist: Tu dich auf!"
+        },
+        {
+          "num": 35,
+          "text": "Und alsbald taten sich seine Ohren auf, und das Band seiner Zunge war los, und er redete recht."
+        },
+        {
+          "num": 36,
+          "text": "Und er verbot ihnen, sie sollten's niemand sagen. Je mehr er aber verbot, je mehr sie es ausbreiteten."
+        },
+        {
+          "num": 37,
+          "text": "Und sie wunderten sich über die Maßen und sprachen: Er hat alles wohl gemacht; die Tauben macht er hörend und die Sprachlosen redend."
+        }
+      ],
       "text": "Und da er wieder ausging aus der Gegend von Tyrus und Sidon, kam er an das Galiläische Meer, mitten in das Gebiet der zehn Städte. Und sie brachten zu ihm einen Tauben, der stumm war, und sie baten ihn, daß er die Hand auf ihn legte. Und er nahm ihn von dem Volk besonders und legte ihm die Finger in die Ohren und spützte und rührte seine Zunge und sah auf gen Himmel, seufzte und sprach zu ihm: Hephatha! das ist: Tu dich auf! Und alsbald taten sich seine Ohren auf, und das Band seiner Zunge war los, und er redete recht. Und er verbot ihnen, sie sollten's niemand sagen. Je mehr er aber verbot, je mehr sie es ausbreiteten. Und sie wunderten sich über die Maßen und sprachen: Er hat alles wohl gemacht; die Tauben macht er hörend und die Sprachlosen redend.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +46,40 @@
     },
     "epistle": {
       "ref": "2Kor 3,4-11",
+      "verses": [
+        {
+          "num": 4,
+          "text": "Ein solch Vertrauen aber haben wir durch Christum zu Gott."
+        },
+        {
+          "num": 5,
+          "text": "Nicht, daß wir tüchtig sind von uns selber, etwas zu denken als von uns selber; sondern daß wir tüchtig sind, ist von Gott,"
+        },
+        {
+          "num": 6,
+          "text": "welcher auch uns tüchtig gemacht hat, das Amt zu führen des Neuen Testaments, nicht des Buchstaben, sondern des Geistes. Denn der Buchstabe tötet, aber der Geist macht lebendig."
+        },
+        {
+          "num": 7,
+          "text": "So aber das Amt, das durch die Buchstaben tötet und in die Steine gebildet war, Klarheit hatte, also daß die Kinder Israel nicht konnten ansehen das Angesicht Mose's um der Klarheit willen seines Angesichtes, die doch aufhört,"
+        },
+        {
+          "num": 8,
+          "text": "wie sollte nicht viel mehr das Amt, das den Geist gibt, Klarheit haben!"
+        },
+        {
+          "num": 9,
+          "text": "Denn so das Amt, das die Verdammnis predigt, Klarheit hat, wie viel mehr hat das Amt, das die Gerechtigkeit predigt, überschwengliche Klarheit."
+        },
+        {
+          "num": 10,
+          "text": "Denn auch jenes Teil, das verklärt war, ist nicht für Klarheit zu achten gegen die überschwengliche Klarheit."
+        },
+        {
+          "num": 11,
+          "text": "Denn so das Klarheit hatte, das da aufhört, wie viel mehr wird das Klarheit haben, das da bleibt."
+        }
+      ],
       "text": "Ein solch Vertrauen aber haben wir durch Christum zu Gott. Nicht, daß wir tüchtig sind von uns selber, etwas zu denken als von uns selber; sondern daß wir tüchtig sind, ist von Gott, welcher auch uns tüchtig gemacht hat, das Amt zu führen des Neuen Testaments, nicht des Buchstaben, sondern des Geistes. Denn der Buchstabe tötet, aber der Geist macht lebendig. So aber das Amt, das durch die Buchstaben tötet und in die Steine gebildet war, Klarheit hatte, also daß die Kinder Israel nicht konnten ansehen das Angesicht Mose's um der Klarheit willen seines Angesichtes, die doch aufhört, wie sollte nicht viel mehr das Amt, das den Geist gibt, Klarheit haben! Denn so das Amt, das die Verdammnis predigt, Klarheit hat, wie viel mehr hat das Amt, das die Gerechtigkeit predigt, überschwengliche Klarheit. Denn auch jenes Teil, das verklärt war, ist nicht für Klarheit zu achten gegen die überschwengliche Klarheit. Denn so das Klarheit hatte, das da aufhört, wie viel mehr wird das Klarheit haben, das da bleibt.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +87,48 @@
     },
     "psalm": {
       "ref": "Ps 146",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Halleluja! Lobe den HERRN, meine Seele!"
+        },
+        {
+          "num": 2,
+          "text": "Ich will den HERRN loben, solange ich lebe, und meinem Gott lobsingen, solange ich hier bin."
+        },
+        {
+          "num": 3,
+          "text": "Verlaßt euch nicht auf Fürsten; sie sind Menschen, die können ja nicht helfen."
+        },
+        {
+          "num": 4,
+          "text": "Denn des Menschen Geist muß davon, und er muß wieder zu Erde werden; alsdann sind verloren alle seine Anschläge."
+        },
+        {
+          "num": 5,
+          "text": "Wohl dem, des Hilfe der Gott Jakobs ist; des Hoffnung auf den HERRN, seinem Gott, steht;"
+        },
+        {
+          "num": 6,
+          "text": "der Himmel, Erde, Meer und alles, was darinnen ist, gemacht hat; der Glauben hält ewiglich;"
+        },
+        {
+          "num": 7,
+          "text": "der Recht schafft denen, so Gewalt leiden; der die Hungrigen speist. Der HERR löst die Gefangenen."
+        },
+        {
+          "num": 8,
+          "text": "Der HERR macht die Blinden sehend. Der HERR richtet auf, die niedergeschlagen sind. Der HERR liebt die Gerechten."
+        },
+        {
+          "num": 9,
+          "text": "Der HERR behütet die Fremdlinge und erhält die Waisen und Witwen und kehrt zurück den Weg der Gottlosen."
+        },
+        {
+          "num": 10,
+          "text": "Der HERR ist König ewiglich, dein Gott, Zion, für und für. Halleluja."
+        }
+      ],
       "text": "Halleluja! Lobe den HERRN, meine Seele! Ich will den HERRN loben, solange ich lebe, und meinem Gott lobsingen, solange ich hier bin. Verlaßt euch nicht auf Fürsten; sie sind Menschen, die können ja nicht helfen. Denn des Menschen Geist muß davon, und er muß wieder zu Erde werden; alsdann sind verloren alle seine Anschläge. Wohl dem, des Hilfe der Gott Jakobs ist; des Hoffnung auf den HERRN, seinem Gott, steht; der Himmel, Erde, Meer und alles, was darinnen ist, gemacht hat; der Glauben hält ewiglich; der Recht schafft denen, so Gewalt leiden; der die Hungrigen speist. Der HERR löst die Gefangenen. Der HERR macht die Blinden sehend. Der HERR richtet auf, die niedergeschlagen sind. Der HERR liebt die Gerechten. Der HERR behütet die Fremdlinge und erhält die Waisen und Witwen und kehrt zurück den Weg der Gottlosen. Der HERR ist König ewiglich, dein Gott, Zion, für und für. Halleluja.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

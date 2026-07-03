@@ -9,6 +9,52 @@
     "gospel": {
       "ref": "Matt 4,1-11",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Da ward Jesus vom Geist in die Wüste geführt, auf daß er von dem Teufel versucht würde."
+        },
+        {
+          "num": 2,
+          "text": "Und da er vierzig Tage und vierzig Nächte gefastet hatte, hungerte ihn."
+        },
+        {
+          "num": 3,
+          "text": "Und der Versucher trat zu ihm und sprach: Bist du Gottes Sohn, so sprich, daß diese Steine Brot werden."
+        },
+        {
+          "num": 4,
+          "text": "Und er antwortete und sprach: Es steht geschrieben: \"Der Mensch lebt nicht vom Brot allein, sondern von einem jeglichen Wort, das durch den Mund Gottes geht.\""
+        },
+        {
+          "num": 5,
+          "text": "Da führte ihn der Teufel mit sich in die Heilige Stadt und stellte ihn auf die Zinne des Tempels"
+        },
+        {
+          "num": 6,
+          "text": "und sprach zu ihm: Bist du Gottes Sohn, so laß dich hinab; denn es steht geschrieben: Er wird seinen Engeln über dir Befehl tun, und sie werden dich auf Händen tragen, auf daß du deinen Fuß nicht an einen Stein stoßest."
+        },
+        {
+          "num": 7,
+          "text": "Da sprach Jesus zu ihm: Wiederum steht auch geschrieben: \"Du sollst Gott, deinen HERRN, nicht versuchen.\""
+        },
+        {
+          "num": 8,
+          "text": "Wiederum führte ihn der Teufel mit sich auf einen sehr hohen Berg und zeigte ihm alle Reiche der Welt und ihre Herrlichkeit"
+        },
+        {
+          "num": 9,
+          "text": "und sprach zu ihm: Das alles will ich dir geben, so du niederfällst und mich anbetest."
+        },
+        {
+          "num": 10,
+          "text": "Da sprach Jesus zu ihm: Hebe dich weg von mir Satan! denn es steht geschrieben: \"Du sollst anbeten Gott, deinen HERRN, und ihm allein dienen.\""
+        },
+        {
+          "num": 11,
+          "text": "Da verließ ihn der Teufel; und siehe, da traten die Engel zu ihm und dienten ihm."
+        }
+      ],
       "text": "Da ward Jesus vom Geist in die Wüste geführt, auf daß er von dem Teufel versucht würde. Und da er vierzig Tage und vierzig Nächte gefastet hatte, hungerte ihn. Und der Versucher trat zu ihm und sprach: Bist du Gottes Sohn, so sprich, daß diese Steine Brot werden. Und er antwortete und sprach: Es steht geschrieben: \"Der Mensch lebt nicht vom Brot allein, sondern von einem jeglichen Wort, das durch den Mund Gottes geht.\" Da führte ihn der Teufel mit sich in die Heilige Stadt und stellte ihn auf die Zinne des Tempels und sprach zu ihm: Bist du Gottes Sohn, so laß dich hinab; denn es steht geschrieben: Er wird seinen Engeln über dir Befehl tun, und sie werden dich auf Händen tragen, auf daß du deinen Fuß nicht an einen Stein stoßest. Da sprach Jesus zu ihm: Wiederum steht auch geschrieben: \"Du sollst Gott, deinen HERRN, nicht versuchen.\" Wiederum führte ihn der Teufel mit sich auf einen sehr hohen Berg und zeigte ihm alle Reiche der Welt und ihre Herrlichkeit und sprach zu ihm: Das alles will ich dir geben, so du niederfällst und mich anbetest. Da sprach Jesus zu ihm: Hebe dich weg von mir Satan! denn es steht geschrieben: \"Du sollst anbeten Gott, deinen HERRN, und ihm allein dienen.\" Da verließ ihn der Teufel; und siehe, da traten die Engel zu ihm und dienten ihm.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +62,48 @@
     },
     "epistle": {
       "ref": "2Kor 6,1-10",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Wir ermahnen aber euch als Mithelfer, daß ihr nicht vergeblich die Gnade Gottes empfanget."
+        },
+        {
+          "num": 2,
+          "text": "Denn er spricht: \"Ich habe dich in der angenehmen Zeit erhört und habe dir am Tage des Heils geholfen.\" Sehet, jetzt ist die angenehme Zeit, jetzt ist der Tag des Heils!"
+        },
+        {
+          "num": 3,
+          "text": "Und wir geben niemand irgend ein Ärgernis, auf daß unser Amt nicht verlästert werde;"
+        },
+        {
+          "num": 4,
+          "text": "sondern in allen Dingen beweisen wir uns als die Diener Gottes: in großer Geduld, in Trübsalen, in Nöten, in Ängsten,"
+        },
+        {
+          "num": 5,
+          "text": "in Schlägen, in Gefängnissen, in Aufruhren, in Arbeit, in Wachen, in Fasten,"
+        },
+        {
+          "num": 6,
+          "text": "in Keuschheit, in Erkenntnis, in Langmut, in Freundlichkeit, in dem heiligen Geist, in ungefärbter Liebe,"
+        },
+        {
+          "num": 7,
+          "text": "in dem Wort der Wahrheit, in der Kraft Gottes, durch Waffen der Gerechtigkeit zur Rechten und zur Linken,"
+        },
+        {
+          "num": 8,
+          "text": "durch Ehre und Schande, durch böse Gerüchte und gute Gerüchte: als die Verführer, und doch wahrhaftig;"
+        },
+        {
+          "num": 9,
+          "text": "als die Unbekannten, und doch bekannt; als die Sterbenden, und siehe, wir leben; als die Gezüchtigten, und doch nicht ertötet;"
+        },
+        {
+          "num": 10,
+          "text": "als die Traurigen, aber allezeit fröhlich; als die Armen, aber die doch viele reich machen; als die nichts innehaben, und doch alles haben."
+        }
+      ],
       "text": "Wir ermahnen aber euch als Mithelfer, daß ihr nicht vergeblich die Gnade Gottes empfanget. Denn er spricht: \"Ich habe dich in der angenehmen Zeit erhört und habe dir am Tage des Heils geholfen.\" Sehet, jetzt ist die angenehme Zeit, jetzt ist der Tag des Heils! Und wir geben niemand irgend ein Ärgernis, auf daß unser Amt nicht verlästert werde; sondern in allen Dingen beweisen wir uns als die Diener Gottes: in großer Geduld, in Trübsalen, in Nöten, in Ängsten, in Schlägen, in Gefängnissen, in Aufruhren, in Arbeit, in Wachen, in Fasten, in Keuschheit, in Erkenntnis, in Langmut, in Freundlichkeit, in dem heiligen Geist, in ungefärbter Liebe, in dem Wort der Wahrheit, in der Kraft Gottes, durch Waffen der Gerechtigkeit zur Rechten und zur Linken, durch Ehre und Schande, durch böse Gerüchte und gute Gerüchte: als die Verführer, und doch wahrhaftig; als die Unbekannten, und doch bekannt; als die Sterbenden, und siehe, wir leben; als die Gezüchtigten, und doch nicht ertötet; als die Traurigen, aber allezeit fröhlich; als die Armen, aber die doch viele reich machen; als die nichts innehaben, und doch alles haben.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +111,72 @@
     },
     "psalm": {
       "ref": "Ps 91",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des Allmächtigen bleibt,"
+        },
+        {
+          "num": 2,
+          "text": "der spricht zu dem HERRN: Meine Zuversicht und meine Burg, mein Gott, auf den ich hoffe."
+        },
+        {
+          "num": 3,
+          "text": "Denn er errettet dich vom Strick des Jägers und von der schädlichen Pestilenz."
+        },
+        {
+          "num": 4,
+          "text": "Er wird dich mit seinen Fittichen decken, und deine Zuversicht wird sein unter seinen Flügeln. Seine Wahrheit ist Schirm und Schild,"
+        },
+        {
+          "num": 5,
+          "text": "daß du nicht erschrecken müssest vor dem Grauen der Nacht, vor den Pfeilen, die des Tages fliegen,"
+        },
+        {
+          "num": 6,
+          "text": "vor der Pestilenz, die im Finstern schleicht, vor der Seuche, die im Mittage verderbt."
+        },
+        {
+          "num": 7,
+          "text": "Ob tausend fallen zu deiner Seite und zehntausend zu deiner Rechten, so wird es doch dich nicht treffen."
+        },
+        {
+          "num": 8,
+          "text": "Ja du wirst mit deinen Augen deine Lust sehen und schauen, wie den Gottlosen vergolten wird."
+        },
+        {
+          "num": 9,
+          "text": "Denn der HERR ist deine Zuversicht; der Höchste ist deine Zuflucht."
+        },
+        {
+          "num": 10,
+          "text": "Es wird dir kein Übel begegnen, und keine Plage wird zu deiner Hütte sich nahen."
+        },
+        {
+          "num": 11,
+          "text": "Denn er hat seinen Engeln befohlen über dir, daß sie dich behüten auf allen deinen Wegen,"
+        },
+        {
+          "num": 12,
+          "text": "daß sie dich auf Händen tragen und du deinen Fuß nicht an einen Stein stoßest."
+        },
+        {
+          "num": 13,
+          "text": "Auf Löwen und Ottern wirst du gehen, und treten auf junge Löwen und Drachen."
+        },
+        {
+          "num": 14,
+          "text": "\"Er begehrt mein, so will ich ihm aushelfen; er kennt meinen Namen, darum will ich ihn schützen."
+        },
+        {
+          "num": 15,
+          "text": "Er ruft mich an, so will ich ihn erhören; ich bin bei ihm in der Not; ich will ihn herausreißen und zu Ehren bringen."
+        },
+        {
+          "num": 16,
+          "text": "Ich will ihn sättigen mit langem Leben und will ihm zeigen mein Heil.\""
+        }
+      ],
       "text": "Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des Allmächtigen bleibt, der spricht zu dem HERRN: Meine Zuversicht und meine Burg, mein Gott, auf den ich hoffe. Denn er errettet dich vom Strick des Jägers und von der schädlichen Pestilenz. Er wird dich mit seinen Fittichen decken, und deine Zuversicht wird sein unter seinen Flügeln. Seine Wahrheit ist Schirm und Schild, daß du nicht erschrecken müssest vor dem Grauen der Nacht, vor den Pfeilen, die des Tages fliegen, vor der Pestilenz, die im Finstern schleicht, vor der Seuche, die im Mittage verderbt. Ob tausend fallen zu deiner Seite und zehntausend zu deiner Rechten, so wird es doch dich nicht treffen. Ja du wirst mit deinen Augen deine Lust sehen und schauen, wie den Gottlosen vergolten wird. Denn der HERR ist deine Zuversicht; der Höchste ist deine Zuflucht. Es wird dir kein Übel begegnen, und keine Plage wird zu deiner Hütte sich nahen. Denn er hat seinen Engeln befohlen über dir, daß sie dich behüten auf allen deinen Wegen, daß sie dich auf Händen tragen und du deinen Fuß nicht an einen Stein stoßest. Auf Löwen und Ottern wirst du gehen, und treten auf junge Löwen und Drachen. \"Er begehrt mein, so will ich ihm aushelfen; er kennt meinen Namen, darum will ich ihn schützen. Er ruft mich an, so will ich ihn erhören; ich bin bei ihm in der Not; ich will ihn herausreißen und zu Ehren bringen. Ich will ihn sättigen mit langem Leben und will ihm zeigen mein Heil.\"",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

@@ -9,6 +9,72 @@
     "gospel": {
       "ref": "Matt 20,1-16",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Das Himmelreich ist gleich einem Hausvater, der am Morgen ausging, Arbeiter zu mieten in seinen Weinberg."
+        },
+        {
+          "num": 2,
+          "text": "Und da er mit den Arbeitern eins ward um einen Groschen zum Tagelohn, sandte er sie in seinen Weinberg."
+        },
+        {
+          "num": 3,
+          "text": "Und ging aus um die dritte Stunde und sah andere an dem Markte müßig stehen"
+        },
+        {
+          "num": 4,
+          "text": "und sprach zu ihnen: Gehet ihr auch hin in den Weinberg; ich will euch geben, was recht ist."
+        },
+        {
+          "num": 5,
+          "text": "Und sie gingen hin. Abermals ging er aus um die sechste und die neunte Stunde und tat gleichalso."
+        },
+        {
+          "num": 6,
+          "text": "Um die elfte Stunde aber ging er aus und fand andere müßig stehen und sprach zu ihnen: Was steht ihr hier den ganzen Tag müßig?"
+        },
+        {
+          "num": 7,
+          "text": "Sie sprachen zu ihm: Es hat uns niemand gedingt. Er sprach zu ihnen: Gehet ihr auch hin in den Weinberg, und was recht sein wird, soll euch werden."
+        },
+        {
+          "num": 8,
+          "text": "Da es nun Abend ward, sprach der Herr des Weinberges zu seinem Schaffner: Rufe die Arbeiter und gib ihnen den Lohn und heb an an den Letzten bis zu den Ersten."
+        },
+        {
+          "num": 9,
+          "text": "Da kamen, die um die elfte Stunde gedingt waren, und empfing ein jeglicher seinen Groschen."
+        },
+        {
+          "num": 10,
+          "text": "Da aber die ersten kamen, meinten sie, sie würden mehr empfangen; und sie empfingen auch ein jeglicher seinen Groschen."
+        },
+        {
+          "num": 11,
+          "text": "Und da sie den empfingen, murrten sie wider den Hausvater"
+        },
+        {
+          "num": 12,
+          "text": "und sprachen: Diese haben nur eine Stunde gearbeitet, und du hast sie uns gleich gemacht, die wir des Tages Last und die Hitze getragen haben."
+        },
+        {
+          "num": 13,
+          "text": "Er antwortete aber und sagte zu einem unter ihnen: Mein Freund, ich tue dir nicht Unrecht. Bist du nicht mit mir eins geworden für einen Groschen?"
+        },
+        {
+          "num": 14,
+          "text": "Nimm, was dein ist, und gehe hin! Ich will aber diesem letzten geben gleich wie dir."
+        },
+        {
+          "num": 15,
+          "text": "Oder habe ich nicht Macht, zu tun, was ich will, mit dem Meinen? Siehst du darum so scheel, daß ich so gütig bin?"
+        },
+        {
+          "num": 16,
+          "text": "Also werden die Letzten die Ersten und die Ersten die Letzten sein. Denn viele sind berufen, aber wenige auserwählt."
+        }
+      ],
       "text": "Das Himmelreich ist gleich einem Hausvater, der am Morgen ausging, Arbeiter zu mieten in seinen Weinberg. Und da er mit den Arbeitern eins ward um einen Groschen zum Tagelohn, sandte er sie in seinen Weinberg. Und ging aus um die dritte Stunde und sah andere an dem Markte müßig stehen und sprach zu ihnen: Gehet ihr auch hin in den Weinberg; ich will euch geben, was recht ist. Und sie gingen hin. Abermals ging er aus um die sechste und die neunte Stunde und tat gleichalso. Um die elfte Stunde aber ging er aus und fand andere müßig stehen und sprach zu ihnen: Was steht ihr hier den ganzen Tag müßig? Sie sprachen zu ihm: Es hat uns niemand gedingt. Er sprach zu ihnen: Gehet ihr auch hin in den Weinberg, und was recht sein wird, soll euch werden. Da es nun Abend ward, sprach der Herr des Weinberges zu seinem Schaffner: Rufe die Arbeiter und gib ihnen den Lohn und heb an an den Letzten bis zu den Ersten. Da kamen, die um die elfte Stunde gedingt waren, und empfing ein jeglicher seinen Groschen. Da aber die ersten kamen, meinten sie, sie würden mehr empfangen; und sie empfingen auch ein jeglicher seinen Groschen. Und da sie den empfingen, murrten sie wider den Hausvater und sprachen: Diese haben nur eine Stunde gearbeitet, und du hast sie uns gleich gemacht, die wir des Tages Last und die Hitze getragen haben. Er antwortete aber und sagte zu einem unter ihnen: Mein Freund, ich tue dir nicht Unrecht. Bist du nicht mit mir eins geworden für einen Groschen? Nimm, was dein ist, und gehe hin! Ich will aber diesem letzten geben gleich wie dir. Oder habe ich nicht Macht, zu tun, was ich will, mit dem Meinen? Siehst du darum so scheel, daß ich so gütig bin? Also werden die Letzten die Ersten und die Ersten die Letzten sein. Denn viele sind berufen, aber wenige auserwählt.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -17,6 +83,24 @@
     "epistle": {
       "ref": "1Kor 9,24-27",
       "_note": "Orig.: 1Kor 9,24–10,5 — kapitelübergreifend, gekürzt",
+      "verses": [
+        {
+          "num": 24,
+          "text": "Wisset ihr nicht, daß die, so in den Schranken laufen, die laufen alle, aber einer erlangt das Kleinod? Laufet nun also, daß ihr es ergreifet!"
+        },
+        {
+          "num": 25,
+          "text": "Ein jeglicher aber, der da kämpft, enthält sich alles Dinges; jene also, daß sie eine vergängliche Krone empfangen, wir aber eine unvergängliche."
+        },
+        {
+          "num": 26,
+          "text": "Ich laufe aber also, nicht als aufs Ungewisse; ich fechte also, nicht als der in die Luft streicht;"
+        },
+        {
+          "num": 27,
+          "text": "sondern ich betäube meinen Leib und zähme ihn, daß ich nicht den andern predige, und selbst verwerflich werde."
+        }
+      ],
       "text": "Wisset ihr nicht, daß die, so in den Schranken laufen, die laufen alle, aber einer erlangt das Kleinod? Laufet nun also, daß ihr es ergreifet! Ein jeglicher aber, der da kämpft, enthält sich alles Dinges; jene also, daß sie eine vergängliche Krone empfangen, wir aber eine unvergängliche. Ich laufe aber also, nicht als aufs Ungewisse; ich fechte also, nicht als der in die Luft streicht; sondern ich betäube meinen Leib und zähme ihn, daß ich nicht den andern predige, und selbst verwerflich werde.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -24,6 +108,108 @@
     },
     "psalm": {
       "ref": "Ps 31",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Davids, vorzusingen."
+        },
+        {
+          "num": 2,
+          "text": "HERR, auf dich traue ich, laß mich nimmermehr zu Schanden werden; errette mich durch deine Gerechtigkeit!"
+        },
+        {
+          "num": 3,
+          "text": "Neige deine Ohren zu mir, eilend hilf mir! Sei mir ein starker Fels und eine Burg, daß du mir helfest!"
+        },
+        {
+          "num": 4,
+          "text": "Denn du bist mein Fels und meine Burg, und um deines Namens willen wolltest du mich leiten und führen."
+        },
+        {
+          "num": 5,
+          "text": "Du wollest mich aus dem Netze ziehen, das sie mir gestellt haben; denn du bist meine Stärke."
+        },
+        {
+          "num": 6,
+          "text": "In deine Hände befehle ich meinen Geist; du hast mich erlöst, HERR, du treuer Gott."
+        },
+        {
+          "num": 7,
+          "text": "Ich hasse, die da halten auf eitle Götzen; ich aber hoffe auf den HERRN."
+        },
+        {
+          "num": 8,
+          "text": "Ich freue mich und bin fröhlich über deine Güte, daß du mein Elend ansiehst und erkennst meine Seele in der Not"
+        },
+        {
+          "num": 9,
+          "text": "und übergibst mich nicht in die Hände des Feindes; du stellst meine Füße auf weiten Raum."
+        },
+        {
+          "num": 10,
+          "text": "HERR, sei mir gnädig, denn mir ist angst; meine Gestalt ist verfallen vor Trauern, dazu meine Seele und mein Leib."
+        },
+        {
+          "num": 11,
+          "text": "Denn mein Leben hat abgenommen vor Betrübnis und meine Zeit vor Seufzen; meine Kraft ist verfallen vor meiner Missetat, und meine Gebeine sind verschmachtet."
+        },
+        {
+          "num": 12,
+          "text": "Es geht mir so übel, daß ich bin eine große Schmach geworden meinen Nachbarn und eine Scheu meinen Verwandten; die mich sehen auf der Gasse, fliehen vor mir."
+        },
+        {
+          "num": 13,
+          "text": "Mein ist vergessen im Herzen wie eines Toten; ich bin geworden wie ein zerbrochenes Gefäß."
+        },
+        {
+          "num": 14,
+          "text": "Denn ich höre, wie mich viele schelten, Schrecken ist um und um; sie ratschlagen miteinander über mich und denken, mir das Leben zu nehmen."
+        },
+        {
+          "num": 15,
+          "text": "Ich aber, HERR, hoffe auf dich und spreche: Du bist mein Gott!"
+        },
+        {
+          "num": 16,
+          "text": "Meine Zeit steht in deinen Händen. Errette mich von der Hand meiner Feinde und von denen, die mich verfolgen."
+        },
+        {
+          "num": 17,
+          "text": "Laß leuchten dein Antlitz über deinen Knecht; hilf mir durch deine Güte!"
+        },
+        {
+          "num": 18,
+          "text": "HERR, laß mich nicht zu Schanden werden; denn ich rufe dich an. Die Gottlosen müssen zu Schanden werden und schweigen in der Hölle."
+        },
+        {
+          "num": 19,
+          "text": "Verstummen müssen falsche Mäuler, die da reden gegen den Gerechten frech, stolz und höhnisch."
+        },
+        {
+          "num": 20,
+          "text": "Wie groß ist deine Güte, die du verborgen hast für die, so dich fürchten, und erzeigest vor den Leuten denen, die auf dich trauen!"
+        },
+        {
+          "num": 21,
+          "text": "Du verbirgst sie heimlich bei dir vor jedermanns Trotz; du verdeckst sie in der Hütte vor den zänkischen Zungen."
+        },
+        {
+          "num": 22,
+          "text": "Gelobt sei der HERR, daß er hat eine wunderbare Güte mir bewiesen in einer festen Stadt."
+        },
+        {
+          "num": 23,
+          "text": "Denn ich sprach zu meinem Zagen: Ich bin von deinen Augen verstoßen. Dennoch hörtest du meines Flehens Stimme, da ich zu dir schrie."
+        },
+        {
+          "num": 24,
+          "text": "Liebet den HERRN, alle seine Heiligen! Die Gläubigen behütet der HERR und vergilt reichlich dem, der Hochmut übt."
+        },
+        {
+          "num": 25,
+          "text": "Seid getrost und unverzagt, alle, die ihr des HERRN harret!"
+        }
+      ],
       "text": "Ein Psalm Davids, vorzusingen. HERR, auf dich traue ich, laß mich nimmermehr zu Schanden werden; errette mich durch deine Gerechtigkeit! Neige deine Ohren zu mir, eilend hilf mir! Sei mir ein starker Fels und eine Burg, daß du mir helfest! Denn du bist mein Fels und meine Burg, und um deines Namens willen wolltest du mich leiten und führen. Du wollest mich aus dem Netze ziehen, das sie mir gestellt haben; denn du bist meine Stärke. In deine Hände befehle ich meinen Geist; du hast mich erlöst, HERR, du treuer Gott. Ich hasse, die da halten auf eitle Götzen; ich aber hoffe auf den HERRN. Ich freue mich und bin fröhlich über deine Güte, daß du mein Elend ansiehst und erkennst meine Seele in der Not und übergibst mich nicht in die Hände des Feindes; du stellst meine Füße auf weiten Raum. HERR, sei mir gnädig, denn mir ist angst; meine Gestalt ist verfallen vor Trauern, dazu meine Seele und mein Leib. Denn mein Leben hat abgenommen vor Betrübnis und meine Zeit vor Seufzen; meine Kraft ist verfallen vor meiner Missetat, und meine Gebeine sind verschmachtet. Es geht mir so übel, daß ich bin eine große Schmach geworden meinen Nachbarn und eine Scheu meinen Verwandten; die mich sehen auf der Gasse, fliehen vor mir. Mein ist vergessen im Herzen wie eines Toten; ich bin geworden wie ein zerbrochenes Gefäß. Denn ich höre, wie mich viele schelten, Schrecken ist um und um; sie ratschlagen miteinander über mich und denken, mir das Leben zu nehmen. Ich aber, HERR, hoffe auf dich und spreche: Du bist mein Gott! Meine Zeit steht in deinen Händen. Errette mich von der Hand meiner Feinde und von denen, die mich verfolgen. Laß leuchten dein Antlitz über deinen Knecht; hilf mir durch deine Güte! HERR, laß mich nicht zu Schanden werden; denn ich rufe dich an. Die Gottlosen müssen zu Schanden werden und schweigen in der Hölle. Verstummen müssen falsche Mäuler, die da reden gegen den Gerechten frech, stolz und höhnisch. Wie groß ist deine Güte, die du verborgen hast für die, so dich fürchten, und erzeigest vor den Leuten denen, die auf dich trauen! Du verbirgst sie heimlich bei dir vor jedermanns Trotz; du verdeckst sie in der Hütte vor den zänkischen Zungen. Gelobt sei der HERR, daß er hat eine wunderbare Güte mir bewiesen in einer festen Stadt. Denn ich sprach zu meinem Zagen: Ich bin von deinen Augen verstoßen. Dennoch hörtest du meines Flehens Stimme, da ich zu dir schrie. Liebet den HERRN, alle seine Heiligen! Die Gläubigen behütet der HERR und vergilt reichlich dem, der Hochmut übt. Seid getrost und unverzagt, alle, die ihr des HERRN harret!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

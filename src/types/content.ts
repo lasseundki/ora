@@ -7,9 +7,15 @@ export interface Provenance {
   cycle_year?: number
 }
 
+export interface Verse {
+  num: number
+  text: string
+}
+
 export interface Reading extends Partial<Provenance> {
   ref: string
-  text?: string
+  text?: string        // flat fallback (backward compat)
+  verses?: Verse[]     // preferred: individual verses with numbers
   stable?: boolean
 }
 

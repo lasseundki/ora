@@ -9,6 +9,68 @@
     "gospel": {
       "ref": "Lk 10,23-37",
       "stable": true,
+      "verses": [
+        {
+          "num": 23,
+          "text": "Und er wandte sich zu seinen Jüngern und sprach insonderheit: Selig sind die Augen, die da sehen, was ihr sehet."
+        },
+        {
+          "num": 24,
+          "text": "Denn ich sage euch: Viele Propheten und Könige wollten sehen, was ihr sehet, und haben's nicht gesehen, und hören, was ihr höret, und haben's nicht gehört."
+        },
+        {
+          "num": 25,
+          "text": "Und siehe, da stand ein Schriftgelehrter auf, versuchte ihn und sprach: Meister, was muß ich tun, daß ich das ewige Leben ererbe?"
+        },
+        {
+          "num": 26,
+          "text": "Er aber sprach zu ihm: Wie steht im Gesetz geschrieben? Wie lieset du?"
+        },
+        {
+          "num": 27,
+          "text": "Er antwortete und sprach: \"Du sollst Gott, deinen HERRN, lieben von ganzem Herzen, von ganzer Seele, von allen Kräften und von ganzem Gemüte und deinen Nächsten als dich selbst.\""
+        },
+        {
+          "num": 28,
+          "text": "Er aber sprach zu ihm: Du hast recht geantwortet; tue das, so wirst du leben."
+        },
+        {
+          "num": 29,
+          "text": "Er aber wollte sich selbst rechtfertigen und sprach zu Jesus: \"Wer ist denn mein Nächster?\""
+        },
+        {
+          "num": 30,
+          "text": "Da antwortete Jesus und sprach: Es war ein Mensch, der ging von Jerusalem hinab gen Jericho und fiel unter die Mörder; die zogen ihn aus und schlugen ihn und gingen davon und ließen ihn halbtot liegen."
+        },
+        {
+          "num": 31,
+          "text": "Es begab sich aber ungefähr, daß ein Priester dieselbe Straße hinabzog; und da er ihn sah, ging er vorüber."
+        },
+        {
+          "num": 32,
+          "text": "Desgleichen auch ein Levit; da er kam zu der Stätte und sah ihn, ging er vorüber."
+        },
+        {
+          "num": 33,
+          "text": "Ein Samariter aber reiste und kam dahin; und da er ihn sah, jammerte ihn sein,"
+        },
+        {
+          "num": 34,
+          "text": "ging zu ihm, verband ihm seine Wunden und goß darein Öl und Wein und hob ihn auf sein Tier und führte ihn in die Herberge und pflegte sein."
+        },
+        {
+          "num": 35,
+          "text": "Des anderen Tages reiste er und zog heraus zwei Groschen und gab sie dem Wirte und sprach zu ihm: Pflege sein; und so du was mehr wirst dartun, will ich dir's bezahlen, wenn ich wiederkomme."
+        },
+        {
+          "num": 36,
+          "text": "Welcher dünkt dich, der unter diesen Dreien der Nächste sei gewesen dem, der unter die Mörder gefallen war?"
+        },
+        {
+          "num": 37,
+          "text": "Er sprach: Der die Barmherzigkeit an ihn tat. Da sprach Jesus zu ihm: So gehe hin und tue desgleichen!"
+        }
+      ],
       "text": "Und er wandte sich zu seinen Jüngern und sprach insonderheit: Selig sind die Augen, die da sehen, was ihr sehet. Denn ich sage euch: Viele Propheten und Könige wollten sehen, was ihr sehet, und haben's nicht gesehen, und hören, was ihr höret, und haben's nicht gehört. Und siehe, da stand ein Schriftgelehrter auf, versuchte ihn und sprach: Meister, was muß ich tun, daß ich das ewige Leben ererbe? Er aber sprach zu ihm: Wie steht im Gesetz geschrieben? Wie lieset du? Er antwortete und sprach: \"Du sollst Gott, deinen HERRN, lieben von ganzem Herzen, von ganzer Seele, von allen Kräften und von ganzem Gemüte und deinen Nächsten als dich selbst.\" Er aber sprach zu ihm: Du hast recht geantwortet; tue das, so wirst du leben. Er aber wollte sich selbst rechtfertigen und sprach zu Jesus: \"Wer ist denn mein Nächster?\" Da antwortete Jesus und sprach: Es war ein Mensch, der ging von Jerusalem hinab gen Jericho und fiel unter die Mörder; die zogen ihn aus und schlugen ihn und gingen davon und ließen ihn halbtot liegen. Es begab sich aber ungefähr, daß ein Priester dieselbe Straße hinabzog; und da er ihn sah, ging er vorüber. Desgleichen auch ein Levit; da er kam zu der Stätte und sah ihn, ging er vorüber. Ein Samariter aber reiste und kam dahin; und da er ihn sah, jammerte ihn sein, ging zu ihm, verband ihm seine Wunden und goß darein Öl und Wein und hob ihn auf sein Tier und führte ihn in die Herberge und pflegte sein. Des anderen Tages reiste er und zog heraus zwei Groschen und gab sie dem Wirte und sprach zu ihm: Pflege sein; und so du was mehr wirst dartun, will ich dir's bezahlen, wenn ich wiederkomme. Welcher dünkt dich, der unter diesen Dreien der Nächste sei gewesen dem, der unter die Mörder gefallen war? Er sprach: Der die Barmherzigkeit an ihn tat. Da sprach Jesus zu ihm: So gehe hin und tue desgleichen!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +78,40 @@
     },
     "epistle": {
       "ref": "Gal 3,15-22",
+      "verses": [
+        {
+          "num": 15,
+          "text": "Liebe Brüder, ich will nach menschlicher Weise reden: Verwirft man doch eines Menschen Testament nicht, wenn es bestätigt ist, und tut auch nichts dazu."
+        },
+        {
+          "num": 16,
+          "text": "Nun ist ja die Verheißung Abraham und seinem Samen zugesagt. Er spricht nicht: \"durch die Samen\", als durch viele, sondern als durch einen: \"durch deinen Samen\", welcher ist Christus."
+        },
+        {
+          "num": 17,
+          "text": "Ich sage aber davon: Das Testament, das von Gott zuvor bestätigt ist auf Christum, wird nicht aufgehoben, daß die Verheißung sollte durchs Gesetz aufhören, welches gegeben ist vierhundertdreißig Jahre hernach."
+        },
+        {
+          "num": 18,
+          "text": "Denn so das Erbe durch das Gesetz erworben würde, so würde es nicht durch Verheißung gegeben; Gott aber hat's Abraham durch Verheißung frei geschenkt."
+        },
+        {
+          "num": 19,
+          "text": "Was soll denn das Gesetz? Es ist hinzugekommen um der Sünden willen, bis der Same käme, dem die Verheißung geschehen ist, und ist gestellt von den Engeln durch die Hand des Mittlers."
+        },
+        {
+          "num": 20,
+          "text": "Ein Mittler aber ist nicht eines Mittler; Gott aber ist einer."
+        },
+        {
+          "num": 21,
+          "text": "Wie? Ist denn das Gesetz wider Gottes Verheißungen? Das sei ferne! Wenn aber ein Gesetz gegeben wäre, das da könnte lebendig machen, so käme die Gerechtigkeit wahrhaftig aus dem Gesetz."
+        },
+        {
+          "num": 22,
+          "text": "Aber die Schrift hat alles beschlossen unter die Sünde, auf daß die Verheißung käme durch den Glauben an Jesum Christum, gegeben denen, die da glauben."
+        }
+      ],
       "text": "Liebe Brüder, ich will nach menschlicher Weise reden: Verwirft man doch eines Menschen Testament nicht, wenn es bestätigt ist, und tut auch nichts dazu. Nun ist ja die Verheißung Abraham und seinem Samen zugesagt. Er spricht nicht: \"durch die Samen\", als durch viele, sondern als durch einen: \"durch deinen Samen\", welcher ist Christus. Ich sage aber davon: Das Testament, das von Gott zuvor bestätigt ist auf Christum, wird nicht aufgehoben, daß die Verheißung sollte durchs Gesetz aufhören, welches gegeben ist vierhundertdreißig Jahre hernach. Denn so das Erbe durch das Gesetz erworben würde, so würde es nicht durch Verheißung gegeben; Gott aber hat's Abraham durch Verheißung frei geschenkt. Was soll denn das Gesetz? Es ist hinzugekommen um der Sünden willen, bis der Same käme, dem die Verheißung geschehen ist, und ist gestellt von den Engeln durch die Hand des Mittlers. Ein Mittler aber ist nicht eines Mittler; Gott aber ist einer. Wie? Ist denn das Gesetz wider Gottes Verheißungen? Das sei ferne! Wenn aber ein Gesetz gegeben wäre, das da könnte lebendig machen, so käme die Gerechtigkeit wahrhaftig aus dem Gesetz. Aber die Schrift hat alles beschlossen unter die Sünde, auf daß die Verheißung käme durch den Glauben an Jesum Christum, gegeben denen, die da glauben.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +119,48 @@
     },
     "psalm": {
       "ref": "Ps 112",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Halleluja! Wohl dem, der den HERRN fürchtet, der große Lust hat zu seinen Geboten!"
+        },
+        {
+          "num": 2,
+          "text": "Des Same wird gewaltig sein auf Erden; das Geschlecht der Frommen wird gesegnet sein."
+        },
+        {
+          "num": 3,
+          "text": "Reichtum und die Fülle wird in ihrem Hause sein, und ihre Gerechtigkeit bleibt ewiglich."
+        },
+        {
+          "num": 4,
+          "text": "Den Frommen geht das Licht auf in der Finsternis von dem Gnädigen, Barmherzigen und Gerechten."
+        },
+        {
+          "num": 5,
+          "text": "Wohl dem, der barmherzig ist und gerne leidet und richtet seine Sachen aus, daß er niemand Unrecht tue!"
+        },
+        {
+          "num": 6,
+          "text": "Denn er wird ewiglich bleiben; des Gerechten wird nimmermehr vergessen."
+        },
+        {
+          "num": 7,
+          "text": "Wenn eine Plage kommen will, so fürchtet er sich nicht; sein Herz hofft unverzagt auf den HERRN."
+        },
+        {
+          "num": 8,
+          "text": "Sein Herz ist getrost und fürchtet sich nicht, bis er seine Lust an seinen Feinden sieht."
+        },
+        {
+          "num": 9,
+          "text": "Er streut aus und gibt den Armen; seine Gerechtigkeit bleibt ewiglich, sein Horn wird erhöht mit Ehren."
+        },
+        {
+          "num": 10,
+          "text": "Der Gottlose wird's sehen, und es wird ihn verdrießen; seine Zähne wird er zusammenbeißen und vergehen. Denn was die Gottlosen gerne wollten, das ist verloren."
+        }
+      ],
       "text": "Halleluja! Wohl dem, der den HERRN fürchtet, der große Lust hat zu seinen Geboten! Des Same wird gewaltig sein auf Erden; das Geschlecht der Frommen wird gesegnet sein. Reichtum und die Fülle wird in ihrem Hause sein, und ihre Gerechtigkeit bleibt ewiglich. Den Frommen geht das Licht auf in der Finsternis von dem Gnädigen, Barmherzigen und Gerechten. Wohl dem, der barmherzig ist und gerne leidet und richtet seine Sachen aus, daß er niemand Unrecht tue! Denn er wird ewiglich bleiben; des Gerechten wird nimmermehr vergessen. Wenn eine Plage kommen will, so fürchtet er sich nicht; sein Herz hofft unverzagt auf den HERRN. Sein Herz ist getrost und fürchtet sich nicht, bis er seine Lust an seinen Feinden sieht. Er streut aus und gibt den Armen; seine Gerechtigkeit bleibt ewiglich, sein Horn wird erhöht mit Ehren. Der Gottlose wird's sehen, und es wird ihn verdrießen; seine Zähne wird er zusammenbeißen und vergehen. Denn was die Gottlosen gerne wollten, das ist verloren.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

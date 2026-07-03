@@ -9,6 +9,32 @@
     "gospel": {
       "ref": "Joh 10,11-16",
       "stable": true,
+      "verses": [
+        {
+          "num": 11,
+          "text": "Ich bin der gute Hirte. Der gute Hirte läßt sein Leben für seine Schafe."
+        },
+        {
+          "num": 12,
+          "text": "Der Mietling aber, der nicht Hirte ist, des die Schafe nicht eigen sind, sieht den Wolf kommen und verläßt die Schafe und flieht; und der Wolf erhascht und zerstreut die Schafe."
+        },
+        {
+          "num": 13,
+          "text": "Der Mietling aber flieht; denn er ist ein Mietling und achtet der Schafe nicht."
+        },
+        {
+          "num": 14,
+          "text": "Ich bin der gute Hirte und erkenne die Meinen und bin bekannt den Meinen,"
+        },
+        {
+          "num": 15,
+          "text": "wie mich mein Vater kennt und ich kenne den Vater. Und ich lasse mein Leben für die Schafe."
+        },
+        {
+          "num": 16,
+          "text": "Und ich habe noch andere Schafe, die sind nicht aus diesem Stalle; und dieselben muß ich herführen, und sie werden meine Stimme hören, und wird eine Herde und ein Hirte werden."
+        }
+      ],
       "text": "Ich bin der gute Hirte. Der gute Hirte läßt sein Leben für seine Schafe. Der Mietling aber, der nicht Hirte ist, des die Schafe nicht eigen sind, sieht den Wolf kommen und verläßt die Schafe und flieht; und der Wolf erhascht und zerstreut die Schafe. Der Mietling aber flieht; denn er ist ein Mietling und achtet der Schafe nicht. Ich bin der gute Hirte und erkenne die Meinen und bin bekannt den Meinen, wie mich mein Vater kennt und ich kenne den Vater. Und ich lasse mein Leben für die Schafe. Und ich habe noch andere Schafe, die sind nicht aus diesem Stalle; und dieselben muß ich herführen, und sie werden meine Stimme hören, und wird eine Herde und ein Hirte werden.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +42,28 @@
     },
     "epistle": {
       "ref": "1Petr 2,21-25",
+      "verses": [
+        {
+          "num": 21,
+          "text": "Denn dazu seid ihr berufen; sintemal auch Christus gelitten hat für uns und uns ein Vorbild gelassen, daß ihr sollt nachfolgen seinen Fußtapfen;"
+        },
+        {
+          "num": 22,
+          "text": "welcher keine Sünde getan hat, ist auch kein Betrug in seinem Munde erfunden;"
+        },
+        {
+          "num": 23,
+          "text": "welcher nicht wiederschalt, da er gescholten ward, nicht drohte, da er litt, er stellte es aber dem anheim, der da recht richtet;"
+        },
+        {
+          "num": 24,
+          "text": "welcher unsre Sünden selbst hinaufgetragen hat an seinem Leibe auf das Holz, auf daß wir, der Sünde abgestorben, der Gerechtigkeit leben; durch welches Wunden ihr seid heil geworden."
+        },
+        {
+          "num": 25,
+          "text": "Denn ihr waret wie die irrenden Schafe; aber ihr seid nun bekehrt zu dem Hirten und Bischof eurer Seelen."
+        }
+      ],
       "text": "Denn dazu seid ihr berufen; sintemal auch Christus gelitten hat für uns und uns ein Vorbild gelassen, daß ihr sollt nachfolgen seinen Fußtapfen; welcher keine Sünde getan hat, ist auch kein Betrug in seinem Munde erfunden; welcher nicht wiederschalt, da er gescholten ward, nicht drohte, da er litt, er stellte es aber dem anheim, der da recht richtet; welcher unsre Sünden selbst hinaufgetragen hat an seinem Leibe auf das Holz, auf daß wir, der Sünde abgestorben, der Gerechtigkeit leben; durch welches Wunden ihr seid heil geworden. Denn ihr waret wie die irrenden Schafe; aber ihr seid nun bekehrt zu dem Hirten und Bischof eurer Seelen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +71,32 @@
     },
     "psalm": {
       "ref": "Ps 23",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln."
+        },
+        {
+          "num": 2,
+          "text": "Er weidet mich auf grüner Aue und führet mich zum frischen Wasser."
+        },
+        {
+          "num": 3,
+          "text": "Er erquicket meine Seele; er führet mich auf rechter Straße um seines Namens willen."
+        },
+        {
+          "num": 4,
+          "text": "Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich."
+        },
+        {
+          "num": 5,
+          "text": "Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein."
+        },
+        {
+          "num": 6,
+          "text": "Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar."
+        }
+      ],
       "text": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln. Er weidet mich auf grüner Aue und führet mich zum frischen Wasser. Er erquicket meine Seele; er führet mich auf rechter Straße um seines Namens willen. Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich. Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein. Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

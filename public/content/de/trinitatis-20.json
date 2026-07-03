@@ -9,6 +9,64 @@
     "gospel": {
       "ref": "Matt 22,1-14",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Und Jesus antwortete und redete abermals durch Gleichnisse zu ihnen und sprach:"
+        },
+        {
+          "num": 2,
+          "text": "Das Himmelreich ist gleich einem Könige, der seinem Sohn Hochzeit machte."
+        },
+        {
+          "num": 3,
+          "text": "Und sandte seine Knechte aus, daß sie die Gäste zur Hochzeit riefen; und sie wollten nicht kommen."
+        },
+        {
+          "num": 4,
+          "text": "Abermals sandte er andere Knechte aus und sprach: Sagt den Gästen: Siehe, meine Mahlzeit habe ich bereitet, meine Ochsen und mein Mastvieh ist geschlachtet und alles ist bereit; kommt zur Hochzeit!"
+        },
+        {
+          "num": 5,
+          "text": "Aber sie verachteten das und gingen hin, einer auf seinen Acker, der andere zu seiner Hantierung;"
+        },
+        {
+          "num": 6,
+          "text": "etliche griffen seine Knechte, höhnten sie und töteten sie."
+        },
+        {
+          "num": 7,
+          "text": "Da das der König hörte, ward er zornig und schickte seine Heere aus und brachte diese Mörder um und zündete ihre Stadt an."
+        },
+        {
+          "num": 8,
+          "text": "Da sprach er zu seinen Knechten: Die Hochzeit ist zwar bereit, aber die Gäste waren's nicht wert."
+        },
+        {
+          "num": 9,
+          "text": "Darum gehet hin auf die Straßen und ladet zur Hochzeit, wen ihr findet."
+        },
+        {
+          "num": 10,
+          "text": "Und die Knechte gingen aus auf die Straßen und brachten zusammen, wen sie fanden, Böse und Gute; und die Tische wurden alle voll."
+        },
+        {
+          "num": 11,
+          "text": "Da ging der König hinein, die Gäste zu besehen, und sah allda einen Menschen, der hatte kein hochzeitlich Kleid an;"
+        },
+        {
+          "num": 12,
+          "text": "und er sprach zu ihm: Freund, wie bist du hereingekommen und hast doch kein hochzeitlich Kleid an? Er aber verstummte."
+        },
+        {
+          "num": 13,
+          "text": "Da sprach der König zu seinen Dienern: Bindet ihm Hände und Füße und werfet ihn in die Finsternis hinaus! da wird sein Heulen und Zähneklappen."
+        },
+        {
+          "num": 14,
+          "text": "Denn viele sind berufen, aber wenige sind auserwählt."
+        }
+      ],
       "text": "Und Jesus antwortete und redete abermals durch Gleichnisse zu ihnen und sprach: Das Himmelreich ist gleich einem Könige, der seinem Sohn Hochzeit machte. Und sandte seine Knechte aus, daß sie die Gäste zur Hochzeit riefen; und sie wollten nicht kommen. Abermals sandte er andere Knechte aus und sprach: Sagt den Gästen: Siehe, meine Mahlzeit habe ich bereitet, meine Ochsen und mein Mastvieh ist geschlachtet und alles ist bereit; kommt zur Hochzeit! Aber sie verachteten das und gingen hin, einer auf seinen Acker, der andere zu seiner Hantierung; etliche griffen seine Knechte, höhnten sie und töteten sie. Da das der König hörte, ward er zornig und schickte seine Heere aus und brachte diese Mörder um und zündete ihre Stadt an. Da sprach er zu seinen Knechten: Die Hochzeit ist zwar bereit, aber die Gäste waren's nicht wert. Darum gehet hin auf die Straßen und ladet zur Hochzeit, wen ihr findet. Und die Knechte gingen aus auf die Straßen und brachten zusammen, wen sie fanden, Böse und Gute; und die Tische wurden alle voll. Da ging der König hinein, die Gäste zu besehen, und sah allda einen Menschen, der hatte kein hochzeitlich Kleid an; und er sprach zu ihm: Freund, wie bist du hereingekommen und hast doch kein hochzeitlich Kleid an? Er aber verstummte. Da sprach der König zu seinen Dienern: Bindet ihm Hände und Füße und werfet ihn in die Finsternis hinaus! da wird sein Heulen und Zähneklappen. Denn viele sind berufen, aber wenige sind auserwählt.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +74,36 @@
     },
     "epistle": {
       "ref": "Eph 5,15-21",
+      "verses": [
+        {
+          "num": 15,
+          "text": "So sehet nun zu, wie ihr vorsichtig wandelt, nicht als die Unweisen, sondern als die Weisen,"
+        },
+        {
+          "num": 16,
+          "text": "und kaufet die Zeit aus; denn es ist böse Zeit."
+        },
+        {
+          "num": 17,
+          "text": "Darum werdet nicht unverständig, sondern verständig, was da sei des HERRN Wille."
+        },
+        {
+          "num": 18,
+          "text": "Und saufet euch nicht voll Wein, daraus ein unordentlich Wesen folgt, sondern werdet voll Geistes:"
+        },
+        {
+          "num": 19,
+          "text": "redet untereinander in Psalmen und Lobgesängen und geistlichen Liedern, singet und spielet dem HERRN in eurem Herzen"
+        },
+        {
+          "num": 20,
+          "text": "und saget Dank allezeit für alles Gott und dem Vater in dem Namen unsers HERRN Jesu Christi,"
+        },
+        {
+          "num": 21,
+          "text": "und seid untereinander untertan in der Furcht Gottes."
+        }
+      ],
       "text": "So sehet nun zu, wie ihr vorsichtig wandelt, nicht als die Unweisen, sondern als die Weisen, und kaufet die Zeit aus; denn es ist böse Zeit. Darum werdet nicht unverständig, sondern verständig, was da sei des HERRN Wille. Und saufet euch nicht voll Wein, daraus ein unordentlich Wesen folgt, sondern werdet voll Geistes: redet untereinander in Psalmen und Lobgesängen und geistlichen Liedern, singet und spielet dem HERRN in eurem Herzen und saget Dank allezeit für alles Gott und dem Vater in dem Namen unsers HERRN Jesu Christi, und seid untereinander untertan in der Furcht Gottes.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +111,32 @@
     },
     "psalm": {
       "ref": "Ps 23",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln."
+        },
+        {
+          "num": 2,
+          "text": "Er weidet mich auf grüner Aue und führet mich zum frischen Wasser."
+        },
+        {
+          "num": 3,
+          "text": "Er erquicket meine Seele; er führet mich auf rechter Straße um seines Namens willen."
+        },
+        {
+          "num": 4,
+          "text": "Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich."
+        },
+        {
+          "num": 5,
+          "text": "Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein."
+        },
+        {
+          "num": 6,
+          "text": "Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar."
+        }
+      ],
       "text": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln. Er weidet mich auf grüner Aue und führet mich zum frischen Wasser. Er erquicket meine Seele; er führet mich auf rechter Straße um seines Namens willen. Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich. Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein. Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

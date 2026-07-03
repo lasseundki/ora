@@ -21,12 +21,13 @@ export function useStreak(user: User | null): StreakData {
 
   useEffect(() => {
     if (!user) return
-    const ref = doc(db, 'users', user.uid, 'streaks', 'data')
+    const uid = user.uid
+    const ref = doc(db, 'users', uid, 'streaks', 'data')
 
     async function tick() {
       const snap = await getDoc(ref)
       const now = today()
-      const activityRef = doc(db, 'users', user.uid, 'activity', now)
+      const activityRef = doc(db, 'users', uid, 'activity', now)
 
       if (!snap.exists()) {
         const init = { current: 1, longest: 1, lastDate: now }

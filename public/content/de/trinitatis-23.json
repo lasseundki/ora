@@ -9,6 +9,40 @@
     "gospel": {
       "ref": "Matt 22,15-22",
       "stable": true,
+      "verses": [
+        {
+          "num": 15,
+          "text": "Da gingen die Pharisäer hin und hielten einen Rat, wie sie ihn fingen in seiner Rede."
+        },
+        {
+          "num": 16,
+          "text": "Und sandten zu ihm ihre Jünger samt des Herodes Dienern. Und sie sprachen: Meister, wir wissen, daß du wahrhaftig bist und lehrst den Weg Gottes recht und du fragst nach niemand; denn du achtest nicht das Ansehen der Menschen."
+        },
+        {
+          "num": 17,
+          "text": "Darum sage uns, was dünkt dich: Ist's recht, daß man dem Kaiser den Zins gebe, oder nicht?"
+        },
+        {
+          "num": 18,
+          "text": "Da nun Jesus merkte ihre Schalkheit, sprach er: Ihr Heuchler, was versucht ihr mich?"
+        },
+        {
+          "num": 19,
+          "text": "Weiset mir die Zinsmünze! Und sie reichten ihm einen Groschen dar."
+        },
+        {
+          "num": 20,
+          "text": "Und er sprach zu ihnen: Wes ist das Bild und die Überschrift?"
+        },
+        {
+          "num": 21,
+          "text": "Sie sprachen zu ihm: Des Kaisers. Da sprach er zu ihnen: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist!"
+        },
+        {
+          "num": 22,
+          "text": "Da sie das hörten, verwunderten sie sich und ließen ihn und gingen davon."
+        }
+      ],
       "text": "Da gingen die Pharisäer hin und hielten einen Rat, wie sie ihn fingen in seiner Rede. Und sandten zu ihm ihre Jünger samt des Herodes Dienern. Und sie sprachen: Meister, wir wissen, daß du wahrhaftig bist und lehrst den Weg Gottes recht und du fragst nach niemand; denn du achtest nicht das Ansehen der Menschen. Darum sage uns, was dünkt dich: Ist's recht, daß man dem Kaiser den Zins gebe, oder nicht? Da nun Jesus merkte ihre Schalkheit, sprach er: Ihr Heuchler, was versucht ihr mich? Weiset mir die Zinsmünze! Und sie reichten ihm einen Groschen dar. Und er sprach zu ihnen: Wes ist das Bild und die Überschrift? Sie sprachen zu ihm: Des Kaisers. Da sprach er zu ihnen: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist! Da sie das hörten, verwunderten sie sich und ließen ihn und gingen davon.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +50,28 @@
     },
     "epistle": {
       "ref": "Phil 3,17-21",
+      "verses": [
+        {
+          "num": 17,
+          "text": "Folget mir, liebe Brüder, und sehet auf die, die also wandeln, wie ihr uns habt zum Vorbilde."
+        },
+        {
+          "num": 18,
+          "text": "Denn viele wandeln, von welchen ich euch oft gesagt habe, nun aber sage ich auch mit Weinen, daß sie sind die Feinde des Kreuzes Christi,"
+        },
+        {
+          "num": 19,
+          "text": "welcher Ende ist die Verdammnis, welchen der Bauch ihr Gott ist, und deren Ehre zu Schanden wird, die irdisch gesinnt sind."
+        },
+        {
+          "num": 20,
+          "text": "Unser Wandel aber ist im Himmel, von dannen wir auch warten des Heilands Jesu Christi, des HERRN,"
+        },
+        {
+          "num": 21,
+          "text": "welcher unsern nichtigen Leib verklären wird, daß er ähnlich werde seinem verklärten Leibe nach der Wirkung, mit der er kann auch alle Dinge sich untertänig machen."
+        }
+      ],
       "text": "Folget mir, liebe Brüder, und sehet auf die, die also wandeln, wie ihr uns habt zum Vorbilde. Denn viele wandeln, von welchen ich euch oft gesagt habe, nun aber sage ich auch mit Weinen, daß sie sind die Feinde des Kreuzes Christi, welcher Ende ist die Verdammnis, welchen der Bauch ihr Gott ist, und deren Ehre zu Schanden wird, die irdisch gesinnt sind. Unser Wandel aber ist im Himmel, von dannen wir auch warten des Heilands Jesu Christi, des HERRN, welcher unsern nichtigen Leib verklären wird, daß er ähnlich werde seinem verklärten Leibe nach der Wirkung, mit der er kann auch alle Dinge sich untertänig machen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +79,48 @@
     },
     "psalm": {
       "ref": "Ps 8",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Davids, vorzusingen, auf der Gittith."
+        },
+        {
+          "num": 2,
+          "text": "HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen, du, den man lobt im Himmel!"
+        },
+        {
+          "num": 3,
+          "text": "Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, daß du vertilgest den Feind und den Rachgierigen."
+        },
+        {
+          "num": 4,
+          "text": "Wenn ich sehe die Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast:"
+        },
+        {
+          "num": 5,
+          "text": "was ist der Mensch, daß du seiner gedenkst, und des Menschenkind, daß du sich seiner annimmst?"
+        },
+        {
+          "num": 6,
+          "text": "Du hast ihn wenig niedriger gemacht denn Gott, und mit Ehre und Schmuck hast du ihn gekrönt."
+        },
+        {
+          "num": 7,
+          "text": "Du hast ihn zum Herrn gemacht über deiner Hände Werk; alles hast du unter seine Füße getan:"
+        },
+        {
+          "num": 8,
+          "text": "Schafe und Ochsen allzumal, dazu auch die wilden Tiere,"
+        },
+        {
+          "num": 9,
+          "text": "die Vögel unter dem Himmel und die Fische im Meer und was im Meer geht."
+        },
+        {
+          "num": 10,
+          "text": "HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen!"
+        }
+      ],
       "text": "Ein Psalm Davids, vorzusingen, auf der Gittith. HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen, du, den man lobt im Himmel! Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, daß du vertilgest den Feind und den Rachgierigen. Wenn ich sehe die Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast: was ist der Mensch, daß du seiner gedenkst, und des Menschenkind, daß du sich seiner annimmst? Du hast ihn wenig niedriger gemacht denn Gott, und mit Ehre und Schmuck hast du ihn gekrönt. Du hast ihn zum Herrn gemacht über deiner Hände Werk; alles hast du unter seine Füße getan: Schafe und Ochsen allzumal, dazu auch die wilden Tiere, die Vögel unter dem Himmel und die Fische im Meer und was im Meer geht. HERR, unser Herrscher, wie herrlich ist dein Name in allen Landen!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

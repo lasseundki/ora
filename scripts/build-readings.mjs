@@ -78,30 +78,31 @@ function parseRef(ref) {
 function extractVerses(index, parsed) {
   if (!parsed) return null
   const { osisBook, chapter, fromVerse, toVerse, fullChapter } = parsed
-  const verses = []
+  const result = []
   const limit = fullChapter ? 200 : toVerse // ganzes Kapitel: bis kein Vers mehr vorhanden
   for (let v = fromVerse; v <= limit; v++) {
     const key = `${osisBook}.${chapter}.${v}`
     if (index[key]) {
-      verses.push(index[key])
-    } else if (verses.length === 0 && fullChapter) {
+      result.push({ num: v, text: index[key] })
+    } else if (result.length === 0 && fullChapter) {
       // Manche Psalmen beginnen erst bei Vers 2 (kein Vers 1 im OSIS)
       continue
     } else {
       break // Kapitelende
     }
   }
-  return verses.length ? verses.join(' ') : null
+  return result.length ? result : null
 }
 
 // --- Hauptlogik ---
 function buildReadingObj(index, readingEntry) {
   if (!readingEntry?.ref) return readingEntry
   const parsed = parseRef(readingEntry.ref)
-  const text   = extractVerses(index, parsed)
+  const verses = extractVerses(index, parsed)
   const result = { ...readingEntry }
-  if (text) {
-    result.text = text
+  if (verses) {
+    result.verses = verses
+    result.text   = verses.map(v => v.text).join(' ')  // flacher Fallback
     result.source   = 'Lutherbibel 1912'
     result.license  = 'public-domain'
     result.public_domain = true

@@ -9,6 +9,56 @@
     "gospel": {
       "ref": "Matt 2,1-12",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Da Jesus geboren war zu Bethlehem im jüdischen Lande, zur Zeit des Königs Herodes, siehe, da kamen die Weisen vom Morgenland nach Jerusalem und sprachen:"
+        },
+        {
+          "num": 2,
+          "text": "Wo ist der neugeborene König der Juden? Wir haben seinen Stern gesehen im Morgenland und sind gekommen, ihn anzubeten."
+        },
+        {
+          "num": 3,
+          "text": "Da das der König Herodes hörte, erschrak er und mit ihm das ganze Jerusalem."
+        },
+        {
+          "num": 4,
+          "text": "Und ließ versammeln alle Hohenpriester und Schriftgelehrten unter dem Volk und erforschte von ihnen, wo Christus sollte geboren werden."
+        },
+        {
+          "num": 5,
+          "text": "Und sie sagten ihm: Zu Bethlehem im jüdischen Lande; denn also steht geschrieben durch den Propheten:"
+        },
+        {
+          "num": 6,
+          "text": "\"Und du Bethlehem im jüdischen Lande bist mitnichten die kleinste unter den Fürsten Juda's; denn aus dir soll mir kommen der Herzog, der über mein Volk Israel ein HERR sei.\""
+        },
+        {
+          "num": 7,
+          "text": "Da berief Herodes die Weisen heimlich und erlernte mit Fleiß von ihnen, wann der Stern erschienen wäre,"
+        },
+        {
+          "num": 8,
+          "text": "und wies sie gen Bethlehem und sprach: Ziehet hin und forschet fleißig nach dem Kindlein; wenn ihr's findet, so sagt mir's wieder, daß ich auch komme und es anbete."
+        },
+        {
+          "num": 9,
+          "text": "Als sie nun den König gehört hatten, zogen sie hin. Und siehe, der Stern, den sie im Morgenland gesehen hatten, ging vor ihnen hin, bis daß er kam und stand oben über, da das Kindlein war."
+        },
+        {
+          "num": 10,
+          "text": "Da sie den Stern sahen, wurden sie hoch erfreut"
+        },
+        {
+          "num": 11,
+          "text": "und gingen in das Haus und fanden das Kindlein mit Maria, seiner Mutter, und fielen nieder und beteten es an und taten ihre Schätze auf und schenkten ihm Gold, Weihrauch und Myrrhe."
+        },
+        {
+          "num": 12,
+          "text": "Und Gott befahl ihnen im Traum, daß sie sich nicht sollten wieder zu Herodes lenken; und sie zogen durch einen anderen Weg wieder in ihr Land."
+        }
+      ],
       "text": "Da Jesus geboren war zu Bethlehem im jüdischen Lande, zur Zeit des Königs Herodes, siehe, da kamen die Weisen vom Morgenland nach Jerusalem und sprachen: Wo ist der neugeborene König der Juden? Wir haben seinen Stern gesehen im Morgenland und sind gekommen, ihn anzubeten. Da das der König Herodes hörte, erschrak er und mit ihm das ganze Jerusalem. Und ließ versammeln alle Hohenpriester und Schriftgelehrten unter dem Volk und erforschte von ihnen, wo Christus sollte geboren werden. Und sie sagten ihm: Zu Bethlehem im jüdischen Lande; denn also steht geschrieben durch den Propheten: \"Und du Bethlehem im jüdischen Lande bist mitnichten die kleinste unter den Fürsten Juda's; denn aus dir soll mir kommen der Herzog, der über mein Volk Israel ein HERR sei.\" Da berief Herodes die Weisen heimlich und erlernte mit Fleiß von ihnen, wann der Stern erschienen wäre, und wies sie gen Bethlehem und sprach: Ziehet hin und forschet fleißig nach dem Kindlein; wenn ihr's findet, so sagt mir's wieder, daß ich auch komme und es anbete. Als sie nun den König gehört hatten, zogen sie hin. Und siehe, der Stern, den sie im Morgenland gesehen hatten, ging vor ihnen hin, bis daß er kam und stand oben über, da das Kindlein war. Da sie den Stern sahen, wurden sie hoch erfreut und gingen in das Haus und fanden das Kindlein mit Maria, seiner Mutter, und fielen nieder und beteten es an und taten ihre Schätze auf und schenkten ihm Gold, Weihrauch und Myrrhe. Und Gott befahl ihnen im Traum, daß sie sich nicht sollten wieder zu Herodes lenken; und sie zogen durch einen anderen Weg wieder in ihr Land.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +66,56 @@
     },
     "epistle": {
       "ref": "Eph 3,1-12",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Derhalben ich, Paulus, der Gefangene Christi Jesu für euch Heiden,"
+        },
+        {
+          "num": 2,
+          "text": "wie ihr ja gehört habt von dem Amt der Gnade Gottes, die mir an euch gegeben ist,"
+        },
+        {
+          "num": 3,
+          "text": "daß mir ist kund geworden dieses Geheimnis durch Offenbarung, wie ich droben aufs kürzeste geschrieben habe,"
+        },
+        {
+          "num": 4,
+          "text": "daran ihr, so ihr's leset, merken könnt mein Verständnis des Geheimnisses Christi,"
+        },
+        {
+          "num": 5,
+          "text": "welches nicht kundgetan ist in den vorigen Zeiten den Menschenkindern, wie es nun offenbart ist seinen heiligen Aposteln und Propheten durch den Geist,"
+        },
+        {
+          "num": 6,
+          "text": "nämlich, daß die Heiden Miterben seien und mit eingeleibt und Mitgenossen seiner Verheißung in Christo durch das Evangelium,"
+        },
+        {
+          "num": 7,
+          "text": "dessen Diener ich geworden bin nach der Gabe aus der Gnade Gottes, die mir nach seiner mächtigen Kraft gegeben ist;"
+        },
+        {
+          "num": 8,
+          "text": "mir, dem allergeringsten unter allen Heiligen, ist gegeben diese Gnade, unter den Heiden zu verkündigen den unausforschlichen Reichtum Christi"
+        },
+        {
+          "num": 9,
+          "text": "und zu erleuchten jedermann, welche da sei die Gemeinschaft des Geheimnisses, das von der Welt her in Gott verborgen gewesen ist, der alle Dinge geschaffen hat durch Jesum Christum,"
+        },
+        {
+          "num": 10,
+          "text": "auf daß jetzt kund würde den Fürstentümern und Herrschaften in dem Himmel an der Gemeinde die mannigfaltige Weisheit Gottes,"
+        },
+        {
+          "num": 11,
+          "text": "nach dem Vorsatz von der Welt her, welche er bewiesen hat in Christo Jesu, unserm HERRN,"
+        },
+        {
+          "num": 12,
+          "text": "durch welchen wir haben Freudigkeit und Zugang in aller Zuversicht durch den Glauben an ihn."
+        }
+      ],
       "text": "Derhalben ich, Paulus, der Gefangene Christi Jesu für euch Heiden, wie ihr ja gehört habt von dem Amt der Gnade Gottes, die mir an euch gegeben ist, daß mir ist kund geworden dieses Geheimnis durch Offenbarung, wie ich droben aufs kürzeste geschrieben habe, daran ihr, so ihr's leset, merken könnt mein Verständnis des Geheimnisses Christi, welches nicht kundgetan ist in den vorigen Zeiten den Menschenkindern, wie es nun offenbart ist seinen heiligen Aposteln und Propheten durch den Geist, nämlich, daß die Heiden Miterben seien und mit eingeleibt und Mitgenossen seiner Verheißung in Christo durch das Evangelium, dessen Diener ich geworden bin nach der Gabe aus der Gnade Gottes, die mir nach seiner mächtigen Kraft gegeben ist; mir, dem allergeringsten unter allen Heiligen, ist gegeben diese Gnade, unter den Heiden zu verkündigen den unausforschlichen Reichtum Christi und zu erleuchten jedermann, welche da sei die Gemeinschaft des Geheimnisses, das von der Welt her in Gott verborgen gewesen ist, der alle Dinge geschaffen hat durch Jesum Christum, auf daß jetzt kund würde den Fürstentümern und Herrschaften in dem Himmel an der Gemeinde die mannigfaltige Weisheit Gottes, nach dem Vorsatz von der Welt her, welche er bewiesen hat in Christo Jesu, unserm HERRN, durch welchen wir haben Freudigkeit und Zugang in aller Zuversicht durch den Glauben an ihn.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +123,88 @@
     },
     "psalm": {
       "ref": "Ps 72",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Des Salomo. Gott, gib dein Gericht dem König und deine Gerechtigkeit des Königs Sohne,"
+        },
+        {
+          "num": 2,
+          "text": "daß er dein Volk richte mit Gerechtigkeit und deine Elenden rette."
+        },
+        {
+          "num": 3,
+          "text": "Laß die Berge den Frieden bringen unter das Volk und die Hügel die Gerechtigkeit."
+        },
+        {
+          "num": 4,
+          "text": "Er wird das elende Volk bei Recht erhalten und den Armen helfen und die Lästerer zermalmen."
+        },
+        {
+          "num": 5,
+          "text": "Man wird dich fürchten, solange die Sonne und der Mond währt, von Kind zu Kindeskindern."
+        },
+        {
+          "num": 6,
+          "text": "Er wird herabfahren wie der Regen auf die Aue, wie die Tropfen, die das Land feuchten."
+        },
+        {
+          "num": 7,
+          "text": "Zu seinen Zeiten wird erblühen der Gerechte und großer Friede, bis daß der Mond nimmer sei."
+        },
+        {
+          "num": 8,
+          "text": "Er wird herrschen von einem Meer bis ans andere und von dem Strom an bis zu der Welt Enden."
+        },
+        {
+          "num": 9,
+          "text": "Vor ihm werden sich neigen die in der Wüste, und seine Feinde werden Staub lecken."
+        },
+        {
+          "num": 10,
+          "text": "Die Könige zu Tharsis und auf den Inseln werden Geschenke bringen; die Könige aus Reicharabien und Seba werden Gaben zuführen."
+        },
+        {
+          "num": 11,
+          "text": "Alle Könige werden ihn anbeten; alle Heiden werden ihm dienen."
+        },
+        {
+          "num": 12,
+          "text": "Denn er wird den Armen erretten, der da schreit, und den Elenden, der keinen Helfer hat."
+        },
+        {
+          "num": 13,
+          "text": "Er wird gnädig sein den Geringen und Armen, und den Seelen der Armen wird er helfen."
+        },
+        {
+          "num": 14,
+          "text": "Er wird ihre Seele aus dem Trug und Frevel erlösen, und ihr Blut wird teuer geachtet werden vor ihm."
+        },
+        {
+          "num": 15,
+          "text": "Er wird leben, und man wird ihm von Gold aus Reicharabien geben. Und man wird immerdar für ihn beten; täglich wird man ihn segnen."
+        },
+        {
+          "num": 16,
+          "text": "Auf Erden, oben auf den Bergen, wird das Getreide dick stehen; seine Frucht wird rauschen wie der Libanon, und sie werden grünen wie das Gras auf Erden."
+        },
+        {
+          "num": 17,
+          "text": "Sein Name wird ewiglich bleiben; solange die Sonne währt, wird sein Name auf die Nachkommen reichen, und sie werden durch denselben gesegnet sein; alle Heiden werden ihn preisen."
+        },
+        {
+          "num": 18,
+          "text": "Gelobet sei Gott der HERR, der Gott Israels, der allein Wunder tut;"
+        },
+        {
+          "num": 19,
+          "text": "und gelobet sei sein herrlicher Name ewiglich; und alle Lande müssen seiner Ehre voll werden! Amen, amen."
+        },
+        {
+          "num": 20,
+          "text": "Ein Ende haben die Gebete Davids, des Sohnes Isais."
+        }
+      ],
       "text": "Des Salomo. Gott, gib dein Gericht dem König und deine Gerechtigkeit des Königs Sohne, daß er dein Volk richte mit Gerechtigkeit und deine Elenden rette. Laß die Berge den Frieden bringen unter das Volk und die Hügel die Gerechtigkeit. Er wird das elende Volk bei Recht erhalten und den Armen helfen und die Lästerer zermalmen. Man wird dich fürchten, solange die Sonne und der Mond währt, von Kind zu Kindeskindern. Er wird herabfahren wie der Regen auf die Aue, wie die Tropfen, die das Land feuchten. Zu seinen Zeiten wird erblühen der Gerechte und großer Friede, bis daß der Mond nimmer sei. Er wird herrschen von einem Meer bis ans andere und von dem Strom an bis zu der Welt Enden. Vor ihm werden sich neigen die in der Wüste, und seine Feinde werden Staub lecken. Die Könige zu Tharsis und auf den Inseln werden Geschenke bringen; die Könige aus Reicharabien und Seba werden Gaben zuführen. Alle Könige werden ihn anbeten; alle Heiden werden ihm dienen. Denn er wird den Armen erretten, der da schreit, und den Elenden, der keinen Helfer hat. Er wird gnädig sein den Geringen und Armen, und den Seelen der Armen wird er helfen. Er wird ihre Seele aus dem Trug und Frevel erlösen, und ihr Blut wird teuer geachtet werden vor ihm. Er wird leben, und man wird ihm von Gold aus Reicharabien geben. Und man wird immerdar für ihn beten; täglich wird man ihn segnen. Auf Erden, oben auf den Bergen, wird das Getreide dick stehen; seine Frucht wird rauschen wie der Libanon, und sie werden grünen wie das Gras auf Erden. Sein Name wird ewiglich bleiben; solange die Sonne währt, wird sein Name auf die Nachkommen reichen, und sie werden durch denselben gesegnet sein; alle Heiden werden ihn preisen. Gelobet sei Gott der HERR, der Gott Israels, der allein Wunder tut; und gelobet sei sein herrlicher Name ewiglich; und alle Lande müssen seiner Ehre voll werden! Amen, amen. Ein Ende haben die Gebete Davids, des Sohnes Isais.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

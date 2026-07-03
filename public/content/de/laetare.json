@@ -9,6 +9,68 @@
     "gospel": {
       "ref": "Joh 6,1-15",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Darnach fuhr Jesus weg über das Meer an der Stadt Tiberias in Galiläa."
+        },
+        {
+          "num": 2,
+          "text": "Und es zog ihm viel Volks nach, darum daß sie die Zeichen sahen, die er an den Kranken tat."
+        },
+        {
+          "num": 3,
+          "text": "Jesus aber ging hinauf auf einen Berg und setzte sich daselbst mit seinen Jüngern."
+        },
+        {
+          "num": 4,
+          "text": "Es war aber nahe Ostern, der Juden Fest."
+        },
+        {
+          "num": 5,
+          "text": "Da hob Jesus seine Augen auf und sieht, daß viel Volks zu ihm kommt, und spricht zu Philippus: Wo kaufen wir Brot, daß diese essen?"
+        },
+        {
+          "num": 6,
+          "text": "(Das sagte er aber, ihn zu versuchen; denn er wußte wohl, was er tun wollte.)"
+        },
+        {
+          "num": 7,
+          "text": "Philippus antwortete ihm: Für zweihundert Groschen Brot ist nicht genug unter sie, daß ein jeglicher unter ihnen ein wenig nehme."
+        },
+        {
+          "num": 8,
+          "text": "Spricht zu ihm einer seiner Jünger, Andreas, der Bruder des Simon Petrus:"
+        },
+        {
+          "num": 9,
+          "text": "Es ist ein Knabe hier, der hat fünf Gerstenbrote und zwei Fische; aber was ist das unter so viele?"
+        },
+        {
+          "num": 10,
+          "text": "Jesus aber sprach: Schaffet, daß sich das Volk lagert. Es war aber viel Gras an dem Ort. Da lagerten sich bei fünftausend Mann."
+        },
+        {
+          "num": 11,
+          "text": "Jesus aber nahm die Brote, dankte und gab sie den Jüngern, die Jünger aber denen, die sich gelagert hatten; desgleichen auch von den Fischen, wieviel sie wollten."
+        },
+        {
+          "num": 12,
+          "text": "Da sie aber satt waren, sprach er zu seinen Jüngern: Sammelt die übrigen Brocken, daß nichts umkommt."
+        },
+        {
+          "num": 13,
+          "text": "Da sammelten sie und füllten zwölf Körbe mit Brocken von den fünf Gerstenbroten, die übrig blieben denen, die gespeist worden."
+        },
+        {
+          "num": 14,
+          "text": "Da nun die Menschen das Zeichen sahen, das Jesus tat, sprachen sie: Das ist wahrlich der Prophet, der in die Welt kommen soll."
+        },
+        {
+          "num": 15,
+          "text": "Da Jesus nun merkte, daß sie kommen würden und ihn haschen, daß sie ihn zum König machten, entwich er abermals auf den Berg, er selbst allein."
+        }
+      ],
       "text": "Darnach fuhr Jesus weg über das Meer an der Stadt Tiberias in Galiläa. Und es zog ihm viel Volks nach, darum daß sie die Zeichen sahen, die er an den Kranken tat. Jesus aber ging hinauf auf einen Berg und setzte sich daselbst mit seinen Jüngern. Es war aber nahe Ostern, der Juden Fest. Da hob Jesus seine Augen auf und sieht, daß viel Volks zu ihm kommt, und spricht zu Philippus: Wo kaufen wir Brot, daß diese essen? (Das sagte er aber, ihn zu versuchen; denn er wußte wohl, was er tun wollte.) Philippus antwortete ihm: Für zweihundert Groschen Brot ist nicht genug unter sie, daß ein jeglicher unter ihnen ein wenig nehme. Spricht zu ihm einer seiner Jünger, Andreas, der Bruder des Simon Petrus: Es ist ein Knabe hier, der hat fünf Gerstenbrote und zwei Fische; aber was ist das unter so viele? Jesus aber sprach: Schaffet, daß sich das Volk lagert. Es war aber viel Gras an dem Ort. Da lagerten sich bei fünftausend Mann. Jesus aber nahm die Brote, dankte und gab sie den Jüngern, die Jünger aber denen, die sich gelagert hatten; desgleichen auch von den Fischen, wieviel sie wollten. Da sie aber satt waren, sprach er zu seinen Jüngern: Sammelt die übrigen Brocken, daß nichts umkommt. Da sammelten sie und füllten zwölf Körbe mit Brocken von den fünf Gerstenbroten, die übrig blieben denen, die gespeist worden. Da nun die Menschen das Zeichen sahen, das Jesus tat, sprachen sie: Das ist wahrlich der Prophet, der in die Welt kommen soll. Da Jesus nun merkte, daß sie kommen würden und ihn haschen, daß sie ihn zum König machten, entwich er abermals auf den Berg, er selbst allein.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +78,52 @@
     },
     "epistle": {
       "ref": "Gal 4,21-31",
+      "verses": [
+        {
+          "num": 21,
+          "text": "Saget mir, die ihr unter dem Gesetz sein wollt: Habt ihr das Gesetz nicht gehört?"
+        },
+        {
+          "num": 22,
+          "text": "Denn es steht geschrieben, daß Abraham zwei Söhne hatte: einen von der Magd, den andern von der Freien."
+        },
+        {
+          "num": 23,
+          "text": "Aber der von der Magd war, ist nach dem Fleisch geboren; der aber von der Freien ist durch die Verheißung geboren."
+        },
+        {
+          "num": 24,
+          "text": "Die Worte bedeuten etwas. Denn das sind zwei Testamente: eins von dem Berge Sinai, daß zur Knechtschaft gebiert, welches ist die Hagar;"
+        },
+        {
+          "num": 25,
+          "text": "denn Hagar heißt in Arabien der Berg Sinai und kommt überein mit Jerusalem, das zu dieser Zeit ist und dienstbar ist mit seinen Kindern."
+        },
+        {
+          "num": 26,
+          "text": "Aber das Jerusalem, das droben ist, das ist die Freie; die ist unser aller Mutter."
+        },
+        {
+          "num": 27,
+          "text": "Denn es steht geschrieben: \"Sei fröhlich, du Unfruchtbare, die du nicht gebierst! Und brich hervor und rufe, die du nicht schwanger bist! Denn die Einsame hat viel mehr Kinder, denn die den Mann hat.\""
+        },
+        {
+          "num": 28,
+          "text": "Wir aber, liebe Brüder, sind, Isaak nach, der Verheißung Kinder."
+        },
+        {
+          "num": 29,
+          "text": "Aber gleichwie zu der Zeit, der nach dem Fleisch geboren war, verfolgte den, der nach dem Geist geboren war, also geht es auch jetzt."
+        },
+        {
+          "num": 30,
+          "text": "Aber was spricht die Schrift?\" Stoß die Magd hinaus mit ihrem Sohn; denn der Magd Sohn soll nicht erben mit dem Sohn der Freien.\""
+        },
+        {
+          "num": 31,
+          "text": "So sind wir nun, liebe Brüder, nicht der Magd Kinder, sondern der Freien."
+        }
+      ],
       "text": "Saget mir, die ihr unter dem Gesetz sein wollt: Habt ihr das Gesetz nicht gehört? Denn es steht geschrieben, daß Abraham zwei Söhne hatte: einen von der Magd, den andern von der Freien. Aber der von der Magd war, ist nach dem Fleisch geboren; der aber von der Freien ist durch die Verheißung geboren. Die Worte bedeuten etwas. Denn das sind zwei Testamente: eins von dem Berge Sinai, daß zur Knechtschaft gebiert, welches ist die Hagar; denn Hagar heißt in Arabien der Berg Sinai und kommt überein mit Jerusalem, das zu dieser Zeit ist und dienstbar ist mit seinen Kindern. Aber das Jerusalem, das droben ist, das ist die Freie; die ist unser aller Mutter. Denn es steht geschrieben: \"Sei fröhlich, du Unfruchtbare, die du nicht gebierst! Und brich hervor und rufe, die du nicht schwanger bist! Denn die Einsame hat viel mehr Kinder, denn die den Mann hat.\" Wir aber, liebe Brüder, sind, Isaak nach, der Verheißung Kinder. Aber gleichwie zu der Zeit, der nach dem Fleisch geboren war, verfolgte den, der nach dem Geist geboren war, also geht es auch jetzt. Aber was spricht die Schrift?\" Stoß die Magd hinaus mit ihrem Sohn; denn der Magd Sohn soll nicht erben mit dem Sohn der Freien.\" So sind wir nun, liebe Brüder, nicht der Magd Kinder, sondern der Freien.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +131,44 @@
     },
     "psalm": {
       "ref": "Ps 122",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Lied Davids im höhern Chor. Ich freute mich über die, so mir sagten: Laßt uns ins Haus des HERRN gehen!"
+        },
+        {
+          "num": 2,
+          "text": "Unsre Füße stehen in deinen Toren, Jerusalem."
+        },
+        {
+          "num": 3,
+          "text": "Jerusalem ist gebaut, daß es eine Stadt sei, da man zusammenkommen soll,"
+        },
+        {
+          "num": 4,
+          "text": "da die Stämme hinaufgehen, die Stämme des HERRN, wie geboten ist dem Volk Israel, zu danken dem Namen des HERRN."
+        },
+        {
+          "num": 5,
+          "text": "Denn daselbst sind Stühle zum Gericht, die Stühle des Hauses David."
+        },
+        {
+          "num": 6,
+          "text": "Wünschet Jerusalem Glück! Es möge wohl gehen denen, die dich lieben!"
+        },
+        {
+          "num": 7,
+          "text": "Es möge Friede sein in deinen Mauern und Glück in deinen Palästen!"
+        },
+        {
+          "num": 8,
+          "text": "Um meiner Brüder und Freunde willen will ich dir Frieden wünschen."
+        },
+        {
+          "num": 9,
+          "text": "Um des Hauses willen des HERRN, unsers Gottes, will ich dein Bestes suchen."
+        }
+      ],
       "text": "Ein Lied Davids im höhern Chor. Ich freute mich über die, so mir sagten: Laßt uns ins Haus des HERRN gehen! Unsre Füße stehen in deinen Toren, Jerusalem. Jerusalem ist gebaut, daß es eine Stadt sei, da man zusammenkommen soll, da die Stämme hinaufgehen, die Stämme des HERRN, wie geboten ist dem Volk Israel, zu danken dem Namen des HERRN. Denn daselbst sind Stühle zum Gericht, die Stühle des Hauses David. Wünschet Jerusalem Glück! Es möge wohl gehen denen, die dich lieben! Es möge Friede sein in deinen Mauern und Glück in deinen Palästen! Um meiner Brüder und Freunde willen will ich dir Frieden wünschen. Um des Hauses willen des HERRN, unsers Gottes, will ich dein Bestes suchen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

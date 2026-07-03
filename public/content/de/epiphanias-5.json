@@ -9,6 +9,36 @@
     "gospel": {
       "ref": "Matt 13,24-30",
       "stable": true,
+      "verses": [
+        {
+          "num": 24,
+          "text": "Er legte ihnen ein anderes Gleichnis vor und sprach: Das Himmelreich ist gleich einem Menschen, der guten Samen auf seinen Acker säte."
+        },
+        {
+          "num": 25,
+          "text": "Da aber die Leute schliefen, kam sein Feind und säte Unkraut zwischen den Weizen und ging davon."
+        },
+        {
+          "num": 26,
+          "text": "Da nun das Kraut wuchs und Frucht brachte, da fand sich auch das Unkraut."
+        },
+        {
+          "num": 27,
+          "text": "Da traten die Knechte zu dem Hausvater und sprachen: Herr, hast du nicht guten Samen auf deinen Acker gesät? Woher hat er denn das Unkraut?"
+        },
+        {
+          "num": 28,
+          "text": "Er sprach zu ihnen: Das hat der Feind getan. Da sagten die Knechte: Willst du das wir hingehen und es ausjäten?"
+        },
+        {
+          "num": 29,
+          "text": "Er sprach: Nein! auf daß ihr nicht zugleich den Weizen mit ausraufet, so ihr das Unkraut ausjätet."
+        },
+        {
+          "num": 30,
+          "text": "Lasset beides miteinander wachsen bis zur Ernte; und um der Ernte Zeit will ich zu den Schnittern sagen: Sammelt zuvor das Unkraut und bindet es in Bündlein, daß man es verbrenne; aber den Weizen sammelt mir in meine Scheuer."
+        }
+      ],
       "text": "Er legte ihnen ein anderes Gleichnis vor und sprach: Das Himmelreich ist gleich einem Menschen, der guten Samen auf seinen Acker säte. Da aber die Leute schliefen, kam sein Feind und säte Unkraut zwischen den Weizen und ging davon. Da nun das Kraut wuchs und Frucht brachte, da fand sich auch das Unkraut. Da traten die Knechte zu dem Hausvater und sprachen: Herr, hast du nicht guten Samen auf deinen Acker gesät? Woher hat er denn das Unkraut? Er sprach zu ihnen: Das hat der Feind getan. Da sagten die Knechte: Willst du das wir hingehen und es ausjäten? Er sprach: Nein! auf daß ihr nicht zugleich den Weizen mit ausraufet, so ihr das Unkraut ausjätet. Lasset beides miteinander wachsen bis zur Ernte; und um der Ernte Zeit will ich zu den Schnittern sagen: Sammelt zuvor das Unkraut und bindet es in Bündlein, daß man es verbrenne; aber den Weizen sammelt mir in meine Scheuer.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +46,32 @@
     },
     "epistle": {
       "ref": "Kol 3,12-17",
+      "verses": [
+        {
+          "num": 12,
+          "text": "So ziehet nun an, als die Auserwählten Gottes, Heiligen und Geliebten, herzliches Erbarmen, Freundlichkeit, Demut, Sanftmut, Geduld;"
+        },
+        {
+          "num": 13,
+          "text": "und vertrage einer den andern und vergebet euch untereinander, so jemand Klage hat wider den andern; gleichwie Christus euch vergeben hat, also auch ihr."
+        },
+        {
+          "num": 14,
+          "text": "Über alles aber ziehet an die Liebe, die da ist das Band der Vollkommenheit."
+        },
+        {
+          "num": 15,
+          "text": "Und der Friede Gottes regiere in euren Herzen, zu welchem ihr auch berufen seid in einem Leibe; und seid dankbar!"
+        },
+        {
+          "num": 16,
+          "text": "Lasset das Wort Christi unter euch reichlich wohnen in aller Weisheit; lehret und vermahnet euch selbst mit Psalmen und Lobgesängen und geistlichen lieblichen Liedern und singt dem HERRN in eurem Herzen."
+        },
+        {
+          "num": 17,
+          "text": "Und alles, was ihr tut mit Worten oder mit Werken, das tut alles in dem Namen des HERRN Jesu, und danket Gott und dem Vater durch ihn."
+        }
+      ],
       "text": "So ziehet nun an, als die Auserwählten Gottes, Heiligen und Geliebten, herzliches Erbarmen, Freundlichkeit, Demut, Sanftmut, Geduld; und vertrage einer den andern und vergebet euch untereinander, so jemand Klage hat wider den andern; gleichwie Christus euch vergeben hat, also auch ihr. Über alles aber ziehet an die Liebe, die da ist das Band der Vollkommenheit. Und der Friede Gottes regiere in euren Herzen, zu welchem ihr auch berufen seid in einem Leibe; und seid dankbar! Lasset das Wort Christi unter euch reichlich wohnen in aller Weisheit; lehret und vermahnet euch selbst mit Psalmen und Lobgesängen und geistlichen lieblichen Liedern und singt dem HERRN in eurem Herzen. Und alles, was ihr tut mit Worten oder mit Werken, das tut alles in dem Namen des HERRN Jesu, und danket Gott und dem Vater durch ihn.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +79,148 @@
     },
     "psalm": {
       "ref": "Ps 104",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Lobe den HERRN, meine Seele! HERR, mein Gott, du bist sehr herrlich; du bist schön und prächtig geschmückt."
+        },
+        {
+          "num": 2,
+          "text": "Licht ist dein Kleid, das du anhast; du breitest aus den Himmel wie einen Teppich;"
+        },
+        {
+          "num": 3,
+          "text": "Du wölbest es oben mit Wasser; du fährst auf den Wolken wie auf einem Wagen und gehst auf den Fittichen des Windes;"
+        },
+        {
+          "num": 4,
+          "text": "der du machst Winde zu deinen Engeln und zu deinen Dienern Feuerflammen;"
+        },
+        {
+          "num": 5,
+          "text": "der du das Erdreich gegründet hast auf seinem Boden, daß es bleibt immer und ewiglich."
+        },
+        {
+          "num": 6,
+          "text": "Mit der Tiefe deckst du es wie mit einem Kleide, und Wasser standen über den Bergen."
+        },
+        {
+          "num": 7,
+          "text": "Aber von deinem Schelten flohen sie, von deinem Donner fuhren sie dahin."
+        },
+        {
+          "num": 8,
+          "text": "Die Berge gingen hoch hervor, und die Täler setzten sich herunter zum Ort, den du ihnen gegründet hast."
+        },
+        {
+          "num": 9,
+          "text": "Du hast eine Grenze gesetzt, darüber kommen sie nicht und dürfen nicht wiederum das Erdreich bedecken."
+        },
+        {
+          "num": 10,
+          "text": "Du läßt Brunnen quellen in den Gründen, daß die Wasser zwischen den Bergen hinfließen,"
+        },
+        {
+          "num": 11,
+          "text": "daß alle Tiere auf dem Felde trinken und das Wild seinen Durst lösche."
+        },
+        {
+          "num": 12,
+          "text": "An denselben sitzen die Vögel des Himmels und singen unter den Zweigen."
+        },
+        {
+          "num": 13,
+          "text": "Du feuchtest die Berge von obenher; du machst das Land voll Früchte, die du schaffest;"
+        },
+        {
+          "num": 14,
+          "text": "du lässest Gras wachsen für das Vieh und Saat zu Nutz den Menschen, daß du Brot aus der Erde bringest,"
+        },
+        {
+          "num": 15,
+          "text": "und daß der Wein erfreue des Menschen Herz, daß seine Gestalt schön werde vom Öl und das Brot des Menschen Herz stärke;"
+        },
+        {
+          "num": 16,
+          "text": "daß die Bäume des HERRN voll Saft stehen, die Zedern Libanons, die er gepflanzt hat."
+        },
+        {
+          "num": 17,
+          "text": "Daselbst nisten die Vögel, und die Reiher wohnen auf den Tannen."
+        },
+        {
+          "num": 18,
+          "text": "Die hohen Berge sind der Gemsen Zuflucht, und die Steinklüfte der Kaninchen."
+        },
+        {
+          "num": 19,
+          "text": "Du hast den Mond gemacht, das Jahr darnach zu teilen; die Sonne weiß ihren Niedergang."
+        },
+        {
+          "num": 20,
+          "text": "Du machst Finsternis, daß es Nacht wird; da regen sich alle wilden Tiere,"
+        },
+        {
+          "num": 21,
+          "text": "die jungen Löwen, die da brüllen nach dem Raub und ihre Speise suchen von Gott."
+        },
+        {
+          "num": 22,
+          "text": "Wenn aber die Sonne aufgeht, heben sie sich davon und legen sich in ihre Höhlen."
+        },
+        {
+          "num": 23,
+          "text": "So geht dann der Mensch aus an seine Arbeit und an sein Ackerwerk bis an den Abend."
+        },
+        {
+          "num": 24,
+          "text": "HERR, wie sind deine Werke so groß und viel! Du hast sie alle weislich geordnet, und die Erde ist voll deiner Güter."
+        },
+        {
+          "num": 25,
+          "text": "Das Meer, das so groß und weit ist, da wimmelt's ohne Zahl, große und kleine Tiere."
+        },
+        {
+          "num": 26,
+          "text": "Daselbst gehen die Schiffe; da sind Walfische, die du gemacht hast, daß sie darin spielen."
+        },
+        {
+          "num": 27,
+          "text": "Es wartet alles auf dich, daß du ihnen Speise gebest zu seiner Zeit."
+        },
+        {
+          "num": 28,
+          "text": "Wenn du ihnen gibst, so sammeln sie; wenn du deine Hand auftust, so werden sie mit Gut gesättigt."
+        },
+        {
+          "num": 29,
+          "text": "Verbirgst du dein Angesicht, so erschrecken sie; du nimmst weg ihren Odem, so vergehen sie und werden wieder zu Staub."
+        },
+        {
+          "num": 30,
+          "text": "Du lässest aus deinen Odem, so werden sie geschaffen, und du erneuest die Gestalt der Erde."
+        },
+        {
+          "num": 31,
+          "text": "Die Ehre des HERRN ist ewig; der HERR hat Wohlgefallen an seinen Werken."
+        },
+        {
+          "num": 32,
+          "text": "Er schaut die Erde an, so bebt sie; er rührt die Berge an, so rauchen sie."
+        },
+        {
+          "num": 33,
+          "text": "Ich will dem HERRN singen mein Leben lang und meinen Gott loben, solange ich bin."
+        },
+        {
+          "num": 34,
+          "text": "Meine Rede müsse ihm wohl gefallen. Ich freue mich des HERRN."
+        },
+        {
+          "num": 35,
+          "text": "Der Sünder müsse ein Ende werden auf Erden, und die Gottlosen nicht mehr sein. Lobe den HERRN, meine Seele! Halleluja!"
+        }
+      ],
       "text": "Lobe den HERRN, meine Seele! HERR, mein Gott, du bist sehr herrlich; du bist schön und prächtig geschmückt. Licht ist dein Kleid, das du anhast; du breitest aus den Himmel wie einen Teppich; Du wölbest es oben mit Wasser; du fährst auf den Wolken wie auf einem Wagen und gehst auf den Fittichen des Windes; der du machst Winde zu deinen Engeln und zu deinen Dienern Feuerflammen; der du das Erdreich gegründet hast auf seinem Boden, daß es bleibt immer und ewiglich. Mit der Tiefe deckst du es wie mit einem Kleide, und Wasser standen über den Bergen. Aber von deinem Schelten flohen sie, von deinem Donner fuhren sie dahin. Die Berge gingen hoch hervor, und die Täler setzten sich herunter zum Ort, den du ihnen gegründet hast. Du hast eine Grenze gesetzt, darüber kommen sie nicht und dürfen nicht wiederum das Erdreich bedecken. Du läßt Brunnen quellen in den Gründen, daß die Wasser zwischen den Bergen hinfließen, daß alle Tiere auf dem Felde trinken und das Wild seinen Durst lösche. An denselben sitzen die Vögel des Himmels und singen unter den Zweigen. Du feuchtest die Berge von obenher; du machst das Land voll Früchte, die du schaffest; du lässest Gras wachsen für das Vieh und Saat zu Nutz den Menschen, daß du Brot aus der Erde bringest, und daß der Wein erfreue des Menschen Herz, daß seine Gestalt schön werde vom Öl und das Brot des Menschen Herz stärke; daß die Bäume des HERRN voll Saft stehen, die Zedern Libanons, die er gepflanzt hat. Daselbst nisten die Vögel, und die Reiher wohnen auf den Tannen. Die hohen Berge sind der Gemsen Zuflucht, und die Steinklüfte der Kaninchen. Du hast den Mond gemacht, das Jahr darnach zu teilen; die Sonne weiß ihren Niedergang. Du machst Finsternis, daß es Nacht wird; da regen sich alle wilden Tiere, die jungen Löwen, die da brüllen nach dem Raub und ihre Speise suchen von Gott. Wenn aber die Sonne aufgeht, heben sie sich davon und legen sich in ihre Höhlen. So geht dann der Mensch aus an seine Arbeit und an sein Ackerwerk bis an den Abend. HERR, wie sind deine Werke so groß und viel! Du hast sie alle weislich geordnet, und die Erde ist voll deiner Güter. Das Meer, das so groß und weit ist, da wimmelt's ohne Zahl, große und kleine Tiere. Daselbst gehen die Schiffe; da sind Walfische, die du gemacht hast, daß sie darin spielen. Es wartet alles auf dich, daß du ihnen Speise gebest zu seiner Zeit. Wenn du ihnen gibst, so sammeln sie; wenn du deine Hand auftust, so werden sie mit Gut gesättigt. Verbirgst du dein Angesicht, so erschrecken sie; du nimmst weg ihren Odem, so vergehen sie und werden wieder zu Staub. Du lässest aus deinen Odem, so werden sie geschaffen, und du erneuest die Gestalt der Erde. Die Ehre des HERRN ist ewig; der HERR hat Wohlgefallen an seinen Werken. Er schaut die Erde an, so bebt sie; er rührt die Berge an, so rauchen sie. Ich will dem HERRN singen mein Leben lang und meinen Gott loben, solange ich bin. Meine Rede müsse ihm wohl gefallen. Ich freue mich des HERRN. Der Sünder müsse ein Ende werden auf Erden, und die Gottlosen nicht mehr sein. Lobe den HERRN, meine Seele! Halleluja!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

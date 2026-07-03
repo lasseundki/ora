@@ -9,6 +9,44 @@
     "gospel": {
       "ref": "Joh 14,23-31",
       "stable": true,
+      "verses": [
+        {
+          "num": 23,
+          "text": "Jesus antwortete und sprach zu ihm: Wer mich liebt, der wird mein Wort halten; und mein Vater wird ihn lieben, und wir werden zu ihm kommen und Wohnung bei ihm machen."
+        },
+        {
+          "num": 24,
+          "text": "Wer mich aber nicht liebt, der hält meine Worte nicht. Und das Wort, das ihr hört, ist nicht mein, sondern des Vaters, der mich gesandt hat."
+        },
+        {
+          "num": 25,
+          "text": "Solches habe ich zu euch geredet, solange ich bei euch gewesen bin."
+        },
+        {
+          "num": 26,
+          "text": "Aber der Tröster, der Heilige Geist, welchen mein Vater senden wird in meinem Namen, der wird euch alles lehren und euch erinnern alles des, das ich euch gesagt habe."
+        },
+        {
+          "num": 27,
+          "text": "Den Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht."
+        },
+        {
+          "num": 28,
+          "text": "Ihr habt gehört, daß ich euch gesagt habe: Ich gehe hin und komme wieder zu euch. Hättet ihr mich lieb, so würdet ihr euch freuen, daß ich gesagt habe: \"Ich gehe zum Vater\"; denn der Vater ist größer als ich."
+        },
+        {
+          "num": 29,
+          "text": "Und nun ich es euch gesagt habe, ehe denn es geschieht, auf daß, wenn es nun geschehen wird, ihr glaubet."
+        },
+        {
+          "num": 30,
+          "text": "Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an mir."
+        },
+        {
+          "num": 31,
+          "text": "Aber auf daß die Welt erkenne, daß ich den Vater liebe und ich also tue, wie mir der Vater geboten hat: stehet auf und lasset uns von hinnen gehen."
+        }
+      ],
       "text": "Jesus antwortete und sprach zu ihm: Wer mich liebt, der wird mein Wort halten; und mein Vater wird ihn lieben, und wir werden zu ihm kommen und Wohnung bei ihm machen. Wer mich aber nicht liebt, der hält meine Worte nicht. Und das Wort, das ihr hört, ist nicht mein, sondern des Vaters, der mich gesandt hat. Solches habe ich zu euch geredet, solange ich bei euch gewesen bin. Aber der Tröster, der Heilige Geist, welchen mein Vater senden wird in meinem Namen, der wird euch alles lehren und euch erinnern alles des, das ich euch gesagt habe. Den Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht. Ihr habt gehört, daß ich euch gesagt habe: Ich gehe hin und komme wieder zu euch. Hättet ihr mich lieb, so würdet ihr euch freuen, daß ich gesagt habe: \"Ich gehe zum Vater\"; denn der Vater ist größer als ich. Und nun ich es euch gesagt habe, ehe denn es geschieht, auf daß, wenn es nun geschehen wird, ihr glaubet. Ich werde nicht mehr viel mit euch reden; denn es kommt der Fürst dieser Welt, und hat nichts an mir. Aber auf daß die Welt erkenne, daß ich den Vater liebe und ich also tue, wie mir der Vater geboten hat: stehet auf und lasset uns von hinnen gehen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +54,60 @@
     },
     "epistle": {
       "ref": "Apg 2,1-13",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Und als der Tag der Pfingsten erfüllt war, waren sie alle einmütig beieinander."
+        },
+        {
+          "num": 2,
+          "text": "Und es geschah schnell ein Brausen vom Himmel wie eines gewaltigen Windes und erfüllte das ganze Haus, da sie saßen."
+        },
+        {
+          "num": 3,
+          "text": "Und es erschienen ihnen Zungen, zerteilt, wie von Feuer; und er setzte sich auf einen jeglichen unter ihnen;"
+        },
+        {
+          "num": 4,
+          "text": "und sie wurden alle voll des Heiligen Geistes und fingen an, zu predigen mit anderen Zungen, nach dem der Geist ihnen gab auszusprechen."
+        },
+        {
+          "num": 5,
+          "text": "Es waren aber Juden zu Jerusalem wohnend, die waren gottesfürchtige Männer aus allerlei Volk, das unter dem Himmel ist."
+        },
+        {
+          "num": 6,
+          "text": "Da nun diese Stimme geschah, kam die Menge zusammen und wurden bestürzt; denn es hörte ein jeglicher, daß sie mit seiner Sprache redeten."
+        },
+        {
+          "num": 7,
+          "text": "Sie entsetzten sich aber alle, verwunderten sich und sprachen untereinander: Siehe, sind nicht diese alle, die da reden, aus Galiläa?"
+        },
+        {
+          "num": 8,
+          "text": "Wie hören wir denn ein jeglicher seine Sprache, darin wir geboren sind?"
+        },
+        {
+          "num": 9,
+          "text": "Parther und Meder und Elamiter, und die wir wohnen in Mesopotamien und in Judäa und Kappadozien, Pontus und Asien,"
+        },
+        {
+          "num": 10,
+          "text": "Phrygien und Pamphylien, Ägypten und an den Enden von Lybien bei Kyrene und Ausländer von Rom,"
+        },
+        {
+          "num": 11,
+          "text": "Juden und Judengenossen, Kreter und Araber: wir hören sie mit unsern Zungen die großen Taten Gottes reden."
+        },
+        {
+          "num": 12,
+          "text": "Sie entsetzten sich aber alle und wurden irre und sprachen einer zu dem andern: Was will das werden?"
+        },
+        {
+          "num": 13,
+          "text": "Die andern aber hatten's ihren Spott und sprachen: Sie sind voll süßen Weins."
+        }
+      ],
       "text": "Und als der Tag der Pfingsten erfüllt war, waren sie alle einmütig beieinander. Und es geschah schnell ein Brausen vom Himmel wie eines gewaltigen Windes und erfüllte das ganze Haus, da sie saßen. Und es erschienen ihnen Zungen, zerteilt, wie von Feuer; und er setzte sich auf einen jeglichen unter ihnen; und sie wurden alle voll des Heiligen Geistes und fingen an, zu predigen mit anderen Zungen, nach dem der Geist ihnen gab auszusprechen. Es waren aber Juden zu Jerusalem wohnend, die waren gottesfürchtige Männer aus allerlei Volk, das unter dem Himmel ist. Da nun diese Stimme geschah, kam die Menge zusammen und wurden bestürzt; denn es hörte ein jeglicher, daß sie mit seiner Sprache redeten. Sie entsetzten sich aber alle, verwunderten sich und sprachen untereinander: Siehe, sind nicht diese alle, die da reden, aus Galiläa? Wie hören wir denn ein jeglicher seine Sprache, darin wir geboren sind? Parther und Meder und Elamiter, und die wir wohnen in Mesopotamien und in Judäa und Kappadozien, Pontus und Asien, Phrygien und Pamphylien, Ägypten und an den Enden von Lybien bei Kyrene und Ausländer von Rom, Juden und Judengenossen, Kreter und Araber: wir hören sie mit unsern Zungen die großen Taten Gottes reden. Sie entsetzten sich aber alle und wurden irre und sprachen einer zu dem andern: Was will das werden? Die andern aber hatten's ihren Spott und sprachen: Sie sind voll süßen Weins.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +115,148 @@
     },
     "psalm": {
       "ref": "Ps 104",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Lobe den HERRN, meine Seele! HERR, mein Gott, du bist sehr herrlich; du bist schön und prächtig geschmückt."
+        },
+        {
+          "num": 2,
+          "text": "Licht ist dein Kleid, das du anhast; du breitest aus den Himmel wie einen Teppich;"
+        },
+        {
+          "num": 3,
+          "text": "Du wölbest es oben mit Wasser; du fährst auf den Wolken wie auf einem Wagen und gehst auf den Fittichen des Windes;"
+        },
+        {
+          "num": 4,
+          "text": "der du machst Winde zu deinen Engeln und zu deinen Dienern Feuerflammen;"
+        },
+        {
+          "num": 5,
+          "text": "der du das Erdreich gegründet hast auf seinem Boden, daß es bleibt immer und ewiglich."
+        },
+        {
+          "num": 6,
+          "text": "Mit der Tiefe deckst du es wie mit einem Kleide, und Wasser standen über den Bergen."
+        },
+        {
+          "num": 7,
+          "text": "Aber von deinem Schelten flohen sie, von deinem Donner fuhren sie dahin."
+        },
+        {
+          "num": 8,
+          "text": "Die Berge gingen hoch hervor, und die Täler setzten sich herunter zum Ort, den du ihnen gegründet hast."
+        },
+        {
+          "num": 9,
+          "text": "Du hast eine Grenze gesetzt, darüber kommen sie nicht und dürfen nicht wiederum das Erdreich bedecken."
+        },
+        {
+          "num": 10,
+          "text": "Du läßt Brunnen quellen in den Gründen, daß die Wasser zwischen den Bergen hinfließen,"
+        },
+        {
+          "num": 11,
+          "text": "daß alle Tiere auf dem Felde trinken und das Wild seinen Durst lösche."
+        },
+        {
+          "num": 12,
+          "text": "An denselben sitzen die Vögel des Himmels und singen unter den Zweigen."
+        },
+        {
+          "num": 13,
+          "text": "Du feuchtest die Berge von obenher; du machst das Land voll Früchte, die du schaffest;"
+        },
+        {
+          "num": 14,
+          "text": "du lässest Gras wachsen für das Vieh und Saat zu Nutz den Menschen, daß du Brot aus der Erde bringest,"
+        },
+        {
+          "num": 15,
+          "text": "und daß der Wein erfreue des Menschen Herz, daß seine Gestalt schön werde vom Öl und das Brot des Menschen Herz stärke;"
+        },
+        {
+          "num": 16,
+          "text": "daß die Bäume des HERRN voll Saft stehen, die Zedern Libanons, die er gepflanzt hat."
+        },
+        {
+          "num": 17,
+          "text": "Daselbst nisten die Vögel, und die Reiher wohnen auf den Tannen."
+        },
+        {
+          "num": 18,
+          "text": "Die hohen Berge sind der Gemsen Zuflucht, und die Steinklüfte der Kaninchen."
+        },
+        {
+          "num": 19,
+          "text": "Du hast den Mond gemacht, das Jahr darnach zu teilen; die Sonne weiß ihren Niedergang."
+        },
+        {
+          "num": 20,
+          "text": "Du machst Finsternis, daß es Nacht wird; da regen sich alle wilden Tiere,"
+        },
+        {
+          "num": 21,
+          "text": "die jungen Löwen, die da brüllen nach dem Raub und ihre Speise suchen von Gott."
+        },
+        {
+          "num": 22,
+          "text": "Wenn aber die Sonne aufgeht, heben sie sich davon und legen sich in ihre Höhlen."
+        },
+        {
+          "num": 23,
+          "text": "So geht dann der Mensch aus an seine Arbeit und an sein Ackerwerk bis an den Abend."
+        },
+        {
+          "num": 24,
+          "text": "HERR, wie sind deine Werke so groß und viel! Du hast sie alle weislich geordnet, und die Erde ist voll deiner Güter."
+        },
+        {
+          "num": 25,
+          "text": "Das Meer, das so groß und weit ist, da wimmelt's ohne Zahl, große und kleine Tiere."
+        },
+        {
+          "num": 26,
+          "text": "Daselbst gehen die Schiffe; da sind Walfische, die du gemacht hast, daß sie darin spielen."
+        },
+        {
+          "num": 27,
+          "text": "Es wartet alles auf dich, daß du ihnen Speise gebest zu seiner Zeit."
+        },
+        {
+          "num": 28,
+          "text": "Wenn du ihnen gibst, so sammeln sie; wenn du deine Hand auftust, so werden sie mit Gut gesättigt."
+        },
+        {
+          "num": 29,
+          "text": "Verbirgst du dein Angesicht, so erschrecken sie; du nimmst weg ihren Odem, so vergehen sie und werden wieder zu Staub."
+        },
+        {
+          "num": 30,
+          "text": "Du lässest aus deinen Odem, so werden sie geschaffen, und du erneuest die Gestalt der Erde."
+        },
+        {
+          "num": 31,
+          "text": "Die Ehre des HERRN ist ewig; der HERR hat Wohlgefallen an seinen Werken."
+        },
+        {
+          "num": 32,
+          "text": "Er schaut die Erde an, so bebt sie; er rührt die Berge an, so rauchen sie."
+        },
+        {
+          "num": 33,
+          "text": "Ich will dem HERRN singen mein Leben lang und meinen Gott loben, solange ich bin."
+        },
+        {
+          "num": 34,
+          "text": "Meine Rede müsse ihm wohl gefallen. Ich freue mich des HERRN."
+        },
+        {
+          "num": 35,
+          "text": "Der Sünder müsse ein Ende werden auf Erden, und die Gottlosen nicht mehr sein. Lobe den HERRN, meine Seele! Halleluja!"
+        }
+      ],
       "text": "Lobe den HERRN, meine Seele! HERR, mein Gott, du bist sehr herrlich; du bist schön und prächtig geschmückt. Licht ist dein Kleid, das du anhast; du breitest aus den Himmel wie einen Teppich; Du wölbest es oben mit Wasser; du fährst auf den Wolken wie auf einem Wagen und gehst auf den Fittichen des Windes; der du machst Winde zu deinen Engeln und zu deinen Dienern Feuerflammen; der du das Erdreich gegründet hast auf seinem Boden, daß es bleibt immer und ewiglich. Mit der Tiefe deckst du es wie mit einem Kleide, und Wasser standen über den Bergen. Aber von deinem Schelten flohen sie, von deinem Donner fuhren sie dahin. Die Berge gingen hoch hervor, und die Täler setzten sich herunter zum Ort, den du ihnen gegründet hast. Du hast eine Grenze gesetzt, darüber kommen sie nicht und dürfen nicht wiederum das Erdreich bedecken. Du läßt Brunnen quellen in den Gründen, daß die Wasser zwischen den Bergen hinfließen, daß alle Tiere auf dem Felde trinken und das Wild seinen Durst lösche. An denselben sitzen die Vögel des Himmels und singen unter den Zweigen. Du feuchtest die Berge von obenher; du machst das Land voll Früchte, die du schaffest; du lässest Gras wachsen für das Vieh und Saat zu Nutz den Menschen, daß du Brot aus der Erde bringest, und daß der Wein erfreue des Menschen Herz, daß seine Gestalt schön werde vom Öl und das Brot des Menschen Herz stärke; daß die Bäume des HERRN voll Saft stehen, die Zedern Libanons, die er gepflanzt hat. Daselbst nisten die Vögel, und die Reiher wohnen auf den Tannen. Die hohen Berge sind der Gemsen Zuflucht, und die Steinklüfte der Kaninchen. Du hast den Mond gemacht, das Jahr darnach zu teilen; die Sonne weiß ihren Niedergang. Du machst Finsternis, daß es Nacht wird; da regen sich alle wilden Tiere, die jungen Löwen, die da brüllen nach dem Raub und ihre Speise suchen von Gott. Wenn aber die Sonne aufgeht, heben sie sich davon und legen sich in ihre Höhlen. So geht dann der Mensch aus an seine Arbeit und an sein Ackerwerk bis an den Abend. HERR, wie sind deine Werke so groß und viel! Du hast sie alle weislich geordnet, und die Erde ist voll deiner Güter. Das Meer, das so groß und weit ist, da wimmelt's ohne Zahl, große und kleine Tiere. Daselbst gehen die Schiffe; da sind Walfische, die du gemacht hast, daß sie darin spielen. Es wartet alles auf dich, daß du ihnen Speise gebest zu seiner Zeit. Wenn du ihnen gibst, so sammeln sie; wenn du deine Hand auftust, so werden sie mit Gut gesättigt. Verbirgst du dein Angesicht, so erschrecken sie; du nimmst weg ihren Odem, so vergehen sie und werden wieder zu Staub. Du lässest aus deinen Odem, so werden sie geschaffen, und du erneuest die Gestalt der Erde. Die Ehre des HERRN ist ewig; der HERR hat Wohlgefallen an seinen Werken. Er schaut die Erde an, so bebt sie; er rührt die Berge an, so rauchen sie. Ich will dem HERRN singen mein Leben lang und meinen Gott loben, solange ich bin. Meine Rede müsse ihm wohl gefallen. Ich freue mich des HERRN. Der Sünder müsse ein Ende werden auf Erden, und die Gottlosen nicht mehr sein. Lobe den HERRN, meine Seele! Halleluja!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

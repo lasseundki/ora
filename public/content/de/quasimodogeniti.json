@@ -9,6 +9,60 @@
     "gospel": {
       "ref": "Joh 20,19-31",
       "stable": true,
+      "verses": [
+        {
+          "num": 19,
+          "text": "Am Abend aber desselben ersten Tages der Woche, da die Jünger versammelt und die Türen verschlossen waren aus Furcht vor den Juden, kam Jesus und trat mitten ein und spricht zu ihnen: Friede sei mit euch!"
+        },
+        {
+          "num": 20,
+          "text": "Und als er das gesagt hatte, zeigte er ihnen die Hände und seine Seite. Da wurden die Jünger froh, daß sie den HERRN sahen."
+        },
+        {
+          "num": 21,
+          "text": "Da sprach Jesus abermals zu ihnen: Friede sei mit euch! Gleichwie mich der Vater gesandt hat, so sende ich euch."
+        },
+        {
+          "num": 22,
+          "text": "Und da er das gesagt hatte, blies er sie an und spricht zu ihnen: Nehmet hin den Heiligen Geist!"
+        },
+        {
+          "num": 23,
+          "text": "Welchen ihr die Sünden erlasset, denen sind sie erlassen; und welchen ihr sie behaltet, denen sind sie behalten."
+        },
+        {
+          "num": 24,
+          "text": "Thomas aber, der Zwölf einer, der da heißt Zwilling, war nicht bei ihnen, da Jesus kam."
+        },
+        {
+          "num": 25,
+          "text": "Da sagten die andern Jünger zu ihm: Wir haben den HERRN gesehen. Er aber sprach zu ihnen: Es sei denn, daß ich in seinen Händen sehe die Nägelmale und lege meinen Finger in die Nägelmale und lege meine Hand in seine Seite, will ich's nicht glauben."
+        },
+        {
+          "num": 26,
+          "text": "Und über acht Tage waren abermals seine Jünger drinnen und Thomas mit ihnen. Kommt Jesus, da die Türen verschlossen waren, und tritt mitten ein und spricht: Friede sei mit euch!"
+        },
+        {
+          "num": 27,
+          "text": "Darnach spricht er zu Thomas: Reiche deinen Finger her und siehe meine Hände, und reiche dein Hand her und lege sie in meine Seite, und sei nicht ungläubig, sondern gläubig!"
+        },
+        {
+          "num": 28,
+          "text": "Thomas antwortete und sprach zu ihm: Mein HERR und mein Gott!"
+        },
+        {
+          "num": 29,
+          "text": "Spricht Jesus zu ihm: Dieweil du mich gesehen hast, Thomas, glaubest du. Selig sind, die nicht sehen und doch glauben!"
+        },
+        {
+          "num": 30,
+          "text": "Auch viele andere Zeichen tat Jesus vor seinen Jüngern, die nicht geschrieben sind in diesem Buch."
+        },
+        {
+          "num": 31,
+          "text": "Diese aber sind geschrieben, daß ihr glaubet, Jesus sei Christus, der Sohn Gottes, und daß ihr durch den Glauben das Leben habet in seinem Namen."
+        }
+      ],
       "text": "Am Abend aber desselben ersten Tages der Woche, da die Jünger versammelt und die Türen verschlossen waren aus Furcht vor den Juden, kam Jesus und trat mitten ein und spricht zu ihnen: Friede sei mit euch! Und als er das gesagt hatte, zeigte er ihnen die Hände und seine Seite. Da wurden die Jünger froh, daß sie den HERRN sahen. Da sprach Jesus abermals zu ihnen: Friede sei mit euch! Gleichwie mich der Vater gesandt hat, so sende ich euch. Und da er das gesagt hatte, blies er sie an und spricht zu ihnen: Nehmet hin den Heiligen Geist! Welchen ihr die Sünden erlasset, denen sind sie erlassen; und welchen ihr sie behaltet, denen sind sie behalten. Thomas aber, der Zwölf einer, der da heißt Zwilling, war nicht bei ihnen, da Jesus kam. Da sagten die andern Jünger zu ihm: Wir haben den HERRN gesehen. Er aber sprach zu ihnen: Es sei denn, daß ich in seinen Händen sehe die Nägelmale und lege meinen Finger in die Nägelmale und lege meine Hand in seine Seite, will ich's nicht glauben. Und über acht Tage waren abermals seine Jünger drinnen und Thomas mit ihnen. Kommt Jesus, da die Türen verschlossen waren, und tritt mitten ein und spricht: Friede sei mit euch! Darnach spricht er zu Thomas: Reiche deinen Finger her und siehe meine Hände, und reiche dein Hand her und lege sie in meine Seite, und sei nicht ungläubig, sondern gläubig! Thomas antwortete und sprach zu ihm: Mein HERR und mein Gott! Spricht Jesus zu ihm: Dieweil du mich gesehen hast, Thomas, glaubest du. Selig sind, die nicht sehen und doch glauben! Auch viele andere Zeichen tat Jesus vor seinen Jüngern, die nicht geschrieben sind in diesem Buch. Diese aber sind geschrieben, daß ihr glaubet, Jesus sei Christus, der Sohn Gottes, und daß ihr durch den Glauben das Leben habet in seinem Namen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +70,44 @@
     },
     "epistle": {
       "ref": "1Joh 5,4-12",
+      "verses": [
+        {
+          "num": 4,
+          "text": "Denn alles, was von Gott geboren ist, überwindet die Welt; und unser Glaube ist der Sieg, der die Welt überwunden hat."
+        },
+        {
+          "num": 5,
+          "text": "Wer ist aber, der die Welt überwindet, wenn nicht, der da glaubt, daß Jesus Gottes Sohn ist?"
+        },
+        {
+          "num": 6,
+          "text": "Dieser ist's, der da kommt mit Wasser und Blut, Jesus Christus; nicht mit Wasser allein, sondern mit Wasser und Blut. Und der Geist ist's, der da zeugt; denn der Geist ist die Wahrheit."
+        },
+        {
+          "num": 7,
+          "text": "Denn drei sind, die da zeugen: der Geist und das Wasser und das Blut;"
+        },
+        {
+          "num": 8,
+          "text": "und die drei sind beisammen."
+        },
+        {
+          "num": 9,
+          "text": "So wir der Menschen Zeugnis annehmen, so ist Gottes Zeugnis größer; denn Gottes Zeugnis ist das, das er gezeugt hat von seinem Sohn."
+        },
+        {
+          "num": 10,
+          "text": "Wer da glaubt an den Sohn Gottes, der hat solches Zeugnis bei sich. Wer Gott nicht glaubt, der macht ihn zum Lügner; denn er glaubt nicht dem Zeugnis, das Gott zeugt von seinem Sohn."
+        },
+        {
+          "num": 11,
+          "text": "Und das ist das Zeugnis, daß uns Gott das ewige Leben hat gegeben; und solches Leben ist in seinem Sohn."
+        },
+        {
+          "num": 12,
+          "text": "Wer den Sohn Gottes hat, der hat das Leben; wer den Sohn Gottes nicht hat, der hat das Leben nicht."
+        }
+      ],
       "text": "Denn alles, was von Gott geboren ist, überwindet die Welt; und unser Glaube ist der Sieg, der die Welt überwunden hat. Wer ist aber, der die Welt überwindet, wenn nicht, der da glaubt, daß Jesus Gottes Sohn ist? Dieser ist's, der da kommt mit Wasser und Blut, Jesus Christus; nicht mit Wasser allein, sondern mit Wasser und Blut. Und der Geist ist's, der da zeugt; denn der Geist ist die Wahrheit. Denn drei sind, die da zeugen: der Geist und das Wasser und das Blut; und die drei sind beisammen. So wir der Menschen Zeugnis annehmen, so ist Gottes Zeugnis größer; denn Gottes Zeugnis ist das, das er gezeugt hat von seinem Sohn. Wer da glaubt an den Sohn Gottes, der hat solches Zeugnis bei sich. Wer Gott nicht glaubt, der macht ihn zum Lügner; denn er glaubt nicht dem Zeugnis, das Gott zeugt von seinem Sohn. Und das ist das Zeugnis, daß uns Gott das ewige Leben hat gegeben; und solches Leben ist in seinem Sohn. Wer den Sohn Gottes hat, der hat das Leben; wer den Sohn Gottes nicht hat, der hat das Leben nicht.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +115,84 @@
     },
     "psalm": {
       "ref": "Ps 116",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Das ist mir lieb, daß der HERR meine Stimme und mein Flehen hört."
+        },
+        {
+          "num": 2,
+          "text": "Denn er neigte sein Ohr zu mir; darum will ich mein Leben lang ihn anrufen."
+        },
+        {
+          "num": 3,
+          "text": "Stricke des Todes hatten mich umfangen, und Ängste der Hölle hatten mich getroffen; ich kam in Jammer und Not."
+        },
+        {
+          "num": 4,
+          "text": "Aber ich rief an den Namen des HERRN: O HERR, errette mein Seele!"
+        },
+        {
+          "num": 5,
+          "text": "Der HERR ist gnädig und gerecht, und unser Gott ist barmherzig."
+        },
+        {
+          "num": 6,
+          "text": "Der HERR behütet die Einfältigen; wenn ich unterliege, so hilft er mir."
+        },
+        {
+          "num": 7,
+          "text": "Sei nun wieder zufrieden, meine Seele; denn der HERR tut dir Gutes."
+        },
+        {
+          "num": 8,
+          "text": "Denn du hast meine Seele aus dem Tode gerissen, meine Augen von den Tränen, meinen Fuß vom Gleiten."
+        },
+        {
+          "num": 9,
+          "text": "Ich werde wandeln vor dem HERRN im Lande der Lebendigen."
+        },
+        {
+          "num": 10,
+          "text": "Ich glaube, darum rede ich; ich werde aber sehr geplagt."
+        },
+        {
+          "num": 11,
+          "text": "Ich sprach in meinem Zagen: Alle Menschen sind Lügner."
+        },
+        {
+          "num": 12,
+          "text": "Wie soll ich dem HERRN vergelten alle seine Wohltat, die er an mir tut?"
+        },
+        {
+          "num": 13,
+          "text": "Ich will den Kelch des Heils nehmen und des HERRN Namen predigen."
+        },
+        {
+          "num": 14,
+          "text": "Ich will mein Gelübde dem HERRN bezahlen vor allem seinem Volk."
+        },
+        {
+          "num": 15,
+          "text": "Der Tod seiner Heiligen ist wertgehalten vor dem HERRN."
+        },
+        {
+          "num": 16,
+          "text": "O HERR, ich bin dein Knecht; ich bin dein Knecht, deiner Magd Sohn. Du hast meine Bande zerrissen."
+        },
+        {
+          "num": 17,
+          "text": "Dir will ich Dank opfern und des HERRN Namen predigen."
+        },
+        {
+          "num": 18,
+          "text": "Ich will meine Gelübde dem HERRN bezahlen vor allem seinem Volk,"
+        },
+        {
+          "num": 19,
+          "text": "in den Höfen am Hause des HERRN, in dir Jerusalem. Halleluja!"
+        }
+      ],
       "text": "Das ist mir lieb, daß der HERR meine Stimme und mein Flehen hört. Denn er neigte sein Ohr zu mir; darum will ich mein Leben lang ihn anrufen. Stricke des Todes hatten mich umfangen, und Ängste der Hölle hatten mich getroffen; ich kam in Jammer und Not. Aber ich rief an den Namen des HERRN: O HERR, errette mein Seele! Der HERR ist gnädig und gerecht, und unser Gott ist barmherzig. Der HERR behütet die Einfältigen; wenn ich unterliege, so hilft er mir. Sei nun wieder zufrieden, meine Seele; denn der HERR tut dir Gutes. Denn du hast meine Seele aus dem Tode gerissen, meine Augen von den Tränen, meinen Fuß vom Gleiten. Ich werde wandeln vor dem HERRN im Lande der Lebendigen. Ich glaube, darum rede ich; ich werde aber sehr geplagt. Ich sprach in meinem Zagen: Alle Menschen sind Lügner. Wie soll ich dem HERRN vergelten alle seine Wohltat, die er an mir tut? Ich will den Kelch des Heils nehmen und des HERRN Namen predigen. Ich will mein Gelübde dem HERRN bezahlen vor allem seinem Volk. Der Tod seiner Heiligen ist wertgehalten vor dem HERRN. O HERR, ich bin dein Knecht; ich bin dein Knecht, deiner Magd Sohn. Du hast meine Bande zerrissen. Dir will ich Dank opfern und des HERRN Namen predigen. Ich will meine Gelübde dem HERRN bezahlen vor allem seinem Volk, in den Höfen am Hause des HERRN, in dir Jerusalem. Halleluja!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

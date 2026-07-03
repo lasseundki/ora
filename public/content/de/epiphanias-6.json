@@ -9,6 +9,28 @@
     "gospel": {
       "ref": "Matt 13,31-35",
       "stable": true,
+      "verses": [
+        {
+          "num": 31,
+          "text": "Ein anderes Gleichnis legte er ihnen vor und sprach: Das Himmelreich ist gleich einem Senfkorn, das ein Mensch nahm und säte es auf seinen Acker;"
+        },
+        {
+          "num": 32,
+          "text": "welches ist das kleinste unter allem Samen; wenn er erwächst, so ist es das größte unter dem Kohl und wird ein Baum, daß die Vögel unter dem Himmel kommen und wohnen unter seinen Zweigen."
+        },
+        {
+          "num": 33,
+          "text": "Ein anderes Gleichnis redete er zu ihnen: Das Himmelreich ist gleich einem Sauerteig, den ein Weib nahm und unter drei Scheffel Mehl vermengte, bis es ganz durchsäuert ward."
+        },
+        {
+          "num": 34,
+          "text": "Solches alles redete Jesus durch Gleichnisse zu dem Volk, und ohne Gleichnis redete er nicht zu ihnen,"
+        },
+        {
+          "num": 35,
+          "text": "auf das erfüllet würde, was gesagt ist durch den Propheten, der da spricht: Ich will meinen Mund auftun in Gleichnissen und will aussprechen die Heimlichkeiten von Anfang der Welt."
+        }
+      ],
       "text": "Ein anderes Gleichnis legte er ihnen vor und sprach: Das Himmelreich ist gleich einem Senfkorn, das ein Mensch nahm und säte es auf seinen Acker; welches ist das kleinste unter allem Samen; wenn er erwächst, so ist es das größte unter dem Kohl und wird ein Baum, daß die Vögel unter dem Himmel kommen und wohnen unter seinen Zweigen. Ein anderes Gleichnis redete er zu ihnen: Das Himmelreich ist gleich einem Sauerteig, den ein Weib nahm und unter drei Scheffel Mehl vermengte, bis es ganz durchsäuert ward. Solches alles redete Jesus durch Gleichnisse zu dem Volk, und ohne Gleichnis redete er nicht zu ihnen, auf das erfüllet würde, was gesagt ist durch den Propheten, der da spricht: Ich will meinen Mund auftun in Gleichnissen und will aussprechen die Heimlichkeiten von Anfang der Welt.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +38,44 @@
     },
     "epistle": {
       "ref": "1Thess 1,2-10",
+      "verses": [
+        {
+          "num": 2,
+          "text": "Wir danken Gott allezeit für euch alle und gedenken euer im Gebet ohne Unterlaß"
+        },
+        {
+          "num": 3,
+          "text": "und denken an euer Werk im Glauben und an eure Arbeit in der Liebe und an eure Geduld in der Hoffnung, welche ist unser HERR Jesus Christus, vor Gott und unserm Vater."
+        },
+        {
+          "num": 4,
+          "text": "Denn, liebe Brüder, von Gott geliebt, wir wissen, wie ihr auserwählt seid,"
+        },
+        {
+          "num": 5,
+          "text": "daß unser Evangelium ist bei euch gewesen nicht allein im Wort, sondern auch in der Kraft und in dem heiligen Geist und in großer Gewißheit; wie ihr denn wisset, welcherlei wir gewesen sind unter euch um euretwillen;"
+        },
+        {
+          "num": 6,
+          "text": "und ihr seid unsre Nachfolger geworden und des HERRN und habt das Wort aufgenommen unter vielen Trübsalen mit Freuden im heiligen Geist,"
+        },
+        {
+          "num": 7,
+          "text": "also daß ihr geworden seid ein Vorbild allen Gläubigen in Mazedonien und Achaja."
+        },
+        {
+          "num": 8,
+          "text": "Denn von euch ist auserschollen das Wort des HERRN; nicht allein in Mazedonien und Achaja, sondern an allen Orten ist auch euer Glaube an Gott bekannt geworden, also daß uns nicht not ist, etwas zu sagen."
+        },
+        {
+          "num": 9,
+          "text": "Denn sie selbst verkündigen von euch, was für einen Eingang wir zu euch gehabt haben und wie ihr bekehrt seid zu Gott von den Abgöttern, zu dienen dem lebendigen und wahren Gott"
+        },
+        {
+          "num": 10,
+          "text": "und zu warten auf seinen Sohn vom Himmel, welchen er auferweckt hat von den Toten, Jesum, der uns von dem zukünftigen Zorn erlöst."
+        }
+      ],
       "text": "Wir danken Gott allezeit für euch alle und gedenken euer im Gebet ohne Unterlaß und denken an euer Werk im Glauben und an eure Arbeit in der Liebe und an eure Geduld in der Hoffnung, welche ist unser HERR Jesus Christus, vor Gott und unserm Vater. Denn, liebe Brüder, von Gott geliebt, wir wissen, wie ihr auserwählt seid, daß unser Evangelium ist bei euch gewesen nicht allein im Wort, sondern auch in der Kraft und in dem heiligen Geist und in großer Gewißheit; wie ihr denn wisset, welcherlei wir gewesen sind unter euch um euretwillen; und ihr seid unsre Nachfolger geworden und des HERRN und habt das Wort aufgenommen unter vielen Trübsalen mit Freuden im heiligen Geist, also daß ihr geworden seid ein Vorbild allen Gläubigen in Mazedonien und Achaja. Denn von euch ist auserschollen das Wort des HERRN; nicht allein in Mazedonien und Achaja, sondern an allen Orten ist auch euer Glaube an Gott bekannt geworden, also daß uns nicht not ist, etwas zu sagen. Denn sie selbst verkündigen von euch, was für einen Eingang wir zu euch gehabt haben und wie ihr bekehrt seid zu Gott von den Abgöttern, zu dienen dem lebendigen und wahren Gott und zu warten auf seinen Sohn vom Himmel, welchen er auferweckt hat von den Toten, Jesum, der uns von dem zukünftigen Zorn erlöst.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +83,72 @@
     },
     "psalm": {
       "ref": "Ps 92",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalmlied auf den Sabbattag."
+        },
+        {
+          "num": 2,
+          "text": "Das ist ein köstlich Ding, dem HERRN danken, und lobsingen deinem Namen, du Höchster,"
+        },
+        {
+          "num": 3,
+          "text": "des Morgens deine Gnade und des Nachts deine Wahrheit verkündigen"
+        },
+        {
+          "num": 4,
+          "text": "auf den zehn Saiten und Psalter, mit Spielen auf der Harfe."
+        },
+        {
+          "num": 5,
+          "text": "Denn, HERR, du lässest mich fröhlich singen von deinen Werken, und ich rühme die Geschäfte deiner Hände."
+        },
+        {
+          "num": 6,
+          "text": "HERR, wie sind deine Werke so groß! Deine Gedanken sind so sehr tief."
+        },
+        {
+          "num": 7,
+          "text": "Ein Törichter glaubt das nicht, und ein Narr achtet solches nicht."
+        },
+        {
+          "num": 8,
+          "text": "Die Gottlosen grünen wie das Gras, und die Übeltäter blühen alle, bis sie vertilgt werden immer und ewiglich."
+        },
+        {
+          "num": 9,
+          "text": "Aber du, HERR, bist der Höchste und bleibst ewiglich."
+        },
+        {
+          "num": 10,
+          "text": "Denn siehe, deine Feinde, HERR, deine Feinde werden umkommen; und alle Übeltäter müssen zerstreut werden."
+        },
+        {
+          "num": 11,
+          "text": "Aber mein Horn wird erhöht werden wie eines Einhorns, und ich werde gesalbt mit frischem Öl."
+        },
+        {
+          "num": 12,
+          "text": "Und mein Auge wird seine Lust sehen an meinen Feinden; und mein Ohr wird seine Lust hören an den Boshaften, die sich wider mich setzen."
+        },
+        {
+          "num": 13,
+          "text": "Der Gerechte wird grünen wie ein Palmbaum; er wird wachsen wie eine Zeder auf dem Libanon."
+        },
+        {
+          "num": 14,
+          "text": "Die gepflanzt sind in dem Hause des HERRN, werden in den Vorhöfen unsers Gottes grünen."
+        },
+        {
+          "num": 15,
+          "text": "Und wenn sie gleich alt werden, werden sie dennoch blühen, fruchtbar und frisch sein,"
+        },
+        {
+          "num": 16,
+          "text": "daß sie verkündigen, daß der HERR so fromm ist, mein Hort, und ist kein Unrecht an ihm."
+        }
+      ],
       "text": "Ein Psalmlied auf den Sabbattag. Das ist ein köstlich Ding, dem HERRN danken, und lobsingen deinem Namen, du Höchster, des Morgens deine Gnade und des Nachts deine Wahrheit verkündigen auf den zehn Saiten und Psalter, mit Spielen auf der Harfe. Denn, HERR, du lässest mich fröhlich singen von deinen Werken, und ich rühme die Geschäfte deiner Hände. HERR, wie sind deine Werke so groß! Deine Gedanken sind so sehr tief. Ein Törichter glaubt das nicht, und ein Narr achtet solches nicht. Die Gottlosen grünen wie das Gras, und die Übeltäter blühen alle, bis sie vertilgt werden immer und ewiglich. Aber du, HERR, bist der Höchste und bleibst ewiglich. Denn siehe, deine Feinde, HERR, deine Feinde werden umkommen; und alle Übeltäter müssen zerstreut werden. Aber mein Horn wird erhöht werden wie eines Einhorns, und ich werde gesalbt mit frischem Öl. Und mein Auge wird seine Lust sehen an meinen Feinden; und mein Ohr wird seine Lust hören an den Boshaften, die sich wider mich setzen. Der Gerechte wird grünen wie ein Palmbaum; er wird wachsen wie eine Zeder auf dem Libanon. Die gepflanzt sind in dem Hause des HERRN, werden in den Vorhöfen unsers Gottes grünen. Und wenn sie gleich alt werden, werden sie dennoch blühen, fruchtbar und frisch sein, daß sie verkündigen, daß der HERR so fromm ist, mein Hort, und ist kein Unrecht an ihm.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

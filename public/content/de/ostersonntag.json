@@ -9,6 +9,40 @@
     "gospel": {
       "ref": "Mk 16,1-8",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Und da der Sabbat vergangen war, kauften Maria Magdalena und Maria, des Jakobus Mutter, und Salome Spezerei, auf daß sie kämen und salbten ihn."
+        },
+        {
+          "num": 2,
+          "text": "Und sie kamen zum Grabe am ersten Tag der Woche sehr früh, da die Sonne aufging."
+        },
+        {
+          "num": 3,
+          "text": "Und sie sprachen untereinander: Wer wälzt uns den Stein von des Grabes Tür?"
+        },
+        {
+          "num": 4,
+          "text": "Und sie sahen dahin und wurden gewahr, daß der Stein abgewälzt war; denn er war sehr groß."
+        },
+        {
+          "num": 5,
+          "text": "Und sie gingen hinein in das Grab und sahen einen Jüngling zur rechten Hand sitzen, der hatte ein langes weißes Kleid an; und sie entsetzten sich."
+        },
+        {
+          "num": 6,
+          "text": "Er aber sprach zu ihnen: Entsetzt euch nicht! Ihr sucht Jesus von Nazareth, den Gekreuzigten; er ist nicht hier. Siehe da die Stätte, da sie ihn hinlegten!"
+        },
+        {
+          "num": 7,
+          "text": "Gehet aber hin und sagt's seinen Jüngern und Petrus, daß er vor euch hingehen wird nach Galiläa, da werdet ihr ihn sehen, wie er gesagt hat."
+        },
+        {
+          "num": 8,
+          "text": "Und sie gingen schnell heraus und flohen von dem Grabe; denn es war sie Zittern und Entsetzen angekommen. Und sie sagten niemand etwas, denn sie fürchteten sich."
+        }
+      ],
       "text": "Und da der Sabbat vergangen war, kauften Maria Magdalena und Maria, des Jakobus Mutter, und Salome Spezerei, auf daß sie kämen und salbten ihn. Und sie kamen zum Grabe am ersten Tag der Woche sehr früh, da die Sonne aufging. Und sie sprachen untereinander: Wer wälzt uns den Stein von des Grabes Tür? Und sie sahen dahin und wurden gewahr, daß der Stein abgewälzt war; denn er war sehr groß. Und sie gingen hinein in das Grab und sahen einen Jüngling zur rechten Hand sitzen, der hatte ein langes weißes Kleid an; und sie entsetzten sich. Er aber sprach zu ihnen: Entsetzt euch nicht! Ihr sucht Jesus von Nazareth, den Gekreuzigten; er ist nicht hier. Siehe da die Stätte, da sie ihn hinlegten! Gehet aber hin und sagt's seinen Jüngern und Petrus, daß er vor euch hingehen wird nach Galiläa, da werdet ihr ihn sehen, wie er gesagt hat. Und sie gingen schnell heraus und flohen von dem Grabe; denn es war sie Zittern und Entsetzen angekommen. Und sie sagten niemand etwas, denn sie fürchteten sich.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +50,20 @@
     },
     "epistle": {
       "ref": "1Kor 5,6-8",
+      "verses": [
+        {
+          "num": 6,
+          "text": "Euer Ruhm ist nicht fein. Wisset ihr nicht, daß ein wenig Sauerteig den ganzen Teig versäuert?"
+        },
+        {
+          "num": 7,
+          "text": "Darum feget den alten Sauerteig aus, auf daß ihr ein neuer Teig seid, gleichwie ihr ungesäuert seid. Denn wir haben auch ein Osterlamm, das ist Christus, für uns geopfert."
+        },
+        {
+          "num": 8,
+          "text": "Darum lasset uns Ostern halten nicht im alten Sauerteig, auch nicht im Sauerteig der Bosheit und Schalkheit, sondern im Süßteig der Lauterkeit und der Wahrheit."
+        }
+      ],
       "text": "Euer Ruhm ist nicht fein. Wisset ihr nicht, daß ein wenig Sauerteig den ganzen Teig versäuert? Darum feget den alten Sauerteig aus, auf daß ihr ein neuer Teig seid, gleichwie ihr ungesäuert seid. Denn wir haben auch ein Osterlamm, das ist Christus, für uns geopfert. Darum lasset uns Ostern halten nicht im alten Sauerteig, auch nicht im Sauerteig der Bosheit und Schalkheit, sondern im Süßteig der Lauterkeit und der Wahrheit.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +71,124 @@
     },
     "psalm": {
       "ref": "Ps 118",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Danket dem HERRN; denn er ist freundlich, und seine Güte währet ewiglich."
+        },
+        {
+          "num": 2,
+          "text": "Es sage nun Israel: Seine Güte währet ewiglich."
+        },
+        {
+          "num": 3,
+          "text": "Es sage nun das Haus Aaron: Seine Güte währet ewiglich."
+        },
+        {
+          "num": 4,
+          "text": "Es sagen nun, die den HERRN fürchten: Seine Güte währet ewiglich."
+        },
+        {
+          "num": 5,
+          "text": "In der Angst rief ich den HERRN an, und der HERR erhörte mich und tröstete mich."
+        },
+        {
+          "num": 6,
+          "text": "Der HERR ist mit mir, darum fürchte ich mich nicht; was können mir Menschen tun?"
+        },
+        {
+          "num": 7,
+          "text": "Der HERR ist mit mir, mir zu helfen; und ich will meine Lust sehen an meinen Feinden."
+        },
+        {
+          "num": 8,
+          "text": "Es ist gut, auf den HERRN zu vertrauen, und nicht sich verlassen auf Menschen."
+        },
+        {
+          "num": 9,
+          "text": "Es ist gut auf den HERRN vertrauen und nicht sich verlassen auf Fürsten."
+        },
+        {
+          "num": 10,
+          "text": "Alle Heiden umgeben mich; aber im Namen des HERRN will ich sie zerhauen."
+        },
+        {
+          "num": 11,
+          "text": "Sie umgeben mich allenthalben; aber im Namen des HERRN will ich sie zerhauen."
+        },
+        {
+          "num": 12,
+          "text": "Sie umgeben mich wie Bienen; aber sie erlöschen wie Feuer in Dornen; im Namen des HERRN will ich sie zerhauen."
+        },
+        {
+          "num": 13,
+          "text": "Man stößt mich, daß ich fallen soll; aber der HERR hilft mir."
+        },
+        {
+          "num": 14,
+          "text": "Der HERR ist meine Macht und mein Psalm und ist mein Heil."
+        },
+        {
+          "num": 15,
+          "text": "Man singt mit Freuden vom Sieg in den Hütten der Gerechten: \"Die Rechte des HERRN behält den Sieg;"
+        },
+        {
+          "num": 16,
+          "text": "die Rechte des HERRN ist erhöht; die Rechte des HERRN behält den Sieg!\""
+        },
+        {
+          "num": 17,
+          "text": "Ich werde nicht sterben, sondern leben und des HERRN Werke verkündigen."
+        },
+        {
+          "num": 18,
+          "text": "Der HERR züchtigt mich wohl; aber er gibt mich dem Tode nicht."
+        },
+        {
+          "num": 19,
+          "text": "Tut mir auf die Tore der Gerechtigkeit, daß ich dahin eingehe und dem HERRN danke."
+        },
+        {
+          "num": 20,
+          "text": "Das ist das Tor des HERRN; die Gerechten werden dahin eingehen."
+        },
+        {
+          "num": 21,
+          "text": "Ich danke dir, daß du mich demütigst und hilfst mir."
+        },
+        {
+          "num": 22,
+          "text": "Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden."
+        },
+        {
+          "num": 23,
+          "text": "Das ist vom HERRN geschehen und ist ein Wunder vor unsern Augen."
+        },
+        {
+          "num": 24,
+          "text": "Dies ist der Tag, den der HERR macht; lasset uns freuen und fröhlich darinnen sein."
+        },
+        {
+          "num": 25,
+          "text": "O HERR, hilf! o HERR, laß wohl gelingen!"
+        },
+        {
+          "num": 26,
+          "text": "Gelobt sei, der da kommt im Namen des HERRN! Wir segnen euch, die ihr vom Hause des HERRN seid."
+        },
+        {
+          "num": 27,
+          "text": "der HERR ist Gott, der uns erleuchtet. Schmücket das Fest mit Maien bis an die Hörner des Altars!"
+        },
+        {
+          "num": 28,
+          "text": "Du bist mein Gott, und ich danke dir; mein Gott, ich will dich preisen."
+        },
+        {
+          "num": 29,
+          "text": "Danket dem HERRN; denn er ist freundlich, und sein Güte währet ewiglich."
+        }
+      ],
       "text": "Danket dem HERRN; denn er ist freundlich, und seine Güte währet ewiglich. Es sage nun Israel: Seine Güte währet ewiglich. Es sage nun das Haus Aaron: Seine Güte währet ewiglich. Es sagen nun, die den HERRN fürchten: Seine Güte währet ewiglich. In der Angst rief ich den HERRN an, und der HERR erhörte mich und tröstete mich. Der HERR ist mit mir, darum fürchte ich mich nicht; was können mir Menschen tun? Der HERR ist mit mir, mir zu helfen; und ich will meine Lust sehen an meinen Feinden. Es ist gut, auf den HERRN zu vertrauen, und nicht sich verlassen auf Menschen. Es ist gut auf den HERRN vertrauen und nicht sich verlassen auf Fürsten. Alle Heiden umgeben mich; aber im Namen des HERRN will ich sie zerhauen. Sie umgeben mich allenthalben; aber im Namen des HERRN will ich sie zerhauen. Sie umgeben mich wie Bienen; aber sie erlöschen wie Feuer in Dornen; im Namen des HERRN will ich sie zerhauen. Man stößt mich, daß ich fallen soll; aber der HERR hilft mir. Der HERR ist meine Macht und mein Psalm und ist mein Heil. Man singt mit Freuden vom Sieg in den Hütten der Gerechten: \"Die Rechte des HERRN behält den Sieg; die Rechte des HERRN ist erhöht; die Rechte des HERRN behält den Sieg!\" Ich werde nicht sterben, sondern leben und des HERRN Werke verkündigen. Der HERR züchtigt mich wohl; aber er gibt mich dem Tode nicht. Tut mir auf die Tore der Gerechtigkeit, daß ich dahin eingehe und dem HERRN danke. Das ist das Tor des HERRN; die Gerechten werden dahin eingehen. Ich danke dir, daß du mich demütigst und hilfst mir. Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden. Das ist vom HERRN geschehen und ist ein Wunder vor unsern Augen. Dies ist der Tag, den der HERR macht; lasset uns freuen und fröhlich darinnen sein. O HERR, hilf! o HERR, laß wohl gelingen! Gelobt sei, der da kommt im Namen des HERRN! Wir segnen euch, die ihr vom Hause des HERRN seid. der HERR ist Gott, der uns erleuchtet. Schmücket das Fest mit Maien bis an die Hörner des Altars! Du bist mein Gott, und ich danke dir; mein Gott, ich will dich preisen. Danket dem HERRN; denn er ist freundlich, und sein Güte währet ewiglich.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

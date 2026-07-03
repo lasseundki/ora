@@ -9,6 +9,44 @@
     "gospel": {
       "ref": "Lk 16,1-9",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Er aber sprach zu seinen Jüngern: Es war ein reicher Mann, der hatte einen Haushalter; der ward von ihm berüchtigt, als hätte er ihm seine Güter umgebracht."
+        },
+        {
+          "num": 2,
+          "text": "Und er forderte ihn und sprach zu ihm: Wie höre ich das von dir? Tu Rechnung von deinem Haushalten; denn du kannst hinfort nicht Haushalter sein!"
+        },
+        {
+          "num": 3,
+          "text": "Der Haushalter sprach bei sich selbst: Was soll ich tun? Mein Herr nimmt das Amt von mir; graben kann ich nicht, so schäme ich mich zu betteln."
+        },
+        {
+          "num": 4,
+          "text": "Ich weiß wohl, was ich tun will, wenn ich nun von dem Amt gesetzt werde, daß sie mich in ihre Häuser nehmen."
+        },
+        {
+          "num": 5,
+          "text": "Und er rief zu sich alle Schuldner seines Herrn und sprach zu dem ersten: Wie viel bist du meinem Herrn schuldig?"
+        },
+        {
+          "num": 6,
+          "text": "Er sprach: Hundert Tonnen Öl. Und er sprach zu ihm: Nimm deinen Brief, setze dich und schreib flugs fünfzig."
+        },
+        {
+          "num": 7,
+          "text": "Darnach sprach er zu dem andern: Du aber, wie viel bist du schuldig? Er sprach: Hundert Malter Weizen. Und er sprach zu ihm: Nimm deinen Brief und schreib achtzig."
+        },
+        {
+          "num": 8,
+          "text": "Und der HERR lobte den ungerechten Haushalter, daß er klüglich gehandelt hatte; denn die Kinder dieser Welt sind klüger als die Kinder des Lichtes in ihrem Geschlecht."
+        },
+        {
+          "num": 9,
+          "text": "Und ich sage euch auch: Machet euch Freunde mit dem ungerechten Mammon, auf daß, wenn ihr nun darbet, sie euch aufnehmen in die ewigen Hütten."
+        }
+      ],
       "text": "Er aber sprach zu seinen Jüngern: Es war ein reicher Mann, der hatte einen Haushalter; der ward von ihm berüchtigt, als hätte er ihm seine Güter umgebracht. Und er forderte ihn und sprach zu ihm: Wie höre ich das von dir? Tu Rechnung von deinem Haushalten; denn du kannst hinfort nicht Haushalter sein! Der Haushalter sprach bei sich selbst: Was soll ich tun? Mein Herr nimmt das Amt von mir; graben kann ich nicht, so schäme ich mich zu betteln. Ich weiß wohl, was ich tun will, wenn ich nun von dem Amt gesetzt werde, daß sie mich in ihre Häuser nehmen. Und er rief zu sich alle Schuldner seines Herrn und sprach zu dem ersten: Wie viel bist du meinem Herrn schuldig? Er sprach: Hundert Tonnen Öl. Und er sprach zu ihm: Nimm deinen Brief, setze dich und schreib flugs fünfzig. Darnach sprach er zu dem andern: Du aber, wie viel bist du schuldig? Er sprach: Hundert Malter Weizen. Und er sprach zu ihm: Nimm deinen Brief und schreib achtzig. Und der HERR lobte den ungerechten Haushalter, daß er klüglich gehandelt hatte; denn die Kinder dieser Welt sind klüger als die Kinder des Lichtes in ihrem Geschlecht. Und ich sage euch auch: Machet euch Freunde mit dem ungerechten Mammon, auf daß, wenn ihr nun darbet, sie euch aufnehmen in die ewigen Hütten.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +54,40 @@
     },
     "epistle": {
       "ref": "1Kor 10,6-13",
+      "verses": [
+        {
+          "num": 6,
+          "text": "Das ist aber uns zum Vorbilde geschehen, daß wir nicht uns gelüsten lassen des Bösen, gleichwie jene gelüstet hat."
+        },
+        {
+          "num": 7,
+          "text": "Werdet auch nicht Abgöttische, gleichwie jener etliche wurden, wie geschrieben steht: \"Das Volk setzte sich nieder, zu essen und zu trinken, und stand auf, zu spielen.\""
+        },
+        {
+          "num": 8,
+          "text": "Auch lasset uns nicht Hurerei treiben, wie etliche unter jenen Hurerei trieben, und fielen auf einen Tag dreiundzwanzigtausend."
+        },
+        {
+          "num": 9,
+          "text": "Lasset uns aber auch Christum nicht versuchen, wie etliche von jenen ihn versuchten und wurden von Schlangen umgebracht."
+        },
+        {
+          "num": 10,
+          "text": "Murrt auch nicht, gleichwie jener etliche murrten und wurden umgebracht durch den Verderber."
+        },
+        {
+          "num": 11,
+          "text": "Solches alles widerfuhr jenen zum Vorbilde; es ist aber geschrieben uns zur Warnung, auf welche das Ende der Welt gekommen ist."
+        },
+        {
+          "num": 12,
+          "text": "Darum, wer sich läßt dünken, er stehe, mag wohl zusehen, daß er nicht falle."
+        },
+        {
+          "num": 13,
+          "text": "Es hat euch noch keine denn menschliche Versuchung betreten; aber Gott ist getreu, der euch nicht läßt versuchen über euer Vermögen, sondern macht, daß die Versuchung so ein Ende gewinne, daß ihr's könnet ertragen."
+        }
+      ],
       "text": "Das ist aber uns zum Vorbilde geschehen, daß wir nicht uns gelüsten lassen des Bösen, gleichwie jene gelüstet hat. Werdet auch nicht Abgöttische, gleichwie jener etliche wurden, wie geschrieben steht: \"Das Volk setzte sich nieder, zu essen und zu trinken, und stand auf, zu spielen.\" Auch lasset uns nicht Hurerei treiben, wie etliche unter jenen Hurerei trieben, und fielen auf einen Tag dreiundzwanzigtausend. Lasset uns aber auch Christum nicht versuchen, wie etliche von jenen ihn versuchten und wurden von Schlangen umgebracht. Murrt auch nicht, gleichwie jener etliche murrten und wurden umgebracht durch den Verderber. Solches alles widerfuhr jenen zum Vorbilde; es ist aber geschrieben uns zur Warnung, auf welche das Ende der Welt gekommen ist. Darum, wer sich läßt dünken, er stehe, mag wohl zusehen, daß er nicht falle. Es hat euch noch keine denn menschliche Versuchung betreten; aber Gott ist getreu, der euch nicht läßt versuchen über euer Vermögen, sondern macht, daß die Versuchung so ein Ende gewinne, daß ihr's könnet ertragen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +95,120 @@
     },
     "psalm": {
       "ref": "Ps 73",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Asaphs. Israel hat dennoch Gott zum Trost, wer nur reines Herzens ist."
+        },
+        {
+          "num": 2,
+          "text": "Ich aber hätte schier gestrauchelt mit meinen Füßen; mein Tritt wäre beinahe geglitten."
+        },
+        {
+          "num": 3,
+          "text": "Denn es verdroß mich der Ruhmredigen, da ich sah, daß es den Gottlosen so wohl ging."
+        },
+        {
+          "num": 4,
+          "text": "Denn sie sind in keiner Gefahr des Todes, sondern stehen fest wie ein Palast."
+        },
+        {
+          "num": 5,
+          "text": "Sie sind nicht in Unglück wie andere Leute und werden nicht wie andere Menschen geplagt."
+        },
+        {
+          "num": 6,
+          "text": "Darum muß ihr Trotzen köstlich Ding sein, und ihr Frevel muß wohl getan heißen."
+        },
+        {
+          "num": 7,
+          "text": "Ihre Person brüstet sich wie ein fetter Wanst; sie tun, was sie nur gedenken."
+        },
+        {
+          "num": 8,
+          "text": "Sie achten alles für nichts und reden übel davon und reden und lästern hoch her."
+        },
+        {
+          "num": 9,
+          "text": "Was sie reden, daß muß vom Himmel herab geredet sein; was sie sagen, das muß gelten auf Erden."
+        },
+        {
+          "num": 10,
+          "text": "Darum fällt ihnen ihr Pöbel zu und laufen ihnen zu mit Haufen wie Wasser"
+        },
+        {
+          "num": 11,
+          "text": "und sprechen: \"Was sollte Gott nach jenen fragen? Was sollte der Höchste ihrer achten?\""
+        },
+        {
+          "num": 12,
+          "text": "Siehe, das sind die Gottlosen; die sind glücklich in der Welt und werden reich."
+        },
+        {
+          "num": 13,
+          "text": "Soll es denn umsonst sein, daß mein Herz unsträflich lebt und ich meine Hände in Unschuld wasche,"
+        },
+        {
+          "num": 14,
+          "text": "ich bin geplagt täglich, und meine Strafe ist alle Morgen da?"
+        },
+        {
+          "num": 15,
+          "text": "Ich hätte auch schier so gesagt wie sie; aber siehe, damit hätte ich verdammt alle meine Kinder, die je gewesen sind."
+        },
+        {
+          "num": 16,
+          "text": "Ich dachte ihm nach, daß ich's begreifen möchte; aber es war mir zu schwer,"
+        },
+        {
+          "num": 17,
+          "text": "bis daß ich ging in das Heiligtum Gottes und merkte auf ihr Ende."
+        },
+        {
+          "num": 18,
+          "text": "Ja, du setzest sie aufs Schlüpfrige und stürzest sie zu Boden."
+        },
+        {
+          "num": 19,
+          "text": "Wie werden sie so plötzlich zunichte! Sie gehen unter und nehmen ein Ende mit Schrecken."
+        },
+        {
+          "num": 20,
+          "text": "Wie ein Traum, wenn einer erwacht, so machst du, HERR, ihr Bild in der Stadt verschmäht."
+        },
+        {
+          "num": 21,
+          "text": "Da es mir wehe tat im Herzen und mich stach in meine Nieren,"
+        },
+        {
+          "num": 22,
+          "text": "da war ich ein Narr und wußte nichts; ich war wie ein Tier vor dir."
+        },
+        {
+          "num": 23,
+          "text": "Dennoch bleibe ich stets an dir; denn du hältst mich bei meiner rechten Hand,"
+        },
+        {
+          "num": 24,
+          "text": "du leitest mich nach deinem Rat und nimmst mich endlich in Ehren an."
+        },
+        {
+          "num": 25,
+          "text": "Wenn ich nur dich habe, so frage ich nichts nach Himmel und Erde."
+        },
+        {
+          "num": 26,
+          "text": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil."
+        },
+        {
+          "num": 27,
+          "text": "Denn siehe, die von dir weichen, werden umkommen; du bringest um, alle die von dir abfallen."
+        },
+        {
+          "num": 28,
+          "text": "Aber das ist meine Freude, daß ich mich zu Gott halte und meine Zuversicht setzte auf den Herrn HERRN, daß ich verkündige all dein Tun."
+        }
+      ],
       "text": "Ein Psalm Asaphs. Israel hat dennoch Gott zum Trost, wer nur reines Herzens ist. Ich aber hätte schier gestrauchelt mit meinen Füßen; mein Tritt wäre beinahe geglitten. Denn es verdroß mich der Ruhmredigen, da ich sah, daß es den Gottlosen so wohl ging. Denn sie sind in keiner Gefahr des Todes, sondern stehen fest wie ein Palast. Sie sind nicht in Unglück wie andere Leute und werden nicht wie andere Menschen geplagt. Darum muß ihr Trotzen köstlich Ding sein, und ihr Frevel muß wohl getan heißen. Ihre Person brüstet sich wie ein fetter Wanst; sie tun, was sie nur gedenken. Sie achten alles für nichts und reden übel davon und reden und lästern hoch her. Was sie reden, daß muß vom Himmel herab geredet sein; was sie sagen, das muß gelten auf Erden. Darum fällt ihnen ihr Pöbel zu und laufen ihnen zu mit Haufen wie Wasser und sprechen: \"Was sollte Gott nach jenen fragen? Was sollte der Höchste ihrer achten?\" Siehe, das sind die Gottlosen; die sind glücklich in der Welt und werden reich. Soll es denn umsonst sein, daß mein Herz unsträflich lebt und ich meine Hände in Unschuld wasche, ich bin geplagt täglich, und meine Strafe ist alle Morgen da? Ich hätte auch schier so gesagt wie sie; aber siehe, damit hätte ich verdammt alle meine Kinder, die je gewesen sind. Ich dachte ihm nach, daß ich's begreifen möchte; aber es war mir zu schwer, bis daß ich ging in das Heiligtum Gottes und merkte auf ihr Ende. Ja, du setzest sie aufs Schlüpfrige und stürzest sie zu Boden. Wie werden sie so plötzlich zunichte! Sie gehen unter und nehmen ein Ende mit Schrecken. Wie ein Traum, wenn einer erwacht, so machst du, HERR, ihr Bild in der Stadt verschmäht. Da es mir wehe tat im Herzen und mich stach in meine Nieren, da war ich ein Narr und wußte nichts; ich war wie ein Tier vor dir. Dennoch bleibe ich stets an dir; denn du hältst mich bei meiner rechten Hand, du leitest mich nach deinem Rat und nimmst mich endlich in Ehren an. Wenn ich nur dich habe, so frage ich nichts nach Himmel und Erde. Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil. Denn siehe, die von dir weichen, werden umkommen; du bringest um, alle die von dir abfallen. Aber das ist meine Freude, daß ich mich zu Gott halte und meine Zuversicht setzte auf den Herrn HERRN, daß ich verkündige all dein Tun.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

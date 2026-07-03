@@ -9,6 +9,44 @@
     "gospel": {
       "ref": "Matt 7,15-23",
       "stable": true,
+      "verses": [
+        {
+          "num": 15,
+          "text": "Seht euch vor vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber sind sie reißende Wölfe."
+        },
+        {
+          "num": 16,
+          "text": "An ihren Früchten sollt ihr sie erkennen. Kann man auch Trauben lesen von den Dornen oder Feigen von den Disteln?"
+        },
+        {
+          "num": 17,
+          "text": "Also ein jeglicher guter Baum bringt gute Früchte; aber ein fauler Baum bringt arge Früchte."
+        },
+        {
+          "num": 18,
+          "text": "Ein guter Baum kann nicht arge Früchte bringen, und ein fauler Baum kann nicht gute Früchte bringen."
+        },
+        {
+          "num": 19,
+          "text": "Ein jeglicher Baum, der nicht gute Früchte bringt, wird abgehauen und ins Feuer geworfen."
+        },
+        {
+          "num": 20,
+          "text": "Darum an ihren Früchten sollt ihr sie erkennen."
+        },
+        {
+          "num": 21,
+          "text": "Es werden nicht alle, die zu mir sagen: HERR, HERR! ins Himmelreich kommen, sondern die den Willen tun meines Vaters im Himmel."
+        },
+        {
+          "num": 22,
+          "text": "Es werden viele zu mir sagen an jenem Tage: HERR, HERR! haben wir nicht in deinem Namen geweissagt, haben wir nicht in deinem Namen Teufel ausgetrieben, und haben wir nicht in deinem Namen viele Taten getan?"
+        },
+        {
+          "num": 23,
+          "text": "Dann werde ich ihnen bekennen: Ich habe euch noch nie erkannt; weichet alle von mir, ihr Übeltäter!"
+        }
+      ],
       "text": "Seht euch vor vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber sind sie reißende Wölfe. An ihren Früchten sollt ihr sie erkennen. Kann man auch Trauben lesen von den Dornen oder Feigen von den Disteln? Also ein jeglicher guter Baum bringt gute Früchte; aber ein fauler Baum bringt arge Früchte. Ein guter Baum kann nicht arge Früchte bringen, und ein fauler Baum kann nicht gute Früchte bringen. Ein jeglicher Baum, der nicht gute Früchte bringt, wird abgehauen und ins Feuer geworfen. Darum an ihren Früchten sollt ihr sie erkennen. Es werden nicht alle, die zu mir sagen: HERR, HERR! ins Himmelreich kommen, sondern die den Willen tun meines Vaters im Himmel. Es werden viele zu mir sagen an jenem Tage: HERR, HERR! haben wir nicht in deinem Namen geweissagt, haben wir nicht in deinem Namen Teufel ausgetrieben, und haben wir nicht in deinem Namen viele Taten getan? Dann werde ich ihnen bekennen: Ich habe euch noch nie erkannt; weichet alle von mir, ihr Übeltäter!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +54,32 @@
     },
     "epistle": {
       "ref": "Röm 8,12-17",
+      "verses": [
+        {
+          "num": 12,
+          "text": "So sind wir nun, liebe Brüder, Schuldner nicht dem Fleisch, daß wir nach dem Fleisch leben."
+        },
+        {
+          "num": 13,
+          "text": "Denn wo ihr nach dem Fleisch lebet, so werdet ihr sterben müssen; wo ihr aber durch den Geist des Fleisches Geschäfte tötet, so werdet ihr leben."
+        },
+        {
+          "num": 14,
+          "text": "Denn welche der Geist Gottes treibt, die sind Gottes Kinder."
+        },
+        {
+          "num": 15,
+          "text": "Denn ihr habt nicht einen knechtischen Geist empfangen, daß ihr euch abermals fürchten müßtet; sondern ihr habt einen kindlichen Geist empfangen, durch welchen wir rufen: Abba, lieber Vater!"
+        },
+        {
+          "num": 16,
+          "text": "Derselbe Geist gibt Zeugnis unserem Geist, daß wir Kinder Gottes sind."
+        },
+        {
+          "num": 17,
+          "text": "Sind wir denn Kinder, so sind wir auch Erben, nämlich Gottes Erben und Miterben Christi, so wir anders mit leiden, auf daß wir auch mit zur Herrlichkeit erhoben werden."
+        }
+      ],
       "text": "So sind wir nun, liebe Brüder, Schuldner nicht dem Fleisch, daß wir nach dem Fleisch leben. Denn wo ihr nach dem Fleisch lebet, so werdet ihr sterben müssen; wo ihr aber durch den Geist des Fleisches Geschäfte tötet, so werdet ihr leben. Denn welche der Geist Gottes treibt, die sind Gottes Kinder. Denn ihr habt nicht einen knechtischen Geist empfangen, daß ihr euch abermals fürchten müßtet; sondern ihr habt einen kindlichen Geist empfangen, durch welchen wir rufen: Abba, lieber Vater! Derselbe Geist gibt Zeugnis unserem Geist, daß wir Kinder Gottes sind. Sind wir denn Kinder, so sind wir auch Erben, nämlich Gottes Erben und Miterben Christi, so wir anders mit leiden, auf daß wir auch mit zur Herrlichkeit erhoben werden.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +87,76 @@
     },
     "psalm": {
       "ref": "Ps 86",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Gebet Davids. HERR, neige deine Ohren und erhöre mich; denn ich bin elend und arm."
+        },
+        {
+          "num": 2,
+          "text": "Bewahre meine Seele; denn ich bin heilig. Hilf du, mein Gott, deinem Knechte, der sich verläßt auf dich."
+        },
+        {
+          "num": 3,
+          "text": "HERR, sei mir gnädig; denn ich rufe täglich zu dir!"
+        },
+        {
+          "num": 4,
+          "text": "Erfreue die Seele deines Knechtes; denn nach dir, HERR, verlangt mich."
+        },
+        {
+          "num": 5,
+          "text": "Denn du, HERR, bist gut und gnädig, von großer Güte allen, die dich anrufen."
+        },
+        {
+          "num": 6,
+          "text": "Vernimm, HERR, mein Gebet und merke auf die Stimme meines Flehens."
+        },
+        {
+          "num": 7,
+          "text": "In der Not rufe ich dich an; du wollest mich erhören."
+        },
+        {
+          "num": 8,
+          "text": "HERR, dir ist keiner gleich unter den Göttern, und ist niemand, der tun kann wie du."
+        },
+        {
+          "num": 9,
+          "text": "Alle Heiden die du gemacht hast, werden kommen und vor dir anbeten, HERR, und deinen Namen ehren,"
+        },
+        {
+          "num": 10,
+          "text": "daß du so groß bist und Wunder tust und allein Gott bist."
+        },
+        {
+          "num": 11,
+          "text": "Weise mir, HERR, deinen Weg, daß ich wandle in deiner Wahrheit; erhalte mein Herz bei dem einen, daß ich deinen Namen fürchte."
+        },
+        {
+          "num": 12,
+          "text": "Ich danke dir, HERR, mein Gott, von ganzem Herzen und ehre deinen Namen ewiglich."
+        },
+        {
+          "num": 13,
+          "text": "Denn deine Güte ist groß über mich; du hast meine Seele errettet aus der tiefen Hölle."
+        },
+        {
+          "num": 14,
+          "text": "Gott, es setzen sich die Stolzen wider mich, und der Haufe der Gewalttätigen steht mir nach meiner Seele, und haben dich nicht vor Augen. (Sela.)"
+        },
+        {
+          "num": 15,
+          "text": "Du aber, HERR, Gott, bist barmherzig und gnädig, geduldig und von großer Güte und Treue."
+        },
+        {
+          "num": 16,
+          "text": "Wende dich zu mir, sei mir gnädig; stärke deinen Knecht mit deiner Kraft und hilf dem Sohn deiner Magd!"
+        },
+        {
+          "num": 17,
+          "text": "Tu ein Zeichen an mir, daß mir's wohl gehe, daß es sehen, die mich hassen, und sich schämen müssen, daß du mir beistehst, HERR, und tröstest mich."
+        }
+      ],
       "text": "Ein Gebet Davids. HERR, neige deine Ohren und erhöre mich; denn ich bin elend und arm. Bewahre meine Seele; denn ich bin heilig. Hilf du, mein Gott, deinem Knechte, der sich verläßt auf dich. HERR, sei mir gnädig; denn ich rufe täglich zu dir! Erfreue die Seele deines Knechtes; denn nach dir, HERR, verlangt mich. Denn du, HERR, bist gut und gnädig, von großer Güte allen, die dich anrufen. Vernimm, HERR, mein Gebet und merke auf die Stimme meines Flehens. In der Not rufe ich dich an; du wollest mich erhören. HERR, dir ist keiner gleich unter den Göttern, und ist niemand, der tun kann wie du. Alle Heiden die du gemacht hast, werden kommen und vor dir anbeten, HERR, und deinen Namen ehren, daß du so groß bist und Wunder tust und allein Gott bist. Weise mir, HERR, deinen Weg, daß ich wandle in deiner Wahrheit; erhalte mein Herz bei dem einen, daß ich deinen Namen fürchte. Ich danke dir, HERR, mein Gott, von ganzem Herzen und ehre deinen Namen ewiglich. Denn deine Güte ist groß über mich; du hast meine Seele errettet aus der tiefen Hölle. Gott, es setzen sich die Stolzen wider mich, und der Haufe der Gewalttätigen steht mir nach meiner Seele, und haben dich nicht vor Augen. (Sela.) Du aber, HERR, Gott, bist barmherzig und gnädig, geduldig und von großer Güte und Treue. Wende dich zu mir, sei mir gnädig; stärke deinen Knecht mit deiner Kraft und hilf dem Sohn deiner Magd! Tu ein Zeichen an mir, daß mir's wohl gehe, daß es sehen, die mich hassen, und sich schämen müssen, daß du mir beistehst, HERR, und tröstest mich.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

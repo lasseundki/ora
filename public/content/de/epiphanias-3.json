@@ -9,6 +9,60 @@
     "gospel": {
       "ref": "Matt 8,1-13",
       "stable": true,
+      "verses": [
+        {
+          "num": 1,
+          "text": "Da er aber vom Berg herabging, folgte ihm viel Volks nach."
+        },
+        {
+          "num": 2,
+          "text": "Und siehe, ein Aussätziger kam und betete ihn an und sprach: HERR, so du willst, kannst du mich wohl reinigen."
+        },
+        {
+          "num": 3,
+          "text": "Und Jesus streckte seine Hand aus, rührte ihn an und sprach: Ich will's tun; sei gereinigt! Und alsbald ward er vom Aussatz rein."
+        },
+        {
+          "num": 4,
+          "text": "Und Jesus sprach zu ihm: Siehe zu, sage es niemand; sondern gehe hin und zeige dich dem Priester und opfere die Gabe, die Mose befohlen hat, zu einem Zeugnis über sie."
+        },
+        {
+          "num": 5,
+          "text": "Da aber Jesus einging zu Kapernaum, trat ein Hauptmann zu ihm, der bat ihn"
+        },
+        {
+          "num": 6,
+          "text": "und sprach: HERR, mein Knecht liegt zu Hause und ist gichtbrüchig und hat große Qual."
+        },
+        {
+          "num": 7,
+          "text": "Jesus sprach zu ihm: Ich will kommen und ihn gesund machen."
+        },
+        {
+          "num": 8,
+          "text": "Der Hauptmann antwortete und sprach: HERR, ich bin nicht wert, daß du unter mein Dach gehest; sondern sprich nur ein Wort, so wird mein Knecht gesund."
+        },
+        {
+          "num": 9,
+          "text": "Denn ich bin ein Mensch, der Obrigkeit untertan, und habe unter mir Kriegsknechte; und wenn ich sage zu einem: Gehe hin! so geht er; und zum andern: Komm her! so kommt er; und zu meinem Knecht: Tu das! so tut er's."
+        },
+        {
+          "num": 10,
+          "text": "Da das Jesus hörte, verwunderte er sich und sprach zu denen, die ihm nachfolgten: Wahrlich ich sage euch: Solchen Glauben habe ich in Israel nicht gefunden!"
+        },
+        {
+          "num": 11,
+          "text": "Aber ich sage euch viele werden kommen vom Morgen und vom Abend und mit Abraham und Isaak und Jakob im Himmelreich sitzen;"
+        },
+        {
+          "num": 12,
+          "text": "aber die Kinder des Reiches werden ausgestoßen in die Finsternis hinaus; da wird sein Heulen und Zähneklappen."
+        },
+        {
+          "num": 13,
+          "text": "Und Jesus sprach zu dem Hauptmann: Gehe hin; dir geschehe, wie du geglaubt hast. Und sein Knecht ward gesund zu derselben Stunde."
+        }
+      ],
       "text": "Da er aber vom Berg herabging, folgte ihm viel Volks nach. Und siehe, ein Aussätziger kam und betete ihn an und sprach: HERR, so du willst, kannst du mich wohl reinigen. Und Jesus streckte seine Hand aus, rührte ihn an und sprach: Ich will's tun; sei gereinigt! Und alsbald ward er vom Aussatz rein. Und Jesus sprach zu ihm: Siehe zu, sage es niemand; sondern gehe hin und zeige dich dem Priester und opfere die Gabe, die Mose befohlen hat, zu einem Zeugnis über sie. Da aber Jesus einging zu Kapernaum, trat ein Hauptmann zu ihm, der bat ihn und sprach: HERR, mein Knecht liegt zu Hause und ist gichtbrüchig und hat große Qual. Jesus sprach zu ihm: Ich will kommen und ihn gesund machen. Der Hauptmann antwortete und sprach: HERR, ich bin nicht wert, daß du unter mein Dach gehest; sondern sprich nur ein Wort, so wird mein Knecht gesund. Denn ich bin ein Mensch, der Obrigkeit untertan, und habe unter mir Kriegsknechte; und wenn ich sage zu einem: Gehe hin! so geht er; und zum andern: Komm her! so kommt er; und zu meinem Knecht: Tu das! so tut er's. Da das Jesus hörte, verwunderte er sich und sprach zu denen, die ihm nachfolgten: Wahrlich ich sage euch: Solchen Glauben habe ich in Israel nicht gefunden! Aber ich sage euch viele werden kommen vom Morgen und vom Abend und mit Abraham und Isaak und Jakob im Himmelreich sitzen; aber die Kinder des Reiches werden ausgestoßen in die Finsternis hinaus; da wird sein Heulen und Zähneklappen. Und Jesus sprach zu dem Hauptmann: Gehe hin; dir geschehe, wie du geglaubt hast. Und sein Knecht ward gesund zu derselben Stunde.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +70,28 @@
     },
     "epistle": {
       "ref": "Röm 12,17-21",
+      "verses": [
+        {
+          "num": 17,
+          "text": "Haltet euch nicht selbst für klug. Vergeltet niemand Böses mit Bösem. Fleißigt euch der Ehrbarkeit gegen jedermann."
+        },
+        {
+          "num": 18,
+          "text": "Ist es möglich, soviel an euch ist, so habt mit allen Menschen Frieden."
+        },
+        {
+          "num": 19,
+          "text": "Rächet euch selber nicht, meine Liebsten, sondern gebet Raum dem Zorn Gottes; denn es steht geschrieben: \"Die Rache ist mein; ich will vergelten, spricht der HERR.\""
+        },
+        {
+          "num": 20,
+          "text": "So nun deinen Feind hungert, so speise ihn; dürstet ihn, so tränke ihn. Wenn du das tust, so wirst du feurige Kohlen auf sein Haupt sammeln."
+        },
+        {
+          "num": 21,
+          "text": "Laß dich nicht das Böse überwinden, sondern überwinde das Böse mit Gutem."
+        }
+      ],
       "text": "Haltet euch nicht selbst für klug. Vergeltet niemand Böses mit Bösem. Fleißigt euch der Ehrbarkeit gegen jedermann. Ist es möglich, soviel an euch ist, so habt mit allen Menschen Frieden. Rächet euch selber nicht, meine Liebsten, sondern gebet Raum dem Zorn Gottes; denn es steht geschrieben: \"Die Rache ist mein; ich will vergelten, spricht der HERR.\" So nun deinen Feind hungert, so speise ihn; dürstet ihn, so tränke ihn. Wenn du das tust, so wirst du feurige Kohlen auf sein Haupt sammeln. Laß dich nicht das Böse überwinden, sondern überwinde das Böse mit Gutem.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +99,180 @@
     },
     "psalm": {
       "ref": "Ps 107",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Danket dem HERRN; denn er ist freundlich, und seine Güte währet ewiglich."
+        },
+        {
+          "num": 2,
+          "text": "So sollen sagen, die erlöst sind durch den HERRN, die er aus der Not erlöst hat"
+        },
+        {
+          "num": 3,
+          "text": "und die er aus den Ländern zusammengebracht hat vom Aufgang, vom Niedergang, von Mitternacht und vom Meer."
+        },
+        {
+          "num": 4,
+          "text": "Die irregingen in der Wüste, in ungebahntem Wege, und fanden keine Stadt, da sie wohnen konnten,"
+        },
+        {
+          "num": 5,
+          "text": "hungrig und durstig, und ihre Seele verschmachtete;"
+        },
+        {
+          "num": 6,
+          "text": "die zum HERRN riefen in ihrer Not, und er errettete sie aus ihren Ängsten"
+        },
+        {
+          "num": 7,
+          "text": "und führte sie einen richtigen Weg, daß sie gingen zur Stadt, da sie wohnen konnten:"
+        },
+        {
+          "num": 8,
+          "text": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut,"
+        },
+        {
+          "num": 9,
+          "text": "daß er sättigt die durstige Seele und füllt die hungrige Seele mit Gutem."
+        },
+        {
+          "num": 10,
+          "text": "Die da sitzen mußten in Finsternis und Dunkel, gefangen in Zwang und Eisen,"
+        },
+        {
+          "num": 11,
+          "text": "darum daß sie Gottes Geboten ungehorsam gewesen waren und das Gesetz des Höchsten geschändet hatten,"
+        },
+        {
+          "num": 12,
+          "text": "dafür ihr Herz mit Unglück geplagt werden mußte, daß sie dalagen und ihnen niemand half;"
+        },
+        {
+          "num": 13,
+          "text": "die zum HERRN riefen in ihrer Not, und er half ihnen aus ihren Ängsten"
+        },
+        {
+          "num": 14,
+          "text": "und führte sie aus der Finsternis und Dunkel und zerriß ihre Bande:"
+        },
+        {
+          "num": 15,
+          "text": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die an den Menschenkindern tut,"
+        },
+        {
+          "num": 16,
+          "text": "daß er zerbricht eherne Türen und zerschlägt eiserne Riegel."
+        },
+        {
+          "num": 17,
+          "text": "Die Narren, so geplagt waren um ihrer Übertretung willen und um ihrer Sünden willen,"
+        },
+        {
+          "num": 18,
+          "text": "daß ihnen ekelte vor aller Speise und sie todkrank wurden;"
+        },
+        {
+          "num": 19,
+          "text": "die riefen zum HERRN in ihrer Not, und er half ihnen aus ihren Ängsten,"
+        },
+        {
+          "num": 20,
+          "text": "er sandte sein Wort und machte sie gesund und errettete sie, daß sie nicht starben:"
+        },
+        {
+          "num": 21,
+          "text": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut,"
+        },
+        {
+          "num": 22,
+          "text": "und Dank opfern und erzählen seine Werke mit Freuden."
+        },
+        {
+          "num": 23,
+          "text": "Die mit Schiffen auf dem Meer fuhren und trieben ihren Handel in großen Wassern;"
+        },
+        {
+          "num": 24,
+          "text": "die des HERRN Werke erfahren haben und seine Wunder im Meer,"
+        },
+        {
+          "num": 25,
+          "text": "wenn er sprach und einen Sturmwind erregte, der die Wellen erhob,"
+        },
+        {
+          "num": 26,
+          "text": "und sie gen Himmel fuhren und in den Abgrund fuhren, daß ihre Seele vor Angst verzagte,"
+        },
+        {
+          "num": 27,
+          "text": "daß sie taumelten und wankten wie ein Trunkener und wußten keinen Rat mehr;"
+        },
+        {
+          "num": 28,
+          "text": "die zum HERRN schrieen in ihrer Not, und er führte sie aus ihren Ängsten"
+        },
+        {
+          "num": 29,
+          "text": "und stillte das Ungewitter, daß die Wellen sich legten"
+        },
+        {
+          "num": 30,
+          "text": "und sie froh wurden, daß es still geworden war und er sie zu Lande brachte nach ihrem Wunsch:"
+        },
+        {
+          "num": 31,
+          "text": "die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut,"
+        },
+        {
+          "num": 32,
+          "text": "und ihn bei der Gemeinde preisen und bei den Alten rühmen."
+        },
+        {
+          "num": 33,
+          "text": "Er machte Bäche trocken und ließ Wasserquellen versiegen,"
+        },
+        {
+          "num": 34,
+          "text": "daß ein fruchtbar Land zur Salzwüste wurde um der Bosheit willen derer, die darin wohnten."
+        },
+        {
+          "num": 35,
+          "text": "Er machte das Trockene wiederum wasserreich und im dürren Lande Wasserquellen"
+        },
+        {
+          "num": 36,
+          "text": "und hat die Hungrigen dahingesetzt, daß sie eine Stadt zurichten, da sie wohnen konnten,"
+        },
+        {
+          "num": 37,
+          "text": "und Äcker besäen und Weinberge pflanzen möchten und die jährlichen Früchte gewönnen."
+        },
+        {
+          "num": 38,
+          "text": "Und er segnete sie, daß sie sich sehr mehrten, und gab ihnen viel Vieh."
+        },
+        {
+          "num": 39,
+          "text": "Sie waren niedergedrückt und geschwächt von dem Bösen, das sie gezwungen und gedrungen hatte."
+        },
+        {
+          "num": 40,
+          "text": "Er schüttete Verachtung auf die Fürsten und ließ sie irren in der Wüste, da kein Weg ist,"
+        },
+        {
+          "num": 41,
+          "text": "und schützte den Armen vor Elend und mehrte sein Geschlecht wie eine Herde."
+        },
+        {
+          "num": 42,
+          "text": "Solches werden die Frommen sehen und sich freuen; und aller Bosheit wird das Maul gestopft werden."
+        },
+        {
+          "num": 43,
+          "text": "Wer ist weise und behält dies? So werden sie merken, wie viel Wohltaten der HERR erzeigt."
+        }
+      ],
       "text": "Danket dem HERRN; denn er ist freundlich, und seine Güte währet ewiglich. So sollen sagen, die erlöst sind durch den HERRN, die er aus der Not erlöst hat und die er aus den Ländern zusammengebracht hat vom Aufgang, vom Niedergang, von Mitternacht und vom Meer. Die irregingen in der Wüste, in ungebahntem Wege, und fanden keine Stadt, da sie wohnen konnten, hungrig und durstig, und ihre Seele verschmachtete; die zum HERRN riefen in ihrer Not, und er errettete sie aus ihren Ängsten und führte sie einen richtigen Weg, daß sie gingen zur Stadt, da sie wohnen konnten: die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut, daß er sättigt die durstige Seele und füllt die hungrige Seele mit Gutem. Die da sitzen mußten in Finsternis und Dunkel, gefangen in Zwang und Eisen, darum daß sie Gottes Geboten ungehorsam gewesen waren und das Gesetz des Höchsten geschändet hatten, dafür ihr Herz mit Unglück geplagt werden mußte, daß sie dalagen und ihnen niemand half; die zum HERRN riefen in ihrer Not, und er half ihnen aus ihren Ängsten und führte sie aus der Finsternis und Dunkel und zerriß ihre Bande: die sollen dem HERRN danken für seine Güte und für seine Wunder, die an den Menschenkindern tut, daß er zerbricht eherne Türen und zerschlägt eiserne Riegel. Die Narren, so geplagt waren um ihrer Übertretung willen und um ihrer Sünden willen, daß ihnen ekelte vor aller Speise und sie todkrank wurden; die riefen zum HERRN in ihrer Not, und er half ihnen aus ihren Ängsten, er sandte sein Wort und machte sie gesund und errettete sie, daß sie nicht starben: die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut, und Dank opfern und erzählen seine Werke mit Freuden. Die mit Schiffen auf dem Meer fuhren und trieben ihren Handel in großen Wassern; die des HERRN Werke erfahren haben und seine Wunder im Meer, wenn er sprach und einen Sturmwind erregte, der die Wellen erhob, und sie gen Himmel fuhren und in den Abgrund fuhren, daß ihre Seele vor Angst verzagte, daß sie taumelten und wankten wie ein Trunkener und wußten keinen Rat mehr; die zum HERRN schrieen in ihrer Not, und er führte sie aus ihren Ängsten und stillte das Ungewitter, daß die Wellen sich legten und sie froh wurden, daß es still geworden war und er sie zu Lande brachte nach ihrem Wunsch: die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut, und ihn bei der Gemeinde preisen und bei den Alten rühmen. Er machte Bäche trocken und ließ Wasserquellen versiegen, daß ein fruchtbar Land zur Salzwüste wurde um der Bosheit willen derer, die darin wohnten. Er machte das Trockene wiederum wasserreich und im dürren Lande Wasserquellen und hat die Hungrigen dahingesetzt, daß sie eine Stadt zurichten, da sie wohnen konnten, und Äcker besäen und Weinberge pflanzen möchten und die jährlichen Früchte gewönnen. Und er segnete sie, daß sie sich sehr mehrten, und gab ihnen viel Vieh. Sie waren niedergedrückt und geschwächt von dem Bösen, das sie gezwungen und gedrungen hatte. Er schüttete Verachtung auf die Fürsten und ließ sie irren in der Wüste, da kein Weg ist, und schützte den Armen vor Elend und mehrte sein Geschlecht wie eine Herde. Solches werden die Frommen sehen und sich freuen; und aller Bosheit wird das Maul gestopft werden. Wer ist weise und behält dies? So werden sie merken, wie viel Wohltaten der HERR erzeigt.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

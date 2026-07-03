@@ -9,6 +9,64 @@
     "gospel": {
       "ref": "Joh 8,46-59",
       "stable": true,
+      "verses": [
+        {
+          "num": 46,
+          "text": "Welcher unter euch kann mich einer Sünde zeihen? So ich aber die Wahrheit sage, warum glaubet ihr mir nicht?"
+        },
+        {
+          "num": 47,
+          "text": "Wer von Gott ist, der hört Gottes Worte; darum hört ihr nicht, denn ihr seid nicht von Gott."
+        },
+        {
+          "num": 48,
+          "text": "Da antworteten die Juden und sprachen zu ihm: Sagen wir nicht recht, daß du ein Samariter bist und hast den Teufel?"
+        },
+        {
+          "num": 49,
+          "text": "Jesus antwortete: Ich habe keinen Teufel, sondern ich ehre meinen Vater, und ihr unehret mich."
+        },
+        {
+          "num": 50,
+          "text": "Ich suche nicht meine Ehre; es ist aber einer, der sie sucht, und richtet."
+        },
+        {
+          "num": 51,
+          "text": "Wahrlich, wahrlich ich sage euch: So jemand mein Wort wird halten, der wird den Tod nicht sehen ewiglich."
+        },
+        {
+          "num": 52,
+          "text": "Da sprachen die Juden zu ihm: Nun erkennen wir, daß du den Teufel hast. Abraham ist gestorben und die Propheten, und du sprichst: \"So jemand mein Wort hält, der wird den Tod nicht schmecken ewiglich.\""
+        },
+        {
+          "num": 53,
+          "text": "Bist du denn mehr als unser Vater Abraham, welcher gestorben ist? Und die Propheten sind gestorben. Was machst du aus dir selbst?"
+        },
+        {
+          "num": 54,
+          "text": "Jesus antwortete: So ich mich selber ehre, so ist meine Ehre nichts. Es ist aber mein Vater, der mich ehrt, von welchem ihr sprecht, er sei euer Gott;"
+        },
+        {
+          "num": 55,
+          "text": "und kennet ihn nicht, ich aber kenne ihn. Und so ich würde sagen: Ich kenne ihn nicht, so würde ich ein Lügner, gleichwie ihr seid. Aber ich kenne ihn und halte sein Wort."
+        },
+        {
+          "num": 56,
+          "text": "Abraham, euer Vater, ward froh, daß er meinen Tag sehen sollte; und er sah ihn und freute sich."
+        },
+        {
+          "num": 57,
+          "text": "Da sprachen die Juden zu ihm: Du bist noch nicht fünfzig Jahre alt und hast Abraham gesehen?"
+        },
+        {
+          "num": 58,
+          "text": "Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Ehe denn Abraham ward, bin ich."
+        },
+        {
+          "num": 59,
+          "text": "Da hoben sie Steine auf, daß sie auf ihn würfen. Aber Jesus verbarg sich und ging zum Tempel hinaus."
+        }
+      ],
       "text": "Welcher unter euch kann mich einer Sünde zeihen? So ich aber die Wahrheit sage, warum glaubet ihr mir nicht? Wer von Gott ist, der hört Gottes Worte; darum hört ihr nicht, denn ihr seid nicht von Gott. Da antworteten die Juden und sprachen zu ihm: Sagen wir nicht recht, daß du ein Samariter bist und hast den Teufel? Jesus antwortete: Ich habe keinen Teufel, sondern ich ehre meinen Vater, und ihr unehret mich. Ich suche nicht meine Ehre; es ist aber einer, der sie sucht, und richtet. Wahrlich, wahrlich ich sage euch: So jemand mein Wort wird halten, der wird den Tod nicht sehen ewiglich. Da sprachen die Juden zu ihm: Nun erkennen wir, daß du den Teufel hast. Abraham ist gestorben und die Propheten, und du sprichst: \"So jemand mein Wort hält, der wird den Tod nicht schmecken ewiglich.\" Bist du denn mehr als unser Vater Abraham, welcher gestorben ist? Und die Propheten sind gestorben. Was machst du aus dir selbst? Jesus antwortete: So ich mich selber ehre, so ist meine Ehre nichts. Es ist aber mein Vater, der mich ehrt, von welchem ihr sprecht, er sei euer Gott; und kennet ihn nicht, ich aber kenne ihn. Und so ich würde sagen: Ich kenne ihn nicht, so würde ich ein Lügner, gleichwie ihr seid. Aber ich kenne ihn und halte sein Wort. Abraham, euer Vater, ward froh, daß er meinen Tag sehen sollte; und er sah ihn und freute sich. Da sprachen die Juden zu ihm: Du bist noch nicht fünfzig Jahre alt und hast Abraham gesehen? Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Ehe denn Abraham ward, bin ich. Da hoben sie Steine auf, daß sie auf ihn würfen. Aber Jesus verbarg sich und ging zum Tempel hinaus.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +74,28 @@
     },
     "epistle": {
       "ref": "Hebr 9,11-15",
+      "verses": [
+        {
+          "num": 11,
+          "text": "Christus aber ist gekommen, daß er sei ein Hoherpriester der zukünftigen Güter, und ist durch eine größere und vollkommenere Hütte, die nicht mit der Hand gemacht, das ist, die nicht von dieser Schöpfung ist,"
+        },
+        {
+          "num": 12,
+          "text": "auch nicht der Böcke oder Kälber Blut, sondern sein eigen Blut einmal in das Heilige eingegangen und hat eine ewige Erlösung erfunden."
+        },
+        {
+          "num": 13,
+          "text": "Denn so der Ochsen und der Böcke Blut und die Asche von der Kuh, gesprengt, heiligt die Unreinen zu der leiblichen Reinigkeit,"
+        },
+        {
+          "num": 14,
+          "text": "wie viel mehr wird das Blut Christi, der sich selbst ohne allen Fehl durch den ewigen Geist Gott geopfert hat, unser Gewissen reinigen von den toten Werken, zu dienen dem lebendigen Gott!"
+        },
+        {
+          "num": 15,
+          "text": "Und darum ist er auch ein Mittler des neuen Testaments, auf daß durch den Tod, so geschehen ist zur Erlösung von den Übertretungen, die unter dem ersten Testament waren, die, so berufen sind, das verheißene ewige Erbe empfangen."
+        }
+      ],
       "text": "Christus aber ist gekommen, daß er sei ein Hoherpriester der zukünftigen Güter, und ist durch eine größere und vollkommenere Hütte, die nicht mit der Hand gemacht, das ist, die nicht von dieser Schöpfung ist, auch nicht der Böcke oder Kälber Blut, sondern sein eigen Blut einmal in das Heilige eingegangen und hat eine ewige Erlösung erfunden. Denn so der Ochsen und der Böcke Blut und die Asche von der Kuh, gesprengt, heiligt die Unreinen zu der leiblichen Reinigkeit, wie viel mehr wird das Blut Christi, der sich selbst ohne allen Fehl durch den ewigen Geist Gott geopfert hat, unser Gewissen reinigen von den toten Werken, zu dienen dem lebendigen Gott! Und darum ist er auch ein Mittler des neuen Testaments, auf daß durch den Tod, so geschehen ist zur Erlösung von den Übertretungen, die unter dem ersten Testament waren, die, so berufen sind, das verheißene ewige Erbe empfangen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +103,28 @@
     },
     "psalm": {
       "ref": "Ps 43",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Richte mich, Gott, und führe meine Sache wider das unheilige Volk und errette mich von den falschen und bösen Leuten."
+        },
+        {
+          "num": 2,
+          "text": "Denn du bist der Gott meine Stärke; warum verstößest du mich? Warum lässest du mich so traurig gehen, wenn mich mein Feind drängt?"
+        },
+        {
+          "num": 3,
+          "text": "Sende dein Licht und deine Wahrheit, daß sie mich leiten und bringen zu deinem heiligen Berg und zu deiner Wohnung,"
+        },
+        {
+          "num": 4,
+          "text": "daß ich hineingehe zum Altar Gottes, zu dem Gott, der meine Freude und Wonne ist, und dir, Gott, auf der Harfe danke, mein Gott."
+        },
+        {
+          "num": 5,
+          "text": "Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott! denn ich werde ihm noch danken, daß er meines Angesichts Hilfe und mein Gott ist."
+        }
+      ],
       "text": "Richte mich, Gott, und führe meine Sache wider das unheilige Volk und errette mich von den falschen und bösen Leuten. Denn du bist der Gott meine Stärke; warum verstößest du mich? Warum lässest du mich so traurig gehen, wenn mich mein Feind drängt? Sende dein Licht und deine Wahrheit, daß sie mich leiten und bringen zu deinem heiligen Berg und zu deiner Wohnung, daß ich hineingehe zum Altar Gottes, zu dem Gott, der meine Freude und Wonne ist, und dir, Gott, auf der Harfe danke, mein Gott. Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott! denn ich werde ihm noch danken, daß er meines Angesichts Hilfe und mein Gott ist.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

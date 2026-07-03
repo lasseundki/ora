@@ -136,8 +136,6 @@ const MONTHS = ['Januar','Februar','März','April','Mai','Juni','Juli','August',
 export function DayView({ day, content, loading, date, fontSize, mode, onPrev, onToggleMode, onEngagement }: Props) {
   const c = getColors(day.color)
   const dateLabel = `${DOW[date.getDay()]}, ${date.getDate()}. ${MONTHS[date.getMonth()]} ${date.getFullYear()}`
-  const todayIso  = new Date().toISOString().slice(0, 10)
-  const isToday   = day.date === todayIso
   const body = { fontSize, lineHeight: 1.85 }
 
   // Build ordered list of sections from available content + mode
@@ -207,14 +205,14 @@ export function DayView({ day, content, loading, date, fontSize, mode, onPrev, o
           <p className="text-xs text-stone-400 mt-3 font-serif italic">Luther, Kleiner Katechismus (1529)</p>
         </>
       )
-      case 'gospel': return content.readings.gospel?.text
-        ? <AnnotatableText text={content.readings.gospel.text} dayId={dayId} sectionId="gospel" className="font-serif text-stone-800" style={body} />
+      case 'gospel': return (content.readings.gospel?.verses || content.readings.gospel?.text)
+        ? <AnnotatableText verses={content.readings.gospel.verses} text={content.readings.gospel.text} dayId={dayId} sectionId="gospel" className="font-serif text-stone-800" style={body} />
         : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>
-      case 'epistle': return content.readings.epistle?.text
-        ? <AnnotatableText text={content.readings.epistle.text} dayId={dayId} sectionId="epistle" className="font-serif text-stone-800" style={body} />
+      case 'epistle': return (content.readings.epistle?.verses || content.readings.epistle?.text)
+        ? <AnnotatableText verses={content.readings.epistle.verses} text={content.readings.epistle.text} dayId={dayId} sectionId="epistle" className="font-serif text-stone-800" style={body} />
         : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>
-      case 'psalm': return content.readings.psalm?.text
-        ? <AnnotatableText text={content.readings.psalm.text} dayId={dayId} sectionId="psalm" className="font-serif text-stone-700 italic" style={body} />
+      case 'psalm': return (content.readings.psalm?.verses || content.readings.psalm?.text)
+        ? <AnnotatableText verses={content.readings.psalm.verses} text={content.readings.psalm.text} dayId={dayId} sectionId="psalm" className="font-serif text-stone-700 italic" style={body} />
         : <p className="font-serif text-stone-400 italic">Text noch nicht verfügbar.</p>
       case 'devotion': return (
         <>

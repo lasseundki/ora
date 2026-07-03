@@ -9,6 +9,52 @@
     "gospel": {
       "ref": "Matt 6,24-34",
       "stable": true,
+      "verses": [
+        {
+          "num": 24,
+          "text": "Niemand kann zwei Herren dienen: entweder er wird den einen hassen und den andern lieben, oder er wird dem einen anhangen und den andern verachten. Ihr könnt nicht Gott dienen und dem Mammon."
+        },
+        {
+          "num": 25,
+          "text": "Darum sage ich euch: Sorget nicht für euer Leben, was ihr essen und trinken werdet, auch nicht für euren Leib, was ihr anziehen werdet. Ist nicht das Leben mehr denn Speise? und der Leib mehr denn die Kleidung?"
+        },
+        {
+          "num": 26,
+          "text": "Sehet die Vögel unter dem Himmel an: sie säen nicht, sie ernten nicht, sie sammeln nicht in die Scheunen; und euer himmlischer Vater nährt sie doch. Seid ihr denn nicht viel mehr denn sie?"
+        },
+        {
+          "num": 27,
+          "text": "Wer ist aber unter euch, der seiner Länge eine Elle zusetzen möge, ob er gleich darum sorget?"
+        },
+        {
+          "num": 28,
+          "text": "Und warum sorget ihr für die Kleidung? Schaut die Lilien auf dem Felde, wie sie wachsen: sie arbeiten nicht, auch spinnen sie nicht."
+        },
+        {
+          "num": 29,
+          "text": "Ich sage euch, daß auch Salomo in aller seiner Herrlichkeit nicht bekleidet gewesen ist wie derselben eins."
+        },
+        {
+          "num": 30,
+          "text": "So denn Gott das Gras auf dem Felde also kleidet, das doch heute steht und morgen in den Ofen geworfen wird: sollte er das nicht viel mehr euch tun, o ihr Kleingläubigen?"
+        },
+        {
+          "num": 31,
+          "text": "Darum sollt ihr nicht sorgen und sagen: Was werden wir essen, was werden wir trinken, womit werden wir uns kleiden?"
+        },
+        {
+          "num": 32,
+          "text": "Nach solchem allem trachten die Heiden. Denn euer himmlischer Vater weiß, daß ihr des alles bedürfet."
+        },
+        {
+          "num": 33,
+          "text": "Trachtet am ersten nach dem Reich Gottes und nach seiner Gerechtigkeit, so wird euch solches alles zufallen."
+        },
+        {
+          "num": 34,
+          "text": "Darum sorgt nicht für den andern Morgen; denn der morgende Tag wird für das Seine sorgen. Es ist genug, daß ein jeglicher Tag seine eigene Plage habe."
+        }
+      ],
       "text": "Niemand kann zwei Herren dienen: entweder er wird den einen hassen und den andern lieben, oder er wird dem einen anhangen und den andern verachten. Ihr könnt nicht Gott dienen und dem Mammon. Darum sage ich euch: Sorget nicht für euer Leben, was ihr essen und trinken werdet, auch nicht für euren Leib, was ihr anziehen werdet. Ist nicht das Leben mehr denn Speise? und der Leib mehr denn die Kleidung? Sehet die Vögel unter dem Himmel an: sie säen nicht, sie ernten nicht, sie sammeln nicht in die Scheunen; und euer himmlischer Vater nährt sie doch. Seid ihr denn nicht viel mehr denn sie? Wer ist aber unter euch, der seiner Länge eine Elle zusetzen möge, ob er gleich darum sorget? Und warum sorget ihr für die Kleidung? Schaut die Lilien auf dem Felde, wie sie wachsen: sie arbeiten nicht, auch spinnen sie nicht. Ich sage euch, daß auch Salomo in aller seiner Herrlichkeit nicht bekleidet gewesen ist wie derselben eins. So denn Gott das Gras auf dem Felde also kleidet, das doch heute steht und morgen in den Ofen geworfen wird: sollte er das nicht viel mehr euch tun, o ihr Kleingläubigen? Darum sollt ihr nicht sorgen und sagen: Was werden wir essen, was werden wir trinken, womit werden wir uns kleiden? Nach solchem allem trachten die Heiden. Denn euer himmlischer Vater weiß, daß ihr des alles bedürfet. Trachtet am ersten nach dem Reich Gottes und nach seiner Gerechtigkeit, so wird euch solches alles zufallen. Darum sorgt nicht für den andern Morgen; denn der morgende Tag wird für das Seine sorgen. Es ist genug, daß ein jeglicher Tag seine eigene Plage habe.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -17,6 +63,48 @@
     "epistle": {
       "ref": "Gal 6,1-10",
       "_note": "Orig.: Gal 5,25–6,10 — kapitelübergreifend, Kap. 6 gewählt",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Liebe Brüder, so ein Mensch etwa von einem Fehler übereilt würde, so helfet ihm wieder zurecht mit sanftmütigem Geist ihr, die ihr geistlich seid; und sieh auf dich selbst, daß du nicht auch versucht werdest."
+        },
+        {
+          "num": 2,
+          "text": "Einer trage des andern Last, so werdet ihr das Gesetz Christi erfüllen."
+        },
+        {
+          "num": 3,
+          "text": "So aber jemand sich läßt dünken, er sei etwas, so er doch nichts ist, der betrügt sich selbst."
+        },
+        {
+          "num": 4,
+          "text": "Ein jeglicher aber prüfe sein eigen Werk; und alsdann wird er an sich selber Ruhm haben und nicht an einem andern."
+        },
+        {
+          "num": 5,
+          "text": "Denn ein jeglicher wird seine Last tragen."
+        },
+        {
+          "num": 6,
+          "text": "Der aber unterrichtet wird mit dem Wort, der teile mit allerlei Gutes dem, der ihn unterrichtet."
+        },
+        {
+          "num": 7,
+          "text": "Irrt euch nicht! Gott läßt sich nicht spotten. Denn was der Mensch sät, das wird er ernten."
+        },
+        {
+          "num": 8,
+          "text": "Wer auf sein Fleisch sät, der wird von dem Fleisch das Verderben ernten; wer aber auf den Geist sät, der wird von dem Geist das ewige Leben ernten."
+        },
+        {
+          "num": 9,
+          "text": "Lasset uns aber Gutes tun und nicht müde werden; denn zu seiner Zeit werden wir auch ernten ohne Aufhören."
+        },
+        {
+          "num": 10,
+          "text": "Als wir denn nun Zeit haben, so lasset uns Gutes tun an jedermann, allermeist aber an des Glaubens Genossen."
+        }
+      ],
       "text": "Liebe Brüder, so ein Mensch etwa von einem Fehler übereilt würde, so helfet ihm wieder zurecht mit sanftmütigem Geist ihr, die ihr geistlich seid; und sieh auf dich selbst, daß du nicht auch versucht werdest. Einer trage des andern Last, so werdet ihr das Gesetz Christi erfüllen. So aber jemand sich läßt dünken, er sei etwas, so er doch nichts ist, der betrügt sich selbst. Ein jeglicher aber prüfe sein eigen Werk; und alsdann wird er an sich selber Ruhm haben und nicht an einem andern. Denn ein jeglicher wird seine Last tragen. Der aber unterrichtet wird mit dem Wort, der teile mit allerlei Gutes dem, der ihn unterrichtet. Irrt euch nicht! Gott läßt sich nicht spotten. Denn was der Mensch sät, das wird er ernten. Wer auf sein Fleisch sät, der wird von dem Fleisch das Verderben ernten; wer aber auf den Geist sät, der wird von dem Geist das ewige Leben ernten. Lasset uns aber Gutes tun und nicht müde werden; denn zu seiner Zeit werden wir auch ernten ohne Aufhören. Als wir denn nun Zeit haben, so lasset uns Gutes tun an jedermann, allermeist aber an des Glaubens Genossen.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -24,6 +112,168 @@
     },
     "psalm": {
       "ref": "Ps 37",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Davids. Erzürne dich nicht über die Bösen; sei nicht neidisch auf die Übeltäter."
+        },
+        {
+          "num": 2,
+          "text": "Denn wie das Gras werden sie bald abgehauen, und wie das grüne Kraut werden sie verwelken."
+        },
+        {
+          "num": 3,
+          "text": "Hoffe auf den HERRN und tue Gutes; bleibe im Lande und nähre dich redlich."
+        },
+        {
+          "num": 4,
+          "text": "Habe Deine Lust am HERRN; der wird dir geben, was dein Herz wünschet."
+        },
+        {
+          "num": 5,
+          "text": "Befiehl dem HERRN deine Wege und hoffe auf ihn; er wird's wohl machen"
+        },
+        {
+          "num": 6,
+          "text": "und wird deine Gerechtigkeit hervorbringen wie das Licht und dein Recht wie den Mittag."
+        },
+        {
+          "num": 7,
+          "text": "Sei stille dem HERRN und warte auf ihn; erzürne dich nicht über den, dem sein Mutwille glücklich fortgeht."
+        },
+        {
+          "num": 8,
+          "text": "Steh ab vom Zorn und laß den Grimm, erzürne dich nicht, daß du nicht auch übel tust."
+        },
+        {
+          "num": 9,
+          "text": "Denn die Bösen werden ausgerottet; die aber des HERRN harren, werden das Land erben."
+        },
+        {
+          "num": 10,
+          "text": "Es ist noch um ein kleines, so ist der Gottlose nimmer; und wenn du nach seiner Stätte sehen wirst, wird er weg sein."
+        },
+        {
+          "num": 11,
+          "text": "Aber die Elenden werden das Land erben und Lust haben in großem Frieden."
+        },
+        {
+          "num": 12,
+          "text": "Der Gottlose droht dem Gerechten und beißt seine Zähne zusammen über ihn."
+        },
+        {
+          "num": 13,
+          "text": "Aber der HERR lacht sein; denn er sieht, daß sein Tag kommt."
+        },
+        {
+          "num": 14,
+          "text": "Die Gottlosen ziehen das Schwert aus und spannen ihren Bogen, daß sie fällen den Elenden und Armen und schlachten die Frommen."
+        },
+        {
+          "num": 15,
+          "text": "Aber ihr Schwert wird in ihr Herz gehen, und ihr Bogen wird zerbrechen."
+        },
+        {
+          "num": 16,
+          "text": "Das wenige, das ein Gerechter hat, ist besser als das große Gut vieler Gottlosen."
+        },
+        {
+          "num": 17,
+          "text": "Denn der Gottlosen Arm wird zerbrechen; aber der HERR erhält die Gerechten."
+        },
+        {
+          "num": 18,
+          "text": "Der HERR kennt die Tage der Frommen, und ihr Gut wird ewiglich bleiben."
+        },
+        {
+          "num": 19,
+          "text": "Sie werden nicht zu Schanden in der bösen Zeit, und in der Teuerung werden sie genug haben."
+        },
+        {
+          "num": 20,
+          "text": "Denn die Gottlosen werden umkommen; und die Feinde des HERRN, wenn sie gleich sind wie köstliche Aue, werden sie doch vergehen, wie der Rauch vergeht."
+        },
+        {
+          "num": 21,
+          "text": "Der Gottlose borgt und bezahlt nicht; der Gerechte aber ist barmherzig und gibt."
+        },
+        {
+          "num": 22,
+          "text": "Denn seine Gesegneten erben das Land; aber seine Verfluchten werden ausgerottet."
+        },
+        {
+          "num": 23,
+          "text": "Von dem HERRN wird solches Mannes Gang gefördert, und er hat Lust an seinem Wege."
+        },
+        {
+          "num": 24,
+          "text": "Fällt er, so wird er nicht weggeworfen; denn der HERR hält ihn bei der Hand."
+        },
+        {
+          "num": 25,
+          "text": "Ich bin jung gewesen und alt geworden und habe noch nie gesehen den Gerechten verlassen oder seinen Samen nach Brot gehen."
+        },
+        {
+          "num": 26,
+          "text": "Er ist allezeit barmherzig und leihet gerne, und sein Same wird gesegnet sein."
+        },
+        {
+          "num": 27,
+          "text": "Laß vom Bösen und tue Gutes und bleibe wohnen immerdar."
+        },
+        {
+          "num": 28,
+          "text": "Denn der HERR hat das Recht lieb und verläßt seine Heiligen nicht; ewiglich werden sie bewahrt; aber der Gottlosen Same wird ausgerottet."
+        },
+        {
+          "num": 29,
+          "text": "Die Gerechten erben das Land und bleiben ewiglich darin."
+        },
+        {
+          "num": 30,
+          "text": "Der Mund des Gerechten redet die Weisheit, und seine Zunge lehrt das Recht."
+        },
+        {
+          "num": 31,
+          "text": "Das Gesetz seines Gottes ist in seinem Herzen; seine Tritte gleiten nicht."
+        },
+        {
+          "num": 32,
+          "text": "Der Gottlose lauert auf den Gerechten und gedenkt ihn zu töten."
+        },
+        {
+          "num": 33,
+          "text": "Aber der HERR läßt ihn nicht in seinen Händen und verdammt ihn nicht, wenn er verurteilt wird."
+        },
+        {
+          "num": 34,
+          "text": "Harre auf den HERRN und halte seinen Weg, so wird er dich erhöhen, daß du das Land erbest; du wirst es sehen, daß die Gottlosen ausgerottet werden."
+        },
+        {
+          "num": 35,
+          "text": "Ich habe gesehen einen Gottlosen, der war trotzig und breitete sich aus und grünte wie ein Lorbeerbaum."
+        },
+        {
+          "num": 36,
+          "text": "Da man vorüberging, siehe, da war er dahin; ich fragte nach ihm, da ward er nirgend gefunden."
+        },
+        {
+          "num": 37,
+          "text": "Bleibe fromm und halte dich recht; denn solchem wird's zuletzt wohl gehen."
+        },
+        {
+          "num": 38,
+          "text": "Die Übertreter aber werden vertilgt miteinander, und die Gottlosen werden zuletzt ausgerottet."
+        },
+        {
+          "num": 39,
+          "text": "Aber der HERR hilft den Gerechten; der ist ihre Stärke in der Not."
+        },
+        {
+          "num": 40,
+          "text": "Und der HERR wird ihnen beistehen und wird sie erretten; er wird sie von dem Gottlosen erretten und ihnen helfen; denn sie trauen auf ihn."
+        }
+      ],
       "text": "Ein Psalm Davids. Erzürne dich nicht über die Bösen; sei nicht neidisch auf die Übeltäter. Denn wie das Gras werden sie bald abgehauen, und wie das grüne Kraut werden sie verwelken. Hoffe auf den HERRN und tue Gutes; bleibe im Lande und nähre dich redlich. Habe Deine Lust am HERRN; der wird dir geben, was dein Herz wünschet. Befiehl dem HERRN deine Wege und hoffe auf ihn; er wird's wohl machen und wird deine Gerechtigkeit hervorbringen wie das Licht und dein Recht wie den Mittag. Sei stille dem HERRN und warte auf ihn; erzürne dich nicht über den, dem sein Mutwille glücklich fortgeht. Steh ab vom Zorn und laß den Grimm, erzürne dich nicht, daß du nicht auch übel tust. Denn die Bösen werden ausgerottet; die aber des HERRN harren, werden das Land erben. Es ist noch um ein kleines, so ist der Gottlose nimmer; und wenn du nach seiner Stätte sehen wirst, wird er weg sein. Aber die Elenden werden das Land erben und Lust haben in großem Frieden. Der Gottlose droht dem Gerechten und beißt seine Zähne zusammen über ihn. Aber der HERR lacht sein; denn er sieht, daß sein Tag kommt. Die Gottlosen ziehen das Schwert aus und spannen ihren Bogen, daß sie fällen den Elenden und Armen und schlachten die Frommen. Aber ihr Schwert wird in ihr Herz gehen, und ihr Bogen wird zerbrechen. Das wenige, das ein Gerechter hat, ist besser als das große Gut vieler Gottlosen. Denn der Gottlosen Arm wird zerbrechen; aber der HERR erhält die Gerechten. Der HERR kennt die Tage der Frommen, und ihr Gut wird ewiglich bleiben. Sie werden nicht zu Schanden in der bösen Zeit, und in der Teuerung werden sie genug haben. Denn die Gottlosen werden umkommen; und die Feinde des HERRN, wenn sie gleich sind wie köstliche Aue, werden sie doch vergehen, wie der Rauch vergeht. Der Gottlose borgt und bezahlt nicht; der Gerechte aber ist barmherzig und gibt. Denn seine Gesegneten erben das Land; aber seine Verfluchten werden ausgerottet. Von dem HERRN wird solches Mannes Gang gefördert, und er hat Lust an seinem Wege. Fällt er, so wird er nicht weggeworfen; denn der HERR hält ihn bei der Hand. Ich bin jung gewesen und alt geworden und habe noch nie gesehen den Gerechten verlassen oder seinen Samen nach Brot gehen. Er ist allezeit barmherzig und leihet gerne, und sein Same wird gesegnet sein. Laß vom Bösen und tue Gutes und bleibe wohnen immerdar. Denn der HERR hat das Recht lieb und verläßt seine Heiligen nicht; ewiglich werden sie bewahrt; aber der Gottlosen Same wird ausgerottet. Die Gerechten erben das Land und bleiben ewiglich darin. Der Mund des Gerechten redet die Weisheit, und seine Zunge lehrt das Recht. Das Gesetz seines Gottes ist in seinem Herzen; seine Tritte gleiten nicht. Der Gottlose lauert auf den Gerechten und gedenkt ihn zu töten. Aber der HERR läßt ihn nicht in seinen Händen und verdammt ihn nicht, wenn er verurteilt wird. Harre auf den HERRN und halte seinen Weg, so wird er dich erhöhen, daß du das Land erbest; du wirst es sehen, daß die Gottlosen ausgerottet werden. Ich habe gesehen einen Gottlosen, der war trotzig und breitete sich aus und grünte wie ein Lorbeerbaum. Da man vorüberging, siehe, da war er dahin; ich fragte nach ihm, da ward er nirgend gefunden. Bleibe fromm und halte dich recht; denn solchem wird's zuletzt wohl gehen. Die Übertreter aber werden vertilgt miteinander, und die Gottlosen werden zuletzt ausgerottet. Aber der HERR hilft den Gerechten; der ist ihre Stärke in der Not. Und der HERR wird ihnen beistehen und wird sie erretten; er wird sie von dem Gottlosen erretten und ihnen helfen; denn sie trauen auf ihn.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

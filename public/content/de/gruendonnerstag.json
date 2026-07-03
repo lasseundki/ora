@@ -9,6 +9,64 @@
     "gospel": {
       "ref": "Lk 22,7-20",
       "stable": true,
+      "verses": [
+        {
+          "num": 7,
+          "text": "Es kam nun der Tag der süßen Brote, an welchem man mußte opfern das Osterlamm."
+        },
+        {
+          "num": 8,
+          "text": "Und er sandte Petrus und Johannes und sprach: Gehet hin, bereitet uns das Osterlamm, auf daß wir's essen."
+        },
+        {
+          "num": 9,
+          "text": "Sie aber sprachen zu ihm: Wo willst du, daß wir's bereiten?"
+        },
+        {
+          "num": 10,
+          "text": "Er sprach zu ihnen: Siehe, wenn ihr hineinkommt in die Stadt, wird euch ein Mensch begegnen, der trägt einen Wasserkrug; folget ihm nach in das Haus, da er hineingeht,"
+        },
+        {
+          "num": 11,
+          "text": "und saget zu dem Hausherrn: Der Meister läßt dir sagen: Wo ist die Herberge, darin ich das Osterlamm essen möge mit meinen Jüngern?"
+        },
+        {
+          "num": 12,
+          "text": "Und er wird euch einen großen Saal zeigen, der mit Polstern versehen ist; daselbst bereitet es."
+        },
+        {
+          "num": 13,
+          "text": "Sie gingen hin und fanden, wie er ihnen gesagt hatte, und bereiteten das Osterlamm."
+        },
+        {
+          "num": 14,
+          "text": "Und da die Stunde kam, setzte er sich nieder und die zwölf Apostel mit ihm."
+        },
+        {
+          "num": 15,
+          "text": "Und er sprach zu ihnen: Mich hat herzlich verlangt, dies Osterlamm mit euch zu essen, ehe denn ich leide."
+        },
+        {
+          "num": 16,
+          "text": "Denn ich sage euch, daß ich hinfort nicht mehr davon essen werde, bis daß es erfüllet werde im Reich Gottes."
+        },
+        {
+          "num": 17,
+          "text": "Und er nahm den Kelch, dankte und sprach: Nehmet ihn und teilet ihn unter euch;"
+        },
+        {
+          "num": 18,
+          "text": "denn ich sage euch: Ich werde nicht trinken von dem Gewächs des Weinstocks, bis das Reich Gottes komme."
+        },
+        {
+          "num": 19,
+          "text": "Und er nahm das Brot, dankte und brach's und gab's ihnen und sprach: Das ist mein Leib, der für euch gegeben wird; das tut zu meinem Gedächtnis."
+        },
+        {
+          "num": 20,
+          "text": "Desgleichen auch den Kelch, nach dem Abendmahl, und sprach: Das ist der Kelch, das neue Testament in meinem Blut, das für euch vergossen wird."
+        }
+      ],
       "text": "Es kam nun der Tag der süßen Brote, an welchem man mußte opfern das Osterlamm. Und er sandte Petrus und Johannes und sprach: Gehet hin, bereitet uns das Osterlamm, auf daß wir's essen. Sie aber sprachen zu ihm: Wo willst du, daß wir's bereiten? Er sprach zu ihnen: Siehe, wenn ihr hineinkommt in die Stadt, wird euch ein Mensch begegnen, der trägt einen Wasserkrug; folget ihm nach in das Haus, da er hineingeht, und saget zu dem Hausherrn: Der Meister läßt dir sagen: Wo ist die Herberge, darin ich das Osterlamm essen möge mit meinen Jüngern? Und er wird euch einen großen Saal zeigen, der mit Polstern versehen ist; daselbst bereitet es. Sie gingen hin und fanden, wie er ihnen gesagt hatte, und bereiteten das Osterlamm. Und da die Stunde kam, setzte er sich nieder und die zwölf Apostel mit ihm. Und er sprach zu ihnen: Mich hat herzlich verlangt, dies Osterlamm mit euch zu essen, ehe denn ich leide. Denn ich sage euch, daß ich hinfort nicht mehr davon essen werde, bis daß es erfüllet werde im Reich Gottes. Und er nahm den Kelch, dankte und sprach: Nehmet ihn und teilet ihn unter euch; denn ich sage euch: Ich werde nicht trinken von dem Gewächs des Weinstocks, bis das Reich Gottes komme. Und er nahm das Brot, dankte und brach's und gab's ihnen und sprach: Das ist mein Leib, der für euch gegeben wird; das tut zu meinem Gedächtnis. Desgleichen auch den Kelch, nach dem Abendmahl, und sprach: Das ist der Kelch, das neue Testament in meinem Blut, das für euch vergossen wird.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +74,36 @@
     },
     "epistle": {
       "ref": "1Kor 11,20-32",
+      "verses": [
+        {
+          "num": 20,
+          "text": "Wenn ihr nun zusammenkommt, so hält man da nicht des HERRN Abendmahl."
+        },
+        {
+          "num": 21,
+          "text": "Denn so man das Abendmahl halten soll, nimmt ein jeglicher sein eigenes vorhin, und einer ist hungrig, der andere ist trunken."
+        },
+        {
+          "num": 22,
+          "text": "Habt ihr aber nicht Häuser, da ihr essen und trinken könnt? Oder verachtet ihr die Gemeinde Gottes und beschämet die, so da nichts haben? Was soll ich euch sagen? Soll ich euch loben? Hierin lobe ich euch nicht."
+        },
+        {
+          "num": 23,
+          "text": "Ich habe es von dem HERRN empfangen, das ich euch gegeben habe. Denn der HERR Jesus in der Nacht, da er verraten ward, nahm das Brot,"
+        },
+        {
+          "num": 24,
+          "text": "dankte und brach's und sprach: Nehmet, esset, das ist mein Leib, der für euch gebrochen wird; solches tut zu meinem Gedächtnis."
+        },
+        {
+          "num": 25,
+          "text": "Desgleichen auch den Kelch nach dem Abendmahl und sprach: Dieser Kelch ist das neue Testament in meinem Blut; solches tut, so oft ihr's trinket, zu meinem Gedächtnis."
+        },
+        {
+          "num": 26,
+          "text": "Denn so oft ihr von diesem Brot esset und von diesem Kelch trinket, sollt ihr des HERRN Tod verkündigen, bis daß er kommt."
+        }
+      ],
       "text": "Wenn ihr nun zusammenkommt, so hält man da nicht des HERRN Abendmahl. Denn so man das Abendmahl halten soll, nimmt ein jeglicher sein eigenes vorhin, und einer ist hungrig, der andere ist trunken. Habt ihr aber nicht Häuser, da ihr essen und trinken könnt? Oder verachtet ihr die Gemeinde Gottes und beschämet die, so da nichts haben? Was soll ich euch sagen? Soll ich euch loben? Hierin lobe ich euch nicht. Ich habe es von dem HERRN empfangen, das ich euch gegeben habe. Denn der HERR Jesus in der Nacht, da er verraten ward, nahm das Brot, dankte und brach's und sprach: Nehmet, esset, das ist mein Leib, der für euch gebrochen wird; solches tut zu meinem Gedächtnis. Desgleichen auch den Kelch nach dem Abendmahl und sprach: Dieser Kelch ist das neue Testament in meinem Blut; solches tut, so oft ihr's trinket, zu meinem Gedächtnis. Denn so oft ihr von diesem Brot esset und von diesem Kelch trinket, sollt ihr des HERRN Tod verkündigen, bis daß er kommt.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +111,84 @@
     },
     "psalm": {
       "ref": "Ps 116",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Das ist mir lieb, daß der HERR meine Stimme und mein Flehen hört."
+        },
+        {
+          "num": 2,
+          "text": "Denn er neigte sein Ohr zu mir; darum will ich mein Leben lang ihn anrufen."
+        },
+        {
+          "num": 3,
+          "text": "Stricke des Todes hatten mich umfangen, und Ängste der Hölle hatten mich getroffen; ich kam in Jammer und Not."
+        },
+        {
+          "num": 4,
+          "text": "Aber ich rief an den Namen des HERRN: O HERR, errette mein Seele!"
+        },
+        {
+          "num": 5,
+          "text": "Der HERR ist gnädig und gerecht, und unser Gott ist barmherzig."
+        },
+        {
+          "num": 6,
+          "text": "Der HERR behütet die Einfältigen; wenn ich unterliege, so hilft er mir."
+        },
+        {
+          "num": 7,
+          "text": "Sei nun wieder zufrieden, meine Seele; denn der HERR tut dir Gutes."
+        },
+        {
+          "num": 8,
+          "text": "Denn du hast meine Seele aus dem Tode gerissen, meine Augen von den Tränen, meinen Fuß vom Gleiten."
+        },
+        {
+          "num": 9,
+          "text": "Ich werde wandeln vor dem HERRN im Lande der Lebendigen."
+        },
+        {
+          "num": 10,
+          "text": "Ich glaube, darum rede ich; ich werde aber sehr geplagt."
+        },
+        {
+          "num": 11,
+          "text": "Ich sprach in meinem Zagen: Alle Menschen sind Lügner."
+        },
+        {
+          "num": 12,
+          "text": "Wie soll ich dem HERRN vergelten alle seine Wohltat, die er an mir tut?"
+        },
+        {
+          "num": 13,
+          "text": "Ich will den Kelch des Heils nehmen und des HERRN Namen predigen."
+        },
+        {
+          "num": 14,
+          "text": "Ich will mein Gelübde dem HERRN bezahlen vor allem seinem Volk."
+        },
+        {
+          "num": 15,
+          "text": "Der Tod seiner Heiligen ist wertgehalten vor dem HERRN."
+        },
+        {
+          "num": 16,
+          "text": "O HERR, ich bin dein Knecht; ich bin dein Knecht, deiner Magd Sohn. Du hast meine Bande zerrissen."
+        },
+        {
+          "num": 17,
+          "text": "Dir will ich Dank opfern und des HERRN Namen predigen."
+        },
+        {
+          "num": 18,
+          "text": "Ich will meine Gelübde dem HERRN bezahlen vor allem seinem Volk,"
+        },
+        {
+          "num": 19,
+          "text": "in den Höfen am Hause des HERRN, in dir Jerusalem. Halleluja!"
+        }
+      ],
       "text": "Das ist mir lieb, daß der HERR meine Stimme und mein Flehen hört. Denn er neigte sein Ohr zu mir; darum will ich mein Leben lang ihn anrufen. Stricke des Todes hatten mich umfangen, und Ängste der Hölle hatten mich getroffen; ich kam in Jammer und Not. Aber ich rief an den Namen des HERRN: O HERR, errette mein Seele! Der HERR ist gnädig und gerecht, und unser Gott ist barmherzig. Der HERR behütet die Einfältigen; wenn ich unterliege, so hilft er mir. Sei nun wieder zufrieden, meine Seele; denn der HERR tut dir Gutes. Denn du hast meine Seele aus dem Tode gerissen, meine Augen von den Tränen, meinen Fuß vom Gleiten. Ich werde wandeln vor dem HERRN im Lande der Lebendigen. Ich glaube, darum rede ich; ich werde aber sehr geplagt. Ich sprach in meinem Zagen: Alle Menschen sind Lügner. Wie soll ich dem HERRN vergelten alle seine Wohltat, die er an mir tut? Ich will den Kelch des Heils nehmen und des HERRN Namen predigen. Ich will mein Gelübde dem HERRN bezahlen vor allem seinem Volk. Der Tod seiner Heiligen ist wertgehalten vor dem HERRN. O HERR, ich bin dein Knecht; ich bin dein Knecht, deiner Magd Sohn. Du hast meine Bande zerrissen. Dir will ich Dank opfern und des HERRN Namen predigen. Ich will meine Gelübde dem HERRN bezahlen vor allem seinem Volk, in den Höfen am Hause des HERRN, in dir Jerusalem. Halleluja!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

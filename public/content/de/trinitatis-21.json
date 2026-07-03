@@ -9,6 +9,44 @@
     "gospel": {
       "ref": "Joh 4,46-54",
       "stable": true,
+      "verses": [
+        {
+          "num": 46,
+          "text": "Und Jesus kam abermals gen Kana in Galiläa, da er das Wasser hatte zu Wein gemacht."
+        },
+        {
+          "num": 47,
+          "text": "Und es war ein Königischer, des Sohn lag krank zu Kapernaum. Dieser hörte, daß Jesus kam aus Judäa nach Galiläa, und ging hin zu ihm und bat ihn, daß er hinabkäme und hülfe seinem Sohn; denn er war todkrank."
+        },
+        {
+          "num": 48,
+          "text": "Und Jesus sprach zu ihm: Wenn ihr nicht Zeichen und Wunder seht, so glaubet ihr nicht."
+        },
+        {
+          "num": 49,
+          "text": "Der Königische sprach zu ihm: HERR, komm hinab, ehe denn mein Kind stirbt!"
+        },
+        {
+          "num": 50,
+          "text": "Jesus spricht zu ihm: Gehe hin, dein Sohn lebt! der Mensch glaubte dem Wort, das Jesus zu ihm sagte, und ging hin."
+        },
+        {
+          "num": 51,
+          "text": "Und indem er hinabging, begegneten ihm seine Knechte, verkündigten ihm und sprachen: Dein Kind lebt."
+        },
+        {
+          "num": 52,
+          "text": "Da forschte er von ihnen die Stunde, in welcher es besser mit ihm geworden war. Und sie sprachen zu ihm: Gestern um die siebente Stunde verließ ihn das Fieber."
+        },
+        {
+          "num": 53,
+          "text": "Da merkte der Vater, daß es um die Stunde wäre, in welcher Jesus zu ihm gesagt hatte: Dein Sohn lebt. Und er glaubte mit seinem ganzen Hause."
+        },
+        {
+          "num": 54,
+          "text": "Das ist nun das andere Zeichen, das Jesus tat, da er aus Judäa nach Galiläa kam."
+        }
+      ],
       "text": "Und Jesus kam abermals gen Kana in Galiläa, da er das Wasser hatte zu Wein gemacht. Und es war ein Königischer, des Sohn lag krank zu Kapernaum. Dieser hörte, daß Jesus kam aus Judäa nach Galiläa, und ging hin zu ihm und bat ihn, daß er hinabkäme und hülfe seinem Sohn; denn er war todkrank. Und Jesus sprach zu ihm: Wenn ihr nicht Zeichen und Wunder seht, so glaubet ihr nicht. Der Königische sprach zu ihm: HERR, komm hinab, ehe denn mein Kind stirbt! Jesus spricht zu ihm: Gehe hin, dein Sohn lebt! der Mensch glaubte dem Wort, das Jesus zu ihm sagte, und ging hin. Und indem er hinabging, begegneten ihm seine Knechte, verkündigten ihm und sprachen: Dein Kind lebt. Da forschte er von ihnen die Stunde, in welcher es besser mit ihm geworden war. Und sie sprachen zu ihm: Gestern um die siebente Stunde verließ ihn das Fieber. Da merkte der Vater, daß es um die Stunde wäre, in welcher Jesus zu ihm gesagt hatte: Dein Sohn lebt. Und er glaubte mit seinem ganzen Hause. Das ist nun das andere Zeichen, das Jesus tat, da er aus Judäa nach Galiläa kam.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +54,40 @@
     },
     "epistle": {
       "ref": "Eph 6,10-17",
+      "verses": [
+        {
+          "num": 10,
+          "text": "Zuletzt, meine Brüder, seid stark in dem HERRN und in der Macht seiner Stärke."
+        },
+        {
+          "num": 11,
+          "text": "Ziehet an den Harnisch Gottes, daß ihr bestehen könnet gegen die listigen Anläufe des Teufels."
+        },
+        {
+          "num": 12,
+          "text": "Denn wir haben nicht mit Fleisch und Blut zu kämpfen, sondern mit Fürsten und Gewaltigen, nämlich mit den Herren der Welt, die in der Finsternis dieser Welt herrschen, mit den bösen Geistern unter dem Himmel."
+        },
+        {
+          "num": 13,
+          "text": "Um deswillen ergreifet den Harnisch Gottes, auf daß ihr an dem bösen Tage Widerstand tun und alles wohl ausrichten und das Feld behalten möget."
+        },
+        {
+          "num": 14,
+          "text": "So stehet nun, umgürtet an euren Lenden mit Wahrheit und angezogen mit dem Panzer der Gerechtigkeit"
+        },
+        {
+          "num": 15,
+          "text": "und an den Beinen gestiefelt, als fertig, zu treiben das Evangelium des Friedens."
+        },
+        {
+          "num": 16,
+          "text": "Vor allen Dingen aber ergreifet den Schild des Glaubens, mit welchem ihr auslöschen könnt alle feurigen Pfeile des Bösewichtes;"
+        },
+        {
+          "num": 17,
+          "text": "und nehmet den Helm des Heils und das Schwert des Geistes, welches ist das Wort Gottes."
+        }
+      ],
       "text": "Zuletzt, meine Brüder, seid stark in dem HERRN und in der Macht seiner Stärke. Ziehet an den Harnisch Gottes, daß ihr bestehen könnet gegen die listigen Anläufe des Teufels. Denn wir haben nicht mit Fleisch und Blut zu kämpfen, sondern mit Fürsten und Gewaltigen, nämlich mit den Herren der Welt, die in der Finsternis dieser Welt herrschen, mit den bösen Geistern unter dem Himmel. Um deswillen ergreifet den Harnisch Gottes, auf daß ihr an dem bösen Tage Widerstand tun und alles wohl ausrichten und das Feld behalten möget. So stehet nun, umgürtet an euren Lenden mit Wahrheit und angezogen mit dem Panzer der Gerechtigkeit und an den Beinen gestiefelt, als fertig, zu treiben das Evangelium des Friedens. Vor allen Dingen aber ergreifet den Schild des Glaubens, mit welchem ihr auslöschen könnt alle feurigen Pfeile des Bösewichtes; und nehmet den Helm des Heils und das Schwert des Geistes, welches ist das Wort Gottes.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +95,72 @@
     },
     "psalm": {
       "ref": "Ps 91",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des Allmächtigen bleibt,"
+        },
+        {
+          "num": 2,
+          "text": "der spricht zu dem HERRN: Meine Zuversicht und meine Burg, mein Gott, auf den ich hoffe."
+        },
+        {
+          "num": 3,
+          "text": "Denn er errettet dich vom Strick des Jägers und von der schädlichen Pestilenz."
+        },
+        {
+          "num": 4,
+          "text": "Er wird dich mit seinen Fittichen decken, und deine Zuversicht wird sein unter seinen Flügeln. Seine Wahrheit ist Schirm und Schild,"
+        },
+        {
+          "num": 5,
+          "text": "daß du nicht erschrecken müssest vor dem Grauen der Nacht, vor den Pfeilen, die des Tages fliegen,"
+        },
+        {
+          "num": 6,
+          "text": "vor der Pestilenz, die im Finstern schleicht, vor der Seuche, die im Mittage verderbt."
+        },
+        {
+          "num": 7,
+          "text": "Ob tausend fallen zu deiner Seite und zehntausend zu deiner Rechten, so wird es doch dich nicht treffen."
+        },
+        {
+          "num": 8,
+          "text": "Ja du wirst mit deinen Augen deine Lust sehen und schauen, wie den Gottlosen vergolten wird."
+        },
+        {
+          "num": 9,
+          "text": "Denn der HERR ist deine Zuversicht; der Höchste ist deine Zuflucht."
+        },
+        {
+          "num": 10,
+          "text": "Es wird dir kein Übel begegnen, und keine Plage wird zu deiner Hütte sich nahen."
+        },
+        {
+          "num": 11,
+          "text": "Denn er hat seinen Engeln befohlen über dir, daß sie dich behüten auf allen deinen Wegen,"
+        },
+        {
+          "num": 12,
+          "text": "daß sie dich auf Händen tragen und du deinen Fuß nicht an einen Stein stoßest."
+        },
+        {
+          "num": 13,
+          "text": "Auf Löwen und Ottern wirst du gehen, und treten auf junge Löwen und Drachen."
+        },
+        {
+          "num": 14,
+          "text": "\"Er begehrt mein, so will ich ihm aushelfen; er kennt meinen Namen, darum will ich ihn schützen."
+        },
+        {
+          "num": 15,
+          "text": "Er ruft mich an, so will ich ihn erhören; ich bin bei ihm in der Not; ich will ihn herausreißen und zu Ehren bringen."
+        },
+        {
+          "num": 16,
+          "text": "Ich will ihn sättigen mit langem Leben und will ihm zeigen mein Heil.\""
+        }
+      ],
       "text": "Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des Allmächtigen bleibt, der spricht zu dem HERRN: Meine Zuversicht und meine Burg, mein Gott, auf den ich hoffe. Denn er errettet dich vom Strick des Jägers und von der schädlichen Pestilenz. Er wird dich mit seinen Fittichen decken, und deine Zuversicht wird sein unter seinen Flügeln. Seine Wahrheit ist Schirm und Schild, daß du nicht erschrecken müssest vor dem Grauen der Nacht, vor den Pfeilen, die des Tages fliegen, vor der Pestilenz, die im Finstern schleicht, vor der Seuche, die im Mittage verderbt. Ob tausend fallen zu deiner Seite und zehntausend zu deiner Rechten, so wird es doch dich nicht treffen. Ja du wirst mit deinen Augen deine Lust sehen und schauen, wie den Gottlosen vergolten wird. Denn der HERR ist deine Zuversicht; der Höchste ist deine Zuflucht. Es wird dir kein Übel begegnen, und keine Plage wird zu deiner Hütte sich nahen. Denn er hat seinen Engeln befohlen über dir, daß sie dich behüten auf allen deinen Wegen, daß sie dich auf Händen tragen und du deinen Fuß nicht an einen Stein stoßest. Auf Löwen und Ottern wirst du gehen, und treten auf junge Löwen und Drachen. \"Er begehrt mein, so will ich ihm aushelfen; er kennt meinen Namen, darum will ich ihn schützen. Er ruft mich an, so will ich ihn erhören; ich bin bei ihm in der Not; ich will ihn herausreißen und zu Ehren bringen. Ich will ihn sättigen mit langem Leben und will ihm zeigen mein Heil.\"",
       "source": "Lutherbibel 1912",
       "license": "public-domain",

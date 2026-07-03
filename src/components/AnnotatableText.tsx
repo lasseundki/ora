@@ -2,12 +2,10 @@ import { useState, useRef, useEffect } from 'react'
 import { doc, getDoc, setDoc, serverTimestamp } from 'firebase/firestore'
 import { db } from '../lib/firebase'
 import { useAuth } from '../contexts/AuthContext'
-
-// Firestore: users/{uid}/inline-notes/{dayId}_{sectionId}_{hash}
-// { dayId, sectionId, selectedText, note, createdAt }
+import type { Verse } from '../types/content'
 
 interface Annotation {
-  id: string         // hash of selectedText
+  id: string
   selectedText: string
   note: string
 }
@@ -26,7 +24,6 @@ function hashText(s: string): string {
 
 function highlight(text: string, annotations: Annotation[]): React.ReactNode {
   if (!annotations.length) return text
-  // Sort by position of first occurrence
   const sorted = [...annotations].sort(
     (a, b) => text.indexOf(a.selectedText) - text.indexOf(b.selectedText)
   )
@@ -52,22 +49,22 @@ function highlight(text: string, annotations: Annotation[]): React.ReactNode {
 }
 
 interface Props {
-  text: string
+  text?: string
+  verses?: Verse[]
   dayId: string
   sectionId: string
   className?: string
   style?: React.CSSProperties
 }
 
-export function AnnotatableText({ text, dayId, sectionId, className, style }: Props) {
+export function AnnotatableText({ text, verses, dayId, sectionId, className, style }: Props) {
   const { user } = useAuth()
   const [annotations, setAnnotations] = useState<Annotation[]>([])
   const [popover, setPopover]         = useState<PopoverState | null>(null)
   const [noteInput, setNoteInput]     = useState('')
   const [saving, setSaving]           = useState(false)
-  const containerRef = useRef<HTMLParagraphElement>(null)
+  const containerRef = useRef<HTMLDivElement>(null)
 
-  // Load existing annotations
   useEffect(() => {
     if (!user) return
     const docId = `${dayId}_${sectionId}`
@@ -81,7 +78,6 @@ export function AnnotatableText({ text, dayId, sectionId, className, style }: Pr
     if (!sel || sel.isCollapsed) { setPopover(null); return }
     const selected = sel.toString().trim()
     if (selected.length < 3) { setPopover(null); return }
-    // Only react to selections inside this element
     const range = sel.getRangeAt(0)
     if (!containerRef.current?.contains(range.commonAncestorContainer)) return
     const rect = range.getBoundingClientRect()
@@ -115,17 +111,39 @@ export function AnnotatableText({ text, dayId, sectionId, className, style }: Pr
     dismiss()
   }
 
+  function renderBody() {
+    if (verses && verses.length > 0) {
+      return (
+        <>
+          {verses.map((v, i) => (
+            <span key={v.num}>
+              {i > 0 && ' '}
+              <sup
+                className="text-[9px] text-stone-400 select-none mr-[1px] font-sans not-italic"
+                aria-hidden="true"
+              >
+                {v.num}
+              </sup>
+              {highlight(v.text, annotations)}
+            </span>
+          ))}
+        </>
+      )
+    }
+    return highlight(text ?? '', annotations)
+  }
+
   return (
     <div className="relative select-text">
-      <p
+      <div
         ref={containerRef}
         className={className}
         style={style}
         onMouseUp={onMouseUp}
         onTouchEnd={onMouseUp}
       >
-        {highlight(text, annotations)}
-      </p>
+        {renderBody()}
+      </div>
 
       {popover && (
         <div

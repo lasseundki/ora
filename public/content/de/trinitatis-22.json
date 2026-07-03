@@ -9,6 +9,60 @@
     "gospel": {
       "ref": "Matt 18,23-35",
       "stable": true,
+      "verses": [
+        {
+          "num": 23,
+          "text": "Darum ist das Himmelreich gleich einem König, der mit seinen Knechten rechnen wollte."
+        },
+        {
+          "num": 24,
+          "text": "Und als er anfing zu rechnen, kam ihm einer vor, der war ihm zehntausend Pfund schuldig."
+        },
+        {
+          "num": 25,
+          "text": "Da er's nun nicht hatte, zu bezahlen, hieß der Herr verkaufen ihn und sein Weib und seine Kinder und alles, was er hatte, und bezahlen."
+        },
+        {
+          "num": 26,
+          "text": "Da fiel der Knecht nieder und betete ihn an und sprach: Herr, habe Geduld mit mir, ich will dir's alles bezahlen."
+        },
+        {
+          "num": 27,
+          "text": "Da jammerte den Herrn des Knechtes, und er ließ ihn los, und die Schuld erließ er ihm auch."
+        },
+        {
+          "num": 28,
+          "text": "Da ging derselbe Knecht hinaus und fand einen seiner Mitknechte, der war ihm hundert Groschen schuldig; und er griff ihn an und würgte ihn und sprach: Bezahle mir, was du mir schuldig bist!"
+        },
+        {
+          "num": 29,
+          "text": "Da fiel sein Mitknecht nieder und bat ihn und sprach: Habe Geduld mit mir; ich will dir's alles bezahlen."
+        },
+        {
+          "num": 30,
+          "text": "Er wollte aber nicht, sondern ging hin und warf ihn ins Gefängnis, bis daß er bezahlte, was er schuldig war."
+        },
+        {
+          "num": 31,
+          "text": "Da aber seine Mitknechte solches sahen, wurden sie sehr betrübt und kamen und brachten vor ihren Herrn alles, was sich begeben hatte."
+        },
+        {
+          "num": 32,
+          "text": "Da forderte ihn sein Herr vor sich und sprach zu ihm: Du Schalksknecht, alle diese Schuld habe ich dir erlassen, dieweil du mich batest;"
+        },
+        {
+          "num": 33,
+          "text": "solltest du denn dich nicht auch erbarmen über deinen Mitknecht, wie ich mich über dich erbarmt habe?"
+        },
+        {
+          "num": 34,
+          "text": "Und sein Herr ward sehr zornig und überantwortete ihn den Peinigern, bis daß er bezahlte alles, was er ihm schuldig war."
+        },
+        {
+          "num": 35,
+          "text": "Also wird euch mein himmlischer Vater auch tun, so ihr nicht vergebt von eurem Herzen, ein jeglicher seinem Bruder seine Fehler."
+        }
+      ],
       "text": "Darum ist das Himmelreich gleich einem König, der mit seinen Knechten rechnen wollte. Und als er anfing zu rechnen, kam ihm einer vor, der war ihm zehntausend Pfund schuldig. Da er's nun nicht hatte, zu bezahlen, hieß der Herr verkaufen ihn und sein Weib und seine Kinder und alles, was er hatte, und bezahlen. Da fiel der Knecht nieder und betete ihn an und sprach: Herr, habe Geduld mit mir, ich will dir's alles bezahlen. Da jammerte den Herrn des Knechtes, und er ließ ihn los, und die Schuld erließ er ihm auch. Da ging derselbe Knecht hinaus und fand einen seiner Mitknechte, der war ihm hundert Groschen schuldig; und er griff ihn an und würgte ihn und sprach: Bezahle mir, was du mir schuldig bist! Da fiel sein Mitknecht nieder und bat ihn und sprach: Habe Geduld mit mir; ich will dir's alles bezahlen. Er wollte aber nicht, sondern ging hin und warf ihn ins Gefängnis, bis daß er bezahlte, was er schuldig war. Da aber seine Mitknechte solches sahen, wurden sie sehr betrübt und kamen und brachten vor ihren Herrn alles, was sich begeben hatte. Da forderte ihn sein Herr vor sich und sprach zu ihm: Du Schalksknecht, alle diese Schuld habe ich dir erlassen, dieweil du mich batest; solltest du denn dich nicht auch erbarmen über deinen Mitknecht, wie ich mich über dich erbarmt habe? Und sein Herr ward sehr zornig und überantwortete ihn den Peinigern, bis daß er bezahlte alles, was er ihm schuldig war. Also wird euch mein himmlischer Vater auch tun, so ihr nicht vergebt von eurem Herzen, ein jeglicher seinem Bruder seine Fehler.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -16,6 +70,44 @@
     },
     "epistle": {
       "ref": "Phil 1,3-11",
+      "verses": [
+        {
+          "num": 3,
+          "text": "Ich danke meinem Gott, so oft ich euer gedenke"
+        },
+        {
+          "num": 4,
+          "text": "(welches ich allezeit tue in allem meinem Gebet für euch alle, und tue das Gebet mit Freuden),"
+        },
+        {
+          "num": 5,
+          "text": "über eure Gemeinschaft am Evangelium vom ersten Tage an bis her,"
+        },
+        {
+          "num": 6,
+          "text": "und bin desselben in guter Zuversicht, daß, der in euch angefangen hat das gute Werk, der wird's auch vollführen bis an den Tag Jesu Christi."
+        },
+        {
+          "num": 7,
+          "text": "Wie es denn mir billig ist, daß ich dermaßen von euch halte, darum daß ich euch in meinem Herzen habe in diesem meinem Gefängnis, darin ich das Evangelium verantworte und bekräftige, als die ihr alle mit mir der Gnade teilhaftig seid."
+        },
+        {
+          "num": 8,
+          "text": "Denn Gott ist mein Zeuge, wie mich nach euch allen verlangt von Herzensgrund in Jesu Christo."
+        },
+        {
+          "num": 9,
+          "text": "Und darum bete ich, daß eure Liebe je mehr und mehr reich werde in allerlei Erkenntnis und Erfahrung,"
+        },
+        {
+          "num": 10,
+          "text": "daß ihr prüfen möget, was das Beste sei, auf daß ihr seid lauter und unanstößig auf den Tag Christi,"
+        },
+        {
+          "num": 11,
+          "text": "erfüllt mit Früchten der Gerechtigkeit, die durch Jesum Christum geschehen in euch zur Ehre und Lobe Gottes."
+        }
+      ],
       "text": "Ich danke meinem Gott, so oft ich euer gedenke (welches ich allezeit tue in allem meinem Gebet für euch alle, und tue das Gebet mit Freuden), über eure Gemeinschaft am Evangelium vom ersten Tage an bis her, und bin desselben in guter Zuversicht, daß, der in euch angefangen hat das gute Werk, der wird's auch vollführen bis an den Tag Jesu Christi. Wie es denn mir billig ist, daß ich dermaßen von euch halte, darum daß ich euch in meinem Herzen habe in diesem meinem Gefängnis, darin ich das Evangelium verantworte und bekräftige, als die ihr alle mit mir der Gnade teilhaftig seid. Denn Gott ist mein Zeuge, wie mich nach euch allen verlangt von Herzensgrund in Jesu Christo. Und darum bete ich, daß eure Liebe je mehr und mehr reich werde in allerlei Erkenntnis und Erfahrung, daß ihr prüfen möget, was das Beste sei, auf daß ihr seid lauter und unanstößig auf den Tag Christi, erfüllt mit Früchten der Gerechtigkeit, die durch Jesum Christum geschehen in euch zur Ehre und Lobe Gottes.",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
@@ -23,6 +115,96 @@
     },
     "psalm": {
       "ref": "Ps 103",
+      "verses": [
+        {
+          "num": 1,
+          "text": "Ein Psalm Davids. Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen Namen!"
+        },
+        {
+          "num": 2,
+          "text": "Lobe den HERRN, meine Seele, und vergiß nicht, was er dir Gutes getan hat:"
+        },
+        {
+          "num": 3,
+          "text": "der dir alle deine Sünden vergibt und heilet alle deine Gebrechen,"
+        },
+        {
+          "num": 4,
+          "text": "der dein Leben vom Verderben erlöst, der dich krönt mit Gnade und Barmherzigkeit,"
+        },
+        {
+          "num": 5,
+          "text": "der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler."
+        },
+        {
+          "num": 6,
+          "text": "Der HERR schafft Gerechtigkeit und Gericht allen, die Unrecht leiden."
+        },
+        {
+          "num": 7,
+          "text": "Er hat seine Wege Mose wissen lassen, die Kinder Israel sein Tun."
+        },
+        {
+          "num": 8,
+          "text": "Barmherzig und gnädig ist der HERR, geduldig und von großer Güte."
+        },
+        {
+          "num": 9,
+          "text": "Er wird nicht immer hadern noch ewiglich Zorn halten."
+        },
+        {
+          "num": 10,
+          "text": "Er handelt nicht mit uns nach unsern Sünden und vergilt uns nicht nach unsrer Missetat."
+        },
+        {
+          "num": 11,
+          "text": "Denn so hoch der Himmel über der Erde ist, läßt er seine Gnade walten über die, so ihn fürchten."
+        },
+        {
+          "num": 12,
+          "text": "So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein."
+        },
+        {
+          "num": 13,
+          "text": "Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten."
+        },
+        {
+          "num": 14,
+          "text": "Denn er kennt, was für ein Gemächte wir sind; er gedenkt daran, daß wir Staub sind."
+        },
+        {
+          "num": 15,
+          "text": "Ein Mensch ist in seinem Leben wie Gras, er blüht wie eine Blume auf dem Feld;"
+        },
+        {
+          "num": 16,
+          "text": "wenn der Wind darüber geht, so ist sie nimmer da, und ihre Stätte kennt sie nicht mehr."
+        },
+        {
+          "num": 17,
+          "text": "Die Gnade aber des HERRN währet von Ewigkeit zu Ewigkeit über die, so ihn fürchten, und seine Gerechtigkeit auf Kindeskind"
+        },
+        {
+          "num": 18,
+          "text": "bei denen, die seinen Bund halten und gedenken an seine Gebote, daß sie darnach tun."
+        },
+        {
+          "num": 19,
+          "text": "Der HERR hat seinen Stuhl im Himmel bereitet, und sein Reich herrscht über alles."
+        },
+        {
+          "num": 20,
+          "text": "Lobet den HERRN, ihr seine Engel, ihr starken Helden, die ihr seine Befehle ausrichtet, daß man höre auf die Stimme seines Wortes!"
+        },
+        {
+          "num": 21,
+          "text": "Lobet den HERRN, alle seine Heerscharen, seine Diener, die ihr seinen Willen tut!"
+        },
+        {
+          "num": 22,
+          "text": "Lobet den HERRN, alle seine Werke, an allen Orten seiner Herrschaft! Lobe den HERRN, meine Seele!"
+        }
+      ],
       "text": "Ein Psalm Davids. Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen Namen! Lobe den HERRN, meine Seele, und vergiß nicht, was er dir Gutes getan hat: der dir alle deine Sünden vergibt und heilet alle deine Gebrechen, der dein Leben vom Verderben erlöst, der dich krönt mit Gnade und Barmherzigkeit, der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler. Der HERR schafft Gerechtigkeit und Gericht allen, die Unrecht leiden. Er hat seine Wege Mose wissen lassen, die Kinder Israel sein Tun. Barmherzig und gnädig ist der HERR, geduldig und von großer Güte. Er wird nicht immer hadern noch ewiglich Zorn halten. Er handelt nicht mit uns nach unsern Sünden und vergilt uns nicht nach unsrer Missetat. Denn so hoch der Himmel über der Erde ist, läßt er seine Gnade walten über die, so ihn fürchten. So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein. Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten. Denn er kennt, was für ein Gemächte wir sind; er gedenkt daran, daß wir Staub sind. Ein Mensch ist in seinem Leben wie Gras, er blüht wie eine Blume auf dem Feld; wenn der Wind darüber geht, so ist sie nimmer da, und ihre Stätte kennt sie nicht mehr. Die Gnade aber des HERRN währet von Ewigkeit zu Ewigkeit über die, so ihn fürchten, und seine Gerechtigkeit auf Kindeskind bei denen, die seinen Bund halten und gedenken an seine Gebote, daß sie darnach tun. Der HERR hat seinen Stuhl im Himmel bereitet, und sein Reich herrscht über alles. Lobet den HERRN, ihr seine Engel, ihr starken Helden, die ihr seine Befehle ausrichtet, daß man höre auf die Stimme seines Wortes! Lobet den HERRN, alle seine Heerscharen, seine Diener, die ihr seinen Willen tut! Lobet den HERRN, alle seine Werke, an allen Orten seiner Herrschaft! Lobe den HERRN, meine Seele!",
       "source": "Lutherbibel 1912",
       "license": "public-domain",
