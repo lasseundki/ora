@@ -19,7 +19,6 @@ export type DayMode = 'morgen' | 'tag' | 'abend'
 
 type Tab = 'andacht' | 'woche' | 'notizen' | 'profil'
 
-const addDays  = (d: Date, n: number) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n)
 const todayIso = () => new Date().toISOString().slice(0, 10)
 
 function countToLevel(count: number): number {
@@ -80,11 +79,9 @@ function AppInner() {
     await setDoc(ref, { level: newLevel, engagedSections: count }, { merge: true })
   }, [user])
 
-  function toggleMode() {
-    const cycle: Record<DayMode, DayMode> = { morgen: 'tag', tag: 'abend', abend: 'morgen' }
-    const next = cycle[mode]
-    setMode(next)
-    localStorage.setItem('ora-mode', next)
+  function setModeDirectly(m: DayMode) {
+    setMode(m)
+    localStorage.setItem('ora-mode', m)
   }
 
   if (loading) {
@@ -116,8 +113,7 @@ function AppInner() {
             date={date}
             fontSize={fontSize}
             mode={mode}
-            onPrev={() => setDate(d => addDays(d, -1))}
-            onToggleMode={toggleMode}
+            onSetMode={setModeDirectly}
             onEngagement={handleEngagement}
           />
         )}
