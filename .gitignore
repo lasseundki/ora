@@ -20,6 +20,10 @@ dist-ssr
 scripts/source/deu-luther1912.osis.xml
 scripts/source/verse-index.json
 
+# Roh-Import aus dem WhatsApp-Chat-Export (Zwischenstand vor Review/Übersetzung,
+# reproduzierbar via scripts/import-cptln-chat.mjs, enthält rohe "raw"-Textfelder)
+scripts/source/cptln-import/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
