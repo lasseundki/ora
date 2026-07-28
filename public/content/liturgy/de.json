@@ -1,0 +1,116 @@
+[
+  {
+    "id": "introitus",
+    "order": 1,
+    "name": "Introitus",
+    "summary": "Eingangspsalm – stimmt auf den liturgischen Tag ein",
+    "explanation": "Der Introitus (lateinisch für „Eingang“) ist der Psalmvers oder Psalmabschnitt, mit dem der Gottesdienst eröffnet wird. Er ist dem jeweiligen Sonntag oder Fest zugeordnet und gibt oft dem Tag seinen traditionellen Namen (z. B. „Quasimodogeniti“ nach 1. Petr 2,2 bzw. Ps 42). Der Introitus stimmt die Gemeinde inhaltlich auf das Thema des Tages ein, bevor die eigentliche Liturgie beginnt."
+  },
+  {
+    "id": "kyrie",
+    "order": 2,
+    "name": "Kyrie",
+    "summary": "Bitte um Erbarmen – „Herr, erbarme dich“",
+    "explanation": "Das Kyrie eleison („Herr, erbarme dich“) ist eine der ältesten Bestandteile der christlichen Liturgie und stammt aus dem griechischsprachigen Gottesdienst der Alten Kirche. Luther behielt es in der Deutschen Messe (1526) bewusst in seiner griechischen Urform bei. Es ist keine Bitte um Vergebung einzelner Sünden, sondern ein umfassender Hilferuf der Gemeinde an Gott, meist dreifach gesprochen oder gesungen.",
+    "text": {
+      "content": "Kyrie eleison.\nChriste eleison.\nKyrie eleison.",
+      "source": "Altkirchliche Liturgie, von Luther in der Deutschen Messe (1526) beibehalten",
+      "public_domain": true
+    }
+  },
+  {
+    "id": "gloria",
+    "order": 3,
+    "name": "Gloria",
+    "summary": "Lobgesang „Ehre sei Gott in der Höhe“",
+    "explanation": "Das Gloria in excelsis Deo greift den Lobgesang der Engel bei der Geburt Christi auf (Lukas 2,14) und weitet ihn zu einem großen Lobpreis der Gemeinde. In der lutherischen Tradition wird es oft in der deutschen Nachdichtung „Allein Gott in der Höh sei Ehr“ (Nikolaus Decius, 1522) gesungen. Es entfällt traditionell in den Bußzeiten (Advent, Passionszeit) als Ausdruck der Zurückhaltung.",
+    "text": {
+      "content": "Und alsbald war da bei dem Engel die Menge der himmlischen Heerscharen, die lobten Gott und sprachen: Ehre sei Gott in der Höhe und Friede auf Erden und den Menschen ein Wohlgefallen.",
+      "ref": "Lukas 2,13-14",
+      "source": "Lutherbibel 1912",
+      "public_domain": true
+    }
+  },
+  {
+    "id": "kollekte",
+    "order": 4,
+    "name": "Kollekte",
+    "summary": "Das Tagesgebet, das Bitten der Gemeinde sammelt",
+    "explanation": "Die Kollekte (von lateinisch colligere, „sammeln“) ist das kurze, formelhafte Tagesgebet, das die Anliegen der versammelten Gemeinde bündelt und auf das Thema des jeweiligen Sonntags oder Festes bezieht. Sie schließt meist mit der trinitarischen Formel „durch Jesus Christus, deinen Sohn ... in Ewigkeit. Amen.“ In dieser App findest du die Kollekte des Tages jeweils in der Andacht selbst."
+  },
+  {
+    "id": "epistel",
+    "order": 5,
+    "name": "Epistel",
+    "summary": "Die zweite Schriftlesung, meist aus den Briefen",
+    "explanation": "Die Epistellesung (griechisch epistolē, „Brief“) ist die erste der beiden großen Schriftlesungen im Gottesdienst, meist aus den neutestamentlichen Briefen, gelegentlich auch aus der Apostelgeschichte oder dem Alten Testament. Sie steht neben dem Evangelium und wird traditionell von der Gemeinde sitzend gehört, während das nachfolgende Evangelium stehend gehört wird – als Zeichen besonderer Ehrerbietung."
+  },
+  {
+    "id": "graduale",
+    "order": 6,
+    "name": "Graduallied · Halleluja",
+    "summary": "Übergang zwischen den Lesungen",
+    "explanation": "Zwischen Epistel und Evangelium steht traditionell das Graduale – ursprünglich ein Psalmvers, der von den Stufen (lateinisch gradus) des Altarraums gesungen wurde. In der lutherischen Praxis wird an dieser Stelle häufig ein Halleluja oder ein Graduallied gesungen, das die Gemeinde von der Lesung zur Verkündigung des Evangeliums überleitet. In der stillen Zeit (Passionszeit) entfällt das Halleluja traditionell."
+  },
+  {
+    "id": "evangelium",
+    "order": 7,
+    "name": "Evangelium",
+    "summary": "Die Verkündigung aus einem der vier Evangelien",
+    "explanation": "Das Evangelium bildet den Höhepunkt der Schriftlesungen: den Bericht von Worten und Taten Jesu selbst. Es wird traditionell stehend gehört, oft mit Ruf vor und nach der Lesung („Ehre sei dir, Herre“ / „Lob sei dir, o Christe“). Die feste Zuordnung eines Evangelienabschnitts zu jedem Sonntag und Fest (die „historische Perikope“) reicht in ihrer Grundstruktur bis in die Alte Kirche zurück und bildet das stabile Rückgrat des Kirchenjahres."
+  },
+  {
+    "id": "credo",
+    "order": 8,
+    "name": "Credo",
+    "summary": "Das gemeinsame Glaubensbekenntnis",
+    "explanation": "Nach der Predigt oder dem Evangelium bekennt die Gemeinde gemeinsam ihren Glauben, meist mit dem Nizänischen oder dem Apostolischen Glaubensbekenntnis. In der lutherischen Deutschen Messe wurde dafür oft Luthers Liedfassung „Wir glauben all an einen Gott“ (1524) gesungen. Das Credo bekräftigt, dass die zuvor gehörte Schrift im Bekenntnis der ganzen Kirche steht, nicht in privater Deutung."
+  },
+  {
+    "id": "predigt",
+    "order": 9,
+    "name": "Predigt",
+    "summary": "Auslegung und Verkündigung des Wortes",
+    "explanation": "Die Predigt legt die Schriftlesung(en) des Tages aus und verkündigt sie der Gemeinde als lebendiges Wort für die Gegenwart. Für Luther war sie das Zentrum des Gottesdienstes: nicht bloß Erklärung eines alten Textes, sondern Verkündigung von Gesetz und Evangelium, durch die der Glaube geschenkt und gestärkt wird (Röm 10,17)."
+  },
+  {
+    "id": "sanctus",
+    "order": 10,
+    "name": "Sanctus",
+    "summary": "„Heilig, heilig, heilig“ vor dem Abendmahl",
+    "explanation": "Das Sanctus eröffnet die Abendmahlsliturgie. Es übernimmt den Lobgesang der Seraphim aus der Berufungsvision des Jesaja und verbindet ihn mit dem Ruf der Menge beim Einzug Jesu in Jerusalem („Hosianna“, Matthäus 21,9). Damit stellt es die versammelte Gemeinde bewusst in den Lobpreis des ganzen Himmels hinein, bevor die Einsetzungsworte gesprochen werden.",
+    "text": {
+      "content": "Heilig, heilig, heilig ist der HERR Zebaoth, alle Lande sind seiner Ehre voll!",
+      "ref": "Jesaja 6,3",
+      "source": "Lutherbibel 1912",
+      "public_domain": true
+    }
+  },
+  {
+    "id": "vaterunser",
+    "order": 11,
+    "name": "Vaterunser",
+    "summary": "Das gemeinsame Gebet des Herrn",
+    "explanation": "Das Vaterunser, von Christus selbst gelehrt (Matthäus 6,9-13), ist das gemeinsame Gebet der ganzen Christenheit und steht in der Abendmahlsliturgie unmittelbar vor der Austeilung. Luther widmete ihm im Kleinen Katechismus ein eigenes Hauptstück, weil es alle rechten Bitten eines Christen zusammenfasst."
+  },
+  {
+    "id": "agnus-dei",
+    "order": 12,
+    "name": "Agnus Dei",
+    "summary": "„Christe, du Lamm Gottes“ vor der Austeilung",
+    "explanation": "Das Agnus Dei ruft Christus als das Lamm Gottes an, das die Sünde der Welt trägt (Johannes 1,29), und bittet um Erbarmen und Frieden. Es begleitet unmittelbar die Austeilung von Brot und Wein und lenkt den Blick der Gemeinde auf das, was sie im Sakrament empfängt."
+  },
+  {
+    "id": "segen",
+    "order": 13,
+    "name": "Segen",
+    "summary": "Der aaronitische Segen zum Abschluss",
+    "explanation": "Der Gottesdienst schließt mit dem aaronitischen Segen aus 4. Mose 6, den bereits Aaron über das Volk Israel sprach. Er wird der Gemeinde nicht als Wunsch, sondern als zugesprochene Zusage Gottes mitgegeben – dieselbe Segensformel, die du am Ende jeder Andacht in dieser App findest.",
+    "text": {
+      "content": "Der HERR segne dich und behüte dich; der HERR lasse sein Angesicht leuchten über dir und sei dir gnädig; der HERR erhebe sein Angesicht über dich und gebe dir Frieden.",
+      "ref": "4. Mose 6,24-26",
+      "source": "Lutherbibel 1912",
+      "public_domain": true
+    }
+  }
+]

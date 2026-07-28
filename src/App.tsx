@@ -10,6 +10,7 @@ import { useFontSize } from './hooks/useFontSize'
 import { DayView } from './components/DayView'
 import { WeekView } from './components/WeekView'
 import { NotesPage } from './components/NotesPage'
+import { LiturgyPage } from './components/LiturgyPage'
 import { ProfilePage } from './components/ProfilePage'
 import { LoginPage } from './components/LoginPage'
 import { OnboardingScreen } from './components/OnboardingScreen'
@@ -17,7 +18,7 @@ import { useAuth } from './contexts/AuthContext'
 
 export type DayMode = 'morgen' | 'tag' | 'abend'
 
-type Tab = 'andacht' | 'woche' | 'notizen' | 'profil'
+type Tab = 'andacht' | 'woche' | 'liturgie' | 'notizen' | 'profil'
 
 const todayIso = () => new Date().toISOString().slice(0, 10)
 
@@ -120,6 +121,7 @@ function AppInner() {
         {tab === 'woche' && (
           <WeekView onSelectDay={d => { setDate(d); setTab('andacht') }} />
         )}
+        {tab === 'liturgie' && <LiturgyPage />}
         {tab === 'notizen' && <NotesPage day={day} />}
         {tab === 'profil'  && (
           <ProfilePage
@@ -133,10 +135,11 @@ function AppInner() {
       <nav className="fixed bottom-0 inset-x-0 bg-[#f8f4ee] border-t border-stone-200">
         <div className="max-w-xl mx-auto flex">
           {([
-            { id: 'andacht', label: 'Andacht' },
-            { id: 'woche',   label: 'Woche'   },
-            { id: 'notizen', label: 'Notizen' },
-            { id: 'profil',  label: 'Profil'  },
+            { id: 'andacht',  label: 'Andacht'  },
+            { id: 'woche',    label: 'Woche'    },
+            { id: 'liturgie', label: 'Liturgie' },
+            { id: 'notizen',  label: 'Notizen'  },
+            { id: 'profil',   label: 'Profil'   },
           ] as { id: Tab; label: string }[]).map(({ id, label }) => (
             <button
               key={id}
